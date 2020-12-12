@@ -13,4 +13,3 @@ jobs:
           token: ${{ secrets.REPO_GITHUB_TOKEN }}
           repository: Sekai-World/sekai-viewer
           event-type: new-translation
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
