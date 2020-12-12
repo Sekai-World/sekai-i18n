@@ -1,0 +1,16 @@
+{
+  "character": {
+    "caption": "Character"
+  },
+  "sort": {
+    "caption": "Sort",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+  "missionType": {
+    "caption": "Mission Type"
+  },
+  "music_tag": {
+    "caption": "Song tag"
+  }
+}

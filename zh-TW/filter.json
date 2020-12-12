@@ -1,0 +1,16 @@
+{
+  "character": {
+    "caption": "角色"
+  },
+  "sort": {
+    "caption": "排序",
+    "ascending": "遞增",
+    "descending": "遞減"
+  },
+  "missionType": {
+    "caption": "任務類型"
+  },
+  "music_tag": {
+    "caption": "演唱組合"
+  }
+}
