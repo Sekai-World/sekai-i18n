@@ -1,9 +1,4 @@
 {
-  "result": {
-    "musicName": "Nome canzone",
-    "label": "Risultati",
-    "desc": "Solo un altro step ed abbiamo finito."
-  },
   "getResult": "Ricevi i risultati",
   "buildTeam": {
     "label": "Costruisci il team",
@@ -16,7 +11,11 @@
     "duplicatedCardError": "Non puoi aggiungere la stessa carta nello stesso team.",
     "cardMaxError": "Ci sono già abbastanza carte.",
     "loadTeamError": "Controlla i tuoi inserimenti.",
-    "teamTextCopied": "Testo del team copiato negli appunti."
+    "teamTextCopied": "Testo del team copiato negli appunti."},
+  "result": {
+    "label": "Risultati",
+    "musicName": "Nome canzone",
+    "desc": "Solo un altro step ed abbiamo finito."
   },
   "modeSelect": {
     "label": "Seleziona modalità",
