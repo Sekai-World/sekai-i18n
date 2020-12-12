@@ -11,7 +11,7 @@
     "cardStoryEpisode": "Episodio"
   },
   "selectValue": {
-    "eventStory": "Historias del Evento",
+    "eventStory": "Historias de Evento",
     "unitStory": "Historias de Grupo",
     "charaStory": "Historias de Personaje",
     "cardStory": "Historia de Cartas"
