@@ -1,9 +1,4 @@
 {
-  "result": {
-    "musicName": "Nazwa Piosenki",
-    "label": "Wynik",
-    "desc": "Jeszcze jeden krok i gotowe."
-  },
   "getResult": "Uzyskaj Wynik",
   "buildTeam": {
     "label": "Zbuduj Zespół",
@@ -16,7 +11,11 @@
     "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
     "cardMaxError": "Jest już wystarczająco dużo kart.",
     "loadTeamError": "Sprawdź swój input.",
-    "teamTextCopied": "Tekst zespołu skopiowany do schowka."
+    "teamTextCopied": "Tekst zespołu skopiowany do schowka."},
+  "result": {
+    "label": "Wynik",
+    "musicName": "Nazwa Piosenki",
+    "desc": "Jeszcze jeden krok i gotowe."
   },
   "modeSelect": {
     "label": "Wybór Trybu",
