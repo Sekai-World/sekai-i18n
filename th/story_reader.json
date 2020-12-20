@@ -1,33 +1,40 @@
 {
-  "selectLabel": {
-    "storyType": "ประเภทเนื้อเรื่อง",
-    "unitName": "ชื่อยูนิต",
-    "unitStoryChapter": "บทที่",
-    "unitStoryEpisode": "ตอนที่",
-    "eventName": "ชื่ออีเว้นต์",
-    "eventStoryEpisode": "ตอนที่",
-    "charaName": "ชื่อตัวละคร",
-    "cardName": "ชื่อการ์ด",
-    "cardStoryEpisode": "ตอนที่"
+  "select": {
+    "charaName": "ชื่อตัวละคร"
   },
-  "selectValue": {
-    "eventStory": "เนื้อเรื่องอีเวนต์",
-    "unitStory": "เนื้อเรื่องยูนิต",
-    "charaStory": "เนื้อเรื่องตัวละคร",
-    "cardStory": "เนื้อเรื่องการ์ด"
+  "type": {
+    "caption": "ประเภทภารกิจ",
+    "clear_live": "จบไลฟ์",
+    "player_rank": "แรงค์ผู้เล่น",
+    "login": "ล็อคอิน",
+    "collect": "สะสม",
+    "unit_rank": "แรงค์ยูนิต",
+    "area_item": "แอเรียไอเทม",
+    "character_rank": "แรงค์ตัวละคร",
+    "master": "เล่นเพลงระดับ Master",
+    "multi_live": "ไลฟ์มัลติ",
+    "duplicate_card": "การ์ดซ้ำ",
+    "action_set": "บทพูดในแอเรีย",
+    "read_story": "อ่านเนื้อเรื่อง",
+    "virtual_live": "ดูไลฟ์",
+    "make": "ตัดชุด",
+    "skill_level": "เลเวลสกิล",
+    "master_rank": "มาสเตอร์แรงค์",
+    "set_honor": "ฉายาที่ตั้งไว้",
+    "clear": "เล่นไลฟ์",
+    "read": "อ่านเนื้อเรื่อง",
+    "use": "ใช้ไอเทม",
+    "buy": "ซื้อชุด",
+    "inherit": "สืบทอด",
+    "achieve": "ความสำเร็จ",
+    "play_live": "จำนวนไลฟ์ที่เล่น",
+    "waiting_room": "ห้องย่อยตัวละคร",
+    "collect_costume_3d": "สะสมโมเดลชุด 3D",
+    "collect_stamp": "สะสมสติกเกอร์",
+    "read_area_talk": "อ่านบทพูดในแอเรีย",
+    "read_card_episode_first": "อ่านเนื้อเรื่องการ์ดพาร์ทแรก",
+    "read_card_episode_second": "อ่านเนื้อเรื่องการ์ดพาร์ทหลัง"
   },
-  "buttonLabel": {
-    "showEpisode": "โหลดตอนของเนื้อเรื่อง"
-  },
-  "snippet": {
-    "FullScreenText": "บทพูดแบบเต็ม",
-    "Telop": "คำบรรยาย",
-    "ChangeBackground": "เปลี่ยนพื้นหลัง",
-    "ShowBackground": "ดูภาพพื้นหลัง",
-    "Movie": "วีดีโอ",
-    "ShowMovie": "เล่นวีดีโอ",
-    "BGM": "เพลงพื้นหลัง",
-    "SE": "เสียงประกอบ",
-    "NoSound": "ไม่มีเสียง"
-  }
+  "requirement": "จำนวนที่ต้องมี",
+  "mission_group": "ภารกิจกลุ่ม"
 }
