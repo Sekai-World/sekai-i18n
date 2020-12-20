@@ -1,0 +1,33 @@
+{
+  "selectLabel": {
+    "storyType": "ประเภทเนื้อเรื่อง",
+    "unitName": "ชื่อยูนิต",
+    "unitStoryChapter": "บทที่",
+    "unitStoryEpisode": "ตอนที่",
+    "eventName": "ชื่ออีเว้นต์",
+    "eventStoryEpisode": "ตอนที่",
+    "charaName": "ชื่อตัวละคร",
+    "cardName": "ชื่อการ์ด",
+    "cardStoryEpisode": "ตอนที่"
+  },
+  "selectValue": {
+    "eventStory": "เนื้อเรื่องอีเวนต์",
+    "unitStory": "เนื้อเรื่องยูนิต",
+    "charaStory": "เนื้อเรื่องตัวละคร",
+    "cardStory": "เนื้อเรื่องการ์ด"
+  },
+  "buttonLabel": {
+    "showEpisode": "โหลดตอนของเนื้อเรื่อง"
+  },
+  "snippet": {
+    "FullScreenText": "บทพูดแบบเต็ม",
+    "Telop": "คำบรรยาย",
+    "ChangeBackground": "เปลี่ยนพื้นหลัง",
+    "ShowBackground": "ดูภาพพื้นหลัง",
+    "Movie": "วีดีโอ",
+    "ShowMovie": "เล่นวีดีโอ",
+    "BGM": "เพลงพื้นหลัง",
+    "SE": "เสียงประกอบ",
+    "NoSound": "ไม่มีเสียง"
+  }
+}
