@@ -74,6 +74,8 @@
   "search": "Search",
   "replace": "Replace",
   "load": "Load",
+  "login": "Login",
+  "user": "User",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",
   "update": "Update",

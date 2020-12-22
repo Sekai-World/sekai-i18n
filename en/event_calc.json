@@ -1,7 +1,11 @@
 {
   "songSelect": {
     "label": "Song Select",
-    "desc": "Select one or more songs for analyzing. Leave it blank to analyze all songs."
+    "desc": "Select song for analyzing.",
+    "select": {
+      "song": "Song",
+      "difficulty": "Difficulty"
+    }
   },
   "gameData": {
     "label": "Game Data",
