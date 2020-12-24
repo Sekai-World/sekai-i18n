@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "username": "Nome utente",
+    "nickname": "Nome visualizzato",
+    "email": "E-mail",
+    "email_confirmed": "E-mail di conferma",
+    "sekai_id": "ID utente di Sekai",
+    "button": {
+      "bind_sekai_id": "Collega"
+    },
+    "email_confirmed_status": {
+      "true": "Sì",
+      "false": "No"
+    }
+  }
+}
