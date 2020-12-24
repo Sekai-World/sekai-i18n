@@ -18,5 +18,8 @@
   "musicDetail": "{{- title}} | Música | Sekai Viewer",
   "musicList": "Lista de música | Sekai Viewer",
   "stampList": "Sticker List | Sekai Viewer",
-  "unitDetail": "{{- name}} | Grupo | Sekai Viewer"
+  "unitDetail": "{{- name}} | Grupo | Sekai Viewer",
+  "connectRedirect": "Redirigir | Sekai Viewer",
+  "login": "Iniciar sesión | Sekai Viewer",
+  "user": "Perfil de Usuario | Sekai Viewer"
 }
