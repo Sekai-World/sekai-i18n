@@ -5,15 +5,21 @@
   "comicList": "漫画列表 | Sekai Viewer",
   "eventDetail": "{{- name}} | 活动 | Sekai Viewer",
   "eventList": "活动列表 | Sekai Viewer",
+  "musicRecommend": "歌曲推荐器（测试） | Sekai Viewer",
   "gachaDetail": "{{- name}} | 招募 | Sekai Viewer",
   "gachaList": "招募列表 | Sekai Viewer",
   "home": "首页 | Sekai Viewer",
   "memberDetail": "{{- name}} | 角色 | Sekai Viewer",
   "memberList": "角色列表 | Sekai Viewer",
+  "beginnerMissionList": "新手 | 任务 | Sekai Viewer",
+  "characterMissionList": "角色 | 任务 | Sekai Viewer",
   "honorList": "称号成就 | Sekai Viewer",
+  "normalMissionList": "普通 | 任务 | Sekai Viewer",
   "musicDetail": "{{- title}} | 乐曲 | Sekai Viewer",
   "musicList": "乐曲列表 | Sekai Viewer",
-  "musicRecommend": "歌曲推荐器（测试） | Sekai Viewer",
   "stampList": "贴纸列表 | Sekai Viewer",
-  "unitDetail": "{{- name}} | 乐队组合 | Sekai Viewer"
+  "unitDetail": "{{- name}} | 乐队组合 | Sekai Viewer",
+  "connectRedirect": "重定向 | Sekai Viewer",
+  "login": "登录 | Sekai Viewer",
+  "user": "个人资料 | Sekai Viewer"
 }
