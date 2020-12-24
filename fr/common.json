@@ -74,6 +74,8 @@
   "search": "Chercher",
   "replace": "Remplacer",
   "load": "Charger",
+  "login": "Connexion",
+  "user": "Utilisateur",
   "copyToClipboard": "Copier dans le presse-papiers",
   "scoreCalculator": "Calculateur de score",
   "update": "Mise à jour",
