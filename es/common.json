@@ -74,6 +74,8 @@
   "search": "Buscar",
   "replace": "Reemplazar",
   "load": "Cargar",
+  "login": "Iniciar sesión",
+  "user": "Usuario",
   "copyToClipboard": "Copiar al Portapapeles",
   "scoreCalculator": "Calculadora de puntaje",
   "update": "Update",
