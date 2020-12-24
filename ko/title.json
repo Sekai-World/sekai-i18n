@@ -5,6 +5,7 @@
   "comicList": "만화 목록 | Sekai Viewer",
   "eventDetail": "{{name}} | 이벤트 | Sekai Viewer",
   "eventList": "이벤트 목록 | Sekai Viewer",
+  "musicRecommend": "악곡 추천 (베타) | Sekai Viewer",
   "gachaDetail": "{{name}} | 가챠 | Sekai Viewer",
   "gachaList": "가챠 목록 | Sekai Viewer",
   "home": "홈 | Sekai Viewer",
@@ -16,7 +17,9 @@
   "normalMissionList": "일반 | Mission | Sekai Viewer",
   "musicDetail": "{{title}} | 음악 | Sekai Viewer",
   "musicList": "음악 목록 | Sekai Viewer",
-  "musicRecommend": "악곡 추천 (베타) | Sekai Viewer",
   "stampList": "스탬프 목록 | Sekai Viewer",
-  "unitDetail": "{{- name}} | 유닛 | Sekai Viewer"
+  "unitDetail": "{{- name}} | 유닛 | Sekai Viewer",
+  "connectRedirect": "Redirect | Sekai Viewer",
+  "login": "Login | Sekai Viewer",
+  "user": "User Profile | Sekai Viewer"
 }
