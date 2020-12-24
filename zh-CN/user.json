@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "username": "用户名",
+    "nickname": "显示名",
+    "email": "邮箱地址",
+    "email_confirmed": "邮箱已验证",
+    "sekai_id": "Sekai用户ID",
+    "button": {
+      "bind_sekai_id": "绑定"
+    },
+    "email_confirmed_status": {
+      "true": "是",
+      "false": "否"
+    }
+  }
+}
