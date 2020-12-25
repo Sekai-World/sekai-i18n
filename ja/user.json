@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "username": "ユーザー名",
+    "nickname": "表示するユーザー名",
+    "email": "Eメール",
+    "email_confirmed": "メールアドレスが確認されました",
+    "sekai_id": "SekaiユーザーID",
+    "button": {
+      "bind_sekai_id": "bind"
+    },
+    "email_confirmed_status": {
+      "true": "yes",
+      "false": "no"
+    }
+  }
+}
