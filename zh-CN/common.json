@@ -75,6 +75,8 @@
   "replace": "替换",
   "load": "加载",
   "login": "登录",
+  "reset_password": "重设密码",
+  "signup": "注册",
   "user": "用户",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
