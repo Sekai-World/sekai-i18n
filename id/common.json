@@ -75,6 +75,8 @@
   "replace": "Timpa",
   "load": "Muat",
   "login": "Masuk",
+  "reset_password": "Atur ulang Kata sandi",
+  "signup": "Daftar",
   "user": "Pengguna",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
