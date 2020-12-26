@@ -75,6 +75,8 @@
   "replace": "덮어쓰기",
   "load": "불러오기",
   "login": "로그인",
+  "reset_password": "비밀번호 재설정",
+  "signup": "회원가입",
   "user": "유저",
   "copyToClipboard": "클립보드에 복사",
   "scoreCalculator": "점수 계산기",
