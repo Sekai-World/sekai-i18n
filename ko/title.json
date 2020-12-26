@@ -21,5 +21,7 @@
   "unitDetail": "{{- name}} | 유닛 | Sekai Viewer",
   "connectRedirect": "Redirect | Sekai Viewer",
   "login": "로그인 | Sekai Viewer",
-  "user": "사용자 프로필 | Sekai Viewer"
+  "reset_password": "비밀번호 재설정 | Sekai Viewer",
+  "signup": "회원가입 | Sekai Viewer",
+  "user_home": "User Profile | Sekai Viewer"
 }
