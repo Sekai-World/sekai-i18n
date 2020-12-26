@@ -5,6 +5,7 @@
   "comicList": "Daftar Komik | Sekai Viewer",
   "eventDetail": "{{- name}} | Event | Sekai Viewer",
   "eventList": "Daftar Event | Sekai Viewer",
+  "musicRecommend": "Rekomendasi Musik (Beta) | Sekai Viewer",
   "gachaDetail": "{{- name}} | Gacha | Sekai Viewer",
   "gachaList": "Daftar Gacha | Sekai Viewer",
   "home": "Beranda | Sekai Viewer",
@@ -16,7 +17,9 @@
   "normalMissionList": "Normal | Misi | Sekai Viewer",
   "musicDetail": "{{- title}} | Musik | Sekai Viewer",
   "musicList": "Daftar Musik | Sekai Viewer",
-  "musicRecommend": "Rekomendasi Musik (Beta) | Sekai Viewer",
   "stampList": "Daftar Stiker | Sekai Viewer",
-  "unitDetail": "{{- name}} | Unit | Sekai Viewer"
+  "unitDetail": "{{- name}} | Unit | Sekai Viewer",
+  "connectRedirect": "Mengalihkan | Sekai Viewer",
+  "login": "Login | Sekai Viewer",
+  "user": "Profil Pengguna | Sekai Viewer"
 }
