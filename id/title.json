@@ -21,5 +21,7 @@
   "unitDetail": "{{- name}} | Unit | Sekai Viewer",
   "connectRedirect": "Mengalihkan | Sekai Viewer",
   "login": "Masuk | Sekai Viewer",
-  "user": "Profil Pengguna | Sekai Viewer"
+  "reset_password": "Atur ulang Kata sandi | Sekai Viewer",
+  "signup": "Daftar | Sekai Viewer",
+  "user_home": "Profil Pengguna | Sekai Viewer"
 }
