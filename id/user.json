@@ -1,13 +1,36 @@
 {
   "profile": {
+    "label": {
+      "sekai_id_not_verified": "Tidak diverifikasi",
+      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Rank",
+      "sekai_id_verify": "Memeriksa",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"PERIKSA\"."
+    },
+    "button": {
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Memeriksa",
+      "show_email": "Tunjukkan"
+    },
+    "error": {
+      "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?"
+    },
+    "upload_avatar": "Unggah Avatar",
     "username": "Nama pengguna",
     "nickname": "Nama Tampilan",
+    "role": "Peran",
     "email": "Email",
-    "email_confirmed": "Email dikonfirmasi",
+    "email_confirmed": "Email Dikonfirmasi",
     "sekai_id": "ID Pengguna Sekai",
-    "button": {
-      "bind_sekai_id": "Bind"
+    "title": {
+      "user_deck": "Kartu Pengguna Sekai"
     },
+    "upload_avatar_error": "Gagal mengunggah avatar!",
     "email_confirmed_status": {
       "true": "Ya",
       "false": "Tidak"
