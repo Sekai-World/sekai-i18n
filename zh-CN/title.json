@@ -21,5 +21,7 @@
   "unitDetail": "{{- name}} | 乐队组合 | Sekai Viewer",
   "connectRedirect": "重定向 | Sekai Viewer",
   "login": "登录 | Sekai Viewer",
-  "user": "个人资料 | Sekai Viewer"
+  "reset_password": "重设密码 | Sekai Viewer",
+  "signup": "注册 | Sekai Viewer",
+  "user_home": "用户资料 | Sekai Viewer"
 }
