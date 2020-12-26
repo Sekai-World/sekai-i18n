@@ -10,7 +10,7 @@
     },
     "email_confirmed_status": {
       "true": "Ya",
-      "false": "No"
+      "false": "Tidak"
     }
   }
 }
