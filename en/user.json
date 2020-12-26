@@ -1,13 +1,36 @@
 {
   "profile": {
+    "label": {
+      "sekai_id_not_verified": "Not Verified",
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Name",
+      "sekai_user_rank": "Rank",
+      "sekai_id_verify": "Verify",
+      "sekai_id_verify_step_1_title": "Open Profile",
+      "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
+      "sekai_id_verify_step_2_title": "Write token and save",
+      "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button."
+    },
+    "button": {
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Verify",
+      "show_email": "Show"
+    },
+    "error": {
+      "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?"
+    },
+    "upload_avatar": "Upload Avatar",
     "username": "Username",
     "nickname": "Display Name",
+    "role": "Role",
     "email": "Email",
-    "email_confirmed": "Email confirmed",
+    "email_confirmed": "Email Confirmed",
     "sekai_id": "Sekai User ID",
-    "button": {
-      "bind_sekai_id": "Bind"
+    "title": {
+      "user_deck": "Sekai User Deck"
     },
+    "upload_avatar_error": "Failed to upload avatar!",
     "email_confirmed_status": {
       "true": "Yes",
       "false": "No"

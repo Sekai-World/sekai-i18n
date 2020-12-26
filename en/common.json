@@ -75,6 +75,8 @@
   "replace": "Replace",
   "load": "Load",
   "login": "Login",
+  "reset_password": "Reset Password",
+  "signup": "Sign Up",
   "user": "User",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",
