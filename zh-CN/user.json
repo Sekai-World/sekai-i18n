@@ -1,13 +1,36 @@
 {
   "profile": {
+    "label": {
+      "sekai_id_not_verified": "未验证",
+      "update_left": "更新次数已用: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_token": "令牌",
+      "sekai_user_name": "名字",
+      "sekai_user_rank": "等级",
+      "sekai_id_verify": "验证",
+      "sekai_id_verify_step_1_title": "打开资料",
+      "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
+      "sekai_id_verify_step_2_title": "写入令牌并保存",
+      "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框里(1)，然后点击“返回”(2)按钮以保存。在这之后点击“验证”按钮。"
+    },
+    "button": {
+      "bind_sekai_id": "绑定",
+      "verify_sekai_id": "验证",
+      "show_email": "显示"
+    },
+    "error": {
+      "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？"
+    },
+    "upload_avatar": "上传头像",
     "username": "用户名",
     "nickname": "显示名",
+    "role": "角色",
     "email": "邮箱地址",
-    "email_confirmed": "邮箱已验证",
+    "email_confirmed": "邮箱地址已验证",
     "sekai_id": "Sekai用户ID",
-    "button": {
-      "bind_sekai_id": "绑定"
+    "title": {
+      "user_deck": "Sekai用户卡组"
     },
+    "upload_avatar_error": "上传头像失败",
     "email_confirmed_status": {
       "true": "是",
       "false": "否"
