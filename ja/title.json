@@ -18,5 +18,10 @@
   "musicDetail": "{{- title}} | 楽曲 | Sekai Viewer",
   "musicList": "楽曲一覧 | Sekai Viewer",
   "stampList": "スタンプ一覧 | Sekai Viewer",
-  "unitDetail": "{{- name}} | ユニット | Sekai Viewer"
+  "unitDetail": "{{- name}} | ユニット | Sekai Viewer",
+  "connectRedirect": "リダイレクト | Sekai Viewer ",
+  "login": "ログイン | Sekai Viewer",
+  "reset_password": "パスワードをリセット | Sekai Viewer",
+  "signup": "登録 | Sekai Viewer",
+  "user_home": "ユーザープロフィール | Sekai Viewer"
 }
