@@ -23,6 +23,15 @@
   "difficulty": "难度",
   "difficulty_plural": "难度",
   "noteCount": "音符数量",
+  "achievement": "成就",
+  "scoreRankAchievement": {
+    "title": "分数等级",
+    "rankC": "等级C",
+    "rankB": "等级B",
+    "rankA": "等级A",
+    "rankS": "等级S"
+  },
+  "combo": "连击",
   "preview": "预览",
   "categoryType": {
     "mv": "3DMV",
