@@ -19,6 +19,7 @@
   "musicRecommend": "歌曲推荐器（测试）",
   "eventCalc": "活动规划器",
   "storyReader": "剧情回放",
+  "eventTracker": "活动跟踪器",
   "support": "支持",
   "toolbar": {
     "title": "功能列表"
@@ -28,6 +29,7 @@
   "settings": {
     "title": "设置"
   },
+  "user": "用户",
   "language": "语言",
   "darkmode": "显示主题",
   "contentTranslationMode": {
@@ -77,7 +79,6 @@
   "login": "登录",
   "reset_password": "重设密码",
   "signup": "注册",
-  "user": "用户",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
   "update": "更新",
