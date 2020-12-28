@@ -23,6 +23,15 @@
   "difficulty": "Difficulty",
   "difficulty_plural": "Difficulties",
   "noteCount": "Note Count",
+  "achievement": "Achievements",
+  "scoreRankAchievement": {
+    "title": "Score Rank",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "combo": "Combos",
   "preview": "Preview",
   "categoryType": {
     "mv": "3D MV",

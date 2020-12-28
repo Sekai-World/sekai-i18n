@@ -8,6 +8,12 @@
   },
   "remainingTime": "Remaining Time",
   "progress": "Progress",
+  "eventCards": "Event Cards",
+  "title": {
+    "boost": "Boost",
+    "timepoint": "Time Points",
+    "rankingRewards": "Ranking Rewards"
+  },
   "boostAttribute": "Boost Attribute",
   "boostCharacters": "Boost Charaters",
   "maxBoost": "Max Boost (Both Matched)",
@@ -17,9 +23,34 @@
   "rankingAnnounceAt": "Ranking Announcement At",
   "distributionStartAt": "Reward Distribution From",
   "distributionEndAt": "Reward Distribution Until",
+  "rankingReward": {
+    "start": "From",
+    "end": "To"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Event Name",
+      "rankings": "Rankings"
+    },
+    "button": {
+      "curr_event": "Current Event",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "title": {
+      "data_graph": "Event Point Graph"
+    }
+  },
   "ranking": "Ranking",
   "realtime": "Real time at",
   "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "ranking": "Ranking",
+      "userProfile": "User",
+      "score": "Point(s)"
+    }
+  },
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
