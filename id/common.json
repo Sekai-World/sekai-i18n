@@ -19,6 +19,7 @@
   "musicRecommend": "Rekomendasi Lagu (Beta)",
   "eventCalc": "Kalkulator Event",
   "storyReader": "Baca Cerita",
+  "eventTracker": "Tracker Event",
   "support": "Dukungan",
   "toolbar": {
     "title": "Daftar Fungsi"
@@ -28,6 +29,7 @@
   "settings": {
     "title": "Pengaturan"
   },
+  "user": "Pengguna",
   "language": "Bahasa",
   "darkmode": "Mode Kecerahan",
   "contentTranslationMode": {
@@ -77,7 +79,6 @@
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
   "signup": "Daftar",
-  "user": "Pengguna",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
   "update": "pembaruan",
