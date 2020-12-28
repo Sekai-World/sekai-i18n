@@ -8,18 +8,49 @@
   },
   "remainingTime": "剩余时间",
   "progress": "进度",
+  "eventCards": "活动卡片",
+  "title": {
+    "boost": "加成",
+    "timepoint": "时间点",
+    "rankingRewards": "排名奖励"
+  },
   "boostAttribute": "加成属性",
   "boostCharacters": "加成角色",
   "maxBoost": "加成（两者皆满足）",
   "startAt": "开始时间",
-  "endAt": "下次活动时间",
   "closeAt": "活动结束时间",
+  "endAt": "下次活动时间",
   "rankingAnnounceAt": "排名宣布时间",
   "distributionStartAt": "奖励发放开始",
   "distributionEndAt": "奖励发放结束",
+  "rankingReward": {
+    "start": "从",
+    "end": "到"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "活动名称",
+      "rankings": "排名"
+    },
+    "button": {
+      "curr_event": "当前活动",
+      "graph": "获取图表",
+      "random-palette": "随机颜色"
+    },
+    "title": {
+      "data_graph": "活动点数图表"
+    }
+  },
   "ranking": "排名",
   "realtime": "实时数据",
   "nextfetch": "下次获取",
+  "rankingTable": {
+    "head": {
+      "ranking": "排名",
+      "userProfile": "用户",
+      "score": "点数"
+    }
+  },
   "aggregateAt": "点数合计时间",
   "alreadyPast": "活动已经过",
   "type": {
