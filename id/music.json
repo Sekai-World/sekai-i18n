@@ -23,6 +23,15 @@
   "difficulty": "Tingkat Kesulitan",
   "difficulty_plural": "Tingkat Kesulitan",
   "noteCount": "Jumlah Not",
+  "achievement": "Pencapaian",
+  "scoreRankAchievement": {
+    "title": "Rank Skor",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "combo": "Combo",
   "preview": "Pratinjau",
   "categoryType": {
     "mv": "MV 3D",
