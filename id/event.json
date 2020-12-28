@@ -8,18 +8,49 @@
   },
   "remainingTime": "Waktu yang tersisa",
   "progress": "Proses",
+  "eventCards": "Kartu Event",
+  "title": {
+    "boost": "Boost",
+    "timepoint": "Titik Waktu",
+    "rankingRewards": "Hadiah Peringkat"
+  },
   "boostAttribute": "Atribut Boost",
   "boostCharacters": "Karakter Boost",
   "maxBoost": "Boost Max (Keduanya digunakan)",
   "startAt": "Event Dimulai Pada",
-  "endAt": "Event Tersedia Hingga",
   "closeAt": "Event Ditutup Pada",
+  "endAt": "Event Tersedia Hingga",
   "rankingAnnounceAt": "Pengumuman Peringkat Pada",
   "distributionStartAt": "Pembagian Hadiah Dari",
   "distributionEndAt": "Pembagian Hadiah Hingga",
+  "rankingReward": {
+    "start": "Dari",
+    "end": "Hingga"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nama Event",
+      "rankings": "Peringkat"
+    },
+    "button": {
+      "curr_event": "Event Saat ini",
+      "graph": "Ambil Grafik",
+      "random-palette": "Acak Palette"
+    },
+    "title": {
+      "data_graph": "Grafik Event Point"
+    }
+  },
   "ranking": "Peringkat",
   "realtime": "Diperbarui pada",
   "nextfetch": "Laporan berikutnya",
+  "rankingTable": {
+    "head": {
+      "ranking": "Peringkat",
+      "userProfile": "Pengguna",
+      "score": "Point"
+    }
+  },
   "aggregateAt": "Titik waktu Teragregasi",
   "alreadyPast": "Sudah lewat",
   "type": {
