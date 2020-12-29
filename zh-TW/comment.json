@@ -1,12 +1,17 @@
 {
-  "category": "類別",
-  "author": "作者",
-  "published_at": "發表於",
-  "categoryName": {
-    "website": "網站",
-    "normal": "其他",
-    "game_update": "遊戲更新",
-    "maintenance": "維護",
-    "bug": "Bug"
+  "send": "發送",
+  "write": "撰寫",
+  "no_comment_yet": "沒有評論。",
+  "report-abuse": {
+    "title": "舉報評論",
+    "description": "如果您認為這則評論讓您感到不舒服，請按下舉報。",
+    "reason": {
+      "label": "舉報原因",
+      "other": "其他",
+      "bad_words": "侮辱性話語",
+      "discrimination": "歧視"
+    },
+    "content": "你的訊息",
+    "success": "感謝您的舉報，我們將盡快進行審核。"
   }
 }
