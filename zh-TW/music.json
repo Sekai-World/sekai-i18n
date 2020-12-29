@@ -1,7 +1,6 @@
 {
   "vocal": "演唱者",
   "alert[0]": "每首歌曲的<b>前九秒</b>是無聲的。這不是Bug！",
-  "preview": "預覽",
   "vocalTab": {
     "title[0]": "Short version",
     "title[1]": "Long version",
@@ -24,6 +23,16 @@
   "difficulty": "難度",
   "difficulty_plural": "難度",
   "noteCount": "音符數量",
+  "achievement": "目標",
+  "scoreRankAchievement": {
+    "title": "Score Rank",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "combo": "Combos",
+  "preview": "預覽",
   "categoryType": {
     "mv": "3D MV",
     "mv_2d": "2D MV",
