@@ -1,0 +1,17 @@
+{
+  "send": "Send",
+  "write": "Compose",
+  "no_comment_yet": "No Comments.",
+  "report-abuse": {
+    "title": "Report Comment",
+    "description": "Report this comment if you think it makes your not comfortable.",
+    "reason": {
+      "label": "Report Reason",
+      "other": "Other",
+      "bad_words": "Bad Words",
+      "discrimination": "Discrimination"
+    },
+    "content": "Your message",
+    "success": "Thanks for your report, we will review shortly."
+  }
+}

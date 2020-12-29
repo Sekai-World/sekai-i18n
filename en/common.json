@@ -1,5 +1,7 @@
 {
   "about": "About",
+  "comment": "Comments",
+  "announcement": "Announcements",
   "home": "Home",
   "card": "Card",
   "music": "Music",
@@ -24,6 +26,7 @@
   "toolbar": {
     "title": "Function List"
   },
+  "community": "Community",
   "information": "Information",
   "tools": "Tools",
   "settings": {
@@ -54,6 +57,8 @@
   "releaseCondition": "Release Condition",
   "releaseCosts": "Release Costs",
   "rewards": "Rewards",
+  "submit": "Submit",
+  "ongoing_event": "Ongoing Event",
   "type": "Type",
   "back": "Back",
   "next": "Next",
