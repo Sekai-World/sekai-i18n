@@ -1,5 +1,7 @@
 {
   "about": "關於",
+  "comment": "評論",
+  "announcement": "公告",
   "home": "主頁",
   "card": "卡牌",
   "music": "樂曲",
@@ -19,15 +21,18 @@
   "musicRecommend": "歌曲推薦器(Beta)",
   "eventCalc": "活動pt計算機",
   "storyReader": "閱讀劇情",
+  "eventTracker": "活動排名追蹤器",
   "support": "支援",
   "toolbar": {
     "title": "功能列表"
   },
+  "community": "社群",
   "information": "消息",
   "tools": "工具",
   "settings": {
     "title": "設置"
   },
+  "user": "用戶",
   "language": "語言",
   "darkmode": "顯示主題",
   "contentTranslationMode": {
@@ -52,6 +57,8 @@
   "releaseCondition": "解放條件",
   "releaseCosts": "解放素材",
   "rewards": "獎勵",
+  "submit": "提交",
+  "ongoing_event": "正在進行的活動",
   "type": "類型",
   "back": "上一步",
   "next": "下一步",
@@ -77,7 +84,6 @@
   "login": "登錄",
   "reset_password": "重設密碼",
   "signup": "註冊",
-  "user": "用戶",
   "copyToClipboard": "複製到剪貼板",
   "scoreCalculator": "分數計算器",
   "update": "更新",
