@@ -1,5 +1,7 @@
 {
   "about": "Tentang",
+  "comment": "Komen",
+  "announcement": "Pengumuman",
   "home": "Beranda",
   "card": "Kartu",
   "music": "Musik",
@@ -24,6 +26,7 @@
   "toolbar": {
     "title": "Daftar Fungsi"
   },
+  "community": "Komunitas",
   "information": "Informasi",
   "tools": "Alat",
   "settings": {
@@ -54,6 +57,8 @@
   "releaseCondition": "Kondisi Rilis",
   "releaseCosts": "Biaya Baca",
   "rewards": "Hadiah",
+  "submit": "Kirimkan",
+  "ongoing_event": "Event yang Sedang Berlangsung",
   "type": "Tipe",
   "back": "Kembali",
   "next": "Selanjutnya",
