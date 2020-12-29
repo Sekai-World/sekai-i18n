@@ -1,0 +1,12 @@
+{
+  "category": "카테고리",
+  "author": "저자",
+  "published_at": "게시자",
+  "categoryName": {
+    "website": "웹사이트",
+    "normal": "기타",
+    "game_update": "게임 업데이트",
+    "maintenance": "점검",
+    "bug": "버그"
+  }
+}
