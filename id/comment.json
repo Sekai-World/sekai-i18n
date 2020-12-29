@@ -1,0 +1,17 @@
+{
+  "send": "Kirim",
+  "write": "Tulis",
+  "no_comment_yet": "Tidak ada komentar.",
+  "report-abuse": {
+    "title": "Laporkan Komentar",
+    "description": "Laporkan komentar ini jika menurut Anda itu tidak membuat nyaman.",
+    "reason": {
+      "label": "Laporkan Alasan",
+      "other": "Lainnya",
+      "bad_words": "Kata-kata buruk",
+      "discrimination": "Diskriminasi"
+    },
+    "content": "Pesan Anda",
+    "success": "Terima kasih atas laporan Anda, kami akan segera meninjaunya."
+  }
+}
