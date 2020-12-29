@@ -23,6 +23,15 @@
   "difficulty": "難易度",
   "difficulty_plural": "難易度",
   "noteCount": "ノーツ数",
+  "achievement": "称号",
+  "scoreRankAchievement": {
+    "title": "スコアランク",
+    "rankC": "ランクC",
+    "rankB": "ランクB",
+    "rankA": "ランクA",
+    "rankS": "ランクS"
+  },
+  "combo": "コンボ数",
   "preview": "プレビュー",
   "categoryType": {
     "mv": "3DMV",
