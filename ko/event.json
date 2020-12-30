@@ -8,6 +8,12 @@
   },
   "remainingTime": "남은 시간",
   "progress": "진행률",
+  "eventCards": "이벤트 카드",
+  "title": {
+    "boost": "부스트",
+    "timepoint": "시점",
+    "rankingRewards": "랭킹 보상"
+  },
   "boostAttribute": "부스트 속성",
   "boostCharacters": "부스트 캐릭터",
   "maxBoost": "최대 부스트 (두 조건 모두 충족)",
@@ -17,9 +23,34 @@
   "rankingAnnounceAt": "순위 발표",
   "distributionStartAt": "보상 지급 개시",
   "distributionEndAt": "보상 지급 종료",
-  "ranking": "랭킹",
+  "rankingReward": {
+    "start": "개시일",
+    "end": "종료일"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "이벤트 제목",
+      "rankings": "순위"
+    },
+    "button": {
+      "curr_event": "진행 중인 이벤트",
+      "graph": "그래프 가져오기",
+      "random-palette": "팔레트를 랜덤 생성"
+    },
+    "title": {
+      "data_graph": "이벤트 포인트 그래프"
+    }
+  },
+  "ranking": "순위",
   "realtime": "실시간 순위 - 기준시각",
   "nextfetch": "다음 갱신",
+  "rankingTable": {
+    "head": {
+      "ranking": "순위",
+      "userProfile": "유저",
+      "score": "포인트"
+    }
+  },
   "aggregateAt": "집계 개시",
   "alreadyPast": "경과일",
   "type": {
