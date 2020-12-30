@@ -1,17 +1,13 @@
 {
-  "send": "전송",
-  "write": "작성",
-  "no_comment_yet": "댓글이 없습니다.",
-  "report-abuse": {
-    "title": "댓글 신고하기",
-    "description": "이 댓글이 당신을 불쾌하게 만든다면 신고해 주세요.",
-    "reason": {
-      "label": "신고 사유",
-      "other": "기타",
-      "bad_words": "불쾌한 언어 사용",
-      "discrimination": "차별적 언어 사용"
-    },
-    "content": "당신의 메시지",
-    "success": "신고해 주셔서 감사합니다. 빠른 시일 내에 확인하겠습니다."
+  "category": "카테고리",
+  "author": "저자",
+  "published_at": "게시자",
+  "no_entry": "항목 없음",
+  "categoryName": {
+    "website": "웹사이트",
+    "normal": "기타",
+    "game_update": "게임 업데이트",
+    "maintenance": "점검",
+    "bug": "버그"
   }
 }
