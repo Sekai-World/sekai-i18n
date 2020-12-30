@@ -1,5 +1,7 @@
 {
   "about": "About",
+  "comment": "댓글",
+  "announcement": "공지사항",
   "home": "홈",
   "card": "카드",
   "music": "음악",
@@ -19,15 +21,18 @@
   "musicRecommend": "악곡 추천 (베타)",
   "eventCalc": "이벤트 계획표",
   "storyReader": "스토리 뷰어",
+  "eventTracker": "이벤트 추적기",
   "support": "지원",
   "toolbar": {
     "title": "메뉴"
   },
+  "community": "커뮤니티",
   "information": "정보",
   "tools": "도구",
   "settings": {
     "title": "설정"
   },
+  "user": "유저",
   "language": "언어",
   "darkmode": "밝기 모드",
   "contentTranslationMode": {
@@ -52,6 +57,8 @@
   "releaseCondition": "해금 조건",
   "releaseCosts": "소모 재화",
   "rewards": "보상",
+  "submit": "확인",
+  "ongoing_event": "진행 중인 이벤트",
   "type": "타입",
   "back": "뒤로 가기",
   "next": "다음",
@@ -77,7 +84,6 @@
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
   "signup": "회원가입",
-  "user": "유저",
   "copyToClipboard": "클립보드에 복사",
   "scoreCalculator": "점수 계산기",
   "update": "업데이트",

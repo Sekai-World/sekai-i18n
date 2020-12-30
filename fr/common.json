@@ -1,5 +1,7 @@
 {
   "about": "À propos",
+  "comment": "Commentaires",
+  "announcement": "Annonces",
   "home": "Accueil",
   "card": "Carte",
   "music": "Musique",
@@ -19,15 +21,18 @@
   "musicRecommend": "Guide de chansons (Bêta)",
   "eventCalc": "Planificateur d'événements",
   "storyReader": "Lecteur d'histoires",
+  "eventTracker": "Suivi d'événements",
   "support": "Support",
   "toolbar": {
     "title": "Liste des fonctions"
   },
+  "community": "Communauté",
   "information": "Information",
   "tools": "Outils",
   "settings": {
     "title": "Paramètres"
   },
+  "user": "Utilisateur",
   "language": "Langues",
   "darkmode": "Luminosité",
   "contentTranslationMode": {
@@ -52,6 +57,8 @@
   "releaseCondition": "Condition pour l'obtenir",
   "releaseCosts": "Coût pour l'obtenir",
   "rewards": "Récompenses",
+  "submit": "Soumettre",
+  "ongoing_event": "Événement en cours",
   "type": "Type",
   "back": "Retour",
   "next": "Suivant",
@@ -75,7 +82,8 @@
   "replace": "Remplacer",
   "load": "Charger",
   "login": "Connexion",
-  "user": "Utilisateur",
+  "reset_password": "Réinitialiser le mot de passe",
+  "signup": "S'inscrire",
   "copyToClipboard": "Copier dans le presse-papiers",
   "scoreCalculator": "Calculateur de score",
   "update": "Mise à jour",

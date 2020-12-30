@@ -1,7 +1,6 @@
 {
   "vocal": "Voix",
   "alert[0]": "Les premières <b>neuf secondes</b> de chaque chanson n'ont pas de son. Il ne s'agit PAS d'un bug.",
-  "preview": "Aperçu",
   "vocalTab": {
     "title[0]": "Version courte",
     "title[1]": "Version longue",
@@ -24,6 +23,16 @@
   "difficulty": "Difficulté",
   "difficulty_plural": "Difficultés",
   "noteCount": "Nombre de notes",
+  "achievement": "Objectif",
+  "scoreRankAchievement": {
+    "title": "Rang du score",
+    "rankC": "Rang C",
+    "rankB": "Rang B",
+    "rankA": "Rang A",
+    "rankS": "Rang S"
+  },
+  "combo": "Combos",
+  "preview": "Aperçu",
   "categoryType": {
     "mv": "MV 3D",
     "mv_2d": "MV 2D",

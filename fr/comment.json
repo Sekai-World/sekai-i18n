@@ -1,0 +1,17 @@
+{
+  "send": "Envoyer",
+  "write": "Composer",
+  "no_comment_yet": "Aucun commentaire.",
+  "report-abuse": {
+    "title": "Signaler un commentaire",
+    "description": "Signalez ce commentaire si vous pensez qu'il vous rend mal à l'aise.",
+    "reason": {
+      "label": "Raison de signalement",
+      "other": "Autre",
+      "bad_words": "Mauvais mots",
+      "discrimination": "Discrimination"
+    },
+    "content": "Votre message",
+    "success": "Merci du signalement, nous l'examinerons prochainement."
+  }
+}

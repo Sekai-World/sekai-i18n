@@ -8,18 +8,49 @@
   },
   "remainingTime": "Temps restant",
   "progress": "Progression",
+  "eventCards": "Cartes d'événement",
+  "title": {
+    "boost": "Boost",
+    "timepoint": "Points de temps",
+    "rankingRewards": "Récompenses de classement"
+  },
   "boostAttribute": "Attribut favorisé",
   "boostCharacters": "Personnages favorisés",
   "maxBoost": "Boost max (lorsque les deux correspondent)",
   "startAt": "Commence le",
-  "endAt": "Disponible jusqu'au",
   "closeAt": "Se termine le",
+  "endAt": "Disponible jusqu'au",
   "rankingAnnounceAt": "Annonce du classement",
   "distributionStartAt": "Distribution des récompenses",
   "distributionEndAt": "Fin de la distribution des récompenses",
+  "rankingReward": {
+    "start": "De",
+    "end": "À"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nom de l'événement",
+      "rankings": "Classements"
+    },
+    "button": {
+      "curr_event": "Événement en cours",
+      "graph": "Graphique de recherche",
+      "random-palette": "Palette aléatoire"
+    },
+    "title": {
+      "data_graph": "Graphique des points d'événement"
+    }
+  },
   "ranking": "Classement",
   "realtime": "En temps réel le",
   "nextfetch": "Suivant",
+  "rankingTable": {
+    "head": {
+      "ranking": "Classement",
+      "userProfile": "Utilisateur",
+      "score": "Point(s)"
+    }
+  },
   "aggregateAt": "Fin de l'événement",
   "alreadyPast": "Déjà passé",
   "type": {

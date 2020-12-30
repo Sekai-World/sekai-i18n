@@ -1,7 +1,6 @@
 {
   "vocal": "보컬",
   "alert[0]": "모든 음악의 처음 <b>9초</b> 동안은 아무 소리도 나지 않습니다. 버그가 아니예요!",
-  "preview": "미리 보기",
   "vocalTab": {
     "title[0]": "숏버전",
     "title[1]": "롱버전",
@@ -24,10 +23,20 @@
   "difficulty": "난이도",
   "difficulty_plural": "난이도",
   "noteCount": "노트 수",
+  "achievement": "업적",
+  "scoreRankAchievement": {
+    "title": "스코어 랭킹",
+    "rankC": "C 랭크",
+    "rankB": "B 랭크",
+    "rankA": "A 랭크",
+    "rankS": "S 랭크"
+  },
+  "combo": "콤보",
+  "preview": "미리 보기",
   "categoryType": {
     "mv": "3D MV",
     "mv_2d": "2D MV",
     "original": "오리지널 MV",
-    "image": "정적 이미지"
+    "image": "고정 이미지"
   }
 }
