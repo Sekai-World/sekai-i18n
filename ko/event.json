@@ -11,7 +11,7 @@
   "eventCards": "이벤트 카드",
   "title": {
     "boost": "부스트",
-    "timepoint": "Time Points",
+    "timepoint": "시점",
     "rankingRewards": "랭킹 보상"
   },
   "boostAttribute": "부스트 속성",
