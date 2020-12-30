@@ -2,6 +2,7 @@
   "category": "Category",
   "author": "Author",
   "published_at": "Published At",
+  "no_entry": "No entries.",
   "categoryName": {
     "website": "Website",
     "normal": "Other",
