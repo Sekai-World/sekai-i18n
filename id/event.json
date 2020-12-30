@@ -35,7 +35,7 @@
     "button": {
       "curr_event": "Event Saat ini",
       "graph": "Ambil Grafik",
-      "random-palette": "Acak Palette"
+      "random-palette": "Acak Palet"
     },
     "title": {
       "data_graph": "Grafik Event Point"
