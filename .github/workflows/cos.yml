@@ -3,7 +3,7 @@ name: Upload to COS
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
