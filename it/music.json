@@ -23,6 +23,15 @@
   "difficulty": "Difficoltà",
   "difficulty_plural": "Difficoltà",
   "noteCount": "Conteggio note",
+  "achievement": "Risultati",
+  "scoreRankAchievement": {
+    "title": "Punteggio rank",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "combo": "Combo",
   "preview": "Anteprima",
   "categoryType": {
     "mv": "Video 3D",
