@@ -5,6 +5,7 @@
   "comicList": "Lista vignette | Sekai Viewer",
   "eventDetail": "Evento | {{- name}} | Sekai Viewer",
   "eventList": "Lista eventi | Sekai Viewer",
+  "eventTracker": "Tracker eventi | Sekai Viewer",
   "musicRecommend": "Musiche raccomandate (Beta) | Sekai Viewer",
   "gachaDetail": "Gacha | {{- name}} | Sekai Viewer",
   "gachaList": "Lista gacha | Sekai Viewer",
@@ -21,5 +22,7 @@
   "unitDetail": "Unità | {{- name}} | Sekai Viewer",
   "connectRedirect": "Reindirizzare | Sekai Viewer",
   "login": "Login | Sekai Viewer",
-  "user": "Profilo utente | Sekai Viewer"
+  "reset_password": "Reset password | Sekai Viewer",
+  "signup": "Iscriviti | Sekai Viewer",
+  "user_home": "Profilo utente | Sekai Viewer"
 }
