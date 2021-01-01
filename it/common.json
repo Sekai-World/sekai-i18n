@@ -1,5 +1,7 @@
 {
   "about": "Riguardo a",
+  "comment": "Commenti",
+  "announcement": "Annunci",
   "home": "Home",
   "card": "Carte",
   "music": "Canzoni",
@@ -19,15 +21,18 @@
   "musicRecommend": "Canzoni raccomandate (beta)",
   "eventCalc": "Pianificatore evento",
   "storyReader": "Lettore storie",
+  "eventTracker": "Tracker evento",
   "support": "Supporto",
   "toolbar": {
     "title": "Lista delle funzioni"
   },
+  "community": "Comunità",
   "information": "Informazioni",
   "tools": "Strumenti",
   "settings": {
     "title": "Impostazioni"
   },
+  "user": "Utente",
   "language": "Lingua",
   "darkmode": "Modalità luminosità ",
   "contentTranslationMode": {
@@ -52,6 +57,8 @@
   "releaseCondition": "Condizione di sblocco",
   "releaseCosts": "Costo di sblocco",
   "rewards": "Premi",
+  "submit": "Invia",
+  "ongoing_event": "Eventi in corso",
   "type": "Tipo",
   "back": "Indietro",
   "next": "Successivo",
@@ -69,13 +76,20 @@
   "description": "Descrizione",
   "level": "Livello",
   "character_plural": "Personaggi",
+  "countdown": {
+    "day": "Giorni",
+    "hour": "Ore",
+    "minute": "Minuti",
+    "second": "Secondi"
+  },
   "delete": "Cancella",
   "all": "Tutto",
   "search": "Cerca",
   "replace": "Rimpiazza",
   "load": "Carica",
   "login": "Login",
-  "user": "Utente",
+  "reset_password": "Resetta password",
+  "signup": "Iscriviti",
   "copyToClipboard": "Copia negli appunti",
   "scoreCalculator": "Calcolatore di punteggio",
   "update": "Aggiornamento",
