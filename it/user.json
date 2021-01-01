@@ -1,13 +1,45 @@
 {
   "profile": {
+    "label": {
+      "sekai_id_not_verified": "Non verificato",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nome",
+      "sekai_user_rank": "Rank",
+      "update_left": "Conteggio aggiornamenti usati: {{ used }} / {{ allowed }}",
+      "sekai_id_verify": "Verifica",
+      "sekai_id_verify_step_1_title": "Apri profilo",
+      "sekai_id_verify_step_1_subtitle": "Premi \"Menu\" (1) bottone nella parte in alto a destra, poi premi il bottone \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Scrivi token e salva",
+      "sekai_id_verify_step_2_subtitle": "Scrivi il tuo token di verifica {{verify_token}} nella casella di testo (1), poi premi il tasto \"Indietro\" (2) per salvare. Dopo di questo cliccka il bottone \"VERIFICA\"."
+    },
+    "button": {
+      "bind_sekai_id": "Collega",
+      "verify_sekai_id": "Verifica",
+      "show_email": "Visualizza"
+    },
+    "error": {
+      "sekai_id_already_bind": "L'ID Sekai è già collegato ad un altro utente.",
+      "sekai_id_verify_failed": "Fallita la verifica di proprietà, hai lasciato il pannello del profilo per salvare?"
+    },
+    "upload_avatar": "Carica avatar",
     "username": "Nome utente",
     "nickname": "Nome visualizzato",
+    "role": "Ruolo",
     "email": "E-mail",
     "email_confirmed": "E-mail di conferma",
     "sekai_id": "ID utente di Sekai",
-    "button": {
-      "bind_sekai_id": "Collega"
+    "title": {
+      "user_event": "Evento utente Sekai",
+      "user_deck": "Deck utente Sekai"
     },
+    "event": {
+      "current_name": "Evento corrente:",
+      "current_record_info": "Ultimo record:",
+      "current_record_point": "Punti evento:",
+      "current_record_rank": "Ranking evento:",
+      "current_record_time": "Tempo di record:"
+    },
+    "upload_avatar_error": "Caricamento avatar fallito!",
     "email_confirmed_status": {
       "true": "Sì",
       "false": "No"
