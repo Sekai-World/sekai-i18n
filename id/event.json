@@ -38,15 +38,22 @@
       "random-palette": "Acak Palet"
     },
     "title": {
-      "data_graph": "Grafik Event Point"
+      "data_graph": "Grafik Event Point",
+      "average_speed": "Kecepatan Rata-rata"
     }
   },
   "ranking": "Peringkat",
+  "speedTable": {
+    "head": {
+      "all_time": "Sepanjang waktu (per-jam)",
+      "last_24h": "24 jam terakhir (per-jam)",
+      "last_1h": "1 jam terakhir (per-jam)"
+    }
+  },
   "realtime": "Diperbarui pada",
   "nextfetch": "Laporan berikutnya",
   "rankingTable": {
     "head": {
-      "ranking": "Peringkat",
       "userProfile": "Pengguna",
       "score": "Point"
     }
