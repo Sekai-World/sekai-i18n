@@ -76,6 +76,12 @@
   "description": "Deskripsi",
   "level": "Level",
   "character_plural": "Karakter",
+  "countdown": {
+    "day": "Hari",
+    "hour": "Jam",
+    "minute": "Menit",
+    "second": "Detik"
+  },
   "delete": "Hapus",
   "all": "Semua",
   "search": "Cari",
