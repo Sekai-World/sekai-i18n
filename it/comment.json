@@ -1,13 +1,17 @@
 {
-  "category": "Categoria",
-  "author": "Autore",
-  "published_at": "Pubblicato su",
-  "no_entry": "Nessuna voce.",
-  "categoryName": {
-    "website": "Sito web",
-    "normal": "Altro",
-    "game_update": "Aggiornamento di gioco",
-    "maintenance": "Manutenzione",
-    "bug": "Bug"
+  "send": "Invia",
+  "write": "Componi",
+  "no_comment_yet": "Nessun commento.",
+  "report-abuse": {
+    "title": "Riporta commento.",
+    "description": "Riporta questo commento se pensi che ti metta a disagio.",
+    "reason": {
+      "label": "Motivazione del report",
+      "other": "Altro",
+      "bad_words": "Parolecce",
+      "discrimination": "Discriminazione"
+    },
+    "content": "Il tuo messaggio",
+    "success": "Grazie per aver riportato, lo controlleremo a breve."
   }
 }
