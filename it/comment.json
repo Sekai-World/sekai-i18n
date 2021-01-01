@@ -1,0 +1,13 @@
+{
+  "category": "Categoria",
+  "author": "Autore",
+  "published_at": "Pubblicato su",
+  "no_entry": "Nessuna voce.",
+  "categoryName": {
+    "website": "Sito web",
+    "normal": "Altro",
+    "game_update": "Aggiornamento di gioco",
+    "maintenance": "Manutenzione",
+    "bug": "Bug"
+  }
+}
