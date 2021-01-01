@@ -8,18 +8,49 @@
   },
   "remainingTime": "Tempo rimanente",
   "progress": "Progresso",
+  "eventCards": "Carte evento",
+  "title": {
+    "boost": "Boost",
+    "timepoint": "Termini temporali",
+    "rankingRewards": "Ricompense Rank"
+  },
   "boostAttribute": "Attributo bonus",
   "boostCharacters": "Personaggi bonus",
   "maxBoost": "Bonus massimo (Sia attributo che personaggio con bonus)",
   "startAt": "L'evento inizia il",
-  "endAt": "Classifica evento disponibile fino il",
   "closeAt": "L'evento termina il",
+  "endAt": "Classifica evento disponibile fino il",
   "rankingAnnounceAt": "Comunicazione delle posizioni",
   "distributionStartAt": "Inizio distribuzione premi",
   "distributionEndAt": "Termine distribuzione premi",
+  "rankingReward": {
+    "start": "Da",
+    "end": "Fino"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nome evento",
+      "rankings": "Ranking"
+    },
+    "button": {
+      "curr_event": "Evento corrente",
+      "graph": "Recupera grafico",
+      "random-palette": "Randomizza tavolozza"
+    },
+    "title": {
+      "data_graph": "Grafico punti evento"
+    }
+  },
   "ranking": "Posizioni",
   "realtime": "In tempo reale al",
   "nextfetch": "Prossimo aggionamento",
+  "rankingTable": {
+    "head": {
+      "ranking": "Ranking",
+      "userProfile": "Utente",
+      "score": "Punteggio"
+    }
+  },
   "aggregateAt": "Conteggio dei punti",
   "alreadyPast": "Già passato",
   "type": {
