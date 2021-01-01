@@ -38,15 +38,22 @@
       "random-palette": "Randomize Palette"
     },
     "title": {
-      "data_graph": "Event Point Graph"
+      "data_graph": "Event Point Graph",
+      "average_speed": "Average Speed"
     }
   },
   "ranking": "Ranking",
+  "speedTable": {
+    "head": {
+      "all_time": "All time (per hour)",
+      "last_24h": "Last 24 hours (per hour)",
+      "last_1h": "Last 1 hour (per hour)"
+    }
+  },
   "realtime": "Real time at",
   "nextfetch": "Next fetch",
   "rankingTable": {
     "head": {
-      "ranking": "Ranking",
       "userProfile": "User",
       "score": "Point(s)"
     }
