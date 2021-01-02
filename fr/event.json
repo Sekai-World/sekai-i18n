@@ -45,7 +45,7 @@
   "ranking": "Classement",
   "speedTable": {
     "head": {
-      "all_time": "Tout temps (par heure)",
+      "all_time": "En tout temps (par heure)",
       "last_24h": "Dernières 24 heures (par heure)",
       "last_1h": "Dernière heure (par heure)"
     }
