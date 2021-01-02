@@ -38,15 +38,22 @@
       "random-palette": "팔레트를 랜덤 생성"
     },
     "title": {
-      "data_graph": "이벤트 포인트 그래프"
+      "data_graph": "이벤트 포인트 그래프",
+      "average_speed": "평균 속도"
     }
   },
   "ranking": "순위",
+  "speedTable": {
+    "head": {
+      "all_time": "전체 시간 (시간당)",
+      "last_24h": "최근 24시간 (시간당)",
+      "last_1h": "최근 1시간 (시간당)"
+    }
+  },
   "realtime": "실시간 순위 - 기준시각",
   "nextfetch": "다음 갱신",
   "rankingTable": {
     "head": {
-      "ranking": "순위",
       "userProfile": "유저",
       "score": "포인트"
     }
