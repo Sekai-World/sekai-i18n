@@ -76,6 +76,12 @@
   "description": "설명",
   "level": "레벨",
   "character_plural": "캐릭터",
+  "countdown": {
+    "day": "일",
+    "hour": "시",
+    "minute": "분",
+    "second": "초"
+  },
   "delete": "삭제",
   "all": "모든 캐릭터",
   "search": "검색",
