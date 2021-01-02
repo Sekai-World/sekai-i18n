@@ -76,6 +76,12 @@
   "description": "Description",
   "level": "Niveau",
   "character_plural": "Personnages",
+  "countdown": {
+    "day": "Jours",
+    "hour": "Heures",
+    "minute": "Minutes",
+    "second": "Secondes"
+  },
   "delete": "Supprimer",
   "all": "Tout",
   "search": "Chercher",
