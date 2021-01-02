@@ -35,7 +35,7 @@
     "button": {
       "curr_event": "진행 중인 이벤트",
       "graph": "그래프 가져오기",
-      "random-palette": "팔레트를 랜덤 생성"
+      "random-palette": "랜덤 색상"
     },
     "title": {
       "data_graph": "이벤트 포인트 그래프",
