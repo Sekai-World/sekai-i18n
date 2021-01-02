@@ -38,15 +38,22 @@
       "random-palette": "Palette aléatoire"
     },
     "title": {
-      "data_graph": "Graphique des points d'événement"
+      "data_graph": "Graphique des points d'événement",
+      "average_speed": "Vitesse moyenne"
     }
   },
   "ranking": "Classement",
+  "speedTable": {
+    "head": {
+      "all_time": "Tout temps (par heure)",
+      "last_24h": "Dernières 24 heures (par heure)",
+      "last_1h": "Dernière heure (par heure)"
+    }
+  },
   "realtime": "En temps réel le",
   "nextfetch": "Suivant",
   "rankingTable": {
     "head": {
-      "ranking": "Classement",
       "userProfile": "Utilisateur",
       "score": "Point(s)"
     }
