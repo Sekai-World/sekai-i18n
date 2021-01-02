@@ -38,15 +38,22 @@
       "random-palette": "随机颜色"
     },
     "title": {
-      "data_graph": "活动点数图表"
+      "data_graph": "活动点数图表",
+      "average_speed": "平均速度"
     }
   },
   "ranking": "排名",
+  "speedTable": {
+    "head": {
+      "all_time": "活动开始后（每小时）",
+      "last_24h": "最近24小时（每小时）",
+      "last_1h": "最近一小时（每小时）"
+    }
+  },
   "realtime": "实时数据",
   "nextfetch": "下次获取",
   "rankingTable": {
     "head": {
-      "ranking": "排名",
       "userProfile": "用户",
       "score": "点数"
     }
