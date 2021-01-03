@@ -1,0 +1,13 @@
+{
+  "category": "類別",
+  "author": "作者",
+  "published_at": "發表於",
+  "no_entry": "沒有条目。",
+  "categoryName": {
+    "website": "網站",
+    "normal": "其他",
+    "game_update": "遊戲更新",
+    "maintenance": "維護",
+    "bug": "Bug"
+  }
+}
