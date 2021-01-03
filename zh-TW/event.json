@@ -8,18 +8,56 @@
   },
   "remainingTime": "活動剩餘時間",
   "progress": "進度",
+  "eventCards": "活動卡牌",
+  "title": {
+    "boost": "加成",
+    "timepoint": "時間點",
+    "rankingRewards": "排名獎勵"
+  },
   "boostAttribute": "加成屬性",
   "boostCharacters": "加成角色",
   "maxBoost": "加成（兩者皆滿足）",
   "startAt": "開始日期",
-  "endAt": "下期活動更新日期",
   "closeAt": "結束日期",
+  "endAt": "下期活動更新日期",
   "rankingAnnounceAt": "排名宣布時間",
   "distributionStartAt": "排名報酬開始發放日期",
   "distributionEndAt": "排名報酬結束發放日期",
+  "rankingReward": {
+    "start": "由",
+    "end": "到"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "活動名稱",
+      "rankings": "排名"
+    },
+    "button": {
+      "curr_event": "當前活動",
+      "graph": "生成圖表",
+      "random-palette": "隨機顏色"
+    },
+    "title": {
+      "data_graph": "活動Pt圖表",
+      "average_speed": "平均速度"
+    }
+  },
   "ranking": "排名",
+  "speedTable": {
+    "head": {
+      "all_time": "所有時間（每小時）",
+      "last_24h": "最近24小時（每小時）",
+      "last_1h": "最近1小時（每小時）"
+    }
+  },
   "realtime": "更新時間",
   "nextfetch": "下次獲取",
+  "rankingTable": {
+    "head": {
+      "userProfile": "用戶",
+      "score": "活動Pt"
+    }
+  },
   "aggregateAt": "點數合計時間",
   "alreadyPast": "活動已經過",
   "type": {
