@@ -1,0 +1,13 @@
+{
+  "category": "Kategori",
+  "author": "Penulis",
+  "published_at": "Diterbitkan Pada",
+  "no_entry": "Tidak ada entri.",
+  "categoryName": {
+    "website": "Situs web",
+    "normal": "Lainnya",
+    "game_update": "Pembaruan Game",
+    "maintenance": "Pemeliharaan",
+    "bug": "Bug"
+  }
+}
