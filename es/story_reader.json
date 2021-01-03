@@ -1,40 +1,33 @@
 {
-  "select": {
-    "charaName": "Nombre del personaje"
+  "selectLabel": {
+    "storyType": "Tipo de historia",
+    "unitName": "Nombre de la unidad",
+    "unitStoryChapter": "Capítulo",
+    "unitStoryEpisode": "Episodio",
+    "eventName": "Nombre del evento",
+    "eventStoryEpisode": "Episodio",
+    "charaName": "Nombre del personaje",
+    "cardName": "Nombre de la carta",
+    "cardStoryEpisode": "Episodio"
   },
-  "type": {
-    "caption": "Clase de misión",
-    "clear_live": "Canción completada",
-    "player_rank": "Rango del jugador",
-    "login": "Iniciar sesión",
-    "collect": "Recoger",
-    "unit_rank": "Rango de la unidad",
-    "area_item": "Objetos de la zona",
-    "character_rank": "Rango de personaje",
-    "master": "Dificultad Master",
-    "multi_live": "Conciertos multijugador",
-    "duplicate_card": "Carta repetida",
-    "action_set": "Conversaciones",
-    "read_story": "Leer la historia",
-    "virtual_live": "Conciertos virtuales",
-    "make": "Hacer  (e.j. Disfraz)",
-    "skill_level": "Nivel de habilidad",
-    "master_rank": "Rango de Personaje",
-    "set_honor": "Establecer título",
-    "clear": "Completar (ej. canción)",
-    "read": "Leer (ej. Historia)",
-    "use": "Utilizar (ej. Objeto)",
-    "buy": "Comprar (ej. Disfraz)",
-    "inherit": "Heredar",
-    "achieve": "Logro",
-    "play_live": "Número total de canciones jugadas",
-    "waiting_room": "Sala de espera",
-    "collect_costume_3d": "Coleccionar disfraz 3D",
-    "collect_stamp": "Coleccionar Estampilla",
-    "read_area_talk": "Leer Conversación de área",
-    "read_card_episode_first": "Leer la Primera Parte del Episodio de la Carta",
-    "read_card_episode_second": "Leer la Segunda Parte del Episodio de la Carta"
+  "selectValue": {
+    "eventStory": "Historias de Evento",
+    "unitStory": "Historias de Grupo",
+    "charaStory": "Historias de Personaje",
+    "cardStory": "Historia de Cartas"
   },
-  "requirement": "Cantidad requerida",
-  "mission_group": "Grupo de misiones"
+  "buttonLabel": {
+    "showEpisode": "Cargar Episodio"
+  },
+  "snippet": {
+    "FullScreenText": "Texto en Pantalla Completa",
+    "Telop": "Subtítulo",
+    "ChangeBackground": "Cambio de Fondo",
+    "ShowBackground": "Mostrar Imagen de Fondo",
+    "Movie": "Video",
+    "ShowMovie": "Reproducir Video",
+    "BGM": "Música de Fondo",
+    "SE": "Efecto de Sonido",
+    "NoSound": "Sin Sonido"
+  }
 }
