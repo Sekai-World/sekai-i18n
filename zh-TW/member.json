@@ -5,7 +5,7 @@
     "title[2]": "Name Label (vertical)"
   },
   "name": "名字",
-  "hiragana": "Furigana",
+  "hiragana": "平假名",
   "gender": {
     "caption": "性別",
     "female": "女性",
