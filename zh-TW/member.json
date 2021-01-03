@@ -12,6 +12,7 @@
     "male": "男性",
     "secret": "不明"
   },
+  "introduction": "簡介",
   "colorCode": "Image Color",
   "skinColorCode": "膚色",
   "skinShadowColorCode1": "Skin Shadow Color 1",
@@ -25,6 +26,5 @@
   "specialSkill": "特長",
   "favoriteFood": "喜歡的食物",
   "hatedFood": "討厭的食物",
-  "weak": "弱項",
-  "introduction": "簡介"
+  "weak": "弱項"
 }
