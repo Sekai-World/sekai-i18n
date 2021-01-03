@@ -12,6 +12,7 @@
     "male": "Mężczyzna",
     "secret": "Sekret"
   },
+  "introduction": "Przedstawienie",
   "colorCode": "Kolor Wizerunku",
   "skinColorCode": "Kolor Skóry",
   "skinShadowColorCode1": "Kolor Cienia Skóry 1",
@@ -25,6 +26,5 @@
   "specialSkill": "Specjalność",
   "favoriteFood": "Ulubione Jedzenie",
   "hatedFood": "Nielubiane Jedzenie",
-  "weak": "Słabość",
-  "introduction": "Przedstawienie"
+  "weak": "Słabość"
 }
