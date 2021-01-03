@@ -12,6 +12,7 @@
     "male": "남성",
     "secret": "비밀"
   },
+  "introduction": "자기소개",
   "colorCode": "이미지 컬러",
   "skinColorCode": "피부색",
   "skinShadowColorCode1": "피부 그림자색 1",
@@ -25,6 +26,5 @@
   "specialSkill": "특기",
   "favoriteFood": "좋아하는 음식",
   "hatedFood": "싫어하는 음식",
-  "weak": "약점",
-  "introduction": "자기소개"
+  "weak": "약점"
 }
