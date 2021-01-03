@@ -12,6 +12,7 @@
     "male": "Laki-laki",
     "secret": "Rahasia"
   },
+  "introduction": "Perkenalan",
   "colorCode": "Warna Gambar",
   "skinColorCode": "Warna Skin",
   "skinShadowColorCode1": "Warna Bayangan Skin 1",
@@ -25,6 +26,5 @@
   "specialSkill": "Keahlian",
   "favoriteFood": "Makanan Favorit",
   "hatedFood": "Makanan yang Tidak Disukai",
-  "weak": "Kelemahan",
-  "introduction": "Perkenalan"
+  "weak": "Kelemahan"
 }
