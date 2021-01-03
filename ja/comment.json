@@ -1,12 +1,17 @@
 {
-  "category": "種類",
-  "author": "作成者",
-  "published_at": "で公開",
-  "categoryName": {
-    "website": "ウェブサイト",
-    "normal": "その他",
-    "game_update": "アプリの更新",
-    "maintenance": "メンテナンス",
-    "bug": "不具合"
+  "send": "送信",
+  "write": "構成する",
+  "no_comment_yet": "コメントはありません。",
+  "report-abuse": {
+    "title": "コメントを報告",
+    "description": "このコメントが不快に感じた場合は報告してください",
+    "reason": {
+      "label": "報告の理由",
+      "other": "その他",
+      "bad_words": "悪い言葉",
+      "discrimination": "差別"
+    },
+    "content": "あなたの一報",
+    "success": "報告ありがとうございます。まもなく管理者が確認します。"
   }
 }
