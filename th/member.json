@@ -12,6 +12,7 @@
     "male": "ชาย",
     "secret": "ความลับ"
   },
+  "introduction": "แนะนำตัวละคร",
   "colorCode": "สีประจำตัวละคร",
   "skinColorCode": "สีผิว",
   "skinShadowColorCode1": "เงาของสีผิว 1",
@@ -25,6 +26,5 @@
   "specialSkill": "ความสามารถพิเศษ",
   "favoriteFood": "อาหารที่ชอบ",
   "hatedFood": "อาหารที่เกลียด",
-  "weak": "จุดอ่อน",
-  "introduction": "แนะนำตัวละคร"
+  "weak": "จุดอ่อน"
 }
