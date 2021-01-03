@@ -1,0 +1,13 @@
+{
+  "category": "種類",
+  "author": "作成者",
+  "published_at": "で公開",
+  "no_entry": "エントリはありません。",
+  "categoryName": {
+    "website": "ウェブサイト",
+    "normal": "その他",
+    "game_update": "アプリの更新",
+    "maintenance": "メンテナンス",
+    "bug": "不具合"
+  }
+}
