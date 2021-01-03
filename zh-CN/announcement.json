@@ -1,0 +1,13 @@
+{
+  "category": "类别",
+  "author": "作者",
+  "published_at": "发表于",
+  "no_entry": "没有条目。",
+  "categoryName": {
+    "website": "网站",
+    "normal": "其他",
+    "game_update": "游戏更新",
+    "maintenance": "维护",
+    "bug": "问题"
+  }
+}
