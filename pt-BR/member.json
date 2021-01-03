@@ -12,6 +12,7 @@
     "male": "Masculino",
     "secret": "Segredo"
   },
+  "introduction": "Introdução",
   "colorCode": "Cor da Imagem",
   "skinColorCode": "Cor da Pele",
   "skinShadowColorCode1": "Cor da sombra da pele 1",
@@ -25,6 +26,5 @@
   "specialSkill": "Especialidade",
   "favoriteFood": "Comida Favorita",
   "hatedFood": "Comida que não gosta",
-  "weak": "Fraqueza",
-  "introduction": "Introdução"
+  "weak": "Fraqueza"
 }
