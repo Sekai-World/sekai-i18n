@@ -76,6 +76,12 @@
   "description": "描述",
   "level": "等級",
   "character_plural": "角色",
+  "countdown": {
+    "day": "天",
+    "hour": "小時",
+    "minute": "分鐘",
+    "second": "秒"
+  },
   "delete": "移除",
   "all": "全部",
   "search": "搜尋",
