@@ -1,13 +1,17 @@
 {
-  "category": "类别",
-  "author": "作者",
-  "published_at": "发表于",
-  "no_entry": "没有条目。",
-  "categoryName": {
-    "website": "网站",
-    "normal": "其他",
-    "game_update": "游戏更新",
-    "maintenance": "维护",
-    "bug": "问题"
+  "send": "发送",
+  "write": "编写",
+  "no_comment_yet": "没有评论。",
+  "report-abuse": {
+    "title": "举报评论",
+    "description": "举报让你感到不舒服的评论",
+    "reason": {
+      "label": "举报原因",
+      "other": "其他",
+      "bad_words": "脏话",
+      "discrimination": "歧视"
+    },
+    "content": "留言",
+    "success": "感觉你的举报，我们会尽快处理。"
   }
 }
