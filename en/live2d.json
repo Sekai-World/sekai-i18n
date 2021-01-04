@@ -1,0 +1,23 @@
+{
+  "load_progress": {
+    "model_metadata": "Loading model metadata...",
+    "model_texture": "Loading model textures...",
+    "model_moc3": "Loading model skeleton...",
+    "model_physics": "Loading model physics...",
+    "motion_metadata": "Loading model motions...",
+    "display_model": "Preparing model display..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generate metadata",
+    "download_texture": "Download texture",
+    "download_moc3": "Download skeletion",
+    "download_physics": "Download physics",
+    "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
+    "generate_zip": "Generate zip file"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Motions",
+    "expressions": "Expressions"
+  }
+}

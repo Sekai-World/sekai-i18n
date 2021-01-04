@@ -27,6 +27,7 @@
     "start": "From",
     "end": "To"
   },
+  "no_enough_data": "No enough data.",
   "tracker": {
     "select": {
       "event_name": "Event Name",

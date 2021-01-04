@@ -72,6 +72,8 @@
   },
   "campaign": "Campaign",
   "bug": "Bug",
+  "show": "Show",
+  "apply": "Apply",
   "profile": "Profile",
   "description": "Description",
   "level": "Level",
