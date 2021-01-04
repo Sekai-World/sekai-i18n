@@ -27,6 +27,7 @@
     "start": "De",
     "end": "À"
   },
+  "no_enough_data": "Données insuffisantes.",
   "tracker": {
     "select": {
       "event_name": "Nom de l'événement",
