@@ -19,5 +19,12 @@
     "model": "Model",
     "motions": "Motions",
     "expressions": "Expressions"
+  },
+  "tooltip": {
+    "download": "Download",
+    "fullscreen": "Toggle fullscreen",
+    "shot": "Save image",
+    "stop_record": "Stop recording",
+    "start_record": "Start recording"
   }
 }
