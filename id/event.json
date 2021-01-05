@@ -27,6 +27,7 @@
     "start": "Dari",
     "end": "Hingga"
   },
+  "no_enough_data": "Tidak ada cukup data.",
   "tracker": {
     "select": {
       "event_name": "Nama Event",
