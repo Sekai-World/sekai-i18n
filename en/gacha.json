@@ -1,15 +1,29 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Banner & Logo"
+    },
+    "title[3]": "Background",
+    "title[4]": "Feature Image",
     "title[0]": "Description",
     "title[1]": "Summary",
-    "title[2]": "Simulator",
-    "title[3]": "Background",
-    "title[4]": "Feature Image"
+    "title[2]": "Simulator"
   },
+  "ceil_item": "Exchange Item",
+  "summary": "Summary",
+  "description": "Description",
+  "gacha_rate": "Gacha Rates",
   "normalRate": "Normal Roll Rate",
   "guaranteedRate": "Guaranteed Roll Rate",
+  "gacha_cards": "Gacha Cards",
   "pickupMember": "Pick-up Member",
   "pickupMember_plural": "Pick-up Members",
+  "simulator": {
+    "total": "Total",
+    "cost": "Cost",
+    "count": "Count",
+    "percentage": "Percentage"
+  },
   "gachaType": {
     "ceil": "Ceiling",
     "normal": "Normal"

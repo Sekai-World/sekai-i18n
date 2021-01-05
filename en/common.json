@@ -63,8 +63,8 @@
   "back": "Back",
   "next": "Next",
   "betaIndicator": "This function is in beta. Reporting bugs is welcomed.",
-  "icon": "Icon",
   "endAt": "Available Until",
+  "show": "Show",
   "detect": {
     "checking": "Checking...",
     "unsupported": "Unsupported",
@@ -72,7 +72,6 @@
   },
   "campaign": "Campaign",
   "bug": "Bug",
-  "show": "Show",
   "apply": "Apply",
   "profile": "Profile",
   "description": "Description",
@@ -84,6 +83,7 @@
     "minute": "Minutes",
     "second": "Seconds"
   },
+  "spoiler": "Spoiler",
   "delete": "Delete",
   "all": "All",
   "search": "Search",
@@ -92,6 +92,7 @@
   "login": "Login",
   "reset_password": "Reset Password",
   "signup": "Sign Up",
+  "icon": "Icon",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",
   "update": "Update",
