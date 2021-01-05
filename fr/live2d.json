@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Chargement des métadonnées du modèle…",
+    "model_texture": "Chargement des textures du modèle…",
+    "model_moc3": "Chargement du schéma du modèle…",
+    "model_physics": "Chargement de la physique du modèle…",
+    "motion_metadata": "Chargement des mouvements du modèle…",
+    "display_model": "Préparation de la présentation du modèle…"
+  },
+  "pack_progress": {
+    "generate_metadata": "Génération de métadonnées",
+    "download_texture": "Téléchargement de la texture",
+    "download_moc3": "Téléchargement du schéma",
+    "download_physics": "Téléchargement de la physique",
+    "download_motions": "Téléchargement des mouvements et expressions {{dlcount}}/{{total}}",
+    "generate_zip": "Génération d'un fichier zip"
+  },
+  "select": {
+    "model": "Modèle",
+    "motions": "Mouvements",
+    "expressions": "Expressions"
+  },
+  "tooltip": {
+    "download": "Télécharger",
+    "fullscreen": "Basculer en plein écran",
+    "shot": "Enregistrer l'image",
+    "stop_record": "Arrêter l'enregistrement",
+    "start_record": "Démarrer l'enregistrement"
+  }
+}
