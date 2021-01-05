@@ -1,5 +1,7 @@
 {
   "about": "About | Sekai Viewer",
+  "announcementDetail": "{{- name}} | 공지사항 | Sekai Viewer",
+  "announcementList": "공지사항 | Sekai Viewer",
   "cardDetail": "{{- prefix}} | {{- character}} | 카드 | Sekai Viewer",
   "cardList": "카드 목록 | Sekai Viewer",
   "comicList": "만화 목록 | Sekai Viewer",
@@ -10,6 +12,7 @@
   "gachaDetail": "{{name}} | 가챠 | Sekai Viewer",
   "gachaList": "가챠 목록 | Sekai Viewer",
   "home": "홈 | Sekai Viewer",
+  "live2d": "Live2D | Sekai Viewer",
   "memberDetail": "{{- name}} | 캐릭터 | Sekai Viewer",
   "memberList": "캐릭터 목록 | Sekai Viewer",
   "beginnerMissionList": "초심자 | Mission | Sekai Viewer",
