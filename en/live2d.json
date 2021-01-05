@@ -10,7 +10,7 @@
   "pack_progress": {
     "generate_metadata": "Generate metadata",
     "download_texture": "Download texture",
-    "download_moc3": "Download skeletion",
+    "download_moc3": "Download skeleton",
     "download_physics": "Download physics",
     "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
     "generate_zip": "Generate zip file"
