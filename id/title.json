@@ -1,5 +1,7 @@
 {
   "about": "Tentang | Sekai Viewer",
+  "announcementDetail": "{{- name}} | Pengumuman | Sekai Viewer",
+  "announcementList": "Pengumuman | Sekai Viewer",
   "cardDetail": "{{- prefix}} | {{- character}} | Kartu | Sekai Viewer",
   "cardList": "Daftar Kartu | Sekai Viewer",
   "comicList": "Daftar Komik | Sekai Viewer",
@@ -10,6 +12,7 @@
   "gachaDetail": "{{- name}} | Gacha | Sekai Viewer",
   "gachaList": "Daftar Gacha | Sekai Viewer",
   "home": "Beranda | Sekai Viewer",
+  "live2d": "Live2D | Sekai Viewer",
   "memberDetail": "{{- name}} | Karakter | Sekai Viewer",
   "memberList": "Daftar Karakter | Sekai Viewer",
   "beginnerMissionList": "Pemula | Misi | Sekai Viewer",

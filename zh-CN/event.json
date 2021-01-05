@@ -27,6 +27,7 @@
     "start": "从",
     "end": "到"
   },
+  "no_enough_data": "没有足够数据。",
   "tracker": {
     "select": {
       "event_name": "活动名称",

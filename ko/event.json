@@ -27,6 +27,7 @@
     "start": "개시일",
     "end": "종료일"
   },
+  "no_enough_data": "데이터가 부족합니다.",
   "tracker": {
     "select": {
       "event_name": "이벤트 제목",
