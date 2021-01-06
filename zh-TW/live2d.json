@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "正在載入模型元數據...",
+    "model_texture": "正在載入模型材質...",
+    "model_moc3": "正在載入模型骨架...",
+    "model_physics": "正在載入模型物理演算...",
+    "motion_metadata": "正在載入模型動作...",
+    "display_model": "正在準備顯示模型..."
+  },
+  "pack_progress": {
+    "generate_metadata": "生成元數據",
+    "download_texture": "下載材質",
+    "download_moc3": "下載骨架",
+    "download_physics": "下載物理演算",
+    "download_motions": "下載動作和表情 {{dlcount}}/{{total}}",
+    "generate_zip": "生成zip檔案"
+  },
+  "select": {
+    "model": "模型",
+    "motions": "動作",
+    "expressions": "表情"
+  },
+  "tooltip": {
+    "download": "下載",
+    "fullscreen": "切換全屏",
+    "shot": "保存圖片",
+    "stop_record": "停止錄影",
+    "start_record": "開始錄影"
+  }
+}
