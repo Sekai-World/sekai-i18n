@@ -3,8 +3,7 @@
   "rewards": "Rewards",
   "title": {
     "schedules": "Schedules",
-    "setlist": "Scenario",
-    "beginner": "Beginner"
+    "setlist": "Scenario"
   },
   "schedule": {
     "start": "Start",
@@ -14,7 +13,8 @@
     "character_unspawn": "Character Disappear"
   },
   "type": {
-    "normal": "Normal"
+    "normal": "Normal",
+    "beginner": "Beginner"
   },
   "step": {
     "mc": "MC",
