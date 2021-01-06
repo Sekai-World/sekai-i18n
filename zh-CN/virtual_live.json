@@ -1,0 +1,23 @@
+{
+  "live_characters": "角色",
+  "rewards": "奖励",
+  "title": {
+    "schedules": "时间表",
+    "setlist": "剧本",
+    "beginner": "新手"
+  },
+  "schedule": {
+    "start": "开始",
+    "end": "结束"
+  },
+  "mc": {
+    "character_unspawn": "角色消失"
+  },
+  "type": {
+    "normal": "普通"
+  },
+  "step": {
+    "mc": "串场",
+    "music": "演唱会"
+  }
+}
