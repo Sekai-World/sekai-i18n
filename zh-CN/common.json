@@ -63,8 +63,8 @@
   "back": "后退",
   "next": "下一个",
   "betaIndicator": "这个功能在测试中。欢迎反馈问题。",
-  "icon": "图标",
   "endAt": "结束时间",
+  "show": "显示",
   "detect": {
     "checking": "检查中",
     "unsupported": "不支持",
@@ -72,7 +72,6 @@
   },
   "campaign": "纪念活动",
   "bug": "问题",
-  "show": "显示",
   "apply": "应用",
   "profile": "角色资料",
   "description": "描述",
@@ -84,6 +83,7 @@
     "minute": "分钟",
     "second": "秒"
   },
+  "spoiler": "剧透",
   "delete": "删除",
   "all": "全部",
   "search": "搜索",
@@ -92,6 +92,7 @@
   "login": "登录",
   "reset_password": "重设密码",
   "signup": "注册",
+  "icon": "图标",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
   "update": "更新",
