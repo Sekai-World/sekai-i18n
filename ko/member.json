@@ -12,6 +12,7 @@
     "male": "남성",
     "secret": "비밀"
   },
+  "scenario": "스토리",
   "introduction": "자기소개",
   "colorCode": "이미지 컬러",
   "skinColorCode": "피부색",
