@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "모델 기본정보 불러오는중...",
+    "model_texture": "모델 텍스쳐 불러오는중...",
+    "model_moc3": "모델 뼈대 불러오는중...",
+    "model_physics": "모델 물리정보 불러오는중...",
+    "motion_metadata": "모델 모션 불러오는중...",
+    "display_model": "모델 표시 준비중..."
+  },
+  "pack_progress": {
+    "generate_metadata": "기본정보 생성",
+    "download_texture": "텍스쳐 다운로드",
+    "download_moc3": "뼈대 다운로드",
+    "download_physics": "물리정보 다운로드",
+    "download_motions": "모션 및 표정 다운로드  {{dlcount}}/{{total}}",
+    "generate_zip": "Zip파일 생성"
+  },
+  "select": {
+    "model": "모델",
+    "motions": "모션",
+    "expressions": "표정"
+  },
+  "tooltip": {
+    "download": "다운로드",
+    "fullscreen": "전체화면에서 보기",
+    "shot": "이미지 저장",
+    "stop_record": "녹화 중지",
+    "start_record": "녹화 개시"
+  }
+}
