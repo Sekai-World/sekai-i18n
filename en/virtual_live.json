@@ -1,0 +1,23 @@
+{
+  "live_characters": "Characters",
+  "rewards": "Rewards",
+  "title": {
+    "schedules": "Schedules",
+    "setlist": "Scenario",
+    "beginner": "Beginner"
+  },
+  "schedule": {
+    "start": "Start",
+    "end": "End"
+  },
+  "mc": {
+    "character_unspawn": "Character Disappear"
+  },
+  "type": {
+    "normal": "Normal"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}

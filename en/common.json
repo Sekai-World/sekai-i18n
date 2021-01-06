@@ -17,6 +17,7 @@
     "normal": "Normal",
     "beginner": "Beginner"
   },
+  "virtualLive": "Virtual Live",
   "musicMeta": "Music Meta",
   "musicRecommend": "Song Recommender (Beta)",
   "eventCalc": "Event Planner",
