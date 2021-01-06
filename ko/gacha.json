@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "배너 & 로고"
+    },
+    "title[3]": "배경",
+    "title[4]": "특성 이미지",
     "title[0]": "주의사항",
     "title[1]": "개요",
-    "title[2]": "시뮬레이터",
-    "title[3]": "배경",
-    "title[4]": "특성 이미지"
+    "title[2]": "시뮬레이터"
   },
+  "ceil_item": "아이템 교환",
+  "summary": "요약",
+  "description": "설명",
+  "gacha_rate": "가챠 확률",
   "normalRate": "일반 확률",
   "guaranteedRate": "3성 이상 확정 확률",
+  "gacha_cards": "가챠 멤버",
   "pickupMember": "픽업 멤버",
   "pickupMember_plural": "픽업 멤버들",
+  "gacha_behaviors": "가챠 뽑기 옵션",
+  "gacha_simulator": "가챠 시뮬레이터",
+  "simulator": {
+    "total": "전체",
+    "cost": "비용",
+    "count": "당첨 매수",
+    "percentage": "비율"
+  },
+  "behavior": {
+    "normal": "통상",
+    "over_rarity_3_once": "3성이상 확정",
+    "once_a_day": "1일 1회 한정",
+    "over_rarity_4_once": "4성 화겆ㅇ"
+  },
   "gachaType": {
     "ceil": "천장",
     "normal": "일반"
