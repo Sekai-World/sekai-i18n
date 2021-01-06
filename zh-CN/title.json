@@ -27,5 +27,6 @@
   "login": "登录 | Sekai Viewer",
   "reset_password": "重设密码 | Sekai Viewer",
   "signup": "注册 | Sekai Viewer",
-  "user_home": "用户资料 | Sekai Viewer"
+  "user_home": "用户资料 | Sekai Viewer",
+  "virtualLiveList": "虚拟演唱会列表 | Sekai Viewer"
 }
