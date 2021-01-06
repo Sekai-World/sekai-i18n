@@ -63,8 +63,8 @@
   "back": "Kembali",
   "next": "Selanjutnya",
   "betaIndicator": "Fungsi ini dalam versi beta. Melaporkan bug akan membantu kami.",
-  "icon": "Ikon",
   "endAt": "Tersedia Hingga",
+  "show": "Tunjukkan",
   "detect": {
     "checking": "Memeriksa...",
     "unsupported": "Tidak didukung",
@@ -72,7 +72,6 @@
   },
   "campaign": "Kampanye",
   "bug": "Bug",
-  "show": "Tunjukkan",
   "apply": "Terapkan",
   "profile": "Profil",
   "description": "Deskripsi",
@@ -84,6 +83,7 @@
     "minute": "Menit",
     "second": "Detik"
   },
+  "spoiler": "Spoiler",
   "delete": "Hapus",
   "all": "Semua",
   "search": "Cari",
@@ -92,6 +92,7 @@
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
   "signup": "Daftar",
+  "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
   "update": "pembaruan",
