@@ -14,7 +14,7 @@
   "description": "주의사항",
   "gacha_rate": "가챠 확률",
   "normalRate": "일반 확률",
-  "guaranteedRate": "3성 이상 확정 확률",
+  "guaranteedRate": "3성 이상 확정슬롯 확률",
   "gacha_cards": "가챠 멤버",
   "pickupMember": "픽업 멤버",
   "pickupMember_plural": "픽업 멤버들",
