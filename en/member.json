@@ -12,6 +12,7 @@
     "male": "Male",
     "secret": "Secret"
   },
+  "scenario": "Story",
   "introduction": "Introduction",
   "colorCode": "Image Color",
   "skinColorCode": "Skin Color",

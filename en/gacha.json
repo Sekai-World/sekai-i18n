@@ -18,11 +18,19 @@
   "gacha_cards": "Gacha Cards",
   "pickupMember": "Pick-up Member",
   "pickupMember_plural": "Pick-up Members",
+  "gacha_behaviors": "Gacha Draw Options",
+  "gacha_simulator": "Gacha Simulator",
   "simulator": {
     "total": "Total",
     "cost": "Cost",
     "count": "Count",
     "percentage": "Percentage"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Guaranteed (3*)",
+    "once_a_day": "Once a day",
+    "over_rarity_4_once": "Guaranteed (4*)"
   },
   "gachaType": {
     "ceil": "Ceiling",
