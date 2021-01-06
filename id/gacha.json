@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Banner & Logo"
+    },
+    "title[3]": "Latar Belakang",
+    "title[4]": "Gambar Fitur",
     "title[0]": "Deskripsi",
     "title[1]": "Ringkasan",
-    "title[2]": "Simulator",
-    "title[3]": "Latar Belakang",
-    "title[4]": "Gambar Fitur"
+    "title[2]": "Simulator"
   },
+  "ceil_item": "Item Penukaran",
+  "summary": "Ringkasan",
+  "description": "Deskripsi",
+  "gacha_rate": "Rate Gacha",
   "normalRate": "Tingkat Roll Normal",
   "guaranteedRate": "Tingkat Roll Terjamin",
+  "gacha_cards": "Kartu Gacha",
   "pickupMember": "Anggota Pick-up",
   "pickupMember_plural": "Anggota Pick-up",
+  "gacha_behaviors": "Opsi Draw Gacha",
+  "gacha_simulator": "Simulasi Gacha",
+  "simulator": {
+    "total": "Total",
+    "cost": "Biaya",
+    "count": "Jumlah",
+    "percentage": "Persentase"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Terjamin (3*)",
+    "once_a_day": "Sekali sehari",
+    "over_rarity_4_once": "Terjamin (4*)"
+  },
   "gachaType": {
     "ceil": "Permanen",
     "normal": "Normal"
