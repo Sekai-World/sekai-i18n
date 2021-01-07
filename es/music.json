@@ -17,12 +17,21 @@
   "lyricist": "Letrista",
   "danceMember": "Miembro del baile",
   "danceMember_plural": "Miembros del baile",
-  "dancerCount": "Dancer Count",
+  "dancerCount": "Cantidad de bailarines",
   "vocal_plural": "Voces",
   "vocalType": "Tipo de voz",
   "difficulty": "Dificultad",
   "difficulty_plural": "Dificultades",
   "noteCount": "Número de notas",
+  "achievement": "Logros",
+  "scoreRankAchievement": {
+    "title": "Rango de Puntaje",
+    "rankC": "Rango C",
+    "rankB": "Rango B",
+    "rankA": "Rango A",
+    "rankS": "Rango S"
+  },
+  "combo": "Combos",
   "preview": "Vista previa",
   "categoryType": {
     "mv": "3D MV",
