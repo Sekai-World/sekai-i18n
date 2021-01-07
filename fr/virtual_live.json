@@ -1,0 +1,23 @@
+{
+  "live_characters": "Personnages",
+  "rewards": "Récompenses",
+  "title": {
+    "schedules": "Horaires",
+    "setlist": "Scénario"
+  },
+  "schedule": {
+    "start": "Début",
+    "end": "Fin"
+  },
+  "mc": {
+    "character_unspawn": "Personnage quitte la scène"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Débutant"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Musique sur scène"
+  }
+}
