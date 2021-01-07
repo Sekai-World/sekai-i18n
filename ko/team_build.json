@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "덱 저장",
+    "desc": "덱을 저장하거나 기존 덱을 덮어씁니다."
+  },
+  "noTeams": "저장된 덱이 없습니다.",
+  "saveNewEntry": "새로운 덱 저장",
+  "loadTeamDialog": {
+    "title": "덱 불러오기",
+    "desc": "저장된 덱에서 불러오기"
+  }
+}
