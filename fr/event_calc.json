@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Choix de la chanson",
+    "desc": "Sélectionnez la chanson à analyser.",
+    "select": {
+      "song": "Chanson",
+      "difficulty": "Difficulté"
+    }
+  },
+  "gameData": {
+    "label": "Données de jeu",
+    "desc": "Complétez les données du jeu pour le calcul",
+    "energyDrink": "Coût du boost",
+    "currentPoint": "Points actuels",
+    "targetPoint": "Objectif de points",
+    "remainingTime": "Heures restantes de l'événement",
+    "eventBonusRate": "Taux bonus d'événement (%)"
+  },
+  "assumption": "Hypothèse : All Perfect, les joueurs ont la même équipe, aucun boost de bonus.",
+  "result": {
+    "eventPointPerPlay": "Points d'événement par partie",
+    "playClount": "Nombre total de parties",
+    "playTime": "Temps de jeu total",
+    "useBoost": "Total de boost consommé",
+    "totalPoint": "Points d'événement total"
+  }
+}
