@@ -27,5 +27,6 @@
   "login": "Connexion | Sekai Viewer",
   "reset_password": "Réinitialiser le mot de passe | Sekai Viewer",
   "signup": "Inscription | Sekai Viewer",
-  "user_home": "Profil d'utilisateur | Sekai Viewer"
+  "user_home": "Profil d'utilisateur | Sekai Viewer",
+  "virtualLiveList": "Liste des Virtual Lives | Sekai Viewer"
 }
