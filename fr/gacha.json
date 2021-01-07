@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Bannière et logo"
+    },
+    "title[3]": "Fond",
+    "title[4]": "Image phare",
     "title[0]": "Description",
     "title[1]": "Résumé",
-    "title[2]": "Simulateur",
-    "title[3]": "Fond",
-    "title[4]": "Image phare"
+    "title[2]": "Simulateur"
   },
+  "ceil_item": "Article d'échange",
+  "summary": "Résumé",
+  "description": "Description",
+  "gacha_rate": "Taux du gacha",
   "normalRate": "Taux de tirage normal",
   "guaranteedRate": "Taux de tirage garanti",
+  "gacha_cards": "Cartes du gacha",
   "pickupMember": "Membre d'honneur",
   "pickupMember_plural": "Membres d'honneur",
+  "gacha_behaviors": "Options de tirage du gacha",
+  "gacha_simulator": "Simulateur de gacha",
+  "simulator": {
+    "total": "Total",
+    "cost": "Coût",
+    "count": "Nombre",
+    "percentage": "Pourcentage"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Garanti (★3)",
+    "once_a_day": "Une fois par jour",
+    "over_rarity_4_once": "Garanti (★4)"
+  },
   "gachaType": {
     "ceil": "Échange",
     "normal": "Normal"
