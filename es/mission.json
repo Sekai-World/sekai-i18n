@@ -3,7 +3,7 @@
     "charaName": "Nombre del personaje"
   },
   "type": {
-    "caption": "Clase de misión",
+    "caption": "Tipo de Misión",
     "clear_live": "Canción completada",
     "player_rank": "Rango del jugador",
     "login": "Iniciar sesión",
