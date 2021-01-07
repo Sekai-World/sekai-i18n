@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Pilih Lagu",
+    "desc": "Pilih lagu untuk dianalisis.",
+    "select": {
+      "song": "Lagu",
+      "difficulty": "Tingkat kesulitan"
+    }
+  },
+  "gameData": {
+    "label": "Data Game",
+    "desc": "Isi data dari game untuk diperhitungkan",
+    "energyDrink": "Biaya Boost",
+    "currentPoint": "Point Saat Ini",
+    "targetPoint": "Target Point",
+    "remainingTime": "Sisa Waktu Event",
+    "eventBonusRate": "Rate Bonus Event (%)"
+  },
+  "assumption": "Asumsi: all perfect, semua pemain memiliki tim yang sama, tidak ada bonus boost naik level.",
+  "result": {
+    "eventPointPerPlay": "Point Event Sekali Main",
+    "playClount": "Total Jumlah Permainan",
+    "playTime": "Total Waktu Permainan",
+    "useBoost": "Total Boost yang Dikonsumsi",
+    "totalPoint": "Total Point Event"
+  }
+}
