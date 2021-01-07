@@ -12,7 +12,7 @@
   },
   "selectValue": {
     "eventStory": "Historias de Evento",
-    "unitStory": "Historias de Grupo",
+    "unitStory": "Historias de Unidad",
     "charaStory": "Historias de Personaje",
     "cardStory": "Historia de Cartas"
   },
