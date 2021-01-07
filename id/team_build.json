@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "Simpan Tim",
+    "desc": "Simpan entri tim baru atau ganti entri tim yang sudah ada."
+  },
+  "noTeams": "Tidak ada entri tim yang disimpan.",
+  "saveNewEntry": "Simpan entri tim baru",
+  "loadTeamDialog": {
+    "title": "Muat Tim",
+    "desc": "Muat tim dari entri tim yang disimpan."
+  }
+}
