@@ -8,21 +8,60 @@
   },
   "remainingTime": "Tiempo restante",
   "progress": "Progreso",
+  "eventCards": "Cartas de Evento",
+  "title": {
+    "boost": "Aumento",
+    "timepoint": "Puntos de Tiempo",
+    "rankingRewards": "Premios de Ranking"
+  },
   "boostAttribute": "Atributo de aumento",
   "boostCharacters": "Personajes de aumento",
   "maxBoost": "Máximo aumento (Ambos usados) ",
-  "startAt": "El evento empieza a las",
-  "closeAt": "El evento termina a las",
-  "endAt": "Se puede jugar en el evento hasta las",
-  "rankingAnnounceAt": "Anuncio de ranking en ",
+  "startAt": "El evento empieza el",
+  "closeAt": "El evento termina el",
+  "endAt": "Entrada del evento en el juego disponible hasta el",
+  "rankingAnnounceAt": "Anuncio de ranking el",
   "distributionStartAt": "Distribución de recompensas desde",
   "distributionEndAt": "Distribución de recompensas hasta",
+  "rankingReward": {
+    "start": "De",
+    "end": "A"
+  },
+  "no_enough_data": "Datos insuficientes",
+  "tracker": {
+    "select": {
+      "event_name": "Nombre del Evento",
+      "rankings": "Rankings"
+    },
+    "button": {
+      "curr_event": "Evento Actual",
+      "graph": "Mostrar Gráfica",
+      "random-palette": "Paleta Aleatoria"
+    },
+    "title": {
+      "data_graph": "Gráfica de Puntos de Evento",
+      "average_speed": "Velocidad promedio"
+    }
+  },
   "ranking": "Ranking",
+  "speedTable": {
+    "head": {
+      "all_time": "Todo el evento (por hora)",
+      "last_24h": "Últimas 24 horas (por hora)",
+      "last_1h": "Hace 1 hora (por hora)"
+    }
+  },
   "realtime": "En tiempo real el",
   "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuario",
+      "score": "Punto(s)"
+    }
+  },
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
-    "marathon": "Marathon"
+    "marathon": "Maratón"
   }
 }
