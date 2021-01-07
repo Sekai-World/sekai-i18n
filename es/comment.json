@@ -1,12 +1,12 @@
 {
   "send": "Enviar",
-  "write": "Compone",
+  "write": "Componer",
   "no_comment_yet": "Sin Comentarios.",
   "report-abuse": {
     "title": "Reportar comentario",
     "description": "Reporta este comentario si crees que te incomoda.",
     "reason": {
-      "label": "Reportar razón",
+      "label": "Razón del reporte",
       "other": "Otros",
       "bad_words": "Malas palabras",
       "discrimination": "Discriminación"
