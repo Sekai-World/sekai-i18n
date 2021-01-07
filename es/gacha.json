@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Banner y Logo"
+    },
+    "title[3]": "Fondo",
+    "title[4]": "Imagen Principal",
     "title[0]": "Descripción",
     "title[1]": "Resumen",
-    "title[2]": "Simulador",
-    "title[3]": "Fondo",
-    "title[4]": "Foto principal"
+    "title[2]": "Simulador"
   },
+  "ceil_item": "Item de Intercambio",
+  "summary": "Resumen",
+  "description": "Descripción",
+  "gacha_rate": "Tasa de Aparición del Gacha",
   "normalRate": "Probabilidades en una tirada normal",
   "guaranteedRate": "Probabilidades en una tirada garantizada",
+  "gacha_cards": "Cartas del Gacha",
   "pickupMember": "Pickup Member",
   "pickupMember_plural": "Pickup Members",
+  "gacha_behaviors": "Opciones para Tirar en el Gacha",
+  "gacha_simulator": "Simulador de Gacha",
+  "simulator": {
+    "total": "Total",
+    "cost": "Costo",
+    "count": "Conteo",
+    "percentage": "Porcentaje"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Garantizada (3*)",
+    "once_a_day": "Una vez al día",
+    "over_rarity_4_once": "Garantizada (4*)"
+  },
   "gachaType": {
     "ceil": "Ceiling",
     "normal": "Normal"
