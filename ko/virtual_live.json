@@ -1,0 +1,23 @@
+{
+  "live_characters": "캐릭터",
+  "rewards": "보상",
+  "title": {
+    "schedules": "일정",
+    "setlist": "시나리오"
+  },
+  "schedule": {
+    "start": "개시",
+    "end": "종료"
+  },
+  "mc": {
+    "character_unspawn": "캐릭터 퇴장"
+  },
+  "type": {
+    "normal": "보통",
+    "beginner": "초심자"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "음악 라이브"
+  }
+}
