@@ -19,7 +19,7 @@
   "assumption": "가정: All Perfect, 멀티에서 모두 같은 덱 구성, 레벨업 전지 보너스 없음",
   "result": {
     "eventPointPerPlay": "1곡당 이벤트 포인트",
-    "playClount": "전체 플레이 횟수",
+    "playClount": "플레이 횟수 합계",
     "playTime": "전체 플레이 시간",
     "useBoost": "전체 전지 소모량",
     "totalPoint": "전체 이벤트 포인트"
