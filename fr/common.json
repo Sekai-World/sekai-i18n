@@ -17,6 +17,7 @@
     "normal": "Normal",
     "beginner": "Débutant"
   },
+  "virtualLive": "Virtual Live",
   "musicMeta": "Musique Meta",
   "musicRecommend": "Guide de chansons (Bêta)",
   "eventCalc": "Planificateur d'événements",
@@ -63,8 +64,8 @@
   "back": "Retour",
   "next": "Suivant",
   "betaIndicator": "Cette fonction est en bêta. Les rapports de bogues sont les bienvenus.",
-  "icon": "Icône",
   "endAt": "Disponible jusqu'au",
+  "show": "Afficher",
   "detect": {
     "checking": "Vérification...",
     "unsupported": "Non pris en charge",
@@ -72,7 +73,6 @@
   },
   "campaign": "Campagne",
   "bug": "Bug",
-  "show": "Afficher",
   "apply": "Appliquer",
   "profile": "Profil",
   "description": "Description",
@@ -84,6 +84,7 @@
     "minute": "Minutes",
     "second": "Secondes"
   },
+  "spoiler": "Spoiler",
   "delete": "Supprimer",
   "all": "Tout",
   "search": "Chercher",
@@ -92,6 +93,7 @@
   "login": "Connexion",
   "reset_password": "Réinitialiser le mot de passe",
   "signup": "S'inscrire",
+  "icon": "Icône",
   "copyToClipboard": "Copier dans le presse-papiers",
   "scoreCalculator": "Calculateur de score",
   "update": "Mise à jour",
