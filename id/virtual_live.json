@@ -1,0 +1,23 @@
+{
+  "live_characters": "Karakter",
+  "rewards": "Hadiah",
+  "title": {
+    "schedules": "Jadwal",
+    "setlist": "Skenario"
+  },
+  "schedule": {
+    "start": "Mulai",
+    "end": "Selesai"
+  },
+  "mc": {
+    "character_unspawn": "Karakter Menghilang"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Pemula"
+  },
+  "step": {
+    "mc": "Pembawa Acara",
+    "music": "Musik Live"
+  }
+}
