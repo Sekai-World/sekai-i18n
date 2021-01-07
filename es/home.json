@@ -1,24 +1,24 @@
 {
   "alert_contributor": {
-    "title": "Thanks to our development contributors!"
+    "title": "¡Gracias a nuestros desarrolladores colaboradores!"
   },
   "alert_translate": {
     "title": "¡Gracias a los traductores!"
   },
   "game-news": {
     "action": "Acción",
-    "show-from": "Show From",
+    "show-from": "Mostrar Desde",
     "title-column": "Título",
-    "show-until": "Show Until",
+    "show-until": "Mostrar Hasta",
     "title": "Noticias del juego"
   },
-  "alert0": "¡Sekai Viewer ahora está en beta abierta!",
+  "happy_new_year": "🎊¡Feliz Año Nuevo!🎉",
   "alert_settings": "Utiliza <s /> de la esquina superior derecha para cambiar el idioma, el modo de brillo y más.",
   "alert1": {
     "title": "¡Se necesita ayuda!",
     "translation": "Traducciones",
     "development": "Desarrollo",
-    "see_contrib_list": "Ver la lista de participantes",
+    "see_contrib_list": "Ver la lista de colaboradores",
     "contact": "Contáctame",
     "join-discord": "Únete al servidor de Discord"
   },
@@ -27,5 +27,5 @@
     "failed": "Desgraciadamente, tu navegador no puede cargar la mayor parte de las imágenes. Actualízalo, o bien actualiza tu versión de iOS/macOS. Pronto pondremos solución a los problemas de compatibilidad. <br> Más información: <l> Utilizar - formato de imagen WebP</l>",
     "success": "¡Felicidades! Tu navegador parece moderno, puedes cargar imágenes más rápido y ahorrar banda ancha."
   },
-  "update": "Related Links"
+  "update": "Links Relacionados"
 }
