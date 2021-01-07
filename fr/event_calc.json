@@ -16,7 +16,7 @@
     "remainingTime": "Heures restantes de l'événement",
     "eventBonusRate": "Taux bonus d'événement (%)"
   },
-  "assumption": "Hypothèse : All Perfect, les joueurs ont la même équipe, aucun boost de bonus.",
+  "assumption": "Hypothèse : All Perfect, les joueurs ont la même équipe, aucun bonus boost.",
   "result": {
     "eventPointPerPlay": "Points d'événement par partie",
     "playClount": "Nombre total de parties",
