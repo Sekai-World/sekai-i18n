@@ -3,9 +3,9 @@
     "caption": "Personaje"
   },
   "sort": {
-    "caption": "Ordena",
-    "ascending": "Ascendiendo",
-    "descending": "Descendiendo"
+    "caption": "Ordenar",
+    "ascending": "Ascendente",
+    "descending": "Descendente"
   },
   "missionType": {
     "caption": "Tipo de misión"
