@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "Enregistrer l'équipe",
+    "desc": "Enregistrez une nouvelle équipe ou remplacez une équipe existante."
+  },
+  "noTeams": "Aucune équipe enregistrée.",
+  "saveNewEntry": "Enregistrer une nouvelle équipe",
+  "loadTeamDialog": {
+    "title": "Charger l'équipe",
+    "desc": "Charger l'équipe à partir des équipes enregistrées."
+  }
+}
