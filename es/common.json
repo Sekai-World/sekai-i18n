@@ -1,5 +1,7 @@
 {
   "about": "Información",
+  "comment": "Comentarios",
+  "announcement": "Anuncios",
   "home": "Inicio",
   "card": "Carta",
   "music": "Música",
@@ -15,19 +17,23 @@
     "normal": "Normal",
     "beginner": "Principiante"
   },
+  "virtualLive": "Concierto Virtual",
   "musicMeta": "Música meta",
   "musicRecommend": "Recomendador de Canciones (Beta)",
   "eventCalc": "Planeador de eventos",
   "storyReader": "Lector de historia",
+  "eventTracker": "Seguimiento del evento",
   "support": "Support",
   "toolbar": {
-    "title": "Function List"
+    "title": "Lista de Funciones"
   },
+  "community": "Comunidad",
   "information": "Información",
   "tools": "Herramientas",
   "settings": {
-    "title": "Configuraciones"
+    "title": "Configuración"
   },
+  "user": "Usuario",
   "language": "Idioma",
   "darkmode": "Modo de brillo",
   "contentTranslationMode": {
@@ -39,7 +45,7 @@
   "id": "ID",
   "title": "Título",
   "unit": "Grupo",
-  "support_unit": "Support Unit",
+  "support_unit": "Unidad de Apoyo",
   "attribute": "Atributo",
   "startAt": "Disponible desde",
   "rarity": "Rareza",
@@ -49,15 +55,17 @@
   "technique": "Técnica",
   "stamina": "Energía",
   "power": "Poder",
-  "releaseCondition": "Release Condition",
+  "releaseCondition": "Condición de Desbloqueo",
   "releaseCosts": "Release Costs",
   "rewards": "Recompensas",
+  "submit": "Enviar",
+  "ongoing_event": "Evento actual",
   "type": "Tipo",
   "back": "Atrás",
   "next": "Siguiente",
   "betaIndicator": "Esta función está en beta. El reporte de bugs es bienvenido.",
-  "icon": "Ícono",
   "endAt": "Disponible hasta",
+  "show": "Mostrar",
   "detect": {
     "checking": "Comprobando...",
     "unsupported": "Unsupported",
@@ -65,19 +73,29 @@
   },
   "campaign": "Campaign",
   "bug": "Bug",
+  "apply": "Aplicar",
   "profile": "Profile",
   "description": "Descripción",
   "level": "Nivel",
   "character_plural": "Personajes",
+  "countdown": {
+    "day": "Días",
+    "hour": "Horas",
+    "minute": "Minutos",
+    "second": "Segundos"
+  },
+  "spoiler": "Spoiler",
   "delete": "Borrar",
   "all": "Todo",
   "search": "Buscar",
   "replace": "Reemplazar",
   "load": "Cargar",
   "login": "Iniciar sesión",
-  "user": "Usuario",
+  "reset_password": "Resetear Contraseña.",
+  "signup": "Registrarse",
+  "icon": "Ícono",
   "copyToClipboard": "Copiar al Portapapeles",
   "scoreCalculator": "Calculadora de puntaje",
-  "update": "Update",
-  "member": "Character"
+  "update": "Actualización",
+  "member": "Personaje"
 }
