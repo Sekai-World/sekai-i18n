@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "橫幅和徽標"
+    },
+    "title[3]": "背景",
+    "title[4]": "特徵圖",
     "title[0]": "詳情",
     "title[1]": "摘要",
-    "title[2]": "模擬",
-    "title[3]": "背景",
-    "title[4]": "特徵圖"
+    "title[2]": "模擬"
   },
+  "ceil_item": "兌換道具",
+  "summary": "摘要",
+  "description": "描述",
+  "gacha_rate": "招募機率",
   "normalRate": "正常招募機率",
   "guaranteedRate": "實際招募機率",
+  "gacha_cards": "招募卡牌",
   "pickupMember": "本期角色",
   "pickupMember_plural": "本期角色",
+  "gacha_behaviors": "招募選項",
+  "gacha_simulator": "模擬招募",
+  "simulator": {
+    "total": "總計",
+    "cost": "消費",
+    "count": "數量",
+    "percentage": "百分比"
+  },
+  "behavior": {
+    "normal": "普通",
+    "over_rarity_3_once": "保底三星",
+    "once_a_day": "每天一次",
+    "over_rarity_4_once": "保底四星"
+  },
   "gachaType": {
     "ceil": "保底",
     "normal": "正常"
