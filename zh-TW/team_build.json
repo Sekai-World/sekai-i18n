@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "儲存隊伍",
+    "desc": "保存新的隊伍或替換現有的隊伍。"
+  },
+  "noTeams": "沒有已保存的隊伍。",
+  "saveNewEntry": "保存新的隊伍",
+  "loadTeamDialog": {
+    "title": "加載隊伍",
+    "desc": "加載已保存的隊伍。"
+  }
+}
