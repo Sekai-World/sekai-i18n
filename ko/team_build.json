@@ -1,12 +1,49 @@
 {
-  "saveTeamDialog": {
-    "title": "덱 저장",
-    "desc": "덱을 저장하거나 기존 덱을 덮어씁니다."
+  "editor": {
+    "title": {
+      "source": "소스",
+      "target": "대상"
+    },
+    "source_lang": "소스 언어",
+    "announcement": {
+      "source_title": "소스 제목",
+      "source_desc": "소스 설명",
+      "target_title": "대상 제목",
+      "target_desc": "대상 설명"
+    },
+    "target_lang": "대상 언어",
+    "button": {
+      "copy_source": "소스 문자열 복사"
+    },
+    "target_contributors": "기여자들",
+    "dialog": {
+      "copy_source": {
+        "title": "소스 문자열 복사",
+        "text": "모든 소스 문자열을 대상 영역에 복사합니다. 대상 영역에서 제출되지 않은 모든 작업이 손실됩니다.",
+        "confirm": "확인",
+        "cancel": "취소"
+      }
+    },
+    "submit-status": {
+      "success": "성공",
+      "failed": "실패"
+    }
   },
-  "noTeams": "저장된 덱이 없습니다.",
-  "saveNewEntry": "새로운 덱 저장",
-  "loadTeamDialog": {
-    "title": "덱 불러오기",
-    "desc": "저장된 덱에서 불러옵니다."
+  "button": {
+    "mark_unfinished": "진행중으로 표시",
+    "mark_finished": "종료됨으로 표시",
+    "continue_translate": "작업 계속",
+    "start_translate": "번역 시작"
+  },
+  "status": {
+    "finished": "종료됨",
+    "inprogress": "진행중"
+  },
+  "error": {
+    "lang_mismatch": "언어가 일치하지 않음."
+  },
+  "title": {
+    "my_works": "기존 작업",
+    "available_contents": "사용 가능한 컨텐츠"
   }
 }
