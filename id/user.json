@@ -15,7 +15,7 @@
     "button": {
       "bind_sekai_id": "Bind",
       "verify_sekai_id": "Periksa",
-      "show_email": "Tunjukkan"
+      "show_email": "Lihat"
     },
     "error": {
       "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain.",
