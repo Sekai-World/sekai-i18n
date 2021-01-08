@@ -15,6 +15,7 @@
     "button": {
       "copy_source": "拷贝源字符串"
     },
+    "target_contributors": "贡献者",
     "dialog": {
       "copy_source": {
         "title": "拷贝源字符串",
@@ -42,7 +43,7 @@
     "lang_mismatch": "语言不符合。"
   },
   "title": {
-    "my_works": "我的工作",
+    "my_works": "已有工作",
     "available_contents": "可翻译内容"
   }
 }
