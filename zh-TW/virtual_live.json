@@ -1,0 +1,23 @@
+{
+  "live_characters": "角色",
+  "rewards": "獎勵",
+  "title": {
+    "schedules": "時間表",
+    "setlist": "劇本"
+  },
+  "schedule": {
+    "start": "開始",
+    "end": "結束"
+  },
+  "mc": {
+    "character_unspawn": "角色消失"
+  },
+  "type": {
+    "normal": "普通",
+    "beginner": "新手"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "演唱會"
+  }
+}
