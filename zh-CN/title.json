@@ -22,6 +22,7 @@
   "musicDetail": "{{- title}} | 乐曲 | Sekai Viewer",
   "musicList": "乐曲列表 | Sekai Viewer",
   "stampList": "贴纸列表 | Sekai Viewer",
+  "translation": "翻译中心 | Sekai Viewer",
   "unitDetail": "{{- name}} | 乐队组合 | Sekai Viewer",
   "connectRedirect": "重定向 | Sekai Viewer",
   "login": "登录 | Sekai Viewer",
