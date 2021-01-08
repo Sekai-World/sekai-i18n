@@ -3,8 +3,7 @@
   "rewards": "奖励",
   "title": {
     "schedules": "时间表",
-    "setlist": "剧本",
-    "beginner": "新手"
+    "setlist": "剧本"
   },
   "schedule": {
     "start": "开始",
@@ -14,7 +13,8 @@
     "character_unspawn": "角色消失"
   },
   "type": {
-    "normal": "普通"
+    "normal": "普通",
+    "beginner": "新手"
   },
   "step": {
     "mc": "串场",
