@@ -1,8 +1,11 @@
 {
   "category": "类别",
-  "author": "作者",
   "published_at": "发表于",
+  "co-authors": "共同作者",
   "no_entry": "没有条目。",
+  "title": "标题",
+  "language": "语言",
+  "author": "作者",
   "categoryName": {
     "website": "网站",
     "normal": "其他",
