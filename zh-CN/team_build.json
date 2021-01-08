@@ -1,49 +1,12 @@
 {
-  "editor": {
-    "title": {
-      "source": "源",
-      "target": "目标"
-    },
-    "source_lang": "源语言",
-    "announcement": {
-      "source_title": "源标题",
-      "source_desc": "源描述",
-      "target_title": "目标标题",
-      "target_desc": "目标描述"
-    },
-    "target_lang": "目标语言",
-    "button": {
-      "copy_source": "拷贝源字符串"
-    },
-    "target_contributors": "贡献者",
-    "dialog": {
-      "copy_source": {
-        "title": "拷贝源字符串",
-        "text": "你将用源字符串覆盖所有目标字符串，所有未提交的内容都将丢失。",
-        "confirm": "确认",
-        "cancel": "取消"
-      }
-    },
-    "submit-status": {
-      "success": "成功",
-      "failed": "失败"
-    }
+  "saveTeamDialog": {
+    "title": "保存队伍",
+    "desc": "保存新队伍条目或者替换现有条目。"
   },
-  "button": {
-    "mark_unfinished": "标记为未完成",
-    "mark_finished": "标记为已完成",
-    "continue_translate": "继续工作",
-    "start_translate": "开始翻译"
-  },
-  "status": {
-    "finished": "已完成",
-    "inprogress": "未完成"
-  },
-  "error": {
-    "lang_mismatch": "语言不符合。"
-  },
-  "title": {
-    "my_works": "已有工作",
-    "available_contents": "可翻译内容"
+  "noTeams": "无保存队伍条目。",
+  "saveNewEntry": "保存新队伍条目。",
+  "loadTeamDialog": {
+    "title": "加载队伍",
+    "desc": "从保存的队伍条目加载队伍。"
   }
 }
