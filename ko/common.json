@@ -3,6 +3,7 @@
   "comment": "댓글",
   "announcement": "공지사항",
   "home": "홈",
+  "translation": "번역",
   "card": "카드",
   "music": "음악",
   "gacha": "가챠",
@@ -34,14 +35,6 @@
     "title": "설정"
   },
   "user": "유저",
-  "language": "언어",
-  "darkmode": "밝기 모드",
-  "contentTranslationMode": {
-    "title": "게임 콘텐츠 표시 방식",
-    "original": "원문",
-    "translated": "번역 (가능 시)",
-    "both": "모두 표시"
-  },
   "id": "번호",
   "title": "제목",
   "unit": "유닛",
@@ -84,12 +77,21 @@
     "minute": "분",
     "second": "초"
   },
+  "language": "언어",
+  "darkmode": "밝기 모드",
+  "contentTranslationMode": {
+    "title": "게임 콘텐츠 표시 방식",
+    "original": "원문",
+    "translated": "번역 (가능 시)",
+    "both": "모두 표시"
+  },
   "spoiler": "스포일러",
   "delete": "삭제",
   "all": "모든 캐릭터",
   "search": "검색",
   "replace": "덮어쓰기",
   "load": "불러오기",
+  "modify": "수정",
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
   "signup": "회원가입",
