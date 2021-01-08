@@ -3,6 +3,7 @@
   "comment": "评论",
   "announcement": "公告",
   "home": "主页",
+  "translation": "翻译",
   "card": "卡牌",
   "music": "乐曲",
   "gacha": "招募",
@@ -34,14 +35,6 @@
     "title": "设置"
   },
   "user": "用户",
-  "language": "语言",
-  "darkmode": "显示主题",
-  "contentTranslationMode": {
-    "title": "游戏内容显示模式",
-    "original": "原始文字",
-    "translated": "翻译版本（若可用）",
-    "both": "两者皆显示"
-  },
   "id": "编号",
   "title": "标题",
   "unit": "组合",
@@ -84,12 +77,21 @@
     "minute": "分钟",
     "second": "秒"
   },
+  "language": "语言",
+  "darkmode": "显示主题",
+  "contentTranslationMode": {
+    "title": "游戏内容显示模式",
+    "original": "原始文字",
+    "translated": "翻译版本（若可用）",
+    "both": "两者皆显示"
+  },
   "spoiler": "剧透",
   "delete": "删除",
   "all": "全部",
   "search": "搜索",
   "replace": "替换",
   "load": "加载",
+  "modify": "修改",
   "login": "登录",
   "reset_password": "重设密码",
   "signup": "注册",
