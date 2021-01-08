@@ -1,8 +1,10 @@
 {
   "category": "Category",
-  "author": "Author",
   "published_at": "Published At",
   "no_entry": "No entries.",
+  "title": "Title",
+  "language": "Language",
+  "author": "Author",
   "categoryName": {
     "website": "Website",
     "normal": "Other",

@@ -1,0 +1,48 @@
+{
+  "editor": {
+    "title": {
+      "source": "Source",
+      "target": "Target"
+    },
+    "source_lang": "Source Language",
+    "announcement": {
+      "source_title": "Source Title",
+      "source_desc": "Source Description",
+      "target_title": "Target Title",
+      "target_desc": "Target Description"
+    },
+    "target_lang": "Target Language",
+    "button": {
+      "copy_source": "Copy Source Strings"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Copy Source Strings",
+        "text": "You will copy all source strings to target area, all unsubmitted work in target area will be lost.",
+        "confirm": "Confirm",
+        "cancel": "Cancel"
+      }
+    },
+    "submit-status": {
+      "success": "Success",
+      "failed": "Failed"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Mark as In Progress",
+    "mark_finished": "Mark as Finished",
+    "continue_translate": "Continue Work",
+    "start_translate": "Start Translate"
+  },
+  "status": {
+    "finished": "Finished",
+    "inprogress": "In Progress"
+  },
+  "error": {
+    "lang_mismatch": "Language mismatch."
+  },
+  "title": {
+    "my_works": "My Works",
+    "available_contents": "Available Contents"
+  }
+}

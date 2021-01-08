@@ -22,6 +22,7 @@
   "musicDetail": "{{- title}} | Music | Sekai Viewer",
   "musicList": "Music List | Sekai Viewer",
   "stampList": "Sticker List | Sekai Viewer",
+  "translation": "Translation Center | Sekai Viewer",
   "unitDetail": "{{- name}} | Unit | Sekai Viewer",
   "connectRedirect": "Redirect | Sekai Viewer",
   "login": "Login | Sekai Viewer",
