@@ -15,6 +15,7 @@
     "button": {
       "copy_source": "Copy Source Strings"
     },
+    "target_contributors": "Contributors",
     "dialog": {
       "copy_source": {
         "title": "Copy Source Strings",
@@ -42,7 +43,7 @@
     "lang_mismatch": "Language mismatch."
   },
   "title": {
-    "my_works": "My Works",
+    "my_works": "Existing Works",
     "available_contents": "Available Contents"
   }
 }
