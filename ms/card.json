@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "title[0]": "Imej biasa",
+    "title[1]": "Imej perapi biasa",
+    "title[2]": "Imej selepas latihan",
+    "title[3]": "Imej perapi selepas latihan"
+  },
+  "skillLevel": "Tahap Kemahiran",
+  "skillName": "Nama Kemahiran",
+  "skillEffect": "Kesan Kemahiran",
+  "stats": "Statistik",
+  "cardLevel": "Tahap Kad",
+  "normal": "Biasa",
+  "trained": "Dilatih",
+  "sideStory": "Cerita Sampingan",
+  "sideStory1Unlocked": "Cerita Sampingan 1 Dibuka",
+  "sideStory2Unlocked": "Cerita Sampingan 2 Dibuka",
+  "sideStory_plural": "Cerita Sampingan",
+  "power": "Kuasa",
+  "skill": "Kemahiran"
+}
