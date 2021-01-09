@@ -1,0 +1,31 @@
+{
+  "alert_contributor": {
+    "title": "Terima kasih penyumbang pembangunan kami!"
+  },
+  "alert_translate": {
+    "title": "Terima kasih para penterjemah!"
+  },
+  "game-news": {
+    "action": "Tindakan",
+    "show-from": "Tunjuk Mulai",
+    "title-column": "Tajuk",
+    "show-until": "Tunjuk Sehingga",
+    "title": "Berita Permainan"
+  },
+  "happy_new_year": "🎊Selamat Tahun Baharu!🎉",
+  "alert_settings": "Gunakan <s /> di bucu kanan atas untuk menukar bahasa, mengubah mod kecerahan dan lain-lain.",
+  "alert1": {
+    "title": "Pertolongan diperlukan!",
+    "translation": "Terjemahan",
+    "development": "Pembangunan",
+    "see_contrib_list": "Lihat senarai penyumbang",
+    "contact": "Hubungi Saya",
+    "join-discord": "Sertai Pelayan Discord"
+  },
+  "detect": {
+    "warning": "Dijalankan dalam mod keserasian, anda mungkin mengalami isu prestasi. Cuba naik taraf pelayar anda atau versi iOS/macOS anda. <br> Maklumat lanjut: <l>Can I Use - WebP image format</l>",
+    "failed": "Malangnya anda tidak mampu memuatkan kebanyakan imej. Naik taraf pelayar anda atau versi iOS/macOS anda. Penyelesaian keserasian akan dilancarkan tidak lama lagi.<br> Maklumat lanjut: <l>Can I Use - WebP image format</l>",
+    "success": "Tahniah! Pelayar anda kelihatan moden, anda mampu memuatkan imej dengan lebih pantas dan jimatkan lebar jalur."
+  },
+  "update": "Pautan Berkaitan"
+}
