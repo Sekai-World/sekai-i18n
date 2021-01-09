@@ -1,0 +1,40 @@
+{
+  "select": {
+    "charaName": "Nama Watak"
+  },
+  "type": {
+    "caption": "Jenis Misi",
+    "clear_live": "Live Selesai",
+    "player_rank": "Kedudukan Pemain",
+    "login": "Log Masuk",
+    "collect": "Himpunan",
+    "unit_rank": "Kedudukan Unit",
+    "area_item": "Item Kawasan",
+    "character_rank": "Kedudukan Watak",
+    "master": "Kesukaran Master",
+    "multi_live": "Live Multiroom",
+    "duplicate_card": "Kad Pendua",
+    "action_set": "Sembang Kawasan",
+    "read_story": "Baca Cerita",
+    "virtual_live": "Virtual Live",
+    "make": "Buat (cth. Pakaian)",
+    "skill_level": "Tahap Kemahiran",
+    "master_rank": "Kedudukan Master",
+    "set_honor": "Tetapkan Tajuk",
+    "clear": "Selesai (cth. Live)",
+    "read": "Baca (cth. Cerita)",
+    "use": "Guna (cth. Item)",
+    "buy": "Beli (cth. Pakaian)",
+    "inherit": "Warisi",
+    "achieve": "Pencapaian",
+    "play_live": "Jumlah Permainan Live",
+    "waiting_room": "Bilik Menunggu",
+    "collect_costume_3d": "Himpunan Pakaian 3D",
+    "collect_stamp": "Himpunan Cap",
+    "read_area_talk": "Baca Sembang Kawasan",
+    "read_card_episode_first": "Baca Cerita Sampingan Bahagian Awal",
+    "read_card_episode_second": "Baca Cerita Sampingan Bahagian Akhir"
+  },
+  "requirement": "Jumlah Diperlukan",
+  "mission_group": "Kumpulan Misi"
+}
