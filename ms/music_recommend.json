@@ -1,0 +1,43 @@
+{
+  "getResult": "Tunjukkan Keputusan",
+  "buildTeam": {
+    "label": "Cipta Pasukan",
+    "desc": "Cipta pasukan untuk Pengesyoran Lagu",
+    "addCard": "Tambah Kad",
+    "saveTeam": "Simpan Pasukan",
+    "loadTeam": "Muatkan Pasukan",
+    "clearTeam": "Kosongkan Pasukan",
+    "teamPower": "Kuasa Pasukan",
+    "duplicatedCardError": "Tidak boleh tambah kad yang sama dalam satu pasukan.",
+    "cardMaxError": "Jumlah kad sudah mencukupi.",
+    "loadTeamError": "Periksa input anda.",
+    "teamTextCopied": "Tulisan pasukan disalin ke papan keratan."},
+  "result": {
+    "label": "Keputusan",
+    "musicName": "Nama Muzik",
+    "desc": "Hanya satu langkah dan anda selesai."
+  },
+  "modeSelect": {
+    "label": "Pilih Mod",
+    "desc": "Sila pilih mod kerja pengesyoran."
+  },
+  "assumption": "Anggapan: ALL PERFECT, bonus acara 0%, menggunakan 0 minuman tenaga, permainan ramai semua mempunyai pasukan yang sama.",
+  "addCardDialog": {
+    "title": "Tambah Kad",
+    "selectChara": "Watak",
+    "selectRarity": "Kejarangan"
+  },
+  "saveTeamDialog": {
+    "title": "Simpan Pasukan",
+    "desc": "Simpan kod pasukan dan muatkan kemudian."
+  },
+  "teamCode": "Kod Pasukan",
+  "loadTeamDialog": {
+    "title": "Muatkan Pasukan",
+    "desc": "Tampal kod pasukan disimpan dan muatkannya."
+  },
+  "songSelect": {
+    "label": "Pilih Lagu",
+    "desc": "Pilih satu atau lebih lagu untuk dianalisa. Biarkan kosong untuk menganalisa semua lagu."
+  }
+}
