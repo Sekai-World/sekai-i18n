@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "Simpan Pasukan",
+    "desc": "Simpan masukan pasukan baharu atau gantikan masukan pasukan sedia ada."
+  },
+  "noTeams": "Tiada masukan pasukan disimpan.",
+  "saveNewEntry": "Simpan masukan pasukan baharu",
+  "loadTeamDialog": {
+    "title": "Muatkan Pasukan",
+    "desc": "Muatkan pasukan dari masukan pasukan disimpan."
+  }
+}
