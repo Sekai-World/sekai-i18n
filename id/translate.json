@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Sumber",
+      "target": "Target"
+    },
+    "source_lang": "Bahasa Sumber",
+    "announcement": {
+      "source_title": "Judul Sumber",
+      "source_desc": "Deskripsi Sumber",
+      "target_title": "Judul Target",
+      "target_desc": "Deskripsi Target"
+    },
+    "target_lang": "Bahasa Target",
+    "button": {
+      "copy_source": "Salin String Sumber"
+    },
+    "target_contributors": "Kontributor",
+    "dialog": {
+      "copy_source": {
+        "title": "Salin String Sumber",
+        "text": "Anda akan menyalin semua string sumber ke area target, semua pekerjaan yang belum dikirim ke area target akan menghilang.",
+        "confirm": "Konfirmasi",
+        "cancel": "Batal"
+      }
+    },
+    "submit-status": {
+      "success": "Sukses",
+      "failed": "Gagal"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Tandai sebagai Dalam Proses",
+    "mark_finished": "Tandai sebagai Selesai",
+    "continue_translate": "Lanjutkan Pekerjaan",
+    "start_translate": "Mulai Terjemahkan"
+  },
+  "status": {
+    "finished": "Selesai",
+    "inprogress": "Dalam Proses"
+  },
+  "error": {
+    "lang_mismatch": "Bahasa tidak cocok."
+  },
+  "title": {
+    "my_works": "Pekerjaan yang Ada",
+    "available_contents": "Konten yang Tersedia"
+  }
+}
