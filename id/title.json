@@ -22,6 +22,7 @@
   "musicDetail": "{{- title}} | Musik | Sekai Viewer",
   "musicList": "Daftar Musik | Sekai Viewer",
   "stampList": "Daftar Stiker | Sekai Viewer",
+  "translation": "Pusat Terjemahan | Sekai Viewer",
   "unitDetail": "{{- name}} | Unit | Sekai Viewer",
   "connectRedirect": "Mengalihkan | Sekai Viewer",
   "login": "Masuk | Sekai Viewer",
