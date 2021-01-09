@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Source",
+      "target": "Cible"
+    },
+    "source_lang": "Langue source",
+    "announcement": {
+      "source_title": "Titre source",
+      "source_desc": "Description source",
+      "target_title": "Titre cible",
+      "target_desc": "Description cible"
+    },
+    "target_lang": "Langue cible",
+    "button": {
+      "copy_source": "Copier les chaînes sources"
+    },
+    "target_contributors": "Contributeurs",
+    "dialog": {
+      "copy_source": {
+        "title": "Copier les chaînes sources",
+        "text": "Vous copierez toutes les chaînes sources dans la zone cible, tout travail non soumis dans la zone cible sera perdu.",
+        "confirm": "Confirmer",
+        "cancel": "Annuler"
+      }
+    },
+    "submit-status": {
+      "success": "Succès",
+      "failed": "Échec"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Marquer comme en progression",
+    "mark_finished": "Marquer comme terminé",
+    "continue_translate": "Poursuivre le travail",
+    "start_translate": "Commencer à traduire"
+  },
+  "status": {
+    "finished": "Terminé",
+    "inprogress": "En progression"
+  },
+  "error": {
+    "lang_mismatch": "Mauvaise langue."
+  },
+  "title": {
+    "my_works": "Travaux existants",
+    "available_contents": "Contenus disponibles"
+  }
+}
