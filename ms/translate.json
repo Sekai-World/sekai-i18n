@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Sumber",
+      "target": "Sasaran"
+    },
+    "source_lang": "Bahasa Sumber",
+    "announcement": {
+      "source_title": "Tajuk Sumber",
+      "source_desc": "Keterangan Sumber",
+      "target_title": "Tajuk Sasaran",
+      "target_desc": "Keterangan Sasaran"
+    },
+    "target_lang": "Bahasa Sasaran",
+    "button": {
+      "copy_source": "Salin Rentetan Sumber"
+    },
+    "target_contributors": "Penyumbang",
+    "dialog": {
+      "copy_source": {
+        "title": "Salin Rentetan Sumber",
+        "text": "Anda akan salin kesemua rentetan sumber ke kawasan sasaran, semua kerja yang belum dihantar di kawasan sasaran akan hilang.",
+        "confirm": "Sahkan",
+        "cancel": "Batal"
+      }
+    },
+    "submit-status": {
+      "success": "Berjaya",
+      "failed": "Gagal"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Tanda sebagai Dalam Perkembangan",
+    "mark_finished": "Tanda sebagai Selesai",
+    "continue_translate": "Sambung Kerja",
+    "start_translate": "Mula Terjemah"
+  },
+  "status": {
+    "finished": "Selesai",
+    "inprogress": "Dalam Perkembangan"
+  },
+  "error": {
+    "lang_mismatch": "Bahasa tidak sepadan."
+  },
+  "title": {
+    "my_works": "Kerja Sedia Ada",
+    "available_contents": "Kandungan Tersedia"
+  }
+}
