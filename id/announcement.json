@@ -1,8 +1,11 @@
 {
   "category": "Kategori",
-  "author": "Penulis",
   "published_at": "Diterbitkan Pada",
+  "co-authors": "Rekan Penulis",
   "no_entry": "Tidak ada entri.",
+  "title": "Judul",
+  "language": "Bahasa",
+  "author": "Penulis",
   "categoryName": {
     "website": "Situs web",
     "normal": "Lainnya",
