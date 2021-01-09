@@ -1,0 +1,23 @@
+{
+  "live_characters": "Watak",
+  "rewards": "Ganjaran",
+  "title": {
+    "schedules": "Jadual",
+    "setlist": "Senario"
+  },
+  "schedule": {
+    "start": "Mula",
+    "end": "Tamat"
+  },
+  "mc": {
+    "character_unspawn": "Watak Hilang"
+  },
+  "type": {
+    "normal": "Biasa",
+    "beginner": "Pemain Baru"
+  },
+  "step": {
+    "mc": "Pengacara Majlis",
+    "music": "Persembahan Muzik"
+  }
+}
