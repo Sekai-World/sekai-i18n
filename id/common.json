@@ -3,6 +3,7 @@
   "comment": "Komen",
   "announcement": "Pengumuman",
   "home": "Beranda",
+  "translation": "Terjemahan",
   "card": "Kartu",
   "music": "Musik",
   "gacha": "Gacha",
@@ -34,14 +35,6 @@
     "title": "Pengaturan"
   },
   "user": "Pengguna",
-  "language": "Bahasa",
-  "darkmode": "Mode Kecerahan",
-  "contentTranslationMode": {
-    "title": "Mode Tampilan Konten Permainan",
-    "original": "Original",
-    "translated": "Terjemahan (jika tersedia)",
-    "both": "Lihat Keduanya"
-  },
   "id": "ID",
   "title": "Judul",
   "unit": "Unit",
@@ -84,12 +77,21 @@
     "minute": "Menit",
     "second": "Detik"
   },
+  "language": "Bahasa",
+  "darkmode": "Mode Kecerahan",
+  "contentTranslationMode": {
+    "title": "Mode Tampilan Konten Permainan",
+    "original": "Original",
+    "translated": "Terjemahan (jika tersedia)",
+    "both": "Lihat Keduanya"
+  },
   "spoiler": "Spoiler",
   "delete": "Hapus",
   "all": "Semua",
   "search": "Cari",
   "replace": "Timpa",
   "load": "Muat",
+  "modify": "Modifikasi",
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
   "signup": "Daftar",
