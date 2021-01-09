@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Pilih Lagu",
+    "desc": "Pilih lagu untuk dianalisa.",
+    "select": {
+      "song": "Lagu",
+      "difficulty": "Kesukaran"
+    }
+  },
+  "gameData": {
+    "label": "Data Permainan",
+    "desc": "Isikan data daripada permainan untuk pengiraan",
+    "energyDrink": "Kos Penggalak",
+    "currentPoint": "Mata Semasa",
+    "targetPoint": "Mata Sasaran",
+    "remainingTime": "Baki Masa Acara",
+    "eventBonusRate": "Kadar Bonus Acara (%)"
+  },
+  "assumption": "Anggapan: ALL PERFECT, permainan ramai semua mempunyai pasukan yang sama, tiada bonus penggalak naik tahap.",
+  "result": {
+    "eventPointPerPlay": "Mata Acara Per Permainan",
+    "playClount": "Jumlah Keseluruhan Permainan",
+    "playTime": "Jumlah Masa Permainan",
+    "useBoost": "Jumlah Penggalak Digunakan",
+    "totalPoint": "Jumlah Mata Acara"
+  }
+}
