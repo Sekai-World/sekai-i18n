@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Memuatkan metadata model...",
+    "model_texture": "Memuatkan tekstur model...",
+    "model_moc3": "Memuatkan kerangka model...",
+    "model_physics": "Muatkan fizik model...",
+    "motion_metadata": "Muatkan gerakan model...",
+    "display_model": "Menyediakan paparan model..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Jana metadata",
+    "download_texture": "Muat turun tekstur",
+    "download_moc3": "Muat turun kerangka",
+    "download_physics": "Muat turun fizik",
+    "download_motions": "Muat turun gerakan dan penyataan {{dlcount}}/{{total}}",
+    "generate_zip": "Jana fail zip"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Gerakan",
+    "expressions": "Penyataan"
+  },
+  "tooltip": {
+    "download": "Muat turun",
+    "fullscreen": "Togol skrin penuh",
+    "shot": "Simpan imej",
+    "stop_record": "Berhenti merakam",
+    "start_record": "Mula merakam"
+  }
+}
