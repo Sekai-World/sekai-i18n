@@ -1,0 +1,33 @@
+{
+  "selectLabel": {
+    "storyType": "Jenis Cerita",
+    "unitName": "Nama Unit",
+    "unitStoryChapter": "Bab",
+    "unitStoryEpisode": "Episod",
+    "eventName": "Nama Acara",
+    "eventStoryEpisode": "Episod",
+    "charaName": "Nama Watak",
+    "cardName": "Nama Kad",
+    "cardStoryEpisode": "Episod"
+  },
+  "selectValue": {
+    "eventStory": "Cerita Acara",
+    "unitStory": "Cerita Unit",
+    "charaStory": "Cerita Watak",
+    "cardStory": "Cerita Kad"
+  },
+  "buttonLabel": {
+    "showEpisode": "Muatkan Episod Cerita"
+  },
+  "snippet": {
+    "FullScreenText": "Tulisan Skrin Penuh",
+    "Telop": "Keterangan",
+    "ChangeBackground": "Ubah Latar Belakang",
+    "ShowBackground": "Tunjuk Imej Latar Belakang",
+    "Movie": "Video",
+    "ShowMovie": "Mainkan",
+    "BGM": "Muzik Latar",
+    "SE": "Kesan Bunyi",
+    "NoSound": "Tiada Bunyi"
+  }
+}
