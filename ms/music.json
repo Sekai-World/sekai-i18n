@@ -1,0 +1,42 @@
+{
+  "vocal": "Vokal",
+  "alert[0]": "<b>Sembilan saat</b> yang pertama bagi setiap lagu tidak mempunyai bunyi. Ini BUKAN pepijat.",
+  "vocalTab": {
+    "title[0]": "Versi pendek",
+    "title[1]": "Versi panjang",
+    "title[2]": "Video muzik"
+  },
+  "skipBeginningSilence": "Langkau bunyi senyap di permulaan",
+  "tag": "Tag",
+  "tag_plural": "Tag",
+  "category": "Kategori",
+  "category_plural": "Kategori",
+  "actualPlaybackTime": "Masa Main Semula Sebenar",
+  "arranger": "Susunan",
+  "composer": "Komposer",
+  "lyricist": "Lirik",
+  "danceMember": "Ahli Tarian",
+  "danceMember_plural": "Ahli Tarian",
+  "dancerCount": "Bilangan Penari",
+  "vocal_plural": "Vokal",
+  "vocalType": "Jenis Vokal",
+  "difficulty": "Kesukaran",
+  "difficulty_plural": "Kesukaran",
+  "noteCount": "Bilangan Not",
+  "achievement": "Pencapaian",
+  "scoreRankAchievement": {
+    "title": "Kedudukan Markah",
+    "rankC": "Kedudukan C",
+    "rankB": "Kedudukan B",
+    "rankA": "Kedudukan A",
+    "rankS": "Kedudukan S"
+  },
+  "combo": "Kombo",
+  "preview": "Pratonton",
+  "categoryType": {
+    "mv": "3DMV",
+    "mv_2d": "2DMV",
+    "original": "MV Asal",
+    "image": "Imej Statik"
+  }
+}
