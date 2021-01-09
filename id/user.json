@@ -14,7 +14,7 @@
     },
     "button": {
       "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Periksa",
+      "verify_sekai_id": "Verifikasi",
       "show_email": "Lihat"
     },
     "error": {
