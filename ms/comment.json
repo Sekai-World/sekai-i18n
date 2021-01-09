@@ -1,0 +1,17 @@
+{
+  "send": "Hantar",
+  "write": "Gubah",
+  "no_comment_yet": "Tiada Ulasan.",
+  "report-abuse": {
+    "title": "Lapor Ulasan",
+    "description": "Laporkan ulasan ini jika anda rasa ia membuatkan anda tidak selesa.",
+    "reason": {
+      "label": "Sebab Laporan",
+      "other": "Lain-lain",
+      "bad_words": "Perkataan Buruk",
+      "discrimination": "Diskriminasi"
+    },
+    "content": "Mesej anda",
+    "success": "Terima kasih kerana melapor, kami akan menyiasatnya."
+  }
+}
