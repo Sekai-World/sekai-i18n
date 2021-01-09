@@ -1,0 +1,16 @@
+{
+  "category": "Kategori",
+  "published_at": "Diterbitkan Pada",
+  "co-authors": "Pengarang Bersama",
+  "no_entry": "Tiada masukan.",
+  "title": "Tajuk",
+  "language": "Bahasa",
+  "author": "Pengarang",
+  "categoryName": {
+    "website": "Laman Sesawang",
+    "normal": "Lain-lain",
+    "game_update": "Kemas Kini Permainan",
+    "maintenance": "Penyenggaraan",
+    "bug": "Pepijay"
+  }
+}
