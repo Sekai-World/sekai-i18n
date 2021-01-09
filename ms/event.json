@@ -1,0 +1,67 @@
+{
+  "alreadyEnded": "Acara telah tamat",
+  "notStarted": "Belum bermula",
+  "tab": {
+    "title[0]": "Sepanduk & logo",
+    "title[1]": "Latar Belakang",
+    "title[2]": "Watak"
+  },
+  "remainingTime": "Baki Masa",
+  "progress": "Perkembangan",
+  "eventCards": "Kad Acara",
+  "title": {
+    "boost": "Penggalak",
+    "timepoint": "Mata Masa",
+    "rankingRewards": "Ganjaran Kedudukan"
+  },
+  "boostAttribute": "Atribut Penggalak",
+  "boostCharacters": "Watak Penggalak",
+  "maxBoost": "Penggalak Maksimum (Kedua-duanya Sepadan)",
+  "startAt": "Acara Bermula Pada",
+  "closeAt": "Acara Tamat Pada",
+  "endAt": "Masukan Acara Tersedia Sehingga",
+  "rankingAnnounceAt": "Pengumuman Kedudukan Pada",
+  "distributionStartAt": "Pengagihan Ganjaran Mulai",
+  "distributionEndAt": "Pengagihan Ganjaran Sehingga",
+  "rankingReward": {
+    "start": "Mulai",
+    "end": "Hingga"
+  },
+  "no_enough_data": "Tidak cukup data.",
+  "tracker": {
+    "select": {
+      "event_name": "Nama Acara",
+      "rankings": "Kedudukan"
+    },
+    "button": {
+      "curr_event": "Acara Semasa",
+      "graph": "Dapatkan Graf",
+      "random-palette": "Rawakkan Palet"
+    },
+    "title": {
+      "data_graph": "Graf Mata Acara",
+      "average_speed": "Kelajuan Purata"
+    }
+  },
+  "ranking": "Kedudukan",
+  "speedTable": {
+    "head": {
+      "all_time": "Setiap masa (per jam)",
+      "last_24h": "24 jam terakhir (per jam)",
+      "last_1h": "1 jam terakhir (per jam)"
+    }
+  },
+  "realtime": "Masa nyata pada",
+  "nextfetch": "Ambilan seterusnya",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Pengguna",
+      "score": "Mata"
+    }
+  },
+  "aggregateAt": "Titik Masa Agregat",
+  "alreadyPast": "Telah Berlalu",
+  "type": {
+    "marathon": "Maraton"
+  }
+}
