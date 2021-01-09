@@ -10,7 +10,7 @@
       "sekai_id_verify_step_1_title": "Buka Profil",
       "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
       "sekai_id_verify_step_2_title": "Tulis token dan simpan",
-      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"PERIKSA\"."
+      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"VERIFIKASI\"."
     },
     "button": {
       "bind_sekai_id": "Bind",
