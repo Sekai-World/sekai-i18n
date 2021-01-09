@@ -1,0 +1,16 @@
+{
+  "character": {
+    "caption": "Watak"
+  },
+  "sort": {
+    "caption": "Isih",
+    "ascending": "Menaik",
+    "descending": "Menurun"
+  },
+  "missionType": {
+    "caption": "Jenis Misi"
+  },
+  "music_tag": {
+    "caption": "Tag lagu"
+  }
+}
