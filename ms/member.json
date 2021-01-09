@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Watak",
+    "title[1]": "Label Nama (melintang)",
+    "title[2]": "Label Nama (menegak)"
+  },
+  "name": "Nama",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Jantina",
+    "female": "Perempuan",
+    "male": "Lelaki",
+    "secret": "Rahsia"
+  },
+  "scenario": "Cerita",
+  "introduction": "Pengenalan",
+  "colorCode": "Warna Imej",
+  "skinColorCode": "Warna Kulit",
+  "skinShadowColorCode1": "Warna 1 Bayang Kulit",
+  "skinShadowColorCode2": "Warna 2 Bayang Kulit",
+  "height": "Ketinggian",
+  "birthday": "Hari Jadi",
+  "characterVoice": "Pelakon Suara",
+  "school": "Sekolah",
+  "schoolYear": "Kelas",
+  "hobby": "Hobi",
+  "specialSkill": "Kepakaran",
+  "favoriteFood": "Makanan Kegemaran",
+  "hatedFood": "Makanan Dibenci",
+  "weak": "Kelemahan"
+}
