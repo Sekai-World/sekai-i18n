@@ -5,7 +5,7 @@
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Nama",
       "sekai_user_rank": "Kedudukan",
-      "update_left": "Jumlah kemas kini digunakan {{ used }} / {{ allowed }}",
+      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
       "sekai_id_verify": "Sahkan",
       "sekai_id_verify_step_1_title": "Buka Profil",
       "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
