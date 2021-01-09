@@ -19,7 +19,7 @@
   "assumption": "Anggapan: ALL PERFECT, permainan ramai semua mempunyai pasukan yang sama, tiada bonus penggalak naik tahap.",
   "result": {
     "eventPointPerPlay": "Mata Acara Per Permainan",
-    "playClount": "Jumlah Keseluruhan Permainan",
+    "playClount": "Jumlah Bilangan Permainan",
     "playTime": "Jumlah Masa Permainan",
     "useBoost": "Jumlah Penggalak Digunakan",
     "totalPoint": "Jumlah Mata Acara"
