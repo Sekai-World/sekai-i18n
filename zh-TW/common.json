@@ -3,6 +3,7 @@
   "comment": "評論",
   "announcement": "公告",
   "home": "主頁",
+  "translation": "翻譯",
   "card": "卡牌",
   "music": "樂曲",
   "gacha": "招募",
@@ -34,14 +35,6 @@
     "title": "設置"
   },
   "user": "用戶",
-  "language": "語言",
-  "darkmode": "顯示主題",
-  "contentTranslationMode": {
-    "title": "遊戲內容顯示模式",
-    "original": "原始",
-    "translated": "翻譯 (如果已翻譯)",
-    "both": "皆顯示"
-  },
   "id": "編號",
   "title": "標題",
   "unit": "組合",
@@ -84,12 +77,21 @@
     "minute": "分鐘",
     "second": "秒"
   },
+  "language": "語言",
+  "darkmode": "顯示主題",
+  "contentTranslationMode": {
+    "title": "遊戲內容顯示模式",
+    "original": "原始",
+    "translated": "翻譯 (如果已翻譯)",
+    "both": "皆顯示"
+  },
   "spoiler": "劇透",
   "delete": "移除",
   "all": "全部",
   "search": "搜尋",
   "replace": "取代",
   "load": "載入",
+  "modify": "修改<br>",
   "login": "登錄",
   "reset_password": "重設密碼",
   "signup": "註冊",
