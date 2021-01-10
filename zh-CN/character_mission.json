@@ -6,6 +6,6 @@
   "read_area_talk": "阅读｢{{- name}}｣的{{count}}种地图会话。",
   "skill_level_up": "提升｢{{- name}}｣的技能等级{{count}}次。",
   "master_rank": "累计提升｢{{- name}}｣的Master Rank{{count}}次。",
-  "read_card_episode_first": "阅读｢{{- name}}｣的番外前篇{{count}}次。",
+  "read_card_episode_first": "解锁并阅读｢{{- name}}｣的番外前篇{{count}}次。",
   "read_card_episode_second": "阅读｢{{- name}}｣的番外后篇{{count}}次。"
 }
