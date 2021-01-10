@@ -7,6 +7,11 @@
     "ascending": "升序",
     "descending": "降序"
   },
+  "honorType": {
+    "caption": "头衔类型",
+    "group_only_once": "每组只显示一项"
+  },
+  "not_set": "未指定",
   "missionType": {
     "caption": "任务类型"
   },
