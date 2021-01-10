@@ -11,7 +11,7 @@
       "target_title": "Titulo objetivo",
       "target_desc": "Descripcion objetivo"
     },
-    "target_lang": "lenguaje objetivo",
+    "target_lang": "Idioma objetivo",
     "button": {
       "copy_source": "Copiar cadena de origen"
     },
