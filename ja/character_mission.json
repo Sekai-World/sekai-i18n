@@ -1,0 +1,11 @@
+{
+  "play_live": "｢{{- name}}｣をリーダーにして{{count}}回ライブしよう。",
+  "waiting_room": "｢{{- name}}｣を控え室まで{{count}}回迎えよう。",
+  "collect_costume_3d": "｢{{- name}}｣のライブ衣装を衣装ショップ・ガチャ・マスターランクアップで{{count}}着獲得しよう。",
+  "collect_stamp": "｢{{- name}}｣のスタンプを{{count}}種類入手しよう。",
+  "read_area_talk": "｢{{- name}}｣のエリア会話を{{count}}種類見よう。",
+  "skill_level_up": "｢{{- name}}｣のスキルレベルを{{count}}回アップしよう。",
+  "master_rank": "｢{{- name}}｣のマスターランクを累計{{count}}回ランクアップしよう。",
+  "read_card_episode_first": "｢{{- name}}｣のサイドストーリー前編を{{count}}種類読もう。",
+  "read_card_episode_second": "｢{{- name}}｣のサイドストーリー後編を{{count}}種類読もう。"
+}

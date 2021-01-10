@@ -33,7 +33,8 @@
     "collect_stamp": "Collect Stamp",
     "read_area_talk": "Read Area Talk",
     "read_card_episode_first": "Read Card Episode First Part",
-    "read_card_episode_second": "Read Card Episode Second Part"
+    "read_card_episode_second": "Read Card Episode Second Part",
+    "skill_level_up": "Skill Level Up"
   },
   "requirement": "Required Amount",
   "mission_group": "Mission Group"
