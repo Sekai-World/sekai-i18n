@@ -1,37 +1,18 @@
 {
   "profile": {
-    "label": {
-      "sekai_id_not_verified": "Belum Disahkan",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nama",
-      "sekai_user_rank": "Kedudukan",
-      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
-      "sekai_id_verify": "Sahkan",
-      "sekai_id_verify_step_1_title": "Buka Profil",
-      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
-      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
-      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\"."
-    },
-    "button": {
-      "bind_sekai_id": "Sambung",
-      "verify_sekai_id": "Sahkan",
-      "show_email": "Tunjukkan"
-    },
-    "error": {
-      "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
-      "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
-    },
     "upload_avatar": "Muat Naik Avatar",
     "username": "Nama Pengguna",
     "nickname": "Nama Paparan",
     "role": "Peranan",
     "email": "E-mel",
-    "email_confirmed": "E-mel Disahkan",
-    "sekai_id": "ID Pengguna Sekai",
-    "title": {
-      "user_event": "Acara Pengguna Sekai",
-      "user_deck": "Dek Pengguna Sekai"
+    "button": {
+      "show_email": "Tunjukkan",
+      "bind_sekai_id": "Sambung",
+      "verify_sekai_id": "Sahkan",
+      "update_sekai_profile": "Kemas Kini Profil Sekai"
     },
+    "email_confirmed": "E-mel Disahkan",
+    "upload_avatar_error": "Gagal memuat naik avatar!",
     "event": {
       "current_name": "Acara semasa:",
       "current_record_info": "Catatan terakhir:",
@@ -39,7 +20,29 @@
       "current_record_rank": "Kedudukan acara:",
       "current_record_time": "Masa catatan:"
     },
-    "upload_avatar_error": "Gagal memuat naik avatar!",
+    "label": {
+      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Belum Disahkan",
+      "sekai_user_id": "ID Pengguna Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Kedudukan",
+      "sekai_id_verify": "Sahkan",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\"."
+    },
+    "error": {
+      "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
+      "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
+    },
+    "title": {
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Acara Pengguna Sekai",
+      "user_deck": "Dek Pengguna Sekai"
+    },
+    "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
       "true": "Ya",
       "false": "Tidak"
