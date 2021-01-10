@@ -1,11 +1,19 @@
 {
   "profile": {
+    "event": {
+      "current_name": "진행 중인 이벤트:",
+      "current_record_info": "마지막 기록:",
+      "current_record_point": "이벤트 포인트:",
+      "current_record_rank": "이벤트 랭킹:",
+      "current_record_time": "기록된 시간:"
+    },
     "label": {
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "인증되지 않음",
+      "sekai_user_id": "Sekai 유저 ID",
       "sekai_id_verify_token": "토큰",
       "sekai_user_name": "이름",
       "sekai_user_rank": "순위",
-      "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_verify": "인증",
       "sekai_id_verify_step_1_title": "프로필 열기",
       "sekai_id_verify_step_1_subtitle": "우상단의 \"Menu\" (1) 버튼을 누른 후, \"称号 & プロフィール\" (2) 버튼을 누릅니다.",
@@ -15,11 +23,17 @@
     "button": {
       "bind_sekai_id": "연결",
       "verify_sekai_id": "인증",
+      "update_sekai_profile": "세카이 프로필 업데이트",
       "show_email": "보기"
     },
     "error": {
       "sekai_id_already_bind": "이미 다른 사용자가 사용중인 Sekai ID 입니다.",
       "sekai_id_verify_failed": "소유권 인증에 실패했습니다. 프로필 패널을 저장하기 위해 창을 닫았나요?"
+    },
+    "title": {
+      "sekai_profile": "세카이 프로필",
+      "user_event": "Sekai 유저 이벤트",
+      "user_deck": "Sekai User Deck"
     },
     "upload_avatar": "프로필사진 업로드",
     "username": "ID",
@@ -27,19 +41,8 @@
     "role": "역할",
     "email": "E-mail",
     "email_confirmed": "확인된 E-mail",
-    "sekai_id": "Sekai 유저 ID",
-    "title": {
-      "user_event": "Sekai 유저 이벤트",
-      "user_deck": "Sekai User Deck"
-    },
-    "event": {
-      "current_name": "진행 중인 이벤트:",
-      "current_record_info": "마지막 기록:",
-      "current_record_point": "이벤트 포인트:",
-      "current_record_rank": "이벤트 랭킹:",
-      "current_record_time": "기록된 시간:"
-    },
     "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
+    "sekai_id": "Sekai 유저 ID",
     "email_confirmed_status": {
       "true": "네",
       "false": "아니오"
