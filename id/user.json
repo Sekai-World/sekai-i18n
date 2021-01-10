@@ -1,11 +1,19 @@
 {
   "profile": {
+    "event": {
+      "current_name": "Event saat ini:",
+      "current_record_info": "Rekaman terakhir:",
+      "current_record_point": "Event point:",
+      "current_record_rank": "Peringkat Event:",
+      "current_record_time": "Waktu rekaman:"
+    },
     "label": {
+      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "Tidak diverifikasi",
+      "sekai_user_id": "ID Pengguna Sekai",
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Nama",
       "sekai_user_rank": "Rank",
-      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
       "sekai_id_verify": "Verifikasi",
       "sekai_id_verify_step_1_title": "Buka Profil",
       "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
@@ -15,11 +23,17 @@
     "button": {
       "bind_sekai_id": "Bind",
       "verify_sekai_id": "Verifikasi",
+      "update_sekai_profile": "Perbarui Profil Sekai",
       "show_email": "Lihat"
     },
     "error": {
       "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain.",
       "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?"
+    },
+    "title": {
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Event Pengguna Sekai",
+      "user_deck": "Kartu Pengguna Sekai"
     },
     "upload_avatar": "Unggah Avatar",
     "username": "Nama pengguna",
@@ -27,19 +41,8 @@
     "role": "Role",
     "email": "Email",
     "email_confirmed": "Email Dikonfirmasi",
-    "sekai_id": "ID Pengguna Sekai",
-    "title": {
-      "user_event": "Event Pengguna Sekai",
-      "user_deck": "Kartu Pengguna Sekai"
-    },
-    "event": {
-      "current_name": "Event saat ini:",
-      "current_record_info": "Rekaman terakhir:",
-      "current_record_point": "Event point:",
-      "current_record_rank": "Peringkat Event:",
-      "current_record_time": "Waktu rekaman:"
-    },
     "upload_avatar_error": "Gagal mengunggah avatar!",
+    "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
       "true": "Ya",
       "false": "Tidak"
