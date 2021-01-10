@@ -23,7 +23,7 @@
     "button": {
       "bind_sekai_id": "绑定",
       "verify_sekai_id": "验证",
-      "update_sekai_profile": "更新Sekai档案",
+      "update_sekai_profile": "更新Sekai个人档案",
       "show_email": "显示"
     },
     "error": {
