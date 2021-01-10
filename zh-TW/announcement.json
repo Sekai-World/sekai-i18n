@@ -1,8 +1,11 @@
 {
   "category": "類別",
-  "author": "作者",
   "published_at": "發表於",
-  "no_entry": "沒有条目。",
+  "co-authors": "共筆者<br>",
+  "no_entry": "沒有條目。",
+  "title": "標題",
+  "language": "語言",
+  "author": "作者",
   "categoryName": {
     "website": "網站",
     "normal": "其他",
