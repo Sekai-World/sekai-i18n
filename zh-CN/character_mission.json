@@ -1,5 +1,5 @@
 {
-  "play_live": "｢{{- name}}｣作为队长进行{{count}}Live。",
+  "play_live": "｢{{- name}}｣作为队长进行{{count}}次Live。",
   "waiting_room": "在休息室迎来｢{{- name}}｣{{count}}次。",
   "collect_costume_3d": "通过服装店购买、抽卡或提升Master Rank来解锁｢{{- name}}｣的{{count}}衣服。",
   "collect_stamp": "获得｢{{- name}}｣的{{count}}张表情贴图贴图。",
