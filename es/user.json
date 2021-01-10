@@ -1,0 +1,51 @@
+{
+  "profile": {
+    "upload_avatar": "Cargar avatar",
+    "username": "Nombre de usuario",
+    "nickname": "Nombre publico",
+    "role": "Rol",
+    "email": "Email",
+    "button": {
+      "show_email": "Mostrar",
+      "bind_sekai_id": "Enlazar",
+      "verify_sekai_id": "Verificar",
+      "update_sekai_profile": "Actualizar Perfil sekai"
+    },
+    "email_confirmed": "Email confirmado",
+    "upload_avatar_error": "Error al cargar avatar",
+    "event": {
+      "current_name": "Evento actual",
+      "current_record_info": "Ultimo Record",
+      "current_record_point": "Puntos de evento:",
+      "current_record_rank": "Ranking de evento:",
+      "current_record_time": "Tiempo Record"
+    },
+    "label": {
+      "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
+      "sekai_id_not_verified": "No verificado",
+      "sekai_user_id": "ID de usuario Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nombre",
+      "sekai_user_rank": "Rango",
+      "sekai_id_verify": "Verificar",
+      "sekai_id_verify_step_1_title": "Abrir perfil",
+      "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
+      "sekai_id_verify_step_2_title": "Escribe token y guarda",
+      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\""
+    },
+    "error": {
+      "sekai_id_already_bind": "La ID de Sekai ya está vinculada a otro usuario.",
+      "sekai_id_verify_failed": "No se pudo verificar la propiedad. ¿Dejaste el panel de perfil para guardar?"
+    },
+    "title": {
+      "sekai_profile": "Perfil sekai",
+      "user_event": "Evento de usuario sekai",
+      "user_deck": "Targetas de usuario de Sekai"
+    },
+    "sekai_id": "ID de usuario sekai",
+    "email_confirmed_status": {
+      "true": "Si",
+      "false": "No"
+    }
+  }
+}
