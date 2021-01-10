@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "原文",
+      "target": "目標"
+    },
+    "source_lang": "原文語言",
+    "announcement": {
+      "source_title": "原文標題",
+      "source_desc": "原文描述",
+      "target_title": "目標標題",
+      "target_desc": "目標描述"
+    },
+    "target_lang": "目標語言",
+    "button": {
+      "copy_source": "複製原文代碼"
+    },
+    "target_contributors": "貢獻者",
+    "dialog": {
+      "copy_source": {
+        "title": "複製原文代碼",
+        "text": "你會複製所有原文的代碼到翻譯區域，所有在翻譯區域內未提交的翻譯文本將會被取代。",
+        "confirm": "確認",
+        "cancel": "取消"
+      }
+    },
+    "submit-status": {
+      "success": "成功",
+      "failed": "失敗"
+    }
+  },
+  "button": {
+    "mark_unfinished": "標記為翻譯中",
+    "mark_finished": "標記為完成",
+    "continue_translate": "繼續翻譯",
+    "start_translate": "開始翻譯"
+  },
+  "status": {
+    "finished": "完成",
+    "inprogress": "翻譯中"
+  },
+  "error": {
+    "lang_mismatch": "錯誤配對語言。"
+  },
+  "title": {
+    "my_works": "進行中的翻譯",
+    "available_contents": "可供翻譯的內容"
+  }
+}

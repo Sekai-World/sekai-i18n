@@ -1,0 +1,23 @@
+{
+  "live_characters": "Personajes",
+  "rewards": "Recompensas",
+  "title": {
+    "schedules": "Horarios",
+    "setlist": "Escenario"
+  },
+  "schedule": {
+    "start": "Empiezo",
+    "end": "Termina"
+  },
+  "mc": {
+    "character_unspawn": "Personaje que desaparece"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Principiante"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Live Musical"
+  }
+}

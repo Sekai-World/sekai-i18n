@@ -3,6 +3,7 @@
   "comment": "Comentarios",
   "announcement": "Anuncios",
   "home": "Inicio",
+  "translation": "Traducción",
   "card": "Carta",
   "music": "Música",
   "gacha": "Gacha",
@@ -34,14 +35,6 @@
     "title": "Configuración"
   },
   "user": "Usuario",
-  "language": "Idioma",
-  "darkmode": "Modo de brillo",
-  "contentTranslationMode": {
-    "title": "Modo de Visualización de Contenido del Juego",
-    "original": "Original",
-    "translated": "Traducido (si está disponible)",
-    "both": "Mostrar ambos"
-  },
   "id": "ID",
   "title": "Título",
   "unit": "Unidad",
@@ -84,12 +77,21 @@
     "minute": "Minutos",
     "second": "Segundos"
   },
+  "language": "Idioma",
+  "darkmode": "Modo de brillo",
+  "contentTranslationMode": {
+    "title": "Modo de Visualización de Contenido del Juego",
+    "original": "Original",
+    "translated": "Traducido (si está disponible)",
+    "both": "Mostrar ambos"
+  },
   "spoiler": "Spoiler",
   "delete": "Borrar",
   "all": "Todo",
   "search": "Buscar",
   "replace": "Reemplazar",
   "load": "Cargar",
+  "modify": "Modificar",
   "login": "Iniciar sesión",
   "reset_password": "Resetear Contraseña.",
   "signup": "Registrarse",

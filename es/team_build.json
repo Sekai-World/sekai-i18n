@@ -1,0 +1,12 @@
+{
+  "saveTeamDialog": {
+    "title": "Guardar equipo",
+    "desc": "Guarde la nueva entrada del equipo o reemplace la entrada del equipo existente."
+  },
+  "noTeams": "No hay entradas de equipo guardadas.",
+  "saveNewEntry": "Guardar nueva entrada de equipo",
+  "loadTeamDialog": {
+    "title": "Cargar Equipó",
+    "desc": "Cargar equipo de las entradas de equipo guardadas."
+  }
+}
