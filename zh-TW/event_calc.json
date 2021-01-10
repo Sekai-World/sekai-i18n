@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "選擇歌曲",
+    "desc": "請選擇要計算的歌曲。",
+    "select": {
+      "song": "樂曲",
+      "difficulty": "難度"
+    }
+  },
+  "gameData": {
+    "label": "遊戲數據",
+    "desc": "填寫遊戲數據以進行計算",
+    "energyDrink": "需要的能量",
+    "currentPoint": "目前活動pt",
+    "targetPoint": "目標活動pt",
+    "remainingTime": "活動剩餘時間",
+    "eventBonusRate": "活動pt獎勵(％)"
+  },
+  "assumption": "以AP,隊友有相同總合力作計算",
+  "result": {
+    "eventPointPerPlay": "活動pt/局數",
+    "playClount": "所需的總局數",
+    "playTime": "所需的總時間",
+    "useBoost": "所需的總能量",
+    "totalPoint": "總活動pt"
+  }
+}
