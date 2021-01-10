@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Fuente",
+      "target": "Objetivo"
+    },
+    "source_lang": "Lenguaje de la fuente",
+    "announcement": {
+      "source_title": "Titulo de la fuente",
+      "source_desc": "Descripción de la fuente",
+      "target_title": "Titulo objetivo",
+      "target_desc": "Descripcion objetivo"
+    },
+    "target_lang": "lenguaje objetivo",
+    "button": {
+      "copy_source": "Copiar cadena de origen"
+    },
+    "target_contributors": "Colaboradores",
+    "dialog": {
+      "copy_source": {
+        "title": "Copiar cadenas de origen",
+        "text": "Se Copiará todas las cadenas de origen en el área de destino, se perderá todo el trabajo no enviado en el área de destino.",
+        "confirm": "Confirmar",
+        "cancel": "Cancelar"
+      }
+    },
+    "submit-status": {
+      "success": "Éxito",
+      "failed": "Fallido"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Marcar como en Progresó",
+    "mark_finished": "Marcar cómo Finalizado",
+    "continue_translate": "Continuar Trabajo",
+    "start_translate": "Iniciar traducción"
+  },
+  "status": {
+    "finished": "Finalizado",
+    "inprogress": "En progreso"
+  },
+  "error": {
+    "lang_mismatch": "Discordancia de lenguaje"
+  },
+  "title": {
+    "my_works": "Obras existentes",
+    "available_contents": "Contenido Disponible"
+  }
+}
