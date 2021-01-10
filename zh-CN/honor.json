@@ -1,0 +1,15 @@
+{
+  "page_title": "头衔",
+  "honor_group": "头衔组",
+  "rarity": {
+    "low": "低",
+    "middle": "中",
+    "high": "高",
+    "highest": "最高"
+  },
+  "type": {
+    "character": "角色",
+    "achievement": "成就",
+    "event": "活动"
+  }
+}
