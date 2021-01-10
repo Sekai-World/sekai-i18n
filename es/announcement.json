@@ -1,8 +1,11 @@
 {
   "category": "Categoría",
-  "author": "Autor",
   "published_at": "Publicado el",
+  "co-authors": "Co-autores",
   "no_entry": "Sin entradas",
+  "title": "Título",
+  "language": "Idioma",
+  "author": "Autor",
   "categoryName": {
     "website": "Sitio Web",
     "normal": "Otros",
