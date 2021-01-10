@@ -4,14 +4,14 @@
       "source": "Fuente",
       "target": "Objetivo"
     },
-    "source_lang": "Lenguaje de la fuente",
+    "source_lang": "Idioma fuente",
     "announcement": {
       "source_title": "Titulo de la fuente",
       "source_desc": "Descripción de la fuente",
       "target_title": "Titulo objetivo",
       "target_desc": "Descripcion objetivo"
     },
-    "target_lang": "lenguaje objetivo",
+    "target_lang": "Idioma objetivo",
     "button": {
       "copy_source": "Copiar cadena de origen"
     },
@@ -40,7 +40,7 @@
     "inprogress": "En progreso"
   },
   "error": {
-    "lang_mismatch": "Discordancia de lenguaje"
+    "lang_mismatch": "Discordancia de Idioma"
   },
   "title": {
     "my_works": "Obras existentes",
