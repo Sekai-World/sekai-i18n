@@ -1,5 +1,18 @@
 {
   "profile": {
+    "upload_avatar": "Upload Avatar",
+    "username": "Username",
+    "nickname": "Display Name",
+    "role": "Role",
+    "email": "Email",
+    "button": {
+      "show_email": "Show",
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Verify",
+      "update_sekai_profile": "Update Sekai Profile"
+    },
+    "email_confirmed": "Email Confirmed",
+    "upload_avatar_error": "Failed to upload avatar!",
     "event": {
       "current_name": "Current event:",
       "current_record_info": "Last record:",
@@ -20,12 +33,6 @@
       "sekai_id_verify_step_2_title": "Write token and save",
       "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button."
     },
-    "button": {
-      "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Verify",
-      "update_sekai_profile": "Update Sekai Profile",
-      "show_email": "Show"
-    },
     "error": {
       "sekai_id_already_bind": "Sekai ID is already bound to another user.",
       "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?"
@@ -35,13 +42,6 @@
       "user_event": "Sekai User Event",
       "user_deck": "Sekai User Deck"
     },
-    "upload_avatar": "Upload Avatar",
-    "username": "Username",
-    "nickname": "Display Name",
-    "role": "Role",
-    "email": "Email",
-    "email_confirmed": "Email Confirmed",
-    "upload_avatar_error": "Failed to upload avatar!",
     "sekai_id": "Sekai User ID",
     "email_confirmed_status": {
       "true": "Yes",
