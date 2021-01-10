@@ -1,11 +1,19 @@
 {
   "profile": {
+    "event": {
+      "current_name": "Événement en cours :",
+      "current_record_info": "Dernier record :",
+      "current_record_point": "Points d'événement :",
+      "current_record_rank": "Classement d'événement :",
+      "current_record_time": "Record de temps :"
+    },
     "label": {
+      "update_left": "Mise à jour du compte utilisé : {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "Non vérifié",
+      "sekai_user_id": "Identifiant Sekai",
       "sekai_id_verify_token": "Code",
       "sekai_user_name": "Nom",
       "sekai_user_rank": "Rang",
-      "update_left": "Mise à jour du compte utilisé : {{ used }} / {{ allowed }}",
       "sekai_id_verify": "Vérifié",
       "sekai_id_verify_step_1_title": "Ouvrir le profil",
       "sekai_id_verify_step_1_subtitle": "Appuyez sur le bouton « Menu » (1) dans le coin supérieur droit, puis sur le bouton « 称号 & プロフィール » (2)",
@@ -15,11 +23,17 @@
     "button": {
       "bind_sekai_id": "Lier",
       "verify_sekai_id": "Vérifier",
+      "update_sekai_profile": "Mettre à jour le profil Sekai",
       "show_email": "Afficher"
     },
     "error": {
       "sekai_id_already_bind": "L'identifiant Sekai est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification de la détention. Avez-vous quitté le panneau de profil pour sauvegarder ?"
+    },
+    "title": {
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Événement de l'utilisateur Sekai",
+      "user_deck": "Équipe de l'utilisateur Sekai"
     },
     "upload_avatar": "Ajouter un avatar",
     "username": "Nom d'utilisateur",
@@ -27,19 +41,8 @@
     "role": "Rôle",
     "email": "Email",
     "email_confirmed": "Email confirmé",
-    "sekai_id": "Identifiant Sekai",
-    "title": {
-      "user_event": "Événement de l'utilisateur Sekai",
-      "user_deck": "Équipe de l'utilisateur Sekai"
-    },
-    "event": {
-      "current_name": "Événement en cours :",
-      "current_record_info": "Dernier record :",
-      "current_record_point": "Points d'événement :",
-      "current_record_rank": "Classement d'événement :",
-      "current_record_time": "Record de temps :"
-    },
     "upload_avatar_error": "Échec du chargement de l'avatar !",
+    "sekai_id": "Identifiant Sekai",
     "email_confirmed_status": {
       "true": "Oui",
       "false": "Non"
