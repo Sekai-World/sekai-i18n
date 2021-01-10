@@ -7,6 +7,11 @@
     "ascending": "Ascending",
     "descending": "Descending"
   },
+  "honorType": {
+    "caption": "Title Type",
+    "group_only_once": "Only show one in each group"
+  },
+  "not_set": "Not set",
   "missionType": {
     "caption": "Mission Type"
   },

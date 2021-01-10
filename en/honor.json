@@ -1,3 +1,15 @@
 {
-  "honor_group": "Title Group"
+  "page_title": "Titles",
+  "honor_group": "Title Group",
+  "rarity": {
+    "low": "Low",
+    "middle": "Middle",
+    "high": "High",
+    "highest": "Highest"
+  },
+  "type": {
+    "character": "Character",
+    "achievement": "Achievement",
+    "event": "Event"
+  }
 }

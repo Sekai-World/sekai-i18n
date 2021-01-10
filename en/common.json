@@ -66,10 +66,10 @@
   },
   "campaign": "Campaign",
   "bug": "Bug",
+  "level": "Level",
+  "description": "Description",
   "apply": "Apply",
   "profile": "Profile",
-  "description": "Description",
-  "level": "Level",
   "character_plural": "Characters",
   "countdown": {
     "day": "Days",
