@@ -1,11 +1,19 @@
 {
   "profile": {
+    "event": {
+      "current_name": "當前活動：",
+      "current_record_info": "上一條記錄：",
+      "current_record_point": "活動pt：",
+      "current_record_rank": "活動排名：",
+      "current_record_time": "記錄時間："
+    },
     "label": {
+      "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "未驗證",
+      "sekai_user_id": "遊戲ID",
       "sekai_id_verify_token": "令牌",
       "sekai_user_name": "名字",
       "sekai_user_rank": "等級",
-      "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
       "sekai_id_verify": "驗證",
       "sekai_id_verify_step_1_title": "打開個人檔案",
       "sekai_id_verify_step_1_subtitle": "點擊右上角的＂菜單＂(1)按鈕，然後點擊＂稱號 & プロフィール＂(2)按鈕",
@@ -15,11 +23,17 @@
     "button": {
       "bind_sekai_id": "綁定",
       "verify_sekai_id": "驗證",
+      "update_sekai_profile": "更新遊戲個人資料",
       "show_email": "顯示"
     },
     "error": {
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
       "sekai_id_verify_failed": "無法驗證所有者，你是否忘記了離開資料界面以保存？"
+    },
+    "title": {
+      "sekai_profile": "遊戲個人資料",
+      "user_event": "用戶活動數據",
+      "user_deck": "用戶卡組"
     },
     "upload_avatar": "上傳頭像",
     "username": "用戶名",
@@ -27,19 +41,8 @@
     "role": "角色",
     "email": "電子郵件",
     "email_confirmed": "己確認電子郵件",
-    "sekai_id": "遊戲ID",
-    "title": {
-      "user_event": "用戶活動數據",
-      "user_deck": "用戶卡組"
-    },
-    "event": {
-      "current_name": "當前活動：",
-      "current_record_info": "上一條記錄：",
-      "current_record_point": "活動pt：",
-      "current_record_rank": "活動排名：",
-      "current_record_time": "記錄時間："
-    },
     "upload_avatar_error": "無法上傳頭像！",
+    "sekai_id": "遊戲ID",
     "email_confirmed_status": {
       "true": "是",
       "false": "否"
