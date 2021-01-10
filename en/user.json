@@ -1,11 +1,19 @@
 {
   "profile": {
+    "event": {
+      "current_name": "Current event:",
+      "current_record_info": "Last record:",
+      "current_record_point": "Event points:",
+      "current_record_rank": "Event ranking:",
+      "current_record_time": "Record time:"
+    },
     "label": {
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "Not Verified",
+      "sekai_user_id": "Sekai User ID",
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Name",
       "sekai_user_rank": "Rank",
-      "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_verify": "Verify",
       "sekai_id_verify_step_1_title": "Open Profile",
       "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
@@ -15,11 +23,17 @@
     "button": {
       "bind_sekai_id": "Bind",
       "verify_sekai_id": "Verify",
+      "update_sekai_profile": "Update Sekai Profile",
       "show_email": "Show"
     },
     "error": {
       "sekai_id_already_bind": "Sekai ID is already bound to another user.",
       "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?"
+    },
+    "title": {
+      "sekai_profile": "Sekai Profile",
+      "user_event": "Sekai User Event",
+      "user_deck": "Sekai User Deck"
     },
     "upload_avatar": "Upload Avatar",
     "username": "Username",
@@ -27,19 +41,8 @@
     "role": "Role",
     "email": "Email",
     "email_confirmed": "Email Confirmed",
-    "sekai_id": "Sekai User ID",
-    "title": {
-      "user_event": "Sekai User Event",
-      "user_deck": "Sekai User Deck"
-    },
-    "event": {
-      "current_name": "Current event:",
-      "current_record_info": "Last record:",
-      "current_record_point": "Event points:",
-      "current_record_rank": "Event ranking:",
-      "current_record_time": "Record time:"
-    },
     "upload_avatar_error": "Failed to upload avatar!",
+    "sekai_id": "Sekai User ID",
     "email_confirmed_status": {
       "true": "Yes",
       "false": "No"
