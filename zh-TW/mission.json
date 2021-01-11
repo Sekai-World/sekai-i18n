@@ -33,7 +33,8 @@
     "collect_stamp": "收集貼圖",
     "read_area_talk": "觀看區域對話",
     "read_card_episode_first": "觀看卡面劇情前編",
-    "read_card_episode_second": "觀看卡面劇情後編"
+    "read_card_episode_second": "觀看卡面劇情後編",
+    "skill_level_up": "提升技能等級"
   },
   "requirement": "需要數量",
   "mission_group": "目標類型"
