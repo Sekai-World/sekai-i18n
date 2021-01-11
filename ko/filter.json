@@ -7,6 +7,11 @@
     "ascending": "오름차순",
     "descending": "내림차순"
   },
+  "honorType": {
+    "caption": "칭호 분류",
+    "group_only_once": "같은 그룹의 칭호를 하나로 표시"
+  },
+  "not_set": "미설정",
   "missionType": {
     "caption": "미션 종류"
   },
