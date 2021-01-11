@@ -8,6 +8,12 @@
   },
   "remainingTime": "残り時間",
   "progress": "進捗",
+  "eventCards": "イベント限定カード",
+  "title": {
+    "boost": "ブースト",
+    "timepoint": "時点",
+    "rankingRewards": "ランキング報酬"
+  },
   "boostAttribute": "ボーナスタイプ",
   "boostCharacters": "ボーナスキャラクター",
   "maxBoost": "ボーナス(両方一致）",
@@ -17,9 +23,42 @@
   "rankingAnnounceAt": "ランキング公開時間",
   "distributionStartAt": "報酬配布時間",
   "distributionEndAt": "報酬受け取り期限",
+  "rankingReward": {
+    "start": "開始日",
+    "end": "終了日"
+  },
+  "no_enough_data": "データ不足",
+  "tracker": {
+    "select": {
+      "event_name": "イベント名",
+      "rankings": "ランキング"
+    },
+    "button": {
+      "curr_event": "現在のイベント",
+      "graph": "グラフを読み込む",
+      "random-palette": "パレットをランダム生成"
+    },
+    "title": {
+      "data_graph": "イベントポイントグラフ",
+      "average_speed": "平均速度"
+    }
+  },
   "ranking": "ランキング",
+  "speedTable": {
+    "head": {
+      "all_time": "全期間(一時間ごと)",
+      "last_24h": "終了前の24時間(時間毎)",
+      "last_1h": "終了前の1時間(時間毎)"
+    }
+  },
   "realtime": "更新時間",
   "nextfetch": "次の取得",
+  "rankingTable": {
+    "head": {
+      "userProfile": "ユーザー",
+      "score": "ポイント"
+    }
+  },
   "aggregateAt": "集計開始時間",
   "alreadyPast": "経過時間",
   "type": {
