@@ -1,0 +1,15 @@
+{
+  "page_title": "칭호",
+  "honor_group": "칭호 그룹",
+  "rarity": {
+    "low": "낮음",
+    "middle": "보통",
+    "high": "높음",
+    "highest": "최상"
+  },
+  "type": {
+    "character": "캐릭터",
+    "achievement": "도전과제(업적)",
+    "event": "이벤트"
+  }
+}
