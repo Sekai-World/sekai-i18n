@@ -1,8 +1,11 @@
 {
   "category": "種類",
-  "author": "作成者",
   "published_at": "で公開",
+  "co-authors": "開発協力者",
   "no_entry": "エントリはありません。",
+  "title": "タイトル",
+  "language": "言語",
+  "author": "作成者",
   "categoryName": {
     "website": "ウェブサイト",
     "normal": "その他",
