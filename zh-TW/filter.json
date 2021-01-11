@@ -7,6 +7,11 @@
     "ascending": "遞增",
     "descending": "遞減"
   },
+  "honorType": {
+    "caption": "類型",
+    "group_only_once": "每組只顯示一個"
+  },
+  "not_set": "沒有設置",
   "missionType": {
     "caption": "任務類型"
   },
