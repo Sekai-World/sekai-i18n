@@ -1,3 +1,15 @@
 {
-  "honor_group": "Kumpulan Gelaran"
+  "page_title": "Gelaran",
+  "honor_group": "Kumpulan Gelaran",
+  "rarity": {
+    "low": "Rendah",
+    "middle": "Sederhana",
+    "high": "Tinggi",
+    "highest": "Tertinggi"
+  },
+  "type": {
+    "character": "Watak",
+    "achievement": "Pencapaian",
+    "event": "Acara"
+  }
 }
