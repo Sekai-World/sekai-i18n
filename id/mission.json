@@ -3,7 +3,7 @@
     "charaName": "Nama Karakter"
   },
   "type": {
-    "caption": "Tipe Misi",
+    "caption": "Jenis Misi",
     "clear_live": "Live Selesai",
     "player_rank": "Rank Pemain",
     "login": "Login",
