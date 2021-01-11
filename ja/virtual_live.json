@@ -1,0 +1,23 @@
+{
+  "live_characters": "キャラクター",
+  "rewards": "報酬",
+  "title": {
+    "schedules": "開催予定",
+    "setlist": "あらすじ"
+  },
+  "schedule": {
+    "start": "開始",
+    "end": "終了"
+  },
+  "mc": {
+    "character_unspawn": "キャラクターが退場"
+  },
+  "type": {
+    "normal": "通常",
+    "beginner": "スタートダッシュ"
+  },
+  "step": {
+    "mc": "キャスト",
+    "music": "音楽ライブ"
+  }
+}
