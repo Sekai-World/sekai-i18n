@@ -7,8 +7,13 @@
     "ascending": "Naik",
     "descending": "Turun"
   },
+  "honorType": {
+    "caption": "Jenis Judul",
+    "group_only_once": "Hanya tampilkan satu di setiap grup"
+  },
+  "not_set": "Tidak diatur",
   "missionType": {
-    "caption": "Tipe Misi"
+    "caption": "Jenis Misi"
   },
   "music_tag": {
     "caption": "Tag lagu"
