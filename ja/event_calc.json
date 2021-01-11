@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "楽曲の選択",
+    "desc": "分析する楽曲を選んでください",
+    "select": {
+      "song": "楽曲",
+      "difficulty": "難易度"
+    }
+  },
+  "gameData": {
+    "label": "ゲームデータ",
+    "desc": "計算のためのゲームデータを入力してください",
+    "energyDrink": "ブースト数",
+    "currentPoint": "現在の得点",
+    "targetPoint": "目標得点",
+    "remainingTime": "イベント残り時間",
+    "eventBonusRate": "イベントボーナス率(%)"
+  },
+  "assumption": "仮定：AP達成、マルチモードで全員同じ編成、レベルアップのブーストボーナスを考えない",
+  "result": {
+    "eventPointPerPlay": "一回当たりのイベントポイント",
+    "playClount": "総プレイ回数",
+    "playTime": "総プレイ時間",
+    "useBoost": "ブースト総消費量",
+    "totalPoint": "総イベントポイント"
+  }
+}
