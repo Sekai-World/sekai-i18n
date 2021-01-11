@@ -1,0 +1,11 @@
+{
+  "play_live": "｢{{- name}}｣ 을 리더로 해서 {{count}} 회 라이브를 하자",
+  "waiting_room": "｢{{- name}}｣ 을 대기실에 {{count}} 회 맞이하자",
+  "collect_costume_3d": "｢{{- name}}｣의 라이브의상을 의상숍・가챠・마스터랭크 업으로 {{count}}벌 얻자",
+  "collect_stamp": "｢{{- name}}｣의 스탬프를 {{count}}종류 입수하자",
+  "read_area_talk": "｢{{- name}}｣의 에리어 대화를 {{count}}가지 보자",
+  "skill_level_up": "｢{{- name}}｣의 스킬 레벨을 {{count}}회 올려보자",
+  "master_rank": "｢{{- name}}｣의 마스터랭크를 누적 {{count}}회 올려보자",
+  "read_card_episode_first": "｢{{- name}}｣의 사이드 스토리 전편을 {{count}}종류 읽어보자",
+  "read_card_episode_second": "｢{{- name}}｣의 사이드 스토리 후편을 {{count}}종류 읽어보자"
+}
