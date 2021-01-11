@@ -33,7 +33,8 @@
     "collect_stamp": "스탬프 수집",
     "read_area_talk": "에리어 대화 읽기",
     "read_card_episode_first": "사이드 스토리 전편 읽기",
-    "read_card_episode_second": "사이드 스토리 후편 읽기"
+    "read_card_episode_second": "사이드 스토리 후편 읽기",
+    "skill_level_up": "스킬 레벨 업"
   },
   "requirement": "요구되는 횟수",
   "mission_group": "미션 그룹"
