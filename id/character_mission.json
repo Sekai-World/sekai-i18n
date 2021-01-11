@@ -1,0 +1,11 @@
+{
+  "play_live": "({{- name}}) Lakukan {{count}} kali Live bersama",
+  "waiting_room": "({{- name}}) Bertemu {{count}} kali di Ruang Tunggu",
+  "collect_costume_3d": "({{- name}}) Dapatkan {{count}} Kostum Live di Toko Gacha Master Rank-up",
+  "collect_stamp": "({{- name}}) Dapatkan {{count}} jenis Stiker",
+  "read_area_talk": "({{- name}}) Melihat {{count}} jenis Percakapan Area",
+  "skill_level_up": "({{- name}}) Tingkatkan Level Skill hingga level {{count}}",
+  "master_rank": "({{- name}}) Tingkatkan Rank Master hingga rank {{count}}",
+  "read_card_episode_first": "({{- name}}) Baca {{count}} bagian pertama dari Cerita Spesial",
+  "read_card_episode_second": "({{- name}}) Baca {{count}} bagian kedua dari Cerita Spesial"
+}
