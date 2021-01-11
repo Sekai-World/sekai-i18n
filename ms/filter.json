@@ -7,6 +7,11 @@
     "ascending": "Menaik",
     "descending": "Menurun"
   },
+  "honorType": {
+    "caption": "Jenis Gelaran",
+    "group_only_once": "Tunjukkan satu sahaja dalam setiap kumpulan"
+  },
+  "not_set": "Tidak ditetapkan",
   "missionType": {
     "caption": "Jenis Misi"
   },
