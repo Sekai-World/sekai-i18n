@@ -1,0 +1,11 @@
+{
+  "play_live": "以「{{- name}}」為隊長進行{{count}}次演出",
+  "waiting_room": "在等候室迎接｢{{- name}}｣角色{{count}}次。",
+  "collect_costume_3d": "通過服裝商店、轉蛋、提升突破等級等獲得{{count}}件｢{{- name}}｣的虛擬演唱會服裝。",
+  "collect_stamp": "獲得{{count}}個｢{{- name}}｣的貼圖。",
+  "read_area_talk": "閱讀{{count}}個｢{{- name}}｣的區域對話。",
+  "skill_level_up": "提升｢{{- name}}｣的技能等級{{count}}次。",
+  "master_rank": "累計提升｢{{- name}}｣的突破等級{{count}}次。",
+  "read_card_episode_first": "閱讀{{count}}個｢{{- name}}｣的支線故事（前編）。",
+  "read_card_episode_second": "閱讀{{count}}個｢{{- name}}｣的支線故事（後編）。"
+}
