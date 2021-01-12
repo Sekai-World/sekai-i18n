@@ -1,0 +1,11 @@
+{
+  "play_live": "Put ｢{{- name}}｣ as the leader {{count}} times",
+  "waiting_room": "Meet ｢{{- name}}｣ in the waiting room {{count}} times",
+  "collect_costume_3d": "Get ｢{{- name}}｣ {{count}} clothes from either the costume shop or upgrading master rank",
+  "collect_stamp": "Get the stamps of ｢{{- name}}｣ {{count}} times",
+  "read_area_talk": "Read area conversations involving ｢{{- name}}｣ {{count}} times",
+  "skill_level_up": "Raise the skill level of ｢{{- name}}｣ {{count}} times",
+  "master_rank": "Raise the Master Rank of ｢{{- name}}｣{{count}} times",
+  "read_card_episode_first": "Read the first part of ｢{{- name}}｣'s side stories {{count}} times",
+  "read_card_episode_second": "Read the final part of ｢{{- name}}｣'s side stories {{count}} times"
+}
