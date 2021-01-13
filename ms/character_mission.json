@@ -1,6 +1,6 @@
 {
   "play_live": "Selesaikan LIVE dengan {{- name}} sebagai ketua sebanyak {{count}} kali.",
-  "waiting_room": "Dapatkan sapaan dari {{- name}} ketika masuk Bilik Menunggu sebanyak {{count}} kali.",
+  "waiting_room": "Dapatkan sapaan dari {{- name}} ketika masuk ke Bilik Menunggu sebanyak {{count}} kali.",
   "collect_costume_3d": "Dapatkan pakaian persembahan {{- name}} dari Kedai / Gacha / Naik Tahap MASTER sebanyak {{count}} helai.",
   "collect_stamp": "Dapatkan {{count}} cap yang berbeza milik {{- name}}.",
   "read_area_talk": "Lihatlah {{count}} perbualan kawasan yang dikatakan oleh {{- name}}.",
