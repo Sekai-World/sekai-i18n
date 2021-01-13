@@ -35,6 +35,8 @@
     "title": "Settings"
   },
   "user": "User",
+  "update": "Update",
+  "update-available": "New version available.",
   "id": "ID",
   "title": "Title",
   "unit": "Unit",
@@ -59,11 +61,6 @@
   "betaIndicator": "This function is in beta. Reporting bugs is welcomed.",
   "endAt": "Available Until",
   "show": "Show",
-  "detect": {
-    "checking": "Checking...",
-    "unsupported": "Unsupported",
-    "supported": "Supported"
-  },
   "campaign": "Campaign",
   "bug": "Bug",
   "level": "Level",
@@ -95,9 +92,13 @@
   "login": "Login",
   "reset_password": "Reset Password",
   "signup": "Sign Up",
+  "detect": {
+    "checking": "Checking...",
+    "unsupported": "Unsupported",
+    "supported": "Supported"
+  },
   "icon": "Icon",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",
-  "update": "Update",
   "member": "Character"
 }
