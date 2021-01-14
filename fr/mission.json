@@ -33,7 +33,8 @@
     "collect_stamp": "Collectionner les timbres",
     "read_area_talk": "Lire la zone de discussion",
     "read_card_episode_first": "Lire la première partie de la carte",
-    "read_card_episode_second": "Lire la seconde partie de la carte"
+    "read_card_episode_second": "Lire la seconde partie de la carte",
+    "skill_level_up": "Augmentation du niveau de compétence"
   },
   "requirement": "Nombre requis",
   "mission_group": "Mission de groupe"
