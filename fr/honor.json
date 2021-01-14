@@ -1,3 +1,15 @@
 {
-  "honor_group": "Titre du groupe"
+  "page_title": "Titres",
+  "honor_group": "Titre du groupe",
+  "rarity": {
+    "low": "Basse",
+    "middle": "Moyenne",
+    "high": "Élevée",
+    "highest": "Maximum"
+  },
+  "type": {
+    "character": "Personnage",
+    "achievement": "Objectif",
+    "event": "Événement"
+  }
 }
