@@ -1,5 +1,18 @@
 {
   "profile": {
+    "upload_avatar": "프로필사진 업로드",
+    "username": "ID",
+    "nickname": "닉네임",
+    "role": "역할",
+    "email": "E-mail",
+    "button": {
+      "show_email": "보기",
+      "bind_sekai_id": "연결",
+      "verify_sekai_id": "인증",
+      "update_sekai_profile": "세카이 프로필 업데이트"
+    },
+    "email_confirmed": "확인된 E-mail",
+    "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
     "event": {
       "current_name": "진행 중인 이벤트:",
       "current_record_info": "마지막 기록:",
@@ -20,12 +33,6 @@
       "sekai_id_verify_step_2_title": "토큰을 적고 저장합니다.",
       "sekai_id_verify_step_2_subtitle": "당신의 인증 토큰 {{verify_token}} 을 텍스트박스에 적고 (1), \"뒤로가기\" (2) 버튼을 눌러 저장합니다. 그 후 \"인증\" 버튼을 누릅니다."
     },
-    "button": {
-      "bind_sekai_id": "연결",
-      "verify_sekai_id": "인증",
-      "update_sekai_profile": "세카이 프로필 업데이트",
-      "show_email": "보기"
-    },
     "error": {
       "sekai_id_already_bind": "이미 다른 사용자가 사용중인 Sekai ID 입니다.",
       "sekai_id_verify_failed": "소유권 인증에 실패했습니다. 프로필 패널을 저장하기 위해 창을 닫았나요?"
@@ -35,13 +42,6 @@
       "user_event": "Sekai 유저 이벤트",
       "user_deck": "Sekai User Deck"
     },
-    "upload_avatar": "프로필사진 업로드",
-    "username": "ID",
-    "nickname": "닉네임",
-    "role": "역할",
-    "email": "E-mail",
-    "email_confirmed": "확인된 E-mail",
-    "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
     "sekai_id": "Sekai 유저 ID",
     "email_confirmed_status": {
       "true": "네",
