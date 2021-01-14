@@ -1,0 +1,11 @@
+{
+  "play_live": "Jouez {{count}} parties avec {{- name}} comme leader.",
+  "waiting_room": "Rencontrez {{- name}} dans la salle d'attente {{count}} fois.",
+  "collect_costume_3d": "Obtenez {{count}} costumes à {{- name}} au magasin de costumes ou en augmentant le rang Master.",
+  "collect_stamp": "Obtenez {{count}} timbres de {{- name}}.",
+  "read_area_talk": "Lisez {{count}} conversations de zone impliquant {{- name}}.",
+  "skill_level_up": "Augmentez {{count}} fois le niveau de compétence de {{- name}}.",
+  "master_rank": "Augmentez {{count}} fois le rang Master de {{- name}}.",
+  "read_card_episode_first": "Lisez {{count}} fois la première histoire secondaire de {{- name}}.",
+  "read_card_episode_second": "Lisez {{count}} fois la deuxième histoire secondaire de {{- name}}."
+}
