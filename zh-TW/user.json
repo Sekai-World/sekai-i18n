@@ -1,5 +1,18 @@
 {
   "profile": {
+    "upload_avatar": "上傳頭像",
+    "username": "用戶名",
+    "nickname": "顯示用戶名",
+    "role": "角色",
+    "email": "電子郵件",
+    "button": {
+      "show_email": "顯示",
+      "bind_sekai_id": "綁定",
+      "verify_sekai_id": "驗證",
+      "update_sekai_profile": "更新遊戲個人資料"
+    },
+    "email_confirmed": "己確認電子郵件",
+    "upload_avatar_error": "無法上傳頭像！",
     "event": {
       "current_name": "當前活動：",
       "current_record_info": "上一條記錄：",
@@ -20,12 +33,6 @@
       "sekai_id_verify_step_2_title": "寫入令牌並保存",
       "sekai_id_verify_step_2_subtitle": "寫入你的驗證令牌 {{verify_token}} 到文本框裡(1)，然後點擊＂返回＂(2)按鈕以保存。在這之後點擊＂驗證＂按鈕。"
     },
-    "button": {
-      "bind_sekai_id": "綁定",
-      "verify_sekai_id": "驗證",
-      "update_sekai_profile": "更新遊戲個人資料",
-      "show_email": "顯示"
-    },
     "error": {
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
       "sekai_id_verify_failed": "無法驗證所有者，你是否忘記了離開資料界面以保存？"
@@ -35,13 +42,6 @@
       "user_event": "用戶活動數據",
       "user_deck": "用戶卡組"
     },
-    "upload_avatar": "上傳頭像",
-    "username": "用戶名",
-    "nickname": "顯示用戶名",
-    "role": "角色",
-    "email": "電子郵件",
-    "email_confirmed": "己確認電子郵件",
-    "upload_avatar_error": "無法上傳頭像！",
     "sekai_id": "遊戲ID",
     "email_confirmed_status": {
       "true": "是",
