@@ -35,6 +35,8 @@
     "title": "Paramètres"
   },
   "user": "Utilisateur",
+  "update": "Mise à jour",
+  "update-available": "Nouvelle version disponible.",
   "id": "ID",
   "title": "Titre",
   "unit": "Groupe",
@@ -59,17 +61,12 @@
   "betaIndicator": "Cette fonction est en bêta. Les rapports de bogues sont les bienvenus.",
   "endAt": "Disponible jusqu'au",
   "show": "Afficher",
-  "detect": {
-    "checking": "Vérification...",
-    "unsupported": "Non pris en charge",
-    "supported": "Pris en charge"
-  },
   "campaign": "Campagne",
   "bug": "Bug",
+  "level": "Niveau",
+  "description": "Description",
   "apply": "Appliquer",
   "profile": "Profil",
-  "description": "Description",
-  "level": "Niveau",
   "character_plural": "Personnages",
   "countdown": {
     "day": "Jours",
@@ -95,9 +92,13 @@
   "login": "Connexion",
   "reset_password": "Réinitialiser le mot de passe",
   "signup": "S'inscrire",
+  "detect": {
+    "checking": "Vérification...",
+    "unsupported": "Non pris en charge",
+    "supported": "Pris en charge"
+  },
   "icon": "Icône",
   "copyToClipboard": "Copier dans le presse-papiers",
   "scoreCalculator": "Calculateur de score",
-  "update": "Mise à jour",
   "member": "Personnage"
 }
