@@ -35,6 +35,8 @@
     "title": "Pengaturan"
   },
   "user": "Pengguna",
+  "update": "pembaruan",
+  "update-available": "Versi baru tersedia.",
   "id": "ID",
   "title": "Judul",
   "unit": "Unit",
@@ -59,17 +61,12 @@
   "betaIndicator": "Fungsi ini dalam versi beta. Melaporkan bug akan membantu kami.",
   "endAt": "Tersedia Hingga",
   "show": "Lihat",
-  "detect": {
-    "checking": "Memeriksa...",
-    "unsupported": "Tidak didukung",
-    "supported": "Didukung"
-  },
   "campaign": "Kampanye",
   "bug": "Bug",
+  "level": "Level",
+  "description": "Deskripsi",
   "apply": "Terapkan",
   "profile": "Profil",
-  "description": "Deskripsi",
-  "level": "Level",
   "character_plural": "Karakter",
   "countdown": {
     "day": "Hari",
@@ -95,9 +92,13 @@
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
   "signup": "Daftar",
+  "detect": {
+    "checking": "Memeriksa...",
+    "unsupported": "Tidak didukung",
+    "supported": "Didukung"
+  },
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
-  "update": "pembaruan",
   "member": "Karakter"
 }
