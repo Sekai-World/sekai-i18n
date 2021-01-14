@@ -7,6 +7,11 @@
     "ascending": "Croissant",
     "descending": "Décroissant"
   },
+  "honorType": {
+    "caption": "Type de titre",
+    "group_only_once": "Afficher seulement un de chaque groupe"
+  },
+  "not_set": "Non défini",
   "missionType": {
     "caption": "Type de mission"
   },
