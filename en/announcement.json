@@ -1,11 +1,13 @@
 {
   "category": "Category",
   "published_at": "Published At",
-  "co-authors": "Co-Authors",
+  "translators": "Translators",
+  "fetch_error": "Error occured while fetching data.",
   "no_entry": "No entries.",
   "title": "Title",
   "language": "Language",
   "author": "Author",
+  "co-authors": "Co-Authors",
   "categoryName": {
     "website": "Website",
     "normal": "Other",

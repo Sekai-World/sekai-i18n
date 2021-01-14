@@ -17,5 +17,10 @@
   },
   "music_tag": {
     "caption": "Song tag"
+  },
+  "language": {
+    "caption": "Language",
+    "source": "Source Language",
+    "target": "Target Language"
   }
 }
