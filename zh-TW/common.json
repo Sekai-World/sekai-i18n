@@ -35,6 +35,8 @@
     "title": "設置"
   },
   "user": "用戶",
+  "update": "更新",
+  "update-available": "有可用的新版本。",
   "id": "編號",
   "title": "標題",
   "unit": "組合",
@@ -59,17 +61,12 @@
   "betaIndicator": "這項功能目前仍處於測試階段。歡迎向我們提報這項功能的錯誤。",
   "endAt": "結束於",
   "show": "顯示",
-  "detect": {
-    "checking": "檢查中",
-    "unsupported": "不支援",
-    "supported": "支援"
-  },
   "campaign": "紀念活動",
   "bug": "問題",
+  "level": "等級",
+  "description": "描述",
   "apply": "應用",
   "profile": "角色資料",
-  "description": "描述",
-  "level": "等級",
   "character_plural": "角色",
   "countdown": {
     "day": "天",
@@ -95,9 +92,13 @@
   "login": "登錄",
   "reset_password": "重設密碼",
   "signup": "註冊",
+  "detect": {
+    "checking": "檢查中",
+    "unsupported": "不支援",
+    "supported": "支援"
+  },
   "icon": "圖示",
   "copyToClipboard": "複製到剪貼板",
   "scoreCalculator": "分數計算器",
-  "update": "更新",
   "member": "成員"
 }
