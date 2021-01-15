@@ -17,5 +17,10 @@
   },
   "music_tag": {
     "caption": "Tag lagu"
+  },
+  "language": {
+    "caption": "Bahasa",
+    "source": "Bahasa sumber",
+    "target": "Bahasa Target"
   }
 }
