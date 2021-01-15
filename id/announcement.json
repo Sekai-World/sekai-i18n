@@ -1,11 +1,13 @@
 {
   "category": "Kategori",
   "published_at": "Diterbitkan Pada",
-  "co-authors": "Rekan Penulis",
+  "translators": "Penerjemah",
+  "fetch_error": "Terjadi kesalahan saat mengambil data.",
   "no_entry": "Tidak ada entri.",
   "title": "Judul",
   "language": "Bahasa",
   "author": "Penulis",
+  "co-authors": "Rekan Penulis",
   "categoryName": {
     "website": "Situs web",
     "normal": "Lainnya",
