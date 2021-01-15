@@ -1,11 +1,13 @@
 {
   "category": "Kategori",
   "published_at": "Diterbitkan Pada",
-  "co-authors": "Pengarang Bersama",
+  "translators": "Penterjemah",
+  "fetch_error": "Berlakunya ralat ketika mendapatkan data.",
   "no_entry": "Tiada masukan.",
   "title": "Tajuk",
   "language": "Bahasa",
   "author": "Pengarang",
+  "co-authors": "Pengarang Bersama",
   "categoryName": {
     "website": "Laman Sesawang",
     "normal": "Lain-lain",
