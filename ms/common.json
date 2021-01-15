@@ -2,6 +2,7 @@
   "about": "Perihalan",
   "comment": "Ulasan",
   "announcement": "Pengumuman",
+  "loading": "Memuatkan...",
   "home": "Utama",
   "translation": "Terjemahan",
   "card": "Kad",
@@ -35,6 +36,8 @@
     "title": "Tetapan"
   },
   "user": "Pengguna",
+  "update": "Kemas Kini",
+  "update-available": "Versi baharu tersedia.",
   "id": "ID",
   "title": "Tajuk",
   "unit": "Unit",
@@ -59,11 +62,6 @@
   "betaIndicator": "Fungsi ini dalam beta. Pelaporan pepijat dialu-alukan.",
   "endAt": "Tersedia Sehingga",
   "show": "Tunjukkan",
-  "detect": {
-    "checking": "Memeriksa...",
-    "unsupported": "Tidak Disokong",
-    "supported": "Disokong"
-  },
   "campaign": "Kempen",
   "bug": "Pepijat",
   "level": "Tahap",
@@ -95,9 +93,13 @@
   "login": "Log Masuk",
   "reset_password": "Tetapkan Semula Kata Laluan",
   "signup": "Daftar",
+  "detect": {
+    "checking": "Memeriksa...",
+    "unsupported": "Tidak Disokong",
+    "supported": "Disokong"
+  },
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan Keratan",
   "scoreCalculator": "Kalkulator Markah",
-  "update": "Kemas Kini",
   "member": "Watak"
 }
