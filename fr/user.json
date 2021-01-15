@@ -1,5 +1,18 @@
 {
   "profile": {
+    "upload_avatar": "Ajouter un avatar",
+    "username": "Nom d'utilisateur",
+    "nickname": "Nom d'affichage",
+    "role": "Rôle",
+    "email": "Email",
+    "button": {
+      "show_email": "Afficher",
+      "bind_sekai_id": "Lier",
+      "verify_sekai_id": "Vérifier",
+      "update_sekai_profile": "Mettre à jour le profil Sekai"
+    },
+    "email_confirmed": "Email confirmé",
+    "upload_avatar_error": "Échec du chargement de l'avatar !",
     "event": {
       "current_name": "Événement en cours :",
       "current_record_info": "Dernier record :",
@@ -20,12 +33,6 @@
       "sekai_id_verify_step_2_title": "Écrire le code et sauvegarder",
       "sekai_id_verify_step_2_subtitle": "Inscrivez votre code de vérification {{verify_token}} dans la zone de texte (1), puis appuyez sur le bouton « Retour » (2) pour enregistrer. Ensuite, cliquez/appuyez sur le bouton « VÉRIFIER »."
     },
-    "button": {
-      "bind_sekai_id": "Lier",
-      "verify_sekai_id": "Vérifier",
-      "update_sekai_profile": "Mettre à jour le profil Sekai",
-      "show_email": "Afficher"
-    },
     "error": {
       "sekai_id_already_bind": "L'identifiant Sekai est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification de la détention. Avez-vous quitté le panneau de profil pour sauvegarder ?"
@@ -35,13 +42,6 @@
       "user_event": "Événement de l'utilisateur Sekai",
       "user_deck": "Équipe de l'utilisateur Sekai"
     },
-    "upload_avatar": "Ajouter un avatar",
-    "username": "Nom d'utilisateur",
-    "nickname": "Nom d'affichage",
-    "role": "Rôle",
-    "email": "Email",
-    "email_confirmed": "Email confirmé",
-    "upload_avatar_error": "Échec du chargement de l'avatar !",
     "sekai_id": "Identifiant Sekai",
     "email_confirmed_status": {
       "true": "Oui",

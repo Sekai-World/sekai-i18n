@@ -35,6 +35,8 @@
     "title": "设置"
   },
   "user": "用户",
+  "update": "更新",
+  "update-available": "新版本可用。",
   "id": "编号",
   "title": "标题",
   "unit": "组合",
@@ -59,11 +61,6 @@
   "betaIndicator": "这个功能在测试中。欢迎反馈问题。",
   "endAt": "结束时间",
   "show": "显示",
-  "detect": {
-    "checking": "检查中",
-    "unsupported": "不支持",
-    "supported": "支持"
-  },
   "campaign": "纪念活动",
   "bug": "问题",
   "level": "等级",
@@ -95,9 +92,13 @@
   "login": "登录",
   "reset_password": "重设密码",
   "signup": "注册",
+  "detect": {
+    "checking": "检查中",
+    "unsupported": "不支持",
+    "supported": "支持"
+  },
   "icon": "图标",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
-  "update": "更新",
   "member": "成员"
 }

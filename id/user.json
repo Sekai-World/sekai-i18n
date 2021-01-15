@@ -1,5 +1,18 @@
 {
   "profile": {
+    "upload_avatar": "Unggah Avatar",
+    "username": "Nama pengguna",
+    "nickname": "Nama Tampilan",
+    "role": "Role",
+    "email": "Email",
+    "button": {
+      "show_email": "Lihat",
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Verifikasi",
+      "update_sekai_profile": "Perbarui Profil Sekai"
+    },
+    "email_confirmed": "Email Dikonfirmasi",
+    "upload_avatar_error": "Gagal mengunggah avatar!",
     "event": {
       "current_name": "Event saat ini:",
       "current_record_info": "Rekaman terakhir:",
@@ -20,12 +33,6 @@
       "sekai_id_verify_step_2_title": "Tulis token dan simpan",
       "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"VERIFIKASI\"."
     },
-    "button": {
-      "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Verifikasi",
-      "update_sekai_profile": "Perbarui Profil Sekai",
-      "show_email": "Lihat"
-    },
     "error": {
       "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain.",
       "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?"
@@ -35,13 +42,6 @@
       "user_event": "Event Pengguna Sekai",
       "user_deck": "Kartu Pengguna Sekai"
     },
-    "upload_avatar": "Unggah Avatar",
-    "username": "Nama pengguna",
-    "nickname": "Nama Tampilan",
-    "role": "Role",
-    "email": "Email",
-    "email_confirmed": "Email Dikonfirmasi",
-    "upload_avatar_error": "Gagal mengunggah avatar!",
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
       "true": "Ya",
