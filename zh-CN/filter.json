@@ -17,5 +17,10 @@
   },
   "music_tag": {
     "caption": "歌曲标签"
+  },
+  "language": {
+    "caption": "语言",
+    "source": "源语言",
+    "target": "目标语言"
   }
 }
