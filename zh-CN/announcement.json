@@ -1,11 +1,13 @@
 {
   "category": "类别",
   "published_at": "发表于",
-  "co-authors": "共同作者",
+  "translators": "翻译者",
+  "fetch_error": "获取数据时发生错误。",
   "no_entry": "没有条目。",
   "title": "标题",
   "language": "语言",
   "author": "作者",
+  "co-authors": "共同作者",
   "categoryName": {
     "website": "网站",
     "normal": "其他",
