@@ -1,11 +1,13 @@
 {
   "category": "카테고리",
   "published_at": "게시자",
-  "co-authors": "공동 저자",
+  "translators": "번역자",
+  "fetch_error": "데이터를 가져오는 동안 오류가 발생하였습니다.",
   "no_entry": "항목 없음",
   "title": "제목",
   "language": "언어",
   "author": "저자",
+  "co-authors": "공동 저자",
   "categoryName": {
     "website": "웹사이트",
     "normal": "기타",
