@@ -6,6 +6,6 @@
   "read_area_talk": "Melihat {{count}} jenis Percakapan Area {{- name}}",
   "skill_level_up": "Tingkatkan Level Skill {{- name}} hingga level {{count}}",
   "master_rank": "Tingkatkan Rank Master {{- name}} hingga rank {{count}}",
-  "read_card_episode_first": "({{- name}}) Baca {{count}} bagian pertama dari Cerita Spesial",
+  "read_card_episode_first": "Baca {{count}} bagian pertama dari Cerita Spesial {{- name}}",
   "read_card_episode_second": "({{- name}}) Baca {{count}} bagian kedua dari Cerita Spesial"
 }
