@@ -1,5 +1,5 @@
 {
-  "play_live": "({{- name}}) Lakukan {{count}} kali Live bersama",
+  "play_live": "Lakukan {{count}} kali Live bersama {{- name}}",
   "waiting_room": "({{- name}}) Bertemu {{count}} kali di Ruang Tunggu",
   "collect_costume_3d": "({{- name}}) Dapatkan {{count}} Kostum Live di Toko Gacha Master Rank-up",
   "collect_stamp": "({{- name}}) Dapatkan {{count}} jenis Stiker",
