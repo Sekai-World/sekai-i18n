@@ -3,7 +3,7 @@
   "waiting_room": "Bertemu {{count}} kali dengan {{- name}} di Ruang Tunggu",
   "collect_costume_3d": "Dapatkan {{count}} Kostum Live {{- name}} di Toko Gacha Master Rank-up",
   "collect_stamp": "Dapatkan {{count}} jenis Stiker {{- name}}",
-  "read_area_talk": "({{- name}}) Melihat {{count}} jenis Percakapan Area",
+  "read_area_talk": "Melihat {{count}} jenis Percakapan Area {{- name}}",
   "skill_level_up": "({{- name}}) Tingkatkan Level Skill hingga level {{count}}",
   "master_rank": "({{- name}}) Tingkatkan Rank Master hingga rank {{count}}",
   "read_card_episode_first": "({{- name}}) Baca {{count}} bagian pertama dari Cerita Spesial",
