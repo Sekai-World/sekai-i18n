@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "バナーとロゴ"
+    },
+    "title[3]": "背景",
+    "title[4]": "アイキャッチ画像",
     "title[0]": "詳細",
     "title[1]": "概要",
-    "title[2]": "シミュレーター",
-    "title[3]": "背景",
-    "title[4]": "アイキャッチ画像"
+    "title[2]": "シミュレーター"
   },
+  "ceil_item": "交換品",
+  "summary": "ガチャ概要",
+  "description": "注意",
+  "gacha_rate": "ガチャ提供割合",
   "normalRate": "提供割合",
   "guaranteedRate": "確定枠提供割合",
+  "gacha_cards": "ガチャ提供メンバー一覧",
   "pickupMember": "ピックアップメンバー",
   "pickupMember_plural": "ピックアップメンバー",
+  "gacha_behaviors": "ガチャを引くのに必要なアイテム",
+  "gacha_simulator": "ガチャシミュレーター",
+  "simulator": {
+    "total": "引いた回数",
+    "cost": "かかる費用",
+    "count": "引いたキャラの数",
+    "percentage": "確率"
+  },
+  "behavior": {
+    "normal": "単発",
+    "over_rarity_3_once": "10連(星3一体確定)",
+    "once_a_day": "1日一回",
+    "over_rarity_4_once": "10連(星4一体確定)"
+  },
   "gachaType": {
     "ceil": "天井",
     "normal": "通常"
