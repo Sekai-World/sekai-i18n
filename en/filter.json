@@ -18,6 +18,9 @@
   "music_tag": {
     "caption": "Song tag"
   },
+  "music_mv": {
+    "caption": "MV Type"
+  },
   "language": {
     "caption": "Language",
     "source": "Source Language",
