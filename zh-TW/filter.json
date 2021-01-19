@@ -18,6 +18,9 @@
   "music_tag": {
     "caption": "演唱組合"
   },
+  "music_mv": {
+    "caption": "MV種類"
+  },
   "language": {
     "caption": "語言",
     "source": "原文語言",
