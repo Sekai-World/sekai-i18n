@@ -18,6 +18,9 @@
   "music_tag": {
     "caption": "歌曲标签"
   },
+  "music_mv": {
+    "caption": "MV类型"
+  },
   "language": {
     "caption": "语言",
     "source": "源语言",
