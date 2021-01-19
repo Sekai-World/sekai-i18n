@@ -18,6 +18,9 @@
   "music_tag": {
     "caption": "노래 카테고리"
   },
+  "music_mv": {
+    "caption": "MV 타입"
+  },
   "language": {
     "caption": "언어",
     "source": "소스 언어",
