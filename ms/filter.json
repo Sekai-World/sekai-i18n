@@ -18,6 +18,9 @@
   "music_tag": {
     "caption": "Tag lagu"
   },
+  "music_mv": {
+    "caption": "Jenis MV"
+  },
   "language": {
     "caption": "Bahasa",
     "source": "Bahasa Sumber",
