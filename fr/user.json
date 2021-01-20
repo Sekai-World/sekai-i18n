@@ -35,7 +35,7 @@
     },
     "error": {
       "sekai_id_already_bind": "L'identifiant Sekai est déjà lié à un autre utilisateur.",
-      "sekai_id_verify_failed": "Échec de la vérification de la détention. Avez-vous quitté le panneau de profil pour sauvegarder ?"
+      "sekai_id_verify_failed": "Échec de la vérification. Avez-vous quitté le panneau de profil pour sauvegarder ?"
     },
     "title": {
       "sekai_profile": "Profil Sekai",
