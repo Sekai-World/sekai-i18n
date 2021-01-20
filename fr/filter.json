@@ -17,5 +17,13 @@
   },
   "music_tag": {
     "caption": "Balise de chanson"
+  },
+  "music_mv": {
+    "caption": "Type de MV"
+  },
+  "language": {
+    "caption": "Langue",
+    "source": "Langue source",
+    "target": "Langue cible"
   }
 }
