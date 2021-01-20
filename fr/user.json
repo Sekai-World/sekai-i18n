@@ -15,7 +15,7 @@
     "upload_avatar_error": "Échec du chargement de l'avatar !",
     "event": {
       "current_name": "Événement en cours :",
-      "current_record_info": "Dernier record :",
+      "current_record_info": "Dernier enregistrement :",
       "current_record_point": "Points d'événement :",
       "current_record_rank": "Classement d'événement :",
       "current_record_time": "Record de temps :"
