@@ -23,7 +23,7 @@
     "label": {
       "update_left": "Mise à jour du compte utilisé : {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "Non vérifié",
-      "sekai_user_id": "Identifiant Sekai",
+      "sekai_user_id": "Utilisateur Sekai ID",
       "sekai_id_verify_token": "Code",
       "sekai_user_name": "Nom",
       "sekai_user_rank": "Rang",
