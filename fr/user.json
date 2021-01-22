@@ -42,7 +42,7 @@
       "user_event": "Événement de l'utilisateur",
       "user_deck": "Équipe de l'utilisateur"
     },
-    "sekai_id": "Identifiant Sekai",
+    "sekai_id": "Utilisateur Sekai ID",
     "email_confirmed_status": {
       "true": "Oui",
       "false": "Non"
