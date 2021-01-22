@@ -18,7 +18,7 @@
       "current_record_info": "Dernier enregistrement :",
       "current_record_point": "Points d'événement :",
       "current_record_rank": "Classement de l'événement :",
-      "current_record_time": "Moment de l'enregistrement :"
+      "current_record_time": "Dernière actualisation :"
     },
     "label": {
       "update_left": "Nombre d'actualisation utilisé : {{ used }} / {{ allowed }}",
