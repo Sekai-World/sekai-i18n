@@ -34,7 +34,7 @@
       "sekai_id_verify_step_2_subtitle": "Inscrivez votre code de vérification {{verify_token}} dans la zone de texte (1), puis appuyez sur le bouton « Retour » (2) pour sauvegarder. Ensuite, cliquez/appuyez sur le bouton « VÉRIFIER »."
     },
     "error": {
-      "sekai_id_already_bind": "L'identifiant Sekai est déjà lié à un autre utilisateur.",
+      "sekai_id_already_bind": "Le Sekai ID est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification. Avez-vous quitté le panneau de profil pour sauvegarder ?"
     },
     "title": {
