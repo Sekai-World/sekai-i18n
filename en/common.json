@@ -92,6 +92,8 @@
   "modify": "Modify",
   "login": "Login",
   "reset_password": "Reset Password",
+  "save": "Save",
+  "reset": "Reset",
   "signup": "Sign Up",
   "detect": {
     "checking": "Checking...",

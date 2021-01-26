@@ -27,6 +27,7 @@
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Name",
       "sekai_user_rank": "Rank",
+      "sekai_user_word": "Introduction",
       "sekai_id_verify": "Verify",
       "sekai_id_verify_step_1_title": "Open Profile",
       "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
@@ -39,8 +40,34 @@
     },
     "title": {
       "sekai_profile": "Sekai Profile",
-      "user_event": "Sekai User Event",
-      "user_deck": "Sekai User Deck"
+      "user_event": "Sekai Event Data",
+      "user_deck": "Sekai Current Deck",
+      "card_list": "Sekai Cards",
+      "import_card": "Import Sekai Cards"
+    },
+    "card_list": {
+      "submit_success": "Card states are updated.",
+      "submit_error": "Failed to update card states.",
+      "button": {
+        "add_card": "Add Card"
+      }
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_power": "Power",
+          "card_master_rank": "Master Rank",
+          "cropped_image": "Source",
+          "best_match": "Matched",
+          "card_training_status": "Trained",
+          "other_possible_result": "Other matches"
+        }
+      },
+      "submit_success": "Cards are saved and/or updated.",
+      "submit_error": "Failed to save cards.",
+      "import_button": "Import",
+      "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Power (総合力).\nIt uses Tesseract to recognize card power and master rank and costs some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
+      "enable_ocr": "Recognize card data"
     },
     "sekai_id": "Sekai User ID",
     "email_confirmed_status": {
