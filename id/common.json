@@ -92,6 +92,8 @@
   "modify": "Modifikasi",
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
+  "save": "Simpan",
+  "reset": "Atur ulang",
   "signup": "Daftar",
   "detect": {
     "checking": "Memeriksa...",
