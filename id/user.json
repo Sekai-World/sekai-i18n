@@ -27,6 +27,7 @@
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Nama",
       "sekai_user_rank": "Rank",
+      "sekai_user_word": "Perkenalan",
       "sekai_id_verify": "Verifikasi",
       "sekai_id_verify_step_1_title": "Buka Profil",
       "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
@@ -39,8 +40,34 @@
     },
     "title": {
       "sekai_profile": "Profil Sekai",
-      "user_event": "Event Pengguna Sekai",
-      "user_deck": "Kartu Pengguna Sekai"
+      "user_event": "Data Event Sekai",
+      "user_deck": "Kartu Sekai Saat ini",
+      "card_list": "Kartu Sekai",
+      "import_card": "Impor Kartu Sekai"
+    },
+    "card_list": {
+      "submit_success": "Status kartu diperbarui.",
+      "submit_error": "Gagal memperbarui status kartu.",
+      "button": {
+        "add_card": "Tambahkan Kartu"
+      }
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_power": "kekuatan",
+          "card_master_rank": "Rank Master",
+          "cropped_image": "Sumber",
+          "best_match": "Pertandingan",
+          "card_training_status": "Trained",
+          "other_possible_result": "Pertandingan lainnya"
+        }
+      },
+      "submit_success": "Kartu disimpan dan/atau diperbarui.",
+      "submit_error": "Gagal menyimpan kartu.",
+      "import_button": "Impor",
+      "enable_ocr_tooltip": "Jika diaktifkan, silakan unggah tangkapan layar diurut berdasarkan Power (総 合力).\nIni menggunakan Tesseract untuk mengenali kekuatan kartu dan rank master serta membutuhkan waktu.\nStatus training diambil dari thumbnail, pastikan Anda menggunakan yang benar.",
+      "enable_ocr": "Kenali data kartu"
     },
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
