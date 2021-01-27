@@ -92,6 +92,8 @@
   "modify": "수정",
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
+  "save": "저장",
+  "reset": "초기화",
   "signup": "회원가입",
   "detect": {
     "checking": "확인 중...",
