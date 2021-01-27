@@ -27,6 +27,7 @@
       "sekai_id_verify_token": "Token",
       "sekai_user_name": "Nama",
       "sekai_user_rank": "Kedudukan",
+      "sekai_user_word": "Pengenalan",
       "sekai_id_verify": "Sahkan",
       "sekai_id_verify_step_1_title": "Buka Profil",
       "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
@@ -39,8 +40,34 @@
     },
     "title": {
       "sekai_profile": "Profil Sekai",
-      "user_event": "Acara Pengguna Sekai",
-      "user_deck": "Dek Pengguna Sekai"
+      "user_event": "Data Acara Sekai",
+      "user_deck": "Dek Semasa Sekai",
+      "card_list": "Kad Sekai",
+      "import_card": "Import Kad Sekai"
+    },
+    "card_list": {
+      "submit_success": "Keadaan kad telah dikemas kini.",
+      "submit_error": "Gagal kemas kini keadaan kad.",
+      "button": {
+        "add_card": "Tambah Kad"
+      }
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_power": "Kuasa",
+          "card_master_rank": "Kedudukan Master",
+          "cropped_image": "Sumber",
+          "best_match": "Sepadan",
+          "card_training_status": "Dilatih",
+          "other_possible_result": "Padanan Lain"
+        }
+      },
+      "submit_success": "Kad disimpan dan/atau dikemas kini.",
+      "submit_error": "Gagal menyimpan kad.",
+      "import_button": "Import",
+      "enable_ocr_tooltip": "Jika dibolehkan, sila muat naik tangkapan layar dengan isihan mengikut Kuasa (総合力).\nIa menggunakan Tesseract untuk mengenal pasti kuasa kad dan kedudukan master dan memerlukan masa.\nKeadaan latihan diambil dari lakaran kecil iaitu thumbnail, pastikan anda gunakan yang betul.",
+      "enable_ocr": "Kenali data kad"
     },
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
