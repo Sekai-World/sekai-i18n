@@ -92,6 +92,8 @@
   "modify": "修改",
   "login": "登錄",
   "reset_password": "重設密碼",
+  "save": "保存",
+  "reset": "重設",
   "signup": "註冊",
   "detect": {
     "checking": "檢查中",
