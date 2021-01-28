@@ -27,6 +27,7 @@
       "sekai_id_verify_token": "Code",
       "sekai_user_name": "Nom",
       "sekai_user_rank": "Rang",
+      "sekai_user_word": "Introduction",
       "sekai_id_verify": "Vérifier",
       "sekai_id_verify_step_1_title": "Ouvrir le profil",
       "sekai_id_verify_step_1_subtitle": "Appuyez sur le bouton « Menu » (1) dans le coin supérieur droit, puis sur le bouton « 称号 & プロフィール » (2)",
@@ -39,8 +40,34 @@
     },
     "title": {
       "sekai_profile": "Profil Sekai",
-      "user_event": "Événement de l'utilisateur",
-      "user_deck": "Équipe de l'utilisateur"
+      "user_event": "Données sur l'événement",
+      "user_deck": "Équipe actuelle",
+      "card_list": "Cartes",
+      "import_card": "Importer les cartes"
+    },
+    "card_list": {
+      "submit_success": "La liste des cartes est mise à jour.",
+      "submit_error": "Échec de la mise à jour de la liste des cartes.",
+      "button": {
+        "add_card": "Ajouter des cartes"
+      }
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_power": "Puissance",
+          "card_master_rank": "Rang Master",
+          "cropped_image": "Source",
+          "best_match": "Assorti",
+          "card_training_status": "Entraînée",
+          "other_possible_result": "Autres correspondances"
+        }
+      },
+      "submit_success": "Les cartes sont sauvegardées et/ou mises à jour.",
+      "submit_error": "Échec de la sauvegarde des cartes.",
+      "import_button": "Importer",
+      "enable_ocr_tooltip": "Si cette option est activée, veuillez transférer une capture d'écran en triant par Puissance (総合力).\nLe système utilise Tesseract pour reconnaître la puissance des cartes et le rang Master, cela nécessite un certain temps.\nLes informations des cartes entraînées sont récupérés à partir de la miniature, donc assurez-vous d'utiliser la bonne.",
+      "enable_ocr": "Identifier les données des cartes"
     },
     "sekai_id": "Utilisateur Sekai ID",
     "email_confirmed_status": {
