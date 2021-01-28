@@ -92,6 +92,8 @@
   "modify": "Modifier",
   "login": "Connexion",
   "reset_password": "Réinitialiser le mot de passe",
+  "save": "Sauvegarder",
+  "reset": "Réinitialiser",
   "signup": "S'inscrire",
   "detect": {
     "checking": "Vérification...",
