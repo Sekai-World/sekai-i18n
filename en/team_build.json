@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "Get Total Power"
+  },
+  "auto_calc_bonus": "Use Sekai Profile",
+  "use_sekai_card_state": "Use Saved Sekai Cards State",
   "saveTeamDialog": {
     "title": "Save Team",
     "desc": "Save new team entry or replace existing team entry."
   },
+  "storage_location": {
+    "label": "Storage Localtion",
+    "local": "Local",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Storage Space",
   "noTeams": "No saved team entries.",
   "saveNewEntry": "Save new team entry",
   "loadTeamDialog": {
     "title": "Load Team",
     "desc": "Load team from saved team entries."
+  },
+  "error": {
+    "save_team_failed": "Failed to save team. If it happens too often, it could be a bug."
   }
 }

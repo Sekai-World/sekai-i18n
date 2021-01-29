@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Master Rank",
+          "cropped_image": "Source",
+          "best_match": "Matched",
+          "other_possible_result": "Other matches",
+          "card_power": "Power",
+          "card_training_status": "Trained"
+        }
+      },
+      "submit_success": "Cards are saved and/or updated.",
+      "submit_error": "Failed to save cards.",
+      "import_button": "Import",
+      "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Level (レベル).\nIt uses Tesseract to recognize card level and master rank. This process will take some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
+      "enable_ocr": "Recognize card data"
+    },
     "upload_avatar": "Upload Avatar",
     "username": "Username",
     "nickname": "Display Name",
@@ -7,9 +24,9 @@
     "email": "Email",
     "button": {
       "show_email": "Show",
+      "update_sekai_profile": "Update Sekai Profile",
       "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Verify",
-      "update_sekai_profile": "Update Sekai Profile"
+      "verify_sekai_id": "Verify"
     },
     "email_confirmed": "Email Confirmed",
     "upload_avatar_error": "Failed to upload avatar!",
@@ -41,9 +58,10 @@
     "title": {
       "sekai_profile": "Sekai Profile",
       "user_event": "Sekai Event Data",
-      "user_deck": "Sekai Current Deck",
+      "user_deck": "Sekai Current Team",
       "card_list": "Sekai Cards",
-      "import_card": "Import Sekai Cards"
+      "import_card": "Import Sekai Cards",
+      "manage_teams": "Manage Teams"
     },
     "card_list": {
       "submit_success": "Card states are updated.",
@@ -51,23 +69,6 @@
       "button": {
         "add_card": "Add Card"
       }
-    },
-    "import_card": {
-      "table": {
-        "row": {
-          "card_power": "Power",
-          "card_master_rank": "Master Rank",
-          "cropped_image": "Source",
-          "best_match": "Matched",
-          "card_training_status": "Trained",
-          "other_possible_result": "Other matches"
-        }
-      },
-      "submit_success": "Cards are saved and/or updated.",
-      "submit_error": "Failed to save cards.",
-      "import_button": "Import",
-      "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Power (総合力).\nIt uses Tesseract to recognize card power and master rank and costs some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
-      "enable_ocr": "Recognize card data"
     },
     "sekai_id": "Sekai User ID",
     "email_confirmed_status": {
