@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "Dapatkan Jumlah Kuasa"
+  },
+  "auto_calc_bonus": "Gunakan Profil Sekai",
+  "use_sekai_card_state": "Gunakan Keadaan Kad Sekai Disimpan",
   "saveTeamDialog": {
     "title": "Simpan Pasukan",
     "desc": "Simpan masukan pasukan baharu atau gantikan masukan pasukan sedia ada."
   },
+  "storage_location": {
+    "label": "Lokasi Simpanan",
+    "local": "Tempatan",
+    "cloud": "Awan"
+  },
+  "storage_space": "Ruang Simpanan",
   "noTeams": "Tiada masukan pasukan disimpan.",
   "saveNewEntry": "Simpan masukan pasukan baharu",
   "loadTeamDialog": {
     "title": "Muatkan Pasukan",
     "desc": "Muatkan pasukan dari masukan pasukan disimpan."
+  },
+  "error": {
+    "save_team_failed": "Gagal menyimpan pasukan. Jika ia berlaku terlalu kerap, ia mungkin pepijat."
   }
 }
