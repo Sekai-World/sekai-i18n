@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "获得综合力"
+  },
+  "auto_calc_bonus": "使用Sekai个人档案",
+  "use_sekai_card_state": "使用保存的Sekai卡牌状态",
   "saveTeamDialog": {
     "title": "保存队伍",
     "desc": "保存新队伍条目或者替换现有条目。"
   },
+  "storage_location": {
+    "label": "保存位置",
+    "local": "本地",
+    "cloud": "云端"
+  },
+  "storage_space": "存储空间",
   "noTeams": "无保存队伍条目。",
   "saveNewEntry": "保存新队伍条目。",
   "loadTeamDialog": {
     "title": "加载队伍",
     "desc": "从保存的队伍条目加载队伍。"
+  },
+  "error": {
+    "save_team_failed": "无法保存队伍。如果频繁遇到此问题，请报告这个bug。"
   }
 }
