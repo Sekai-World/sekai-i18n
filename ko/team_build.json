@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "총합력 가져오기"
+  },
+  "auto_calc_bonus": "세카이 프로필 사용",
+  "use_sekai_card_state": "저장된 세카이 카드 상태 사용",
   "saveTeamDialog": {
     "title": "덱 저장",
     "desc": "덱을 저장하거나 기존 덱을 덮어씁니다."
   },
+  "storage_location": {
+    "label": "저장 위치",
+    "local": "로컬",
+    "cloud": "클라우드"
+  },
+  "storage_space": "저장 공간",
   "noTeams": "저장된 덱이 없습니다.",
   "saveNewEntry": "새로운 덱 저장",
   "loadTeamDialog": {
     "title": "덱 불러오기",
     "desc": "저장된 덱에서 불러옵니다."
+  },
+  "error": {
+    "save_team_failed": "팀을 저장하지 못했습니다. 만약 너무 자주 일어난다면 버그일 수 있습니다."
   }
 }
