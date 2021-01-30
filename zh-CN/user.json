@@ -67,7 +67,7 @@
       "submit_success": "卡牌状态更新成功。",
       "submit_error": "卡牌状态更新失败。",
       "button": {
-        "add_card": "添加卡牌。"
+        "add_card": "添加卡牌"
       }
     },
     "sekai_id": "Sekai用户ID",
