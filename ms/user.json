@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Kedudukan Master",
+          "cropped_image": "Sumber",
+          "best_match": "Sepadan",
+          "other_possible_result": "Padanan Lain",
+          "card_power": "Kuasa",
+          "card_training_status": "Dilatih"
+        }
+      },
+      "submit_success": "Kad disimpan dan/atau dikemas kini.",
+      "submit_error": "Gagal menyimpan kad.",
+      "import_button": "Import",
+      "enable_ocr_tooltip": "Jika dibolehkan, sila muat naik tangkapan layar dengan isihan mengikut Tahap (レベル).\nIa menggunakan Tesseract untuk mengenal pasti tahap kad dan kedudukan master. Proses ini akan mengambil masa.\nKeadaan latihan diambil dari lakaran kecil iaitu thumbnail, pastikan anda gunakan yang betul.",
+      "enable_ocr": "Kenali data kad"
+    },
     "upload_avatar": "Muat Naik Avatar",
     "username": "Nama Pengguna",
     "nickname": "Nama Paparan",
@@ -7,9 +24,9 @@
     "email": "E-mel",
     "button": {
       "show_email": "Tunjukkan",
+      "update_sekai_profile": "Kemas Kini Profil Sekai",
       "bind_sekai_id": "Sambung",
-      "verify_sekai_id": "Sahkan",
-      "update_sekai_profile": "Kemas Kini Profil Sekai"
+      "verify_sekai_id": "Sahkan"
     },
     "email_confirmed": "E-mel Disahkan",
     "upload_avatar_error": "Gagal memuat naik avatar!",
@@ -41,9 +58,10 @@
     "title": {
       "sekai_profile": "Profil Sekai",
       "user_event": "Data Acara Sekai",
-      "user_deck": "Dek Semasa Sekai",
+      "user_deck": "Pasukan Semasa Sekai",
       "card_list": "Kad Sekai",
-      "import_card": "Import Kad Sekai"
+      "import_card": "Import Kad Sekai",
+      "manage_teams": "Urus Pasukan"
     },
     "card_list": {
       "submit_success": "Keadaan kad telah dikemas kini.",
@@ -51,23 +69,6 @@
       "button": {
         "add_card": "Tambah Kad"
       }
-    },
-    "import_card": {
-      "table": {
-        "row": {
-          "card_power": "Kuasa",
-          "card_master_rank": "Kedudukan Master",
-          "cropped_image": "Sumber",
-          "best_match": "Sepadan",
-          "card_training_status": "Dilatih",
-          "other_possible_result": "Padanan Lain"
-        }
-      },
-      "submit_success": "Kad disimpan dan/atau dikemas kini.",
-      "submit_error": "Gagal menyimpan kad.",
-      "import_button": "Import",
-      "enable_ocr_tooltip": "Jika dibolehkan, sila muat naik tangkapan layar dengan isihan mengikut Kuasa (総合力).\nIa menggunakan Tesseract untuk mengenal pasti kuasa kad dan kedudukan master dan memerlukan masa.\nKeadaan latihan diambil dari lakaran kecil iaitu thumbnail, pastikan anda gunakan yang betul.",
-      "enable_ocr": "Kenali data kad"
     },
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
