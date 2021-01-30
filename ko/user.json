@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "마스터 랭크",
+          "cropped_image": "소스",
+          "best_match": "일치함",
+          "other_possible_result": "기타 일치 항목",
+          "card_power": "총합력",
+          "card_training_status": "특훈 후"
+        }
+      },
+      "submit_success": "카드가 저장/업데이트 됩니다.",
+      "submit_error": "카드를 저장하지 못했습니다.",
+      "import_button": "불러오기",
+      "enable_ocr_tooltip": "활성화된 경우 레벨(レベル)별 스크린샷 정렬을 업로드해주세요.\n테서렉트를 사용하여 카드 레벨과 마스터 랭크를 인식합니다. 이 프로세스는 시간이 좀 걸립니다.\n트레이닝 상태는 섬네일에서 찾아옵니다. 올바른 상태를 사용해야 합니다.",
+      "enable_ocr": "카드 데이터 인식"
+    },
     "upload_avatar": "프로필사진 업로드",
     "username": "ID",
     "nickname": "닉네임",
@@ -7,9 +24,9 @@
     "email": "E-mail",
     "button": {
       "show_email": "보기",
+      "update_sekai_profile": "세카이 프로필 업데이트",
       "bind_sekai_id": "연결",
-      "verify_sekai_id": "인증",
-      "update_sekai_profile": "세카이 프로필 업데이트"
+      "verify_sekai_id": "인증"
     },
     "email_confirmed": "확인된 E-mail",
     "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
@@ -41,9 +58,10 @@
     "title": {
       "sekai_profile": "세카이 프로필",
       "user_event": "Sekai 이벤트 데이터",
-      "user_deck": "Sekai 현재 덱",
+      "user_deck": "Sekai 현재 팀",
       "card_list": "Sekai 카드",
-      "import_card": "Sekai 카드 불러오기"
+      "import_card": "Sekai 카드 불러오기",
+      "manage_teams": "팀 관리"
     },
     "card_list": {
       "submit_success": "카드 상태가 업데이트되었습니다.",
@@ -51,23 +69,6 @@
       "button": {
         "add_card": "카드 추가"
       }
-    },
-    "import_card": {
-      "table": {
-        "row": {
-          "card_power": "총합력",
-          "card_master_rank": "마스터 랭크",
-          "cropped_image": "소스",
-          "best_match": "일치함",
-          "card_training_status": "특훈 후",
-          "other_possible_result": "기타 일치 항목"
-        }
-      },
-      "submit_success": "카드가 저장/업데이트 됩니다.",
-      "submit_error": "카드를 저장하지 못했습니다.",
-      "import_button": "불러오기",
-      "enable_ocr_tooltip": "활성화된 경우, 총합력(総合力)으로 정렬된 스크린샷을 업로드해주세요.\n카드 총합력과 마스터 랭크를 인식하기 위해 테서렉트를 사용하고 약간의 시간이 소요됩니다.\n특훈 상태는 섬네일에서 찾아옵니다. 올바른 상태를 사용해야합니다.",
-      "enable_ocr": "카드 데이터 인식"
     },
     "sekai_id": "Sekai 유저 ID",
     "email_confirmed_status": {
