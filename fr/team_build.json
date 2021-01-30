@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "Obtenir la puissance totale"
+  },
+  "auto_calc_bonus": "Utiliser le profil Sekai",
+  "use_sekai_card_state": "Utiliser les cartes Sekai sauvegardées",
   "saveTeamDialog": {
     "title": "Enregistrer l'équipe",
     "desc": "Enregistrez une nouvelle équipe ou remplacez une équipe existante."
   },
+  "storage_location": {
+    "label": "Localisation du stockage",
+    "local": "Local",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Espace de storage",
   "noTeams": "Aucune équipe enregistrée.",
   "saveNewEntry": "Enregistrer une nouvelle équipe",
   "loadTeamDialog": {
     "title": "Charger l'équipe",
     "desc": "Charger l'équipe à partir des équipes enregistrées."
+  },
+  "error": {
+    "save_team_failed": "Échec de l'enregistrement de l'équipe. Si cela se produit trop souvent, il pourrait s'agir d'un bug."
   }
 }
