@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Rang Master",
+          "cropped_image": "Source",
+          "best_match": "Assorti",
+          "other_possible_result": "Autres correspondances",
+          "card_power": "Puissance",
+          "card_training_status": "Entraînée"
+        }
+      },
+      "submit_success": "Les cartes sont sauvegardées et/ou mises à jour.",
+      "submit_error": "Échec de la sauvegarde des cartes.",
+      "import_button": "Importer",
+      "enable_ocr_tooltip": "Si cette option est activée, veuillez transférer une capture d'écran en triant par Niveau (レベル).\nLe système utilise Tesseract pour reconnaître le niveau des cartes et le rang Master, cela nécessite un certain temps.\nLes informations des cartes entraînées sont récupérés à partir de la miniature, donc assurez-vous d'utiliser la bonne.",
+      "enable_ocr": "Identifier les données des cartes"
+    },
     "upload_avatar": "Ajouter un avatar",
     "username": "Nom d'utilisateur",
     "nickname": "Nom d'affichage",
@@ -7,9 +24,9 @@
     "email": "Email",
     "button": {
       "show_email": "Afficher",
+      "update_sekai_profile": "Actualiser le profil Sekai",
       "bind_sekai_id": "Lier",
-      "verify_sekai_id": "Vérifier",
-      "update_sekai_profile": "Actualiser le profil Sekai"
+      "verify_sekai_id": "Vérifier"
     },
     "email_confirmed": "Email confirmé",
     "upload_avatar_error": "Échec du chargement de l'avatar !",
@@ -43,7 +60,8 @@
       "user_event": "Données sur l'événement",
       "user_deck": "Équipe actuelle",
       "card_list": "Cartes",
-      "import_card": "Importer les cartes"
+      "import_card": "Importer les cartes",
+      "manage_teams": "Gérer les équipes"
     },
     "card_list": {
       "submit_success": "La liste des cartes est mise à jour.",
@@ -51,23 +69,6 @@
       "button": {
         "add_card": "Ajouter des cartes"
       }
-    },
-    "import_card": {
-      "table": {
-        "row": {
-          "card_power": "Puissance",
-          "card_master_rank": "Rang Master",
-          "cropped_image": "Source",
-          "best_match": "Assorti",
-          "card_training_status": "Entraînée",
-          "other_possible_result": "Autres correspondances"
-        }
-      },
-      "submit_success": "Les cartes sont sauvegardées et/ou mises à jour.",
-      "submit_error": "Échec de la sauvegarde des cartes.",
-      "import_button": "Importer",
-      "enable_ocr_tooltip": "Si cette option est activée, veuillez transférer une capture d'écran en triant par Puissance (総合力).\nLe système utilise Tesseract pour reconnaître la puissance des cartes et le rang Master, cela nécessite un certain temps.\nLes informations des cartes entraînées sont récupérés à partir de la miniature, donc assurez-vous d'utiliser la bonne.",
-      "enable_ocr": "Identifier les données des cartes"
     },
     "sekai_id": "Utilisateur Sekai ID",
     "email_confirmed_status": {
