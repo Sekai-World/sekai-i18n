@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "獲取總合力數據"
+  },
+  "auto_calc_bonus": "使用遊戲個人檔案",
+  "use_sekai_card_state": "使用已儲存的遊戲卡牌狀態",
   "saveTeamDialog": {
     "title": "儲存隊伍",
     "desc": "保存新的隊伍或替換現有的隊伍。"
   },
+  "storage_location": {
+    "label": "儲存位置",
+    "local": "客戶端",
+    "cloud": "雲端"
+  },
+  "storage_space": "儲存空間",
   "noTeams": "沒有已保存的隊伍。",
   "saveNewEntry": "保存新的隊伍",
   "loadTeamDialog": {
     "title": "加載隊伍",
     "desc": "加載已保存的隊伍。"
+  },
+  "error": {
+    "save_team_failed": "無法儲存隊伍。此情況經常出現時有可能是系統錯誤導致。"
   }
 }
