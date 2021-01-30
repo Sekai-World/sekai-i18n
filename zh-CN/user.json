@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "卡牌突破",
+          "cropped_image": "原图",
+          "best_match": "匹配",
+          "other_possible_result": "其他匹配",
+          "card_power": "综合力",
+          "card_training_status": "特训后"
+        }
+      },
+      "submit_success": "卡牌被保存和/或更新了。",
+      "submit_error": "保存卡牌失败。",
+      "import_button": "导入",
+      "enable_ocr_tooltip": "若启用，请上传按等级(レベル)排序的卡牌截图。\n它使用Tesseract来识别卡牌等级和突破等级。这个过程会消耗一些时间。\n特训状态是从缩图识别到的，请确保使用了正确的卡牌缩图。",
+      "enable_ocr": "识别卡牌数据"
+    },
     "upload_avatar": "上传头像",
     "username": "用户名",
     "nickname": "显示名",
@@ -7,9 +24,9 @@
     "email": "邮箱地址",
     "button": {
       "show_email": "显示",
+      "update_sekai_profile": "更新Sekai个人档案",
       "bind_sekai_id": "绑定",
-      "verify_sekai_id": "验证",
-      "update_sekai_profile": "更新Sekai个人档案"
+      "verify_sekai_id": "验证"
     },
     "email_confirmed": "邮箱地址已验证",
     "upload_avatar_error": "上传头像失败",
@@ -27,6 +44,7 @@
       "sekai_id_verify_token": "令牌",
       "sekai_user_name": "名字",
       "sekai_user_rank": "等级",
+      "sekai_user_word": "自我介绍",
       "sekai_id_verify": "验证",
       "sekai_id_verify_step_1_title": "打开资料",
       "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
@@ -39,8 +57,18 @@
     },
     "title": {
       "sekai_profile": "Sekai个人档案",
-      "user_event": "Sekai用户活动数据",
-      "user_deck": "Sekai用户卡组"
+      "user_event": "Sekai活动数据",
+      "user_deck": "Sekai当前队伍",
+      "card_list": "Sekai卡牌",
+      "import_card": "导入Sekai卡牌",
+      "manage_teams": "管理队伍"
+    },
+    "card_list": {
+      "submit_success": "卡牌状态更新成功。",
+      "submit_error": "卡牌状态更新失败。",
+      "button": {
+        "add_card": "添加卡牌。"
+      }
     },
     "sekai_id": "Sekai用户ID",
     "email_confirmed_status": {
