@@ -15,7 +15,7 @@
   },
   "storage_space": "存储空间",
   "noTeams": "无保存队伍条目。",
-  "saveNewEntry": "保存新队伍条目。",
+  "saveNewEntry": "保存新队伍条目",
   "loadTeamDialog": {
     "title": "加载队伍",
     "desc": "从保存的队伍条目加载队伍。"
