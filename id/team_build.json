@@ -21,6 +21,6 @@
     "desc": "Muat tim dari entri tim yang disimpan."
   },
   "error": {
-    "save_team_failed": "Gagal menyimpan tim. Jika sering terjadi, mungkin ini adalah bug."
+    "save_team_failed": "Gagal menyimpan tim. Jika sering terjadi, kemungkinan ini adalah bug."
   }
 }
