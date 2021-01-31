@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "突破等級",
+          "cropped_image": "來源",
+          "best_match": "匹配",
+          "other_possible_result": "其他可能",
+          "card_power": "總合力",
+          "card_training_status": "特訓後"
+        }
+      },
+      "submit_success": "已經儲存或更新卡牌。",
+      "submit_error": "無法儲存卡牌。",
+      "import_button": "滙入",
+      "enable_ocr_tooltip": "請上載根據等級排列的卡牌列表截圖，系統會使用Tesseract去辨認卡牌等級及突破等級，所以需要使用一定時間。\n特訓與否以卡片縮圖作判斷，請確保使用正確的卡片縮圖。",
+      "enable_ocr": "辨認卡牌"
+    },
     "upload_avatar": "上傳頭像",
     "username": "用戶名",
     "nickname": "顯示用戶名",
@@ -7,9 +24,9 @@
     "email": "電子郵件",
     "button": {
       "show_email": "顯示",
+      "update_sekai_profile": "更新遊戲個人資料",
       "bind_sekai_id": "綁定",
-      "verify_sekai_id": "驗證",
-      "update_sekai_profile": "更新遊戲個人資料"
+      "verify_sekai_id": "驗證"
     },
     "email_confirmed": "己確認電子郵件",
     "upload_avatar_error": "無法上傳頭像！",
@@ -27,6 +44,7 @@
       "sekai_id_verify_token": "令牌",
       "sekai_user_name": "名字",
       "sekai_user_rank": "等級",
+      "sekai_user_word": "個人簡介",
       "sekai_id_verify": "驗證",
       "sekai_id_verify_step_1_title": "打開個人檔案",
       "sekai_id_verify_step_1_subtitle": "點擊右上角的＂菜單＂(1)按鈕，然後點擊＂稱號 & プロフィール＂(2)按鈕",
@@ -39,8 +57,18 @@
     },
     "title": {
       "sekai_profile": "遊戲個人資料",
-      "user_event": "用戶活動數據",
-      "user_deck": "用戶卡組"
+      "user_event": "遊戲活動數據",
+      "user_deck": "目前遊戲隊伍",
+      "card_list": "遊戲卡牌",
+      "import_card": "滙入遊戲卡牌",
+      "manage_teams": "管理隊伍"
+    },
+    "card_list": {
+      "submit_success": "已經更新卡牌列表。",
+      "submit_error": "無法更新卡牌列表。",
+      "button": {
+        "add_card": "加入卡牌"
+      }
     },
     "sekai_id": "遊戲ID",
     "email_confirmed_status": {
