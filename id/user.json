@@ -1,5 +1,22 @@
 {
   "profile": {
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Rank Master",
+          "cropped_image": "Sumber",
+          "best_match": "Pertandingan",
+          "other_possible_result": "Pertandingan lainnya",
+          "card_power": "kekuatan",
+          "card_training_status": "Trained"
+        }
+      },
+      "submit_success": "Kartu disimpan dan/atau diperbarui.",
+      "submit_error": "Gagal menyimpan kartu.",
+      "import_button": "Impor",
+      "enable_ocr_tooltip": "Jika diaktifkan, silakan unggah tangkapan layar yang diurut berdasarkan Level (レ ベ ル).\nHal ini menggunakan Tesseract untuk mengenali level kartu dan rank master. Proses ini akan sedikit memakan waktu.\nStatus training diambil dari thumbnail, pastikan Anda menggunakan yang benar.",
+      "enable_ocr": "Kenali data kartu"
+    },
     "upload_avatar": "Unggah Avatar",
     "username": "Nama pengguna",
     "nickname": "Nama Tampilan",
@@ -7,9 +24,9 @@
     "email": "Email",
     "button": {
       "show_email": "Lihat",
+      "update_sekai_profile": "Perbarui Profil Sekai",
       "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Verifikasi",
-      "update_sekai_profile": "Perbarui Profil Sekai"
+      "verify_sekai_id": "Verifikasi"
     },
     "email_confirmed": "Email Dikonfirmasi",
     "upload_avatar_error": "Gagal mengunggah avatar!",
@@ -41,9 +58,10 @@
     "title": {
       "sekai_profile": "Profil Sekai",
       "user_event": "Data Event Sekai",
-      "user_deck": "Kartu Sekai Saat ini",
+      "user_deck": "Tim Sekai Saat ini",
       "card_list": "Kartu Sekai",
-      "import_card": "Impor Kartu Sekai"
+      "import_card": "Impor Kartu Sekai",
+      "manage_teams": "Kelola Tim"
     },
     "card_list": {
       "submit_success": "Status kartu diperbarui.",
@@ -51,23 +69,6 @@
       "button": {
         "add_card": "Tambahkan Kartu"
       }
-    },
-    "import_card": {
-      "table": {
-        "row": {
-          "card_power": "kekuatan",
-          "card_master_rank": "Rank Master",
-          "cropped_image": "Sumber",
-          "best_match": "Pertandingan",
-          "card_training_status": "Trained",
-          "other_possible_result": "Pertandingan lainnya"
-        }
-      },
-      "submit_success": "Kartu disimpan dan/atau diperbarui.",
-      "submit_error": "Gagal menyimpan kartu.",
-      "import_button": "Impor",
-      "enable_ocr_tooltip": "Jika diaktifkan, silakan unggah tangkapan layar diurut berdasarkan Power (総 合力).\nIni menggunakan Tesseract untuk mengenali kekuatan kartu dan rank master serta membutuhkan waktu.\nStatus training diambil dari thumbnail, pastikan Anda menggunakan yang benar.",
-      "enable_ocr": "Kenali data kartu"
     },
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
