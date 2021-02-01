@@ -4,7 +4,7 @@
   "no_comment_yet": "Nessun commento.",
   "report-abuse": {
     "title": "Segnala commento",
-    "description": "Riporta questo commento se pensi che ti metta a disagio.",
+    "description": "Segnala questo commento se pensi che ti metta a disagio.",
     "reason": {
       "label": "Motivazione del report",
       "other": "Altro",
