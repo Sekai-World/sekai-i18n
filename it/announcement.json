@@ -1,8 +1,13 @@
 {
   "category": "Categoria",
-  "author": "Autore",
   "published_at": "Pubblicato su",
+  "translators": "Traduttori",
+  "fetch_error": "Errore durante il recupero dei dati",
   "no_entry": "Nessuna voce.",
+  "title": "Titolo",
+  "language": "Lingua",
+  "author": "Autore",
+  "co-authors": "Co-Autori",
   "categoryName": {
     "website": "Sito web",
     "normal": "Altro",
