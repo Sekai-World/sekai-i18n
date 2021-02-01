@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Źródło",
+      "target": "Cel"
+    },
+    "source_lang": "Język źródłowy",
+    "announcement": {
+      "source_title": "Tytuł źródłowy",
+      "source_desc": "Opis źródłowy",
+      "target_title": "Tytuł docelowy",
+      "target_desc": "Opis docelowy"
+    },
+    "target_lang": "Język docelowy",
+    "button": {
+      "copy_source": "Kopiuj tekst źródłowy"
+    },
+    "target_contributors": "Współtwórcy",
+    "dialog": {
+      "copy_source": {
+        "title": "Kopiuj tekst źródłowy",
+        "text": "Skopiujesz każdy tekst źródłowy do obszaru docelowego, wszystkie nieprzesłane prace w obszarze docelowym zostaną utracone.",
+        "confirm": "Potwierdź",
+        "cancel": "Anuluj"
+      }
+    },
+    "submit-status": {
+      "success": "Sukces",
+      "failed": "Niepowodzenie"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Oznacz jako \"w toku\"",
+    "mark_finished": "Oznacz jako \"ukończone\"",
+    "continue_translate": "Kontynuuj pracę",
+    "start_translate": "Rozpocznij tłumaczenie"
+  },
+  "status": {
+    "finished": "Ukończone",
+    "inprogress": "W toku"
+  },
+  "error": {
+    "lang_mismatch": "Niedopasowany język."
+  },
+  "title": {
+    "my_works": "Istniejące prace",
+    "available_contents": "Dostępna zawartość"
+  }
+}
