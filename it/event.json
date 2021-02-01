@@ -27,6 +27,7 @@
     "start": "Da",
     "end": "Fino"
   },
+  "no_enough_data": "Dati insufficienti.",
   "tracker": {
     "select": {
       "event_name": "Nome evento",
