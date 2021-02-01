@@ -1,5 +1,7 @@
 {
   "about": "Riguardo a | Sekai Viewer",
+  "announcementDetail": "{{- name}} | Annuncio | Sekai Viewer",
+  "announcementList": "Annuncio | Sekai Viewer",
   "cardDetail": "Carta | {{- prefix}} | {{- character}} | Sekai Viewer",
   "cardList": "Lista carte | Sekai Viewer",
   "comicList": "Lista vignette | Sekai Viewer",
@@ -10,19 +12,22 @@
   "gachaDetail": "Gacha | {{- name}} | Sekai Viewer",
   "gachaList": "Lista gacha | Sekai Viewer",
   "home": "Home | Sekai Viewer",
+  "honorList": "Missione | Conquista titolo | Sekai Viewer",
+  "live2d": "Live2D | Sekai Viewer",
   "memberDetail": "Personaggio | {{- name}} | Sekai Viewer",
   "memberList": "Lista personaggi | Sekai Viewer",
   "beginnerMissionList": "Missione | Principiante | Sekai Viewer",
   "characterMissionList": "Missione | Personaggio | Sekai Viewer",
-  "honorList": "Missione | Conquista titolo | Sekai Viewer",
   "normalMissionList": "Missione | Normale | Sekai Viewer",
   "musicDetail": "Musica | {{- title}} | Sekai Viewer",
   "musicList": "Lista musiche | Sekai Viewer",
   "stampList": "Lista adesivi | Sekai Viewer",
+  "translation": "Centro Traduzioni | Sekai Viewer",
   "unitDetail": "Unità | {{- name}} | Sekai Viewer",
   "connectRedirect": "Reindirizzare | Sekai Viewer",
+  "user_home": "Profilo utente | Sekai Viewer",
   "login": "Login | Sekai Viewer",
   "reset_password": "Reset password | Sekai Viewer",
   "signup": "Iscriviti | Sekai Viewer",
-  "user_home": "Profilo utente | Sekai Viewer"
+  "virtualLiveList": "Lista Virtual Live | Sekai Viewer"
 }
