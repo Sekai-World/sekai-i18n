@@ -11,7 +11,7 @@
   "storage_location": {
     "label": "Lokasi Penyimpanan",
     "local": "Lokal",
-    "cloud": "Penyimpanan"
+    "cloud": "Penyimpanan Online"
   },
   "storage_space": "Ruang Penyimpanan",
   "noTeams": "Tidak ada entri tim yang disimpan.",
