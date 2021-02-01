@@ -12,6 +12,7 @@
     "male": "Maschio",
     "secret": "Segreto"
   },
+  "scenario": "Storia",
   "introduction": "Introduzione",
   "colorCode": "Colore personale",
   "skinColorCode": "Colore pelle",
