@@ -1,11 +1,13 @@
 {
   "category": "種類",
   "published_at": "で公開",
-  "co-authors": "開発協力者",
+  "translators": "翻訳者",
+  "fetch_error": "データ取得中にエラーが発生しました。",
   "no_entry": "エントリはありません。",
   "title": "タイトル",
   "language": "言語",
   "author": "作成者",
+  "co-authors": "開発協力者",
   "categoryName": {
     "website": "ウェブサイト",
     "normal": "その他",
