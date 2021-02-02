@@ -5,7 +5,7 @@
     "desc": "Costruisci il tuo time per le canzoni raccomandate",
     "addCard": "Aggiungi carta",
     "saveTeam": "Salva team",
-    "loadTeam": "Carica Team",
+    "loadTeam": "Carica team",
     "clearTeam": "Cancella team",
     "teamPower": "Potenza team",
     "duplicatedCardError": "Non puoi aggiungere la stessa carta nello stesso team.",
