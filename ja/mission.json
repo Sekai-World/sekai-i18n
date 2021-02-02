@@ -33,7 +33,8 @@
     "collect_stamp": "スタンプの収集",
     "read_area_talk": "エリア会話を読む",
     "read_card_episode_first": "サイドストーリー前編を読む",
-    "read_card_episode_second": "サイドストーリー後編を読む"
+    "read_card_episode_second": "サイドストーリー後編を読む",
+    "skill_level_up": "スキルレベルを上げる"
   },
   "requirement": "必要数",
   "mission_group": "ミッショングループ"
