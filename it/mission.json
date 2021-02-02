@@ -33,7 +33,8 @@
     "collect_stamp": "Colleziona timbro",
     "read_area_talk": "Leggi discussione d'area.",
     "read_card_episode_first": "Leggi la prima parte della storia della carta",
-    "read_card_episode_second": "Leggi la seconda parte della storia della carta"
+    "read_card_episode_second": "Leggi la seconda parte della storia della carta",
+    "skill_level_up": "Aumenta il livello della skill"
   },
   "requirement": "Quantitativo richiesto",
   "mission_group": "Missione di gruppo"
