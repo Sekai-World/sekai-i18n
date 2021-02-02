@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Banner & Logo"
+    },
+    "title[3]": "Sfondo",
+    "title[4]": "Immagine caratteristica",
     "title[0]": "Descrizione",
     "title[1]": "Riassunto",
-    "title[2]": "Simulatore",
-    "title[3]": "Sfondo",
-    "title[4]": "Immagine caratteristica"
+    "title[2]": "Simulatore"
   },
+  "ceil_item": "Scambia item",
+  "summary": "Riepilogo",
+  "description": "Descrizione",
+  "gacha_rate": "Rate Gacha",
   "normalRate": "Probabilità di pescata normale",
   "guaranteedRate": "Probabilità di pescata garantita",
+  "gacha_cards": "Carte gacha",
   "pickupMember": "Membro in rate-up",
   "pickupMember_plural": "Membri in rate-up",
+  "gacha_behaviors": "Opzioni per il pescaggio nel gacha",
+  "gacha_simulator": "Simulatore gacha",
+  "simulator": {
+    "total": "Totale",
+    "cost": "Costo",
+    "count": "Conteggio",
+    "percentage": "Percentuale"
+  },
+  "behavior": {
+    "normal": "Normale",
+    "over_rarity_3_once": "(3*) Garantita",
+    "once_a_day": "Una volta al giorno",
+    "over_rarity_4_once": "(4*) Garantita"
+  },
   "gachaType": {
     "ceil": "Con sigilli",
     "normal": "Normale"
