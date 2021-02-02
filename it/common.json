@@ -2,7 +2,9 @@
   "about": "Riguardo a",
   "comment": "Commenti",
   "announcement": "Annunci",
+  "loading": "Caricamento...",
   "home": "Home",
+  "translation": "Traduzione",
   "card": "Carte",
   "music": "Canzoni",
   "gacha": "Gacha",
@@ -17,8 +19,9 @@
     "normal": "Normale",
     "beginner": "Principiante"
   },
+  "virtualLive": "Virtual Live",
   "musicMeta": "Canzoni meta",
-  "musicRecommend": "Canzoni raccomandate (beta)",
+  "musicRecommend": "Suggeritore di canzoni",
   "eventCalc": "Pianificatore evento",
   "storyReader": "Lettore storie",
   "eventTracker": "Tracker evento",
@@ -33,14 +36,8 @@
     "title": "Impostazioni"
   },
   "user": "Utente",
-  "language": "Lingua",
-  "darkmode": "Modalità luminosità ",
-  "contentTranslationMode": {
-    "title": "Modalità di visione del contenuto del gioco",
-    "original": "Originale",
-    "translated": "Tradotto (se disponibile)",
-    "both": "Mostra entrambi"
-  },
+  "update": "Aggiornamento",
+  "update-available": "Nuova versione disponibile.",
   "id": "ID",
   "title": "Titolo",
   "unit": "Gruppo",
@@ -63,18 +60,14 @@
   "back": "Indietro",
   "next": "Successivo",
   "betaIndicator": "Questa è una funzione beta. Siamo felici se ci segnalaste gli errori.",
-  "icon": "Icona",
   "endAt": "Disponibile fino a",
-  "detect": {
-    "checking": "Controllando...",
-    "unsupported": "Non supportato",
-    "supported": "Supportato"
-  },
+  "show": "Show",
   "campaign": "Campagna",
   "bug": "Errore",
-  "profile": "Profilo",
-  "description": "Descrizione",
   "level": "Livello",
+  "description": "Descrizione",
+  "apply": "Applica",
+  "profile": "Profilo",
   "character_plural": "Personaggi",
   "countdown": {
     "day": "Giorni",
@@ -82,16 +75,33 @@
     "minute": "Minuti",
     "second": "Secondi"
   },
-  "delete": "Cancella",
+  "language": "Lingua",
+  "darkmode": "Modalità luminosità ",
+  "contentTranslationMode": {
+    "title": "Modalità di visione del contenuto del gioco",
+    "original": "Originale",
+    "translated": "Tradotto (se disponibile)",
+    "both": "Mostra entrambi"
+  },
+  "spoiler": "Spoiler",
   "all": "Tutto",
   "search": "Cerca",
   "replace": "Rimpiazza",
+  "delete": "Cancella",
   "load": "Carica",
+  "modify": "Modifica",
   "login": "Login",
   "reset_password": "Resetta password",
+  "save": "Salva",
+  "reset": "Reset",
   "signup": "Iscriviti",
+  "detect": {
+    "checking": "Controllando...",
+    "unsupported": "Non supportato",
+    "supported": "Supportato"
+  },
+  "icon": "Icona",
   "copyToClipboard": "Copia negli appunti",
   "scoreCalculator": "Calcolatore di punteggio",
-  "update": "Aggiornamento",
   "member": "Personaggio"
 }
