@@ -1,0 +1,13 @@
+{
+  "1": "Mata dinaikkan sebanyak {{1;v}}% selama {{1;d}} saat.",
+  "2": "Mata dinaikkan sebanyak {{2;v}}% selama {{2;d}} saat.",
+  "3": "Mata dinaikkan sebanyak {{3;v}}% selama {{3;d}} saat.",
+  "4": "Mata dinaikkan sebanyak {{4;v}}% selama {{4;d}} saat.",
+  "5": "GREAT akan ditukarkan menjadi PERFECT selama {{8;d}} saat, dan mata dinaikkan sebanyak {{5;v}}％ selama {{5;d}} saat.",
+  "6": "Semua GOOD dan ke atas ditukarkan menjadi PERFECT selama {{9;d}} saat, dan mata dinaikkan sebanyak {{6;v}}％ selama {{6;d}} saat.",
+  "7": "Semua BAD dan ke atas ditukarkan menjadi PERFECT selama {{10;d}} saat, dan mata dinaikkan sebanyak {{7;v}}％ selama {{7;d}} saat.",
+  "8": "Pulihkan {{14;v}} nyawa, mata akan dinaikkan sebanyak {{11;v}}% selama {{11;d}} saat.",
+  "9": "Pulihkan {{15;v}} nyawa, mata akan dinaikkan sebanyak {{12;v}}% selama {{12;d}} saat.",
+  "10": "Pulihkan {{16;v}} nyawa, mata akan dinaikkan sebanyak {{13;v}}% selama {{13;d}} saat.",
+  "11": "Mata bagi PERFECT sahaja akan dinaikkan sebanyak {{17;v}}% selama {{17;d}} saat."
+}
