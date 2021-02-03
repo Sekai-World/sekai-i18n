@@ -7,10 +7,23 @@
     "ascending": "Ascendente",
     "descending": "Descendente"
   },
+  "honorType": {
+    "caption": "Tipo de título",
+    "group_only_once": "Muestra solo uno en cada grupo"
+  },
+  "not_set": "No establecido",
   "missionType": {
     "caption": "Tipo de misión"
   },
   "music_tag": {
     "caption": "Etiqueta de la canción"
+  },
+  "music_mv": {
+    "caption": "Tipo de MV"
+  },
+  "language": {
+    "caption": "Idioma",
+    "source": "Idioma original",
+    "target": "Idioma final"
   }
 }
