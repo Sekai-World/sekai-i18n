@@ -1,5 +1,13 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "Sekai当前队伍",
+      "sekai_profile": "Sekai个人档案",
+      "user_event": "Sekai活动数据",
+      "card_list": "Sekai卡牌",
+      "import_card": "导入Sekai卡牌",
+      "manage_teams": "管理队伍"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +23,26 @@
       "submit_error": "保存卡牌失败。",
       "import_button": "导入",
       "enable_ocr_tooltip": "若启用，请上传按等级(レベル)排序的卡牌截图。\n它使用Tesseract来识别卡牌等级和突破等级。这个过程会消耗一些时间。\n特训状态是从缩图识别到的，请确保使用了正确的卡牌缩图。",
-      "enable_ocr": "识别卡牌数据"
+      "enable_ocr": "识别卡牌数据",
+      "wrong_result": "不想要这张卡？",
+      "help": {
+        "step1": {
+          "title": "步骤1：屏幕截图",
+          "subtitle": "截图你的卡牌列表，确保卡牌显示的是“Lv.XX”而不是综合力（纯数字）。"
+        },
+        "step2": {
+          "title": "步骤2：上传截图",
+          "subtitle": "1: 点击并选择你的屏幕截图。\n2: 实验性地使用OCR (Tesseract)来识别卡牌等级和突破次数。"
+        },
+        "step3": {
+          "title": "步骤3：确认结果",
+          "subtitle": "1: 从截图中识别出的卡牌缩图。\n2: 从卡牌缩图中识别出来的最佳结果。\n3: 番外故事默认认为全部解锁了，如果不是请圾得调整。\n4: 提交和保存这些卡片。\n5: 如果某张卡识别有误，点击它以替换。"
+        },
+        "step4": {
+          "title": "附录：修改结果",
+          "subtitle": "这是你点击识别出的卡牌缩图（步骤3中红色框5）后跳出来的对话框。\n1: 显示其他的可能结果。\n2: 如果你不想要这张卡，可以把它从列表中移除。"
+        }
+      }
     },
     "upload_avatar": "上传头像",
     "username": "用户名",
@@ -54,14 +81,6 @@
     "error": {
       "sekai_id_already_bind": "Sekai ID已经绑定到其他账户",
       "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？"
-    },
-    "title": {
-      "sekai_profile": "Sekai个人档案",
-      "user_event": "Sekai活动数据",
-      "user_deck": "Sekai当前队伍",
-      "card_list": "Sekai卡牌",
-      "import_card": "导入Sekai卡牌",
-      "manage_teams": "管理队伍"
     },
     "card_list": {
       "submit_success": "卡牌状态更新成功。",
