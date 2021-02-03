@@ -2,7 +2,7 @@
   "category": "Categoría",
   "published_at": "Publicado el",
   "translators": "Traductores",
-  "fetch_error": "Error al cargar datos",
+  "fetch_error": "Error al buscar datos",
   "no_entry": "Sin entradas",
   "title": "Título",
   "language": "Idioma",
