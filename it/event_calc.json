@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Selezione canzone",
+    "desc": "Seleziona canzone per l'analisi",
+    "select": {
+      "song": "Canzone",
+      "difficulty": "Difficoltà"
+    }
+  },
+  "gameData": {
+    "label": "Dati del gioco",
+    "desc": "Inserisci i dati del gioco per il calcolo",
+    "energyDrink": "Costo boost",
+    "currentPoint": "Punteggio attuale",
+    "targetPoint": "Punteggio Obbiettivo",
+    "remainingTime": "Ore rimanenti dell'evento",
+    "eventBonusRate": "Rate bonus evento (%)"
+  },
+  "assumption": "Presupposto: tutte note perfette, tutti i giocatori in multiplayer hanno lo stesso team, nessun bonus dato da boost",
+  "result": {
+    "eventPointPerPlay": "Punti evento per live",
+    "playClount": "Conteggio totale dei live",
+    "playTime": "Tempo di gioco totale",
+    "useBoost": "Totale boost consumati",
+    "totalPoint": "Totale punti evento"
+  }
+}
