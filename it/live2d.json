@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Caricamento metadati del modello...",
+    "model_texture": "Caricamento textures del modello...",
+    "model_moc3": "Caricamento scheletro del modello...",
+    "model_physics": "Caricamento fisica del modello...",
+    "motion_metadata": "Caricamento movimenti del modello...",
+    "display_model": "Display del modello in preparazione..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generazione dei metadati",
+    "download_texture": "Download texture",
+    "download_moc3": "Download scheletro",
+    "download_physics": "Download fisica ",
+    "download_motions": "Download movimenti ed espressioni {{dlcount}}/{{total}}",
+    "generate_zip": "Generazione file zip"
+  },
+  "select": {
+    "model": "Modello",
+    "motions": "Movimenti",
+    "expressions": "Espressioni"
+  },
+  "tooltip": {
+    "download": "Download",
+    "fullscreen": "Attiva modalità schermo intero",
+    "shot": "Salva immagine",
+    "stop_record": "Ferma registrazione",
+    "start_record": "Avvia registrazione"
+  }
+}
