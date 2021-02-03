@@ -14,7 +14,7 @@
     "currentPoint": "Punteggio attuale",
     "targetPoint": "Punteggio obbiettivo",
     "remainingTime": "Ore rimanenti dell'evento",
-    "eventBonusRate": "Rate bonus evento (%)"
+    "eventBonusRate": "Bonus evento del team (%)"
   },
   "assumption": "Presupposto: tutte note perfette, tutti i giocatori in multiplayer hanno lo stesso team, nessun bonus dato da boost",
   "result": {
