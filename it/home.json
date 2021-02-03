@@ -25,7 +25,7 @@
   "detect": {
     "warning": "Sta girando in modalità compatibilità, potresti avere dei problemi di performance. Considera di aggiornare il tuo browser o la tua versione di iOS/macOS. <br> Maggiori informazioni: <l> Posso usare - Immagini in formato WebP </l>",
     "failed": "Sfortunatamente non puoi caricare molte delle immagini. Aggiorna il tuo browser o la tua versione di iOS/macOS. Soluzioni di compatibilità arriveranno presto. <br> Maggiori informazioni: <l> Posso usare - Immagini in formato WebP </l>",
-    "success": "Congratulazioni! Il tuo browser sembra essere moderno,  seems modern, puoi caricare le immagini velocemente e salvando la banda internet."
+    "success": "Congratulazioni! Il tuo browser sembra essere moderno, puoi caricare le immagini velocemente e salvando la banda internet."
   },
   "update": "Link correlati"
 }
