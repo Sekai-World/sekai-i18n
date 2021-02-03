@@ -1,0 +1,23 @@
+{
+  "live_characters": "Personaggi",
+  "rewards": "Ricompense",
+  "title": {
+    "schedules": "Programmazione",
+    "setlist": "Sceneggiatura"
+  },
+  "schedule": {
+    "start": "Inizio",
+    "end": "Fine"
+  },
+  "mc": {
+    "character_unspawn": "Il personaggio esce dalla scena"
+  },
+  "type": {
+    "normal": "Normale",
+    "beginner": "Iniziale"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Live Musicale"
+  }
+}
