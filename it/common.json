@@ -9,7 +9,7 @@
   "music": "Canzoni",
   "gacha": "Gacha",
   "event": "Eventi",
-  "stamp": "Adesivi",
+  "stamp": "Sticker",
   "comic": "Vignette",
   "character": "Personaggi",
   "mission": {
@@ -21,7 +21,7 @@
   },
   "virtualLive": "Virtual Live",
   "musicMeta": "Canzoni meta",
-  "musicRecommend": "Suggeritore di canzoni",
+  "musicRecommend": "Canzoni raccomandate (Beta)",
   "eventCalc": "Pianificatore evento",
   "storyReader": "Lettore storie",
   "eventTracker": "Tracker evento",
