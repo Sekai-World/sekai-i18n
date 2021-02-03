@@ -12,7 +12,7 @@
     "desc": "Inserisci i dati del gioco per il calcolo",
     "energyDrink": "Costo boost",
     "currentPoint": "Punteggio attuale",
-    "targetPoint": "Punteggio Obbiettivo",
+    "targetPoint": "Punteggio obbiettivo",
     "remainingTime": "Ore rimanenti dell'evento",
     "eventBonusRate": "Rate bonus evento (%)"
   },
