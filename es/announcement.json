@@ -1,11 +1,13 @@
 {
   "category": "Categoría",
   "published_at": "Publicado el",
-  "co-authors": "Co-autores",
+  "translators": "Traductores",
+  "fetch_error": "Error al cargar datos",
   "no_entry": "Sin entradas",
   "title": "Título",
   "language": "Idioma",
   "author": "Autor",
+  "co-authors": "Co-autores",
   "categoryName": {
     "website": "Sitio Web",
     "normal": "Otros",
