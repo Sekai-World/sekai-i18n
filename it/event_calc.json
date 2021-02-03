@@ -19,7 +19,7 @@
   "assumption": "Presupposto: tutte note perfette, tutti i giocatori in multiplayer hanno lo stesso team, nessun bonus dato da boost",
   "result": {
     "eventPointPerPlay": "Punti evento per live",
-    "playClount": "Conteggio totale dei live",
+    "playClount": "Totale live da giocare",
     "playTime": "Tempo di gioco totale",
     "useBoost": "Totale boost consumati",
     "totalPoint": "Totale punti evento"
