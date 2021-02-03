@@ -1,0 +1,15 @@
+{
+  "page_title": "Titoli",
+  "honor_group": "Gruppo del titolo",
+  "rarity": {
+    "low": "Bassa",
+    "middle": "Media",
+    "high": "Alta",
+    "highest": "Massima"
+  },
+  "type": {
+    "character": "Personaggio",
+    "achievement": "Obbiettivo",
+    "event": "Evento"
+  }
+}
