@@ -1,5 +1,13 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "目前遊戲隊伍",
+      "sekai_profile": "遊戲個人資料",
+      "user_event": "遊戲活動數據",
+      "card_list": "遊戲卡牌",
+      "import_card": "滙入遊戲卡牌",
+      "manage_teams": "管理隊伍"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +23,26 @@
       "submit_error": "無法儲存卡牌。",
       "import_button": "滙入",
       "enable_ocr_tooltip": "請上載根據等級排列的卡牌列表截圖，系統會使用Tesseract去辨認卡牌等級及突破等級，所以需要使用一定時間。\n特訓與否以卡片縮圖作判斷，請確保使用正確的卡片縮圖。",
-      "enable_ocr": "辨認卡牌"
+      "enable_ocr": "辨認卡牌",
+      "wrong_result": "辨認到錯誤的卡牌？",
+      "help": {
+        "step1": {
+          "title": "步驟1：截圖",
+          "subtitle": "在你的成員清單內截圖，確保顯示＂Lv.XX＂而不是綜合力。"
+        },
+        "step2": {
+          "title": "步驟2：上載截圖",
+          "subtitle": "1：點擊及選取你的截圖；\n2：利用實驗性OCR功能（Tesseract）辨認卡牌等級及突破等級。"
+        },
+        "step3": {
+          "title": "步驟3：確認結果",
+          "subtitle": "1：自動從你的截圖中找出卡牌縮圖；\n2：顯示匹配率最高的卡牌縮圖；\n3：假設所有支線故事已經解鎖，如果未解鎖，請調整狀態；\n4：提交及儲存經辨認的卡牌；\n5：如果辨認結果出錯，請點擊卡牌去替換。"
+        },
+        "step4": {
+          "title": "附錄：調整結果",
+          "subtitle": "這個文字框會在你點卡牌縮圖的時候顯示。\n1：顯示其他潛在的配對卡牌；\n2：如果你不想要這張卡牌，你可以將它從列表中移除。"
+        }
+      }
     },
     "upload_avatar": "上傳頭像",
     "username": "用戶名",
@@ -54,14 +81,6 @@
     "error": {
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
       "sekai_id_verify_failed": "無法驗證所有者，你是否忘記了離開資料界面以保存？"
-    },
-    "title": {
-      "sekai_profile": "遊戲個人資料",
-      "user_event": "遊戲活動數據",
-      "user_deck": "目前遊戲隊伍",
-      "card_list": "遊戲卡牌",
-      "import_card": "滙入遊戲卡牌",
-      "manage_teams": "管理隊伍"
     },
     "card_list": {
       "submit_success": "已經更新卡牌列表。",
