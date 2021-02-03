@@ -1,5 +1,13 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "Pasukan Semasa Sekai",
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Data Acara Sekai",
+      "card_list": "Kad Sekai",
+      "import_card": "Import Kad Sekai",
+      "manage_teams": "Urus Pasukan"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +23,26 @@
       "submit_error": "Gagal menyimpan kad.",
       "import_button": "Import",
       "enable_ocr_tooltip": "Jika dibolehkan, sila muat naik tangkapan layar dengan isihan mengikut Tahap (レベル).\nIa menggunakan Tesseract untuk mengenal pasti tahap kad dan kedudukan master. Proses ini akan mengambil masa.\nKeadaan latihan diambil dari lakaran kecil iaitu thumbnail, pastikan anda gunakan yang betul.",
-      "enable_ocr": "Kenali data kad"
+      "enable_ocr": "Kenali data kad",
+      "wrong_result": "Kad tidak dijangka?",
+      "help": {
+        "step1": {
+          "title": "Langkah 1: Ambil Tangkapan Layar",
+          "subtitle": "Tangkap layar kotak anda, pastikan \"Lv.XX\" ditunjukkan dan bukannya kuasa (hanya nombor)."
+        },
+        "step2": {
+          "title": "Langkah 2: Muat Naik Tangkapan Layar",
+          "subtitle": "1: Klik dan pilih tangkapan layar anda.\n2: Cuba untuk kenal pasti tahap dan kedudukan master kad menggunakan OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Langkah 3: Sahkan Keputusan",
+          "subtitle": "1: Lakaran kecil kad dipotong dari tangkapan layar anda.\n2: Lakaran kecil kad yang paling sepadan berdasarkan peratusan persamaan.\n3: Cerita sampingan dianggap sudah buka kunci, ingat untuk tutupnya jika belum dibuka kunci.\n4: Hantar dan simpan kad yang dikenal pasti.\n5: Jika kad dikenal pasti itu salah, klik padanya untuk menggantikannya."
+        },
+        "step4": {
+          "title": "Lampiran: Mengubah Keputusan",
+          "subtitle": "Dialog ini akan ditunjukkan jika anda klik pada lakaran kecil kad yang dipadankan (segi empat merah dengan nombor 5 dalam langkah 3).\n1. Tunjukkan padanan lain yang mungkin betul untuk kad ini.\n2. Jika anda tidak inginkan kad ini, anda boleh membuangnya dari senarai."
+        }
+      }
     },
     "upload_avatar": "Muat Naik Avatar",
     "username": "Nama Pengguna",
@@ -54,14 +81,6 @@
     "error": {
       "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
       "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
-    },
-    "title": {
-      "sekai_profile": "Profil Sekai",
-      "user_event": "Data Acara Sekai",
-      "user_deck": "Pasukan Semasa Sekai",
-      "card_list": "Kad Sekai",
-      "import_card": "Import Kad Sekai",
-      "manage_teams": "Urus Pasukan"
     },
     "card_list": {
       "submit_success": "Keadaan kad telah dikemas kini.",
