@@ -1,12 +1,26 @@
 {
+  "button": {
+    "calc_total_power": "Obtener poder total"
+  },
+  "auto_calc_bonus": "Utilizar Perfil Sekai",
+  "use_sekai_card_state": "Utilizar estado guardado de cartas Sekai",
   "saveTeamDialog": {
     "title": "Guardar equipo",
     "desc": "Guarde la nueva entrada del equipo o reemplace la entrada del equipo existente."
   },
+  "storage_location": {
+    "label": "Ubicación de almacenamiento",
+    "local": "Local",
+    "cloud": "Nube"
+  },
+  "storage_space": "Espacio de almacenamiento",
   "noTeams": "No hay entradas de equipo guardadas.",
   "saveNewEntry": "Guardar nueva entrada de equipo",
   "loadTeamDialog": {
     "title": "Cargar Equipó",
     "desc": "Cargar equipo de las entradas de equipo guardadas."
+  },
+  "error": {
+    "save_team_failed": "Error al guardar el equipo. Si esto ocurre con frecuencia, podría ser un bug."
   }
 }
