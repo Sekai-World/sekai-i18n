@@ -40,7 +40,7 @@
         },
         "step4": {
           "title": "Appendix: Modify the Result",
-          "subtitle": "This dialog is shown if you clicked the matched card thumbnail (red square with numbert 5 in step 3).\n1: Showing other possible matches for this card.\n2: If you don't want this card, you can remove it from the list."
+          "subtitle": "This dialog is shown if you clicked the matched card thumbnail (red square with number 5 in step 3).\n1: Showing other possible matches for this card.\n2: If you don't want this card, you can remove it from the list."
         }
       }
     },
