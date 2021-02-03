@@ -21,7 +21,7 @@
     "label": "Seleziona modalità",
     "desc": "Seleziona il metodo di lavoro raccomandato."
   },
-  "assumption": "Assumendo: tutto perfetto, bonus evento 0%, uso di 0 drink, multi giocatore dove tutti avete lo stessa potenza di team.",
+  "assumption": "Assumendo: tutto perfetto, bonus evento 0%, uso di 0 drink, Multi Live dove tutti avete lo stessa potenza di team.",
   "addCardDialog": {
     "title": "Aggiungi carta",
     "selectChara": "Personaggio",
