@@ -29,7 +29,7 @@
   },
   "saveTeamDialog": {
     "title": "Salva team",
-    "desc": "Salva codice team per ricaricalo più tardi."
+    "desc": "Salva codice team per ricaricarlo più tardi."
   },
   "teamCode": "Codice team",
   "loadTeamDialog": {
