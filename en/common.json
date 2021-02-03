@@ -54,6 +54,7 @@
   "releaseCondition": "Release Condition",
   "releaseCosts": "Release Costs",
   "rewards": "Rewards",
+  "advertisement": "Advertisement",
   "submit": "Submit",
   "ongoing_event": "Ongoing Event",
   "type": "Type",
@@ -94,6 +95,7 @@
   "reset_password": "Reset Password",
   "save": "Save",
   "reset": "Reset",
+  "help": "",
   "signup": "Sign Up",
   "detect": {
     "checking": "Checking...",
