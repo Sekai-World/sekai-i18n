@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Originale",
+      "target": "Traduzione"
+    },
+    "source_lang": "Lingua originale",
+    "announcement": {
+      "source_title": "Titolo nella lingua originale",
+      "source_desc": "Descrizione nella lingua originale",
+      "target_title": "Titolo nella lingua scelta",
+      "target_desc": "Descrizione nella lingua scelta"
+    },
+    "target_lang": "Lingua scelta",
+    "button": {
+      "copy_source": "Copia stringhe originali"
+    },
+    "target_contributors": "Collaboratori",
+    "dialog": {
+      "copy_source": {
+        "title": "Copia stringhe originali",
+        "text": "Copierai tutte le stringhe originali nell'area di traduzione, tutti i progetti non inseriti nell'area di traduzione verranno persi.",
+        "confirm": "Conferma",
+        "cancel": "Cancella"
+      }
+    },
+    "submit-status": {
+      "success": "Successo",
+      "failed": "Errore"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Segna come In corso",
+    "mark_finished": "Segna come Concluso",
+    "continue_translate": "Continua progetto",
+    "start_translate": "Inizia a tradurre"
+  },
+  "status": {
+    "finished": "Concluso",
+    "inprogress": "In corso"
+  },
+  "error": {
+    "lang_mismatch": "Mancata corrispondenza tra le lingue"
+  },
+  "title": {
+    "my_works": "Progetti esistenti",
+    "available_contents": "Contenuti disponibili"
+  }
+}
