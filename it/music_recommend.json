@@ -2,7 +2,7 @@
   "getResult": "Ricevi i risultati",
   "buildTeam": {
     "label": "Costruisci il team",
-    "desc": "Costruisci il tuo team per il Suggeritore di canzoni",
+    "desc": "Costruisci il tuo team per ottenere le canzoni raccomandate",
     "addCard": "Aggiungi carta",
     "saveTeam": "Salva team",
     "loadTeam": "Carica team",
