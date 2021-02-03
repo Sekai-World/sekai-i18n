@@ -33,7 +33,8 @@
     "collect_stamp": "Coleccionar Estampilla",
     "read_area_talk": "Leer Conversación de área",
     "read_card_episode_first": "Leer la Primera Parte del Episodio de la Carta",
-    "read_card_episode_second": "Leer la Segunda Parte del Episodio de la Carta"
+    "read_card_episode_second": "Leer la Segunda Parte del Episodio de la Carta",
+    "skill_level_up": "Subir el nivel de habilidad"
   },
   "requirement": "Cantidad requerida",
   "mission_group": "Grupo de misiones"
