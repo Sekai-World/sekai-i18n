@@ -54,7 +54,6 @@
   "releaseCondition": "Release Condition",
   "releaseCosts": "Release Costs",
   "rewards": "Rewards",
-  "advertisement": "Advertisement",
   "submit": "Submit",
   "ongoing_event": "Ongoing Event",
   "type": "Type",
@@ -70,6 +69,7 @@
   "apply": "Apply",
   "profile": "Profile",
   "character_plural": "Characters",
+  "advertisement": "Advertisement",
   "countdown": {
     "day": "Days",
     "hour": "Hours",
@@ -95,7 +95,10 @@
   "reset_password": "Reset Password",
   "save": "Save",
   "reset": "Reset",
-  "help": "",
+  "help": "Help",
+  "close": "Close",
+  "hide": "Hide",
+  "area_item": "Area Item",
   "signup": "Sign Up",
   "detect": {
     "checking": "Checking...",
