@@ -54,7 +54,6 @@
   "releaseCondition": "Condición de Desbloqueo",
   "releaseCosts": "Costo de Desbloqueo",
   "rewards": "Recompensas",
-  "advertisement": "Anuncio",
   "submit": "Enviar",
   "ongoing_event": "Evento actual",
   "type": "Tipo",
@@ -70,6 +69,7 @@
   "apply": "Aplicar",
   "profile": "Perfil",
   "character_plural": "Personajes",
+  "advertisement": "Anuncio",
   "countdown": {
     "day": "Días",
     "hour": "Horas",
@@ -95,6 +95,10 @@
   "reset_password": "Resetear Contraseña.",
   "save": "Guardar",
   "reset": "Reiniciar",
+  "help": "Ayuda",
+  "close": "Cerrar",
+  "hide": "Ocultar",
+  "area_item": "Objeto de área",
   "signup": "Registrarse",
   "detect": {
     "checking": "Comprobando...",
