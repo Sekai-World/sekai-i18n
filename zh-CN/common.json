@@ -54,7 +54,6 @@
   "releaseCondition": "解放条件",
   "releaseCosts": "解放素材",
   "rewards": "奖励",
-  "advertisement": "广告",
   "submit": "提交",
   "ongoing_event": "进行中的活动",
   "type": "类型",
@@ -70,6 +69,7 @@
   "apply": "应用",
   "profile": "角色资料",
   "character_plural": "角色",
+  "advertisement": "广告",
   "countdown": {
     "day": "天",
     "hour": "小时",
@@ -95,6 +95,10 @@
   "reset_password": "重设密码",
   "save": "保存",
   "reset": "重置",
+  "help": "帮助",
+  "close": "关闭",
+  "hide": "隐藏",
+  "area_item": "区域道具",
   "signup": "注册",
   "detect": {
     "checking": "检查中",
