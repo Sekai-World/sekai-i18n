@@ -1,0 +1,26 @@
+{
+  "button": {
+    "calc_total_power": "Uzyskaj całkowitą moc"
+  },
+  "auto_calc_bonus": "Użyj profilu Sekai",
+  "use_sekai_card_state": "Użyj stanu zapisanych kart Sekai",
+  "saveTeamDialog": {
+    "title": "Zapisz zespół",
+    "desc": "Zapisz wpis nowego zespołu lub zastąp istniejący już wpis zespołu."
+  },
+  "storage_location": {
+    "label": "Miejsce przechowywania",
+    "local": "Lokalnie",
+    "cloud": "Chmura"
+  },
+  "storage_space": "Pojemność pamięci",
+  "noTeams": "Brak zapisanych wpisów zespołu.",
+  "saveNewEntry": "Zapisz wpis nowego zespołu",
+  "loadTeamDialog": {
+    "title": "Wczytaj zespół",
+    "desc": "Wczytaj zespół z zapisanych wpisów zespołu."
+  },
+  "error": {
+    "save_team_failed": "Nie udało się zapisać zespołu. Jeśli zdarza się to zbyt często, może to być błąd."
+  }
+}
