@@ -54,7 +54,6 @@
   "releaseCondition": "Condizione di sblocco",
   "releaseCosts": "Costo di sblocco",
   "rewards": "Ricompense",
-  "advertisement": "Pubblicità",
   "submit": "Invia",
   "ongoing_event": "Evento in corso",
   "type": "Tipo",
@@ -70,6 +69,7 @@
   "apply": "Applica",
   "profile": "Profilo",
   "character_plural": "Personaggi",
+  "advertisement": "Pubblicità",
   "countdown": {
     "day": "Giorni",
     "hour": "Ore",
@@ -95,6 +95,10 @@
   "reset_password": "Resetta password",
   "save": "Salva",
   "reset": "Reset",
+  "help": "Aiuto",
+  "close": "Chiudi",
+  "hide": "Nascondi",
+  "area_item": "Area Item",
   "signup": "Iscriviti",
   "detect": {
     "checking": "Controllando...",
