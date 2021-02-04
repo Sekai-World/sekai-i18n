@@ -54,7 +54,6 @@
   "releaseCondition": "解放條件",
   "releaseCosts": "解放素材",
   "rewards": "獎勵",
-  "advertisement": "廣告",
   "submit": "提交",
   "ongoing_event": "正在進行的活動",
   "type": "類型",
@@ -70,6 +69,7 @@
   "apply": "應用",
   "profile": "角色資料",
   "character_plural": "角色",
+  "advertisement": "廣告",
   "countdown": {
     "day": "天",
     "hour": "小時",
@@ -95,6 +95,10 @@
   "reset_password": "重設密碼",
   "save": "保存",
   "reset": "重設",
+  "help": "幫助",
+  "close": "關閉",
+  "hide": "隱藏",
+  "area_item": "區域道具",
   "signup": "註冊",
   "detect": {
     "checking": "檢查中",
