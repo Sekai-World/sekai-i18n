@@ -1,6 +1,6 @@
 {
   "category": "Categoria",
-  "published_at": "Pubblicato su",
+  "published_at": "Pubblicato il",
   "translators": "Traduttori",
   "fetch_error": "Errore durante il recupero dei dati",
   "no_entry": "Nessuna voce.",
