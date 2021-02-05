@@ -1,0 +1,15 @@
+{
+  "page_title": "Títols",
+  "honor_group": "Grup de títol",
+  "rarity": {
+    "low": "Baixa",
+    "middle": "Intermedia",
+    "high": "Alta",
+    "highest": "Més alta"
+  },
+  "type": {
+    "character": "Personatge",
+    "achievement": "Assoliment",
+    "event": "Esdeveniment"
+  }
+}
