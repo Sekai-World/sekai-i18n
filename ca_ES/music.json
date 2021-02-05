@@ -1,0 +1,42 @@
+{
+  "vocal": "Vocalista",
+  "alert[0]": "Els primers <b>nou segons</b>de cada cançó no tenen so. Aixó NO és un bug.",
+  "vocalTab": {
+    "title[0]": "Versió curta",
+    "title[1]": "Versió llarga",
+    "title[2]": "Videoclip"
+  },
+  "skipBeginningSilence": "Ometre el silenci inicial",
+  "tag": "Etiqueta",
+  "tag_plural": "Etiquetes",
+  "category": "Categoria",
+  "category_plural": "Categories",
+  "actualPlaybackTime": "Duració total",
+  "arranger": "Arranjador",
+  "composer": "Compositor",
+  "lyricist": "Líric",
+  "danceMember": "Ballarí",
+  "danceMember_plural": "Ballarins",
+  "dancerCount": "Nombre de ballarins",
+  "vocal_plural": "Vocalistes",
+  "vocalType": "Tipus de vocalista",
+  "difficulty": "Dificultat",
+  "difficulty_plural": "Dificultats",
+  "noteCount": "Nombre de notes",
+  "achievement": "Assoliments",
+  "scoreRankAchievement": {
+    "title": "Rang de puntuació",
+    "rankC": "Rang C",
+    "rankB": "Rang B",
+    "rankA": "Rang A",
+    "rankS": "Rang S"
+  },
+  "combo": "Combos",
+  "preview": "Vista prèvia",
+  "categoryType": {
+    "mv": "Videoclip 3D",
+    "mv_2d": "Videoclip 2D",
+    "original": "Videoclip original",
+    "image": "Imatge estàtica"
+  }
+}
