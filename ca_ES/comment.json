@@ -1,0 +1,17 @@
+{
+  "send": "Enviar",
+  "write": "Redactar",
+  "no_comment_yet": "Sense comentaris.",
+  "report-abuse": {
+    "title": "Denunciar comentari",
+    "description": "Denúncia aquest comentari si creus que no et resulta còmode.",
+    "reason": {
+      "label": "Motiu de la denúncia",
+      "other": "Altres",
+      "bad_words": "Paraules dolentes",
+      "discrimination": "Discriminació"
+    },
+    "content": "El teu missatge",
+    "success": "Gràcies pel teu informe"
+  }
+}
