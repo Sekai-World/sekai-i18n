@@ -1,0 +1,41 @@
+{
+  "select": {
+    "charaName": "Nom del personatge"
+  },
+  "type": {
+    "caption": "Tipus de missió",
+    "character_rank": "Rang del personatge",
+    "clear_live": "Directes completats",
+    "player_rank": "Rang del jugador",
+    "login": "Login",
+    "collect": "Col·lecció",
+    "unit_rank": "Rang del grup",
+    "area_item": "Elements d'àrea",
+    "master": "Dificultat MASTER",
+    "multi_live": "Directe a Multiroom",
+    "duplicate_card": "Cartes duplicades",
+    "action_set": "Conversació d'àrea",
+    "read_story": "Històries llegides",
+    "virtual_live": "Directes virtuals",
+    "make": "Confecció (p. e. Vestuari)",
+    "skill_level": "Nivell d'habilitat",
+    "master_rank": "Rang mestre",
+    "set_honor": "Titularitat",
+    "clear": "Completar (p. e. Directe)",
+    "read": "Lectura (p. e. Història)",
+    "use": "Ús (p. e. Objecte)",
+    "buy": "Compra (p. e. Vestuari)",
+    "inherit": "Heretar",
+    "achieve": "Assoliment",
+    "play_live": "Compte Directe",
+    "waiting_room": "Sala d'espera",
+    "collect_costume_3d": "Vestuari 3D",
+    "collect_stamp": "Col·leccionar segells",
+    "read_area_talk": "Llegir conversació d'àrea",
+    "read_card_episode_first": "Primera part de l'història de la carta llegida",
+    "read_card_episode_second": "Segona part de l'història de la carta llegida",
+    "skill_level_up": "Augment de nivell d'habilitat"
+  },
+  "requirement": "Quantitat requerida",
+  "mission_group": "Grup de missió"
+}
