@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Selecció de cançó",
+    "desc": "Selecciona una cançó per l'anàlisi.",
+    "select": {
+      "song": "Cançó",
+      "difficulty": "Dificultat"
+    }
+  },
+  "gameData": {
+    "label": "Dades del joc",
+    "desc": "Omple amb les dades del joc per al càlcul",
+    "energyDrink": "Cost d'impuls",
+    "currentPoint": "Punts actuals",
+    "targetPoint": "Punts objectiu",
+    "remainingTime": "Hores restants de l'esdeveniment",
+    "eventBonusRate": "Percentatge de bonificació de l'esdeveniment (%)"
+  },
+  "assumption": "Assumpcions: Tot PERFECTs. Mulitplayer: Altres jugadors tenen el mateix equip. Sense bonus d'impuls per pujar nivell.",
+  "result": {
+    "eventPointPerPlay": "Punts d'esdeveniment per partida",
+    "playClount": "Compte total de partides.",
+    "playTime": "Temps total de joc",
+    "useBoost": "Impuls total consumit",
+    "totalPoint": "Punts d'esdeveniment totals"
+  }
+}
