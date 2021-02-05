@@ -1,0 +1,18 @@
+{
+  "category": "Categoria",
+  "published_at": "Publicat a",
+  "translators": "Traductors",
+  "fetch_error": "S'ha produït un error al recuperar les dades.",
+  "no_entry": "Sense entrades.",
+  "title": "Títol",
+  "language": "Llengua",
+  "author": "Autor",
+  "co-authors": "Co-autors",
+  "categoryName": {
+    "website": "Lloc web",
+    "normal": "Altres",
+    "game_update": "Actualització del joc",
+    "maintenance": "Manteniment",
+    "bug": "Bug"
+  }
+}
