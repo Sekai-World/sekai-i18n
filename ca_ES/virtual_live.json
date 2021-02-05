@@ -1,0 +1,23 @@
+{
+  "live_characters": "Personatges",
+  "rewards": "Recompenses",
+  "title": {
+    "schedules": "Horaris",
+    "setlist": "Escenari"
+  },
+  "schedule": {
+    "start": "Començament",
+    "end": "Finalització"
+  },
+  "mc": {
+    "character_unspawn": "Personatge desapareix"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Inicial"
+  },
+  "step": {
+    "mc": "Conversació",
+    "music": "Actuació en directe"
+  }
+}
