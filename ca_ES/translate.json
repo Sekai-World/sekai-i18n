@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Origen",
+      "target": "Objectiu"
+    },
+    "source_lang": "Llengua d'origen",
+    "announcement": {
+      "source_title": "Títol d'origen",
+      "source_desc": "Descripció d'origen",
+      "target_title": "Títol objectiu",
+      "target_desc": "Descripció objectiu"
+    },
+    "target_lang": "Llengua objectiu",
+    "button": {
+      "copy_source": "Copia source strings"
+    },
+    "target_contributors": "Col·laboradors",
+    "dialog": {
+      "copy_source": {
+        "title": "Copia source strings",
+        "text": "Copia totes les source strings a l'àrea de destí, tota la feina no enviada a l'àrea de destí es perdrà.",
+        "confirm": "Confirmar",
+        "cancel": "Cancelar"
+      }
+    },
+    "submit-status": {
+      "success": "Èxit",
+      "failed": "Fallada"
+    }
+  },
+  "button": {
+    "mark_unfinished": "Marcar com \"En curs\"",
+    "mark_finished": "Marcar com \"Finalitzat\"",
+    "continue_translate": "Continuar treball",
+    "start_translate": "Començar traducció"
+  },
+  "status": {
+    "finished": "Finalitzat",
+    "inprogress": "En curs"
+  },
+  "error": {
+    "lang_mismatch": "Llengua no coincident."
+  },
+  "title": {
+    "my_works": "Treballs existents",
+    "available_contents": "Continguts disponibles"
+  }
+}
