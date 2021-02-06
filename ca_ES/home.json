@@ -1,0 +1,31 @@
+{
+  "alert_contributor": {
+    "title": "Gràcies als nostres contribuïdors en el desenvolupament!"
+  },
+  "alert_translate": {
+    "title": "Gràcies als traductors!"
+  },
+  "game-news": {
+    "action": "Acció",
+    "show-from": "Mostrar des del",
+    "title-column": "Títol",
+    "show-until": "Mostrar fins el",
+    "title": "Notícies del joc"
+  },
+  "happy_new_year": "🎊Feliç any nou!🎉",
+  "alert_settings": "Utilitza <s /> al racó superior dret per canviar la llengua, canviar la brillantor i més.",
+  "alert1": {
+    "title": "Necesite'm ajuda!",
+    "translation": "Traduccions",
+    "development": "Desenvolupament",
+    "see_contrib_list": "Veure la llista de col·laboradors",
+    "contact": "Contacta'm",
+    "join-discord": "Entra al servidor de Discord"
+  },
+  "detect": {
+    "warning": "Si se executa en el mode de compatibilitat es possible que tingueu qualque problema de rendiment. Considera actualitzar el teu navegador o versió d'iOS/macOS. <br>Més informació: <l> Can I Use - WebP image format</l>",
+    "failed": "Malauradament no es podrà carregar la majoria de les imatges. Actualitza el teu navegador o versió d'iOS/macOS. La solució de compatibilitat es pujarà en breu. <br> Més informació: <l>Can I Use - WebP image format</l>",
+    "success": "Felicitats! El teu navegadors sembla lo suficientment mordern per poder carregar les imatges més ràpid i estalviar ample de banda."
+  },
+  "update": "Enllaços relacionats"
+}
