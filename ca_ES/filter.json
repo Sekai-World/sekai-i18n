@@ -1,0 +1,29 @@
+{
+  "character": {
+    "caption": "Persontatge"
+  },
+  "sort": {
+    "caption": "Ordenació",
+    "ascending": "Ascendent",
+    "descending": "Descendent"
+  },
+  "honorType": {
+    "caption": "Tipus de títol",
+    "group_only_once": "Mostrar només un de cada grup"
+  },
+  "not_set": "Sense definir",
+  "missionType": {
+    "caption": "Tipus de missió"
+  },
+  "music_tag": {
+    "caption": "Etiqueta de cançó"
+  },
+  "music_mv": {
+    "caption": "Tipus de videoclip"
+  },
+  "language": {
+    "caption": "Llengua",
+    "source": "Llengua d'origen",
+    "target": "Llengua objectiu"
+  }
+}
