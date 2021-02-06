@@ -1,0 +1,26 @@
+{
+  "button": {
+    "calc_total_power": "Obtenir poder total"
+  },
+  "auto_calc_bonus": "Utilitzar el perfil de Sekai.",
+  "use_sekai_card_state": "Utilizar l'estat de las cartes Sekai desades",
+  "saveTeamDialog": {
+    "title": "Desar equip",
+    "desc": "Desar una nova entrada d'equip o substituir l'entrada d'equip existent."
+  },
+  "storage_location": {
+    "label": "Localització d'emmagatzematge",
+    "local": "Local",
+    "cloud": "Núvol"
+  },
+  "storage_space": "Espai d'emmagatzematge",
+  "noTeams": "No hi ha entrades d'equip desades.",
+  "saveNewEntry": "Desar nova entrada d'equip",
+  "loadTeamDialog": {
+    "title": "Carregar equip",
+    "desc": "Carregar equip d'entrades d'equip desades."
+  },
+  "error": {
+    "save_team_failed": "Error al desar l'equip. Si ocorre massa aviat, pot ser un bug."
+  }
+}
