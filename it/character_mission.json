@@ -6,6 +6,6 @@
   "read_area_talk": "Leggi {{count}} conversazioni d'area che coinvolgono ｢{{- name}}｣.",
   "skill_level_up": " Alza il livello della skill di una carta di ｢{{- name}}｣ {{count}} volte.",
   "master_rank": "Alza il master rank di ｢{{- name}}｣ {{count}} volte.",
-  "read_card_episode_first": "Leggi la prima parte di una storia secondaria di ｢{{- name}}｣{{count}} volte.",
+  "read_card_episode_first": "Leggi la prima parte di una storia secondaria di ｢{{- name}}｣ {{count}} volte.",
   "read_card_episode_second": "Leggi la seconda parte di una storia secondaria di ｢{{- name}}｣ {{count}} volte."
 }
