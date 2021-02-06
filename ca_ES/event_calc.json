@@ -16,7 +16,7 @@
     "remainingTime": "Hores restants de l'esdeveniment",
     "eventBonusRate": "Percentatge de bonificació de l'esdeveniment (%)"
   },
-  "assumption": "Assumpcions: Tot PERFECTs. Mulitplayer: Altres jugadors tenen el mateix equip. Sense bonus d'impuls per pujar nivell.",
+  "assumption": "Assumpcions: Tot PERFECTs. Multijugador: Els altres jugadors tenen el mateix equip. Sense bonus d'impuls per pujar nivell.",
   "result": {
     "eventPointPerPlay": "Punts d'esdeveniment per partida",
     "playClount": "Compte total de partides.",
