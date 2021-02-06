@@ -1,0 +1,39 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Logotip i bàner"
+    },
+    "title[3]": "Fons",
+    "title[4]": "Imatge destacada",
+    "title[0]": "Descripció",
+    "title[1]": "Resum",
+    "title[2]": "Simulador"
+  },
+  "ceil_item": "Objetec d'intercambi",
+  "summary": "Resum",
+  "description": "Descripció",
+  "gacha_rate": "Índex del Gacha",
+  "normalRate": "Índex normals",
+  "guaranteedRate": "Índex tirada garantida",
+  "gacha_cards": "Cartes del Gacha",
+  "pickupMember": "Membre destacat",
+  "pickupMember_plural": "Membres destacats",
+  "gacha_behaviors": "Opcions a treure al Gacha",
+  "gacha_simulator": "Simulador de Gacha",
+  "simulator": {
+    "total": "Total",
+    "cost": "Cost",
+    "count": "Compte",
+    "percentage": "Percentatge"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Garantida (3*)",
+    "once_a_day": "Una vegada al dia",
+    "over_rarity_4_once": "Garantida (4*)"
+  },
+  "gachaType": {
+    "ceil": "Ceiling",
+    "normal": "Normal"
+  }
+}
