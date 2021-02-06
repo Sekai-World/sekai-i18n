@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Equip actual",
+      "sekai_profile": "Perfil a Sekai",
+      "user_event": "Dades d'esdeveniments",
+      "user_statistics": "Estadístiques",
+      "card_list": "Cartes",
+      "import_card": "Importar cartes",
+      "manage_teams": "Gestionar equips"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Rang mestre",
+          "cropped_image": "Origen",
+          "best_match": "Coincidència",
+          "other_possible_result": "Altres coincidències",
+          "card_power": "Poder",
+          "card_training_status": "Entrenada"
+        }
+      },
+      "submit_success": "Les cartes són desades i/o actualitzades.",
+      "submit_error": "Error al desar les cartes.",
+      "import_button": "Importar",
+      "enable_ocr_tooltip": "Si habilitau la opció, si us plau, puja la teva captura de pantalla, ordenada per Nivell (レベル).\nS'utilitza Tesseract per reconèixer el nivell i rang mestre de les cartes. Aquest procés pot trigar alguns segons.\nLes dades d'entrenament son recolectades de la miniatura, assegura't d'utilitzar la correcta.",
+      "enable_ocr": "Reconèixer dades de la carta",
+      "wrong_result": "Carta inesperada?",
+      "help": {
+        "step1": {
+          "title": "Pas 1: Fes una captura de pantalla",
+          "subtitle": "Fes una captura de pantalla del teu magatzem, assegura't que se mostra \"Lv.XX\" en lloc del poder (només números)."
+        },
+        "step2": {
+          "title": "Pas 2: Puja la teva captura de pantalla",
+          "subtitle": "1: Fes click i elegeix la teva captura de pantalla.\n2: OCR (Tesseract) reconeixerà experimentalment el nivell i rang mestre de la carta."
+        },
+        "step3": {
+          "title": "Pas 3: Confirma el resultat",
+          "subtitle": "1: Miniatura de la carta, retallada de la teva captura de pantalla.\n2: Miniatura de la carta amb millor coincidència a la teva, expressada en percentatge.\n3: Es considera que les històries secundaries han sigut desbloquetjades. Recorda desactivar-lo si no están desbloquetjades.\n4: Entrega i desa les cartes reconegudes.\n5: Si la carta ha sigut incorrectament reconeguda, fes click on ella per reemplaçar-la."
+        },
+        "step4": {
+          "title": "Apèndix: Modifica el resultat",
+          "subtitle": "Aquest cuadre de diàleg apareix si has fet click a la miniatura de la carta reconeguda (cuadre vermell amb el número  al pas 3).\n1: Mostra altres posibles coincidències per aquesta carta.\n2: Si no t'agrada aquesta carta, la podes eliminar de la llista."
+        }
+      }
+    },
+    "upload_avatar": "Pujar avatar",
+    "username": "Nom d'usuari",
+    "nickname": "Nom",
+    "role": "Rol",
+    "email": "Correu",
+    "button": {
+      "show_email": "Mostra",
+      "update_sekai_profile": "Actualitzar perfil de Sekai",
+      "bind_sekai_id": "Lligar",
+      "verify_sekai_id": "Verificar"
+    },
+    "email_confirmed": "Correu confirmat",
+    "upload_avatar_error": "Error al pujar l'avatar!",
+    "event": {
+      "current_name": "Esdeveniment actual:",
+      "current_record_info": "Última actualització:",
+      "current_record_point": "Punts d'esdeveniment:",
+      "current_record_rank": "Posició a l'esdeveniment:",
+      "current_record_time": "Hora d'actualització:"
+    },
+    "label": {
+      "update_left": "Nombre de actualitzacions fetes: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "No verificada",
+      "sekai_user_id": "ID Usuari Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nom",
+      "sekai_user_rank": "Nivell",
+      "sekai_user_word": "Introducció",
+      "sekai_id_verify": "Verificar",
+      "sekai_id_verify_step_1_title": "Obrir perfil",
+      "sekai_id_verify_step_1_subtitle": "Premeu el botó \"Menu\" (1) al racó superior dret, i torna a premer el botó \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Escriu el token i desa",
+      "sekai_id_verify_step_2_subtitle": "Escriu el teu token de verificació {{verify_token}} al cuadre de text (1), prem el botó \"Back\" (2) per desar. Després, premeu el botó \"VERIFICAR\"."
+    },
+    "error": {
+      "sekai_id_already_bind": "La Sekai ID ja està lligada a un altre usuari.",
+      "sekai_id_verify_failed": "No s'ha pogut verificar el propietari. Has deixat el quadre de perfil per desar?"
+    },
+    "card_list": {
+      "submit_success": "Estat de les cartes actualitzats.",
+      "submit_error": "Error en actualitzar l'estat de les cartes.",
+      "button": {
+        "add_card": "Afegir carta"
+      }
+    },
+    "sekai_id": "ID Usuari Sekai",
+    "email_confirmed_status": {
+      "true": "Si",
+      "false": "No"
+    }
+  }
+}
