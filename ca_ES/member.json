@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Personatge",
+    "title[1]": "Etiqueta de nom (horitzontal)",
+    "title[2]": "Etiqueta de nom (vertical)"
+  },
+  "name": "Nom",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Gènere",
+    "female": "Femení",
+    "male": "Masculí",
+    "secret": "Secret"
+  },
+  "scenario": "Història",
+  "introduction": "Introducció",
+  "colorCode": "Color representatiu",
+  "skinColorCode": "Color de pell",
+  "skinShadowColorCode1": "Color d'ombra de la pell 1",
+  "skinShadowColorCode2": "Color d'ombra de la pell 2",
+  "height": "Alçada",
+  "birthday": "Aniversari",
+  "characterVoice": "Actor de veu",
+  "school": "Institut",
+  "schoolYear": "Classe",
+  "hobby": "Aficions",
+  "specialSkill": "Especialitat",
+  "favoriteFood": "Menjar favorit",
+  "hatedFood": "Li desagrada",
+  "weak": "Feblesa"
+}
