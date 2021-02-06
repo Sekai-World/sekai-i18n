@@ -1,0 +1,33 @@
+{
+  "selectLabel": {
+    "storyType": "Tipus d'història",
+    "unitName": "Nom del grup",
+    "unitStoryChapter": "Capítol",
+    "unitStoryEpisode": "Episodi",
+    "eventName": "Nom de l'esdeveniment",
+    "eventStoryEpisode": "Episodi",
+    "charaName": "Nom del personatge",
+    "cardName": "Nom de la carta",
+    "cardStoryEpisode": "Episodi"
+  },
+  "selectValue": {
+    "eventStory": "Històries de l'esdeveniment",
+    "unitStory": "Històries del grup",
+    "charaStory": "Històries de personatge",
+    "cardStory": "Històries de cartes"
+  },
+  "buttonLabel": {
+    "showEpisode": "Carregar episodi de l'història"
+  },
+  "snippet": {
+    "FullScreenText": "Text a pantalla completa",
+    "Telop": "Imatge",
+    "ChangeBackground": "Canvi de fons",
+    "ShowBackground": "Mostrar l'imatge de fons",
+    "Movie": "Pel·lícula",
+    "ShowMovie": "Reproduir pel·lícula",
+    "BGM": "Música de fons",
+    "SE": "Efecte de so",
+    "NoSound": "Sense so"
+  }
+}
