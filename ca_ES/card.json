@@ -1,0 +1,22 @@
+{
+  "tab": {
+    "title[0]": "Imatge normal",
+    "title[1]": "Imatge normal retallada",
+    "title[2]": "Imatge entrenada",
+    "title[3]": "Imatge entrenada retallada"
+  },
+  "skillLevel": "Nivell d'habilitat",
+  "skillName": "Nom de l'habilitat",
+  "skillEffect": "Efected de l'habilitat",
+  "stats": "Stats",
+  "cardLevel": "Nivell de cart",
+  "normal": "Normal",
+  "trained": "Entrenada",
+  "sideStory": "Història secondaria",
+  "sideStory1Unlocked": "Història secondaria 1 Desbloquetjada",
+  "sideStory2Unlocked": "Història secondaria 2 Desbloquetjada",
+  "sideStory_plural": "Històries secondaries",
+  "rarity": "Raresa",
+  "power": "Poder",
+  "skill": "Habilitat"
+}
