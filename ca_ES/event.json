@@ -31,7 +31,7 @@
   "tracker": {
     "select": {
       "event_name": "Nom de l'esdeveniment",
-      "rankings": "Classifcacions"
+      "rankings": "Classificacions"
     },
     "button": {
       "curr_event": "Esdeveniment actual",
