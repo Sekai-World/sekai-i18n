@@ -1,0 +1,67 @@
+{
+  "alreadyEnded": "L'esdeveniment ha finalitzat",
+  "notStarted": "Sense començar",
+  "tab": {
+    "title[0]": "Logotip del bàner",
+    "title[1]": "Fons",
+    "title[2]": "Personatge"
+  },
+  "remainingTime": "Temps restant",
+  "progress": "Progrés",
+  "eventCards": "Cartes de l'esdeveniment",
+  "title": {
+    "boost": "Impuls",
+    "timepoint": "Cronologia",
+    "rankingRewards": "Recompenses per classificació"
+  },
+  "boostAttribute": "Atribut que dóna Impuls",
+  "boostCharacters": "Personatges que donen Impuls",
+  "maxBoost": "Impuls máxim (utilitzant tots dos)",
+  "startAt": "L'esdeveniment comença el",
+  "closeAt": "L'esdeveniment finalitza el",
+  "endAt": "Participació a l'esdeveniment disponible fins el",
+  "rankingAnnounceAt": "Anunci de la classificació el",
+  "distributionStartAt": "Distribució de les recompenses des del",
+  "distributionEndAt": "Distribució de les recompenses fins el",
+  "rankingReward": {
+    "start": "Des del",
+    "end": "Fins el"
+  },
+  "no_enough_data": "No hi ha dades suficients.",
+  "tracker": {
+    "select": {
+      "event_name": "Nom de l'esdeveniment",
+      "rankings": "Classifcacions"
+    },
+    "button": {
+      "curr_event": "Esdeveniment actual",
+      "graph": "Carregar gràfica",
+      "random-palette": "Randomitzar colors"
+    },
+    "title": {
+      "data_graph": "Gràfica de punts de l'esdeveniment",
+      "average_speed": "Velocitat mitjana"
+    }
+  },
+  "ranking": "Classifcació",
+  "speedTable": {
+    "head": {
+      "all_time": "Total (per hora)",
+      "last_24h": "Darreres 24 hores (per hora)",
+      "last_1h": "Darrera hora (per hora)"
+    }
+  },
+  "realtime": "Temps real",
+  "nextfetch": "Càrrega següent",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuari",
+      "score": "Punt(s)"
+    }
+  },
+  "aggregateAt": "Afegir cronologia",
+  "alreadyPast": "Ja pasada",
+  "type": {
+    "marathon": "Marató"
+  }
+}
