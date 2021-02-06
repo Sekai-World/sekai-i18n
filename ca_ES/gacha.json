@@ -13,7 +13,7 @@
   "summary": "Resum",
   "description": "Descripció",
   "gacha_rate": "Índex del Gacha",
-  "normalRate": "Índex normals",
+  "normalRate": "Índex tirada normal",
   "guaranteedRate": "Índex tirada garantida",
   "gacha_cards": "Cartes del Gacha",
   "pickupMember": "Membre destacat",
