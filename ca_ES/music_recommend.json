@@ -1,0 +1,43 @@
+{
+  "getResult": "Obtenir resultat",
+  "buildTeam": {
+    "label": "Crear equip",
+    "desc": "Crea el teu equip per el Recomana-cançons",
+    "addCard": "Afegir carta",
+    "saveTeam": "Desar equip",
+    "loadTeam": "Carregar equip",
+    "clearTeam": "Esborrar equip",
+    "teamPower": "Poder de l'equip",
+    "duplicatedCardError": "No es pot afegir la mateixa carta a un equip.",
+    "cardMaxError": "Ja hi ha les cartes suficients.",
+    "loadTeamError": "Comproba l'entrada.",
+    "teamTextCopied": "S'ha copiat el text de l'equip al porta-retalls."},
+  "result": {
+    "label": "Resultat",
+    "musicName": "Nom de la cançó",
+    "desc": "Només un pas més i ja hem acabat."
+  },
+  "modeSelect": {
+    "label": "Selecció de mode",
+    "desc": "Selecció el mode per al recomanador."
+  },
+  "assumption": "Assumpcions: Tot PERFECTs. Bonus d'esdeveniment = 0%. Cap beguda energètica utilitzada. Multijugador: Els altres jugadors tenen el mateix equip. ",
+  "addCardDialog": {
+    "title": "Afegir carta",
+    "selectChara": "Personatge",
+    "selectRarity": "Raresa"
+  },
+  "saveTeamDialog": {
+    "title": "Desar equip",
+    "desc": "Desa el codi de l'equip i carrega'l més tard."
+  },
+  "teamCode": "Codi de l'equip",
+  "loadTeamDialog": {
+    "title": "Carregar equip",
+    "desc": "Enganxa el codi de l'equip desat i carrega-lo."
+  },
+  "songSelect": {
+    "label": "Selecciona cançó",
+    "desc": "Selecciona una o més cançons per l'anàlisi. Deixa'l en blanc per analitzar totes les cançons."
+  }
+}
