@@ -1,7 +1,7 @@
 {
   "play_live": "Metti ｢{{- name}}｣ come leader {{count}} volte.",
   "waiting_room": "Incontra ｢{{- name}}｣ nella Sala d'attesa {{count}} volte.",
-  "collect_costume_3d": "Colleziona {{count}}  costumi di ｢{{- name}}｣ dal negozio di vestiti/gacha/alzando il Master Rank.",
+  "collect_costume_3d": "Colleziona {{count}} costumi di ｢{{- name}}｣ dal negozio di vestiti/gacha/alzando il Master Rank.",
   "collect_stamp": "Colleziona {{count}} sticker di ｢{{- name}}｣.",
   "read_area_talk": "Leggi {{count}} conversazioni d'area che coinvolgono ｢{{- name}}｣.",
   "skill_level_up": " Alza il livello della skill di una carta di ｢{{- name}}｣ {{count}} volte.",
