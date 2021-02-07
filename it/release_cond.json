@@ -40,7 +40,7 @@
   "unit_story_7": "Leggi quattro capitoli della storia principale dei Virtual Singer (Sekai Classe)",
   "unit_story_11": "Leggi quattro capitoli della storia principale dei Virtual Singer (Stage Sekai)",
   "master_rank": "Ottieni「[{{cardPrefix}}] {{cardCharaName}}」",
-  "master_rank_level": "「[{{cardPrefix}}] {{cardCharaName}}」のマスターランク{{level}}で開放",
+  "master_rank_level": "Alza il Master Rank di「[{{cardPrefix}}] {{cardCharaName}}」al livello {{level}}",
   "character_rank": "｢{{charaName}}｣のキャラクターランク{{num}}でユニット編成数UP",
   "inherit_complete": "引き継ぎ完了する",
   "event_point": "Raggiungi {{point}} punti evento",
