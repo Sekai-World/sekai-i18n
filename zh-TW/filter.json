@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "分數加成",
+    "judgment_up": "判定和分數加成",
+    "life_recovery": "回復和分數加成",
+    "perfect_score_up": "PERFECT時分數加成"
+  },
   "character": {
     "caption": "角色"
   },
