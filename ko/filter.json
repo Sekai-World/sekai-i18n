@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "스코어 부스트",
+    "judgment_up": "판정 강화 & 스코어 부스트",
+    "life_recovery": "라이프 회복 & 스코어 부스트",
+    "perfect_score_up": "PERFECT일 때 스코어 부스트"
+  },
   "character": {
     "caption": "캐릭터"
   },
