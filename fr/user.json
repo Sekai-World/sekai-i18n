@@ -32,7 +32,7 @@
           "subtitle": "Faites une capture d'écran de votre inventaire, assurez-vous que « Lv.XX » est affiché à la place de la puissance (uniquement des nombres)."
         },
         "step2": {
-          "title": "Étape 2 : Envoyer votre capture d'écran",
+          "title": "Étape 2 : Importer votre capture d'écran",
           "subtitle": "1 : Cliquez et choisissez votre capture d'écran.\n2 : Une reconnaissance expérimentale du niveau de la carte et du rang Master se fera avec l'OCR (Tesseract)."
         },
         "step3": {
