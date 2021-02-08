@@ -1,5 +1,14 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "Tim Sekai Saat ini",
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Data Event Sekai",
+      "user_statistics": "Statistik Sekai",
+      "card_list": "Kartu Sekai",
+      "import_card": "Impor Kartu Sekai",
+      "manage_teams": "Kelola Tim"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +24,26 @@
       "submit_error": "Gagal menyimpan kartu.",
       "import_button": "Impor",
       "enable_ocr_tooltip": "Jika diaktifkan, silakan unggah tangkapan layar yang diurut berdasarkan Level (レ ベ ル).\nHal ini menggunakan Tesseract untuk mengenali level kartu dan rank master. Proses ini akan sedikit memakan waktu.\nStatus training diambil dari thumbnail, pastikan Anda menggunakan yang benar.",
-      "enable_ocr": "Kenali data kartu"
+      "enable_ocr": "Kenali data kartu",
+      "wrong_result": "Kartu tidak terduga?",
+      "help": {
+        "step1": {
+          "title": "Langkah 1: Ambil Tangkapan Layar",
+          "subtitle": "Ambil tangkapan layar dari kotak Anda, pastikan \"Lv.XX\" ditampilkan, bukan kekuatan (hanya angka)."
+        },
+        "step2": {
+          "title": "Langkah 2: Unggah Tangkapan Layar Anda",
+          "subtitle": "1: Klik dan pilih tangkapan layar Anda.\n2: Secara eksperimental akan mengenali level kartu dan rank master dengan OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Langkah 3: Konfirmasikan Hasilnya",
+          "subtitle": "1: Gambar mini kartu dipangkas dari tangkapan layar Anda.\n2: Gambar mini kartu paling cocok dengan kesamaan dalam persentase.\n3: Cerita spesial diasumsikan sebagai semua terbuka, ingat untuk mematikannya jika tidak dibuka.\n4: Kirim dan simpan kartu yang dikenali.\n5: Jika kartu salah dikenali, klik untuk mengganti."
+        },
+        "step4": {
+          "title": "Lampiran: Modifikasi Hasil",
+          "subtitle": "Dialog ini akan ditampilkan jika Anda mengklik thumbnail kartu yang cocok (kotak merah dengan angka 5 pada langkah 3).\n1: Menampilkan kemungkinan kecocokan lain untuk kartu ini.\n2: Jika Anda tidak menginginkan kartu ini, Anda dapat menghapusnya dari daftar."
+        }
+      }
     },
     "upload_avatar": "Unggah Avatar",
     "username": "Nama pengguna",
@@ -54,14 +82,6 @@
     "error": {
       "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain.",
       "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?"
-    },
-    "title": {
-      "sekai_profile": "Profil Sekai",
-      "user_event": "Data Event Sekai",
-      "user_deck": "Tim Sekai Saat ini",
-      "card_list": "Kartu Sekai",
-      "import_card": "Impor Kartu Sekai",
-      "manage_teams": "Kelola Tim"
     },
     "card_list": {
       "submit_success": "Status kartu diperbarui.",
