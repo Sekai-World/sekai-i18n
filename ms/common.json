@@ -54,7 +54,7 @@
   "releaseCondition": "Cara untuk Dapatkan",
   "releaseCosts": "Kos untuk Dapatkan",
   "rewards": "Ganjaran",
-  "advertisement": "Iklan",
+  "reset": "Tetap Semula",
   "submit": "Hantar",
   "ongoing_event": "Acara Berlangsung",
   "type": "Jenis",
@@ -70,6 +70,7 @@
   "apply": "Gunakan",
   "profile": "Profil",
   "character_plural": "Watak",
+  "advertisement": "Iklan",
   "countdown": {
     "day": "Hari",
     "hour": "Jam",
@@ -94,7 +95,10 @@
   "login": "Log Masuk",
   "reset_password": "Tetapkan Semula Kata Laluan",
   "save": "Simpan",
-  "reset": "Tetap Semula",
+  "help": "Bantuan",
+  "close": "Tutup",
+  "hide": "Sembunyikan",
+  "area_item": "Item Kawasan",
   "signup": "Daftar",
   "detect": {
     "checking": "Memeriksa...",
