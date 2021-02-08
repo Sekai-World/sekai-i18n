@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "Aumento de puntuación",
+    "judgment_up": "Aumento de puntuación y juicio",
+    "life_recovery": "Aumento de puntuación y recuperación",
+    "perfect_score_up": "Aumento de puntuación al ser PERFECT"
+  },
   "character": {
     "caption": "Personaje"
   },
