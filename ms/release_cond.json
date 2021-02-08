@@ -39,7 +39,7 @@
   "unit_story_60020": "Baca episod 20 cerita utama 25-ji, Night Code de.",
   "unit_story_7": "Baca episod 4 cerita utama VIRTUAL SINGER \"Bab Sekai dalam Kelas\"",
   "unit_story_11": "Baca episod 4 cerita utama VIRTUAL SINGER \"Bab Sekai atas Pentas\"",
-  "master_rank": "Dapatkan \"[{{cardPrefix}}] {{cardCharaName}}\".",
+  "master_rank": "Dapatkan \"[{{cardPrefix}}] {{cardCharaName}}\"",
   "master_rank_level": "Naikkan kedudukan master [{{cardPrefix}}] {{cardCharaName}} ke tahap {{level}}.",
   "character_rank": "Naikkan jumlah pembentukan unit dengan {{charaName}} yang mempunyai kedudukan watak {{num}}",
   "inherit_complete": "Lengkapkan maklumat pindahan data",
