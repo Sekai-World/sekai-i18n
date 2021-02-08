@@ -29,7 +29,7 @@
       "help": {
         "step1": {
           "title": "Étape 1 : Prendre une capture d'écran",
-          "subtitle": "Faites une capture d'écran de votre inventaire, assurez-vous que « Lv.XX » est affiché à la place de la puissance (uniquement des nombres)."
+          "subtitle": "Faites une capture d'écran de votre inventaire, assurez-vous que « Lv.XX » est bien affiché au lieu de la puissance."
         },
         "step2": {
           "title": "Étape 2 : Importer votre capture d'écran",
