@@ -54,7 +54,7 @@
   "releaseCondition": "Kondisi Rilis",
   "releaseCosts": "Biaya Baca",
   "rewards": "Hadiah",
-  "advertisement": "Iklan",
+  "reset": "Atur ulang",
   "submit": "Kirimkan",
   "ongoing_event": "Event yang Sedang Berlangsung",
   "type": "Tipe",
@@ -70,6 +70,7 @@
   "apply": "Terapkan",
   "profile": "Profil",
   "character_plural": "Karakter",
+  "advertisement": "Iklan",
   "countdown": {
     "day": "Hari",
     "hour": "Jam",
@@ -94,7 +95,10 @@
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
   "save": "Simpan",
-  "reset": "Atur ulang",
+  "help": "Bantuan",
+  "close": "Tutup",
+  "hide": "Sembunyikan",
+  "area_item": "Area Item",
   "signup": "Daftar",
   "detect": {
     "checking": "Memeriksa...",
