@@ -1,5 +1,14 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "Équipe actuelle",
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Données sur l'événement",
+      "user_statistics": "Statistiques",
+      "card_list": "Cartes",
+      "import_card": "Importer les cartes",
+      "manage_teams": "Gérer les équipes"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +24,26 @@
       "submit_error": "Échec de la sauvegarde des cartes.",
       "import_button": "Importer",
       "enable_ocr_tooltip": "Si cette option est activée, veuillez transférer une capture d'écran en triant par Niveau (レベル).\nLe système utilise Tesseract pour reconnaître le niveau des cartes et le rang Master, cela nécessite un certain temps.\nLes informations des cartes entraînées sont récupérés à partir de la miniature, donc assurez-vous d'utiliser la bonne.",
-      "enable_ocr": "Identifier les données des cartes"
+      "enable_ocr": "Identifier les données des cartes",
+      "wrong_result": "Carte inattendue ?",
+      "help": {
+        "step1": {
+          "title": "Étape 1 : Prendre une capture d'écran",
+          "subtitle": "Faites une capture d'écran de votre inventaire, assurez-vous que « Lv.XX » est affiché à la place de la puissance (uniquement des nombres)."
+        },
+        "step2": {
+          "title": "Étape 2 : Envoyer votre capture d'écran",
+          "subtitle": "1 : Cliquez et choisissez votre capture d'écran.\n2 : Une reconnaissance expérimentale du niveau de la carte et du rang Master se fera avec l'OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Étape 3 : Confirmer les résultats",
+          "subtitle": "1 : La miniature de la carte sera découpé de votre capture d'écran.\n2 : Les meilleures assortiments de carte seront affichés en pourcentage.\n3 : Les histoires secondaires seront toutes déverrouillées, rappelez-vous de le décocher s'il n'est pas déverrouillé.\n4 : Envoyez et enregistrez les cartes reconnues.\n5 : Si la carte est mal reconnue, cliquez dessus pour la remplacer."
+        },
+        "step4": {
+          "title": "Annexe : Modifier les résultats",
+          "subtitle": "Cette boîte de dialogue s'affiche si vous avez cliqué sur la vignette de la carte correspondante (carré rouge avec le numéro 5 à l'étape 3).\n1 : Il indiquera d'autres correspondances possibles pour cette carte.\n2 : Si vous ne voulez pas cette carte, vous pouvez la retirer de la liste."
+        }
+      }
     },
     "upload_avatar": "Ajouter un avatar",
     "username": "Nom d'utilisateur",
@@ -54,14 +82,6 @@
     "error": {
       "sekai_id_already_bind": "Le Sekai ID est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification. Avez-vous quitté le menu de profil du jeu pour sauvegarder ?"
-    },
-    "title": {
-      "sekai_profile": "Profil Sekai",
-      "user_event": "Données sur l'événement",
-      "user_deck": "Équipe actuelle",
-      "card_list": "Cartes",
-      "import_card": "Importer les cartes",
-      "manage_teams": "Gérer les équipes"
     },
     "card_list": {
       "submit_success": "La liste des cartes est mise à jour.",
