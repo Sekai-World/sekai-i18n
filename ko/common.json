@@ -54,6 +54,7 @@
   "releaseCondition": "해금 조건",
   "releaseCosts": "소모 재화",
   "rewards": "보상",
+  "reset": "초기화",
   "submit": "확인",
   "ongoing_event": "진행 중인 이벤트",
   "type": "타입",
@@ -69,6 +70,7 @@
   "apply": "적용",
   "profile": "프로필",
   "character_plural": "캐릭터",
+  "advertisement": "광고",
   "countdown": {
     "day": "일",
     "hour": "시",
@@ -93,7 +95,10 @@
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
   "save": "저장",
-  "reset": "초기화",
+  "help": "도움말",
+  "close": "닫기",
+  "hide": "숨기기",
+  "area_item": "에리어 아이템",
   "signup": "회원가입",
   "detect": {
     "checking": "확인 중...",
