@@ -54,6 +54,7 @@
   "releaseCondition": "Condition pour l'obtenir",
   "releaseCosts": "Coût pour l'obtenir",
   "rewards": "Récompenses",
+  "reset": "Réinitialiser",
   "submit": "Soumettre",
   "ongoing_event": "Événement en cours",
   "type": "Type",
@@ -69,6 +70,7 @@
   "apply": "Appliquer",
   "profile": "Profil",
   "character_plural": "Personnages",
+  "advertisement": "Publicité",
   "countdown": {
     "day": "Jours",
     "hour": "Heures",
@@ -93,7 +95,10 @@
   "login": "Connexion",
   "reset_password": "Réinitialiser le mot de passe",
   "save": "Sauvegarder",
-  "reset": "Réinitialiser",
+  "help": "Aide",
+  "close": "Fermer",
+  "hide": "Cacher",
+  "area_item": "Objet de zone",
   "signup": "S'inscrire",
   "detect": {
     "checking": "Vérification...",
