@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "Augmentation de score",
+    "judgment_up": "Perfect Lock et amélioration de score",
+    "life_recovery": "Récupération de vie et amélioration de score",
+    "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement"
+  },
   "character": {
     "caption": "Personnage"
   },
