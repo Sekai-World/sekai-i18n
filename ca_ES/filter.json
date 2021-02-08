@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "Impuls de puntuació",
+    "judgment_up": "Impuls de puntuació i judici",
+    "life_recovery": "Impuls de puntuació y recuperació",
+    "perfect_score_up": "Impuls de puntuación per PERFECT"
+  },
   "character": {
     "caption": "Persontatge"
   },
