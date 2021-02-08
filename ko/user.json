@@ -1,5 +1,14 @@
 {
   "profile": {
+    "title": {
+      "user_deck": "Sekai 현재 팀",
+      "sekai_profile": "세카이 프로필",
+      "user_event": "Sekai 이벤트 데이터",
+      "user_statistics": "세카이 통계",
+      "card_list": "Sekai 카드",
+      "import_card": "Sekai 카드 불러오기",
+      "manage_teams": "팀 관리"
+    },
     "import_card": {
       "table": {
         "row": {
@@ -15,7 +24,26 @@
       "submit_error": "카드를 저장하지 못했습니다.",
       "import_button": "불러오기",
       "enable_ocr_tooltip": "활성화된 경우 레벨(レベル)별 스크린샷 정렬을 업로드해주세요.\n테서렉트를 사용하여 카드 레벨과 마스터 랭크를 인식합니다. 이 프로세스는 시간이 좀 걸립니다.\n트레이닝 상태는 섬네일에서 찾아옵니다. 올바른 상태를 사용해야 합니다.",
-      "enable_ocr": "카드 데이터 인식"
+      "enable_ocr": "카드 데이터 인식",
+      "wrong_result": "예상치 못한 카드?",
+      "help": {
+        "step1": {
+          "title": "1단계: 스크린샷을 찍는다",
+          "subtitle": "멤버리스트의 스크린샷을 찍고, 종합력 대신 \"Lv.XX\"가 뜨는지 확인합니다(숫자만)."
+        },
+        "step2": {
+          "title": "2단계: 스크린샷을 업로드한다",
+          "subtitle": "1: 스크린샷을 클릭하여 선택합니다.\n2: OCR(Tesseract)로 카드 레벨 및 마스터 랭크를 실험적으로 인식합니다."
+        },
+        "step3": {
+          "title": "3단계: 결과 확인",
+          "subtitle": "1: 스크린샷에서 카드 섬네일을 자릅니다.\n2: 섬네일과 가장 비슷한 카드의 미리보기가 나옵니다.\n3: 사이드 스토리는 전부 해금한 것으로 가정합니다. 해금되지 않은 경우 꺼야합니다.\n4: 인식된 카드를 제출하고 저장합니다.\n5: 카드가 잘못 인식되면 클릭하여 교체합니다."
+        },
+        "step4": {
+          "title": "부록: 결과 수정",
+          "subtitle": "이 대화 상자는 일치하는 카드 섬네일을 클릭했을 때 표시됩니다. (3단계에서 5번째 빨간 사각형)\n1: 이 카드와 일치가능한 다른 카드가 표시됩니다.\n2: 이 카드를 원하지 않으면, 목록에서 제거할 수 있습니다."
+        }
+      }
     },
     "upload_avatar": "프로필사진 업로드",
     "username": "ID",
@@ -54,14 +82,6 @@
     "error": {
       "sekai_id_already_bind": "이미 다른 사용자가 사용중인 Sekai ID 입니다.",
       "sekai_id_verify_failed": "소유권 인증에 실패했습니다. 프로필 패널을 저장하기 위해 창을 닫았나요?"
-    },
-    "title": {
-      "sekai_profile": "세카이 프로필",
-      "user_event": "Sekai 이벤트 데이터",
-      "user_deck": "Sekai 현재 팀",
-      "card_list": "Sekai 카드",
-      "import_card": "Sekai 카드 불러오기",
-      "manage_teams": "팀 관리"
     },
     "card_list": {
       "submit_success": "카드 상태가 업데이트되었습니다.",
