@@ -41,7 +41,7 @@
         },
         "step4": {
           "title": "Annexe : Modifier les résultats",
-          "subtitle": "Cette boîte de dialogue s'affiche si vous avez cliqué sur la vignette de la carte correspondante (carré rouge avec le numéro 5 à l'étape 3).\n1 : Il indiquera d'autres correspondances possibles pour cette carte.\n2 : Si vous ne voulez pas cette carte, vous pouvez la retirer de la liste."
+          "subtitle": "Cette boîte de dialogue s'affiche si vous avez cliqué sur la miniature de la carte correspondante (carré rouge du numéro 5 à l'étape 3).\n1 : Il indiquera d'autres correspondances possibles pour cette carte.\n2 : Si vous ne voulez pas cette carte, vous pouvez la retirer de la liste."
         }
       }
     },
