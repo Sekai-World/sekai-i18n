@@ -18,5 +18,6 @@
   "sideStory_plural": "角色剧情",
   "rarity": "稀有度",
   "power": "综合力",
-  "skill": "技能"
+  "skill": "技能",
+  "apply_event_filter": "应用活动奖励"
 }
