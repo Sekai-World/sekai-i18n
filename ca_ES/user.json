@@ -15,6 +15,7 @@
           "card_master_rank": "Rang mestre",
           "cropped_image": "Origen",
           "best_match": "Coincidència",
+          "card_states": "Stats de la carta",
           "other_possible_result": "Altres coincidències",
           "card_power": "Poder",
           "card_training_status": "Entrenada"
