@@ -18,5 +18,6 @@
   "sideStory_plural": "사이드 스토리들",
   "rarity": "레어도",
   "power": "총합력",
-  "skill": "스킬"
+  "skill": "스킬",
+  "apply_event_filter": "이벤트 보너스 적용"
 }
