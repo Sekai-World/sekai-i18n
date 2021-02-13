@@ -18,5 +18,6 @@
   "sideStory_plural": "Historias secundarias",
   "rarity": "Rareza",
   "power": "Poder",
-  "skill": "Habilidad"
+  "skill": "Habilidad",
+  "apply_event_filter": "Aplica bonus de evento"
 }
