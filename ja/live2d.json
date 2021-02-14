@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Loading model metadata...",
+    "model_texture": "Loading model textures...",
+    "model_moc3": "Loading model skeleton...",
+    "model_physics": "Loading model physics...",
+    "motion_metadata": "Loading model motions...",
+    "display_model": "モデルディスプレーを立ち上げています……"
+  },
+  "pack_progress": {
+    "generate_metadata": "内部データを作成",
+    "download_texture": "テクスチャをダウンロード",
+    "download_moc3": "骨格をダウンロード",
+    "download_physics": "物理演算をダウンロード",
+    "download_motions": "モーションと表情をダウンロード",
+    "generate_zip": "zipファイルを作成"
+  },
+  "select": {
+    "model": "モデル",
+    "motions": "モーション",
+    "expressions": "表情"
+  },
+  "tooltip": {
+    "download": "ダウンロード",
+    "fullscreen": "フルスクリーンにする",
+    "shot": "画像を保存する",
+    "stop_record": "録画終了",
+    "start_record": "録画開始"
+  }
+}
