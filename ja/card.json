@@ -18,5 +18,6 @@
   "sideStory_plural": "サイドストーリー",
   "rarity": "レアリティ",
   "power": "総合力",
-  "skill": "スキル"
+  "skill": "スキル",
+  "apply_event_filter": "イベントボーナスを適用する"
 }
