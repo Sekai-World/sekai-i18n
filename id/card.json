@@ -18,5 +18,6 @@
   "sideStory_plural": "Cerita Spesial",
   "rarity": "Rarity",
   "power": "Kekuatan",
-  "skill": "Skill"
+  "skill": "Skill",
+  "apply_event_filter": "Terapkan Bonus Event"
 }
