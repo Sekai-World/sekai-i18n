@@ -1,0 +1,35 @@
+{
+  "skill": {
+    "score_up": "Impulso de pontuação",
+    "judgment_up": "Julgamento e impulso de pontuação",
+    "life_recovery": "Recuperação de vida e impulso de pontuação",
+    "perfect_score_up": "Impulso de pontuação quando PERFEITO"
+  },
+  "character": {
+    "caption": "Personagem"
+  },
+  "sort": {
+    "caption": "Ordenar",
+    "ascending": "Ascendente",
+    "descending": "Descendente"
+  },
+  "honorType": {
+    "caption": "Tipo de título",
+    "group_only_once": "Apenas um espetáculo em cada grupo"
+  },
+  "not_set": "Não definida",
+  "missionType": {
+    "caption": "Tipo de missão"
+  },
+  "music_tag": {
+    "caption": "Etiqueta da canção"
+  },
+  "music_mv": {
+    "caption": "Tipo de vídeo"
+  },
+  "language": {
+    "caption": "Língua",
+    "source": "Língua-fonte",
+    "target": "Língua-alvo"
+  }
+}
