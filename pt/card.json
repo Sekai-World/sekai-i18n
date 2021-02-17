@@ -1,0 +1,23 @@
+{
+  "tab": {
+    "title[0]": "Imagem normal",
+    "title[1]": "Imagem normal cortada",
+    "title[2]": "Imagem após treino",
+    "title[3]": "Imagem após treino cortada"
+  },
+  "skillLevel": "Nível da Habilidade",
+  "skillName": "Nome da Habilidade",
+  "skillEffect": "Efeito da Habilidade",
+  "stats": "Estatísticas",
+  "cardLevel": "Nível da Carta",
+  "normal": "Normal",
+  "trained": "Treinado",
+  "sideStory": "História Lateral",
+  "sideStory1Unlocked": "História Lateral 1 Desbloqueada",
+  "sideStory2Unlocked": "História Lateral 2 Desbloqueada",
+  "sideStory_plural": "Histórias Laterais",
+  "rarity": "Raridade",
+  "power": "Poder",
+  "skill": "Habilidade",
+  "apply_event_filter": "Aplicar Bónus de Evento"
+}
