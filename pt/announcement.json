@@ -1,0 +1,18 @@
+{
+  "category": "Categoria",
+  "published_at": "Publicado em",
+  "translators": "Tradutores",
+  "fetch_error": "Ocorreu um erro ao obter informações.",
+  "no_entry": "Sem entradas.",
+  "title": "Título",
+  "language": "Língua",
+  "author": "Autor",
+  "co-authors": "Coautor",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Outros",
+    "game_update": "Atualizações do Jogo",
+    "maintenance": "Manutenção",
+    "bug": "Bug"
+  }
+}
