@@ -1,0 +1,15 @@
+{
+  "page_title": "称号",
+  "honor_group": "称号グループ",
+  "rarity": {
+    "low": "低",
+    "middle": "中",
+    "high": "高",
+    "highest": "最高"
+  },
+  "type": {
+    "character": "キャラクター",
+    "achievement": "アチーブメント",
+    "event": "イベント"
+  }
+}
