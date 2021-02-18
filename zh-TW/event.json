@@ -27,7 +27,6 @@
     "start": "由",
     "end": "到"
   },
-  "no_enough_data": "沒有足夠的數據。",
   "tracker": {
     "select": {
       "event_name": "活動名稱",
@@ -38,25 +37,36 @@
       "graph": "生成圖表",
       "random-palette": "隨機顏色"
     },
+    "tooltip": {
+      "get_prediction": "預測數據只會在活動開始後24小時才提供。"
+    },
+    "checkbox": {
+      "get_prediction": "生成預計分數"
+    },
+    "pred_at": "預計分數的生成時間",
+    "show_all_rank": "顯示所有排名",
     "title": {
       "data_graph": "活動Pt圖表",
       "average_speed": "平均速度"
     }
   },
   "ranking": "排名",
-  "speedTable": {
-    "head": {
-      "all_time": "所有時間（每小時）",
-      "last_24h": "最近24小時（每小時）",
-      "last_1h": "最近1小時（每小時）"
-    }
-  },
   "realtime": "更新時間",
   "nextfetch": "下次獲取",
   "rankingTable": {
     "head": {
       "userProfile": "用戶",
-      "score": "活動Pt"
+      "score": "活動Pt",
+      "speed_per_hour": "平均速度（每小時）",
+      "prediction": "預計"
+    }
+  },
+  "no_enough_data": "沒有足夠的數據。",
+  "speedTable": {
+    "head": {
+      "all_time": "所有時間（每小時）",
+      "last_24h": "最近24小時（每小時）",
+      "last_1h": "最近1小時（每小時）"
     }
   },
   "aggregateAt": "點數合計時間",
