@@ -27,7 +27,6 @@
     "start": "Mulai",
     "end": "Hingga"
   },
-  "no_enough_data": "Tidak cukup data.",
   "tracker": {
     "select": {
       "event_name": "Nama Acara",
@@ -38,25 +37,36 @@
       "graph": "Dapatkan Graf",
       "random-palette": "Rawakkan Palet"
     },
+    "tooltip": {
+      "get_prediction": "Ramalan hanya tersedia selepas 24 jam sesuatu acara bermula."
+    },
+    "checkbox": {
+      "get_prediction": "Dapatkan Ramalan"
+    },
+    "pred_at": "Ramalan dikira pada",
+    "show_all_rank": "Tunjuk semua kedudukan",
     "title": {
       "data_graph": "Graf Mata Acara",
       "average_speed": "Kelajuan Purata"
     }
   },
   "ranking": "Kedudukan",
-  "speedTable": {
-    "head": {
-      "all_time": "Setiap masa (per jam)",
-      "last_24h": "24 jam terakhir (per jam)",
-      "last_1h": "1 jam terakhir (per jam)"
-    }
-  },
   "realtime": "Masa nyata pada",
   "nextfetch": "Ambilan seterusnya",
   "rankingTable": {
     "head": {
       "userProfile": "Pengguna",
-      "score": "Mata"
+      "score": "Mata",
+      "speed_per_hour": "Kelajuan Purata (/j)",
+      "prediction": "Ramalan"
+    }
+  },
+  "no_enough_data": "Tidak cukup data.",
+  "speedTable": {
+    "head": {
+      "all_time": "Setiap masa (per jam)",
+      "last_24h": "24 jam terakhir (per jam)",
+      "last_1h": "1 jam terakhir (per jam)"
     }
   },
   "aggregateAt": "Titik Masa Agregat",
