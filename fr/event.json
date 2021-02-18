@@ -27,7 +27,6 @@
     "start": "De",
     "end": "À"
   },
-  "no_enough_data": "Données insuffisantes.",
   "tracker": {
     "select": {
       "event_name": "Nom de l'événement",
@@ -38,25 +37,36 @@
       "graph": "Graphique de recherche",
       "random-palette": "Palette aléatoire"
     },
+    "tooltip": {
+      "get_prediction": "La prédiction n'est disponible qu'après 24 heures à compter du début de l'événement."
+    },
+    "checkbox": {
+      "get_prediction": "Récupérer la prédiction"
+    },
+    "pred_at": "Prévision calculée à",
+    "show_all_rank": "Afficher tous les classements",
     "title": {
       "data_graph": "Graphique des points d'événement",
       "average_speed": "Vitesse moyenne"
     }
   },
   "ranking": "Classement",
-  "speedTable": {
-    "head": {
-      "all_time": "En tout temps (par heure)",
-      "last_24h": "Dernières 24 heures (par heure)",
-      "last_1h": "Dernière heure (par heure)"
-    }
-  },
   "realtime": "En temps réel le",
   "nextfetch": "Suivant",
   "rankingTable": {
     "head": {
       "userProfile": "Utilisateur",
-      "score": "Point(s)"
+      "score": "Point(s)",
+      "speed_per_hour": "Vitesse moyenne (/h)",
+      "prediction": "Prédiction"
+    }
+  },
+  "no_enough_data": "Données insuffisantes.",
+  "speedTable": {
+    "head": {
+      "all_time": "En tout temps (par heure)",
+      "last_24h": "Dernières 24 heures (par heure)",
+      "last_1h": "Dernière heure (par heure)"
     }
   },
   "aggregateAt": "Fin de l'événement",
