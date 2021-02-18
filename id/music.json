@@ -31,6 +31,10 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
+  "clear_status": "Hapus Status",
+  "hi_score": "Skor Tertinggi",
+  "mvp_count": "Jumlah MVP",
+  "super_star_count": "Jumlah Super Star",
   "combo": "Combo",
   "preview": "Pratinjau",
   "categoryType": {
