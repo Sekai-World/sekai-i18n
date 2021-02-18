@@ -42,7 +42,7 @@
         },
         "step4": {
           "title": "Apèndix: Modifica el resultat",
-          "subtitle": "Aquest cuadre de diàleg apareix si has fet click a la miniatura de la carta reconeguda (cuadre vermell amb el número  al pas 3).\n1: Mostra altres posibles coincidències per aquesta carta.\n2: Si no t'agrada aquesta carta, la podes eliminar de la llista."
+          "subtitle": "Aquest cuadre de diàleg apareix si has fet click a la miniatura de la carta reconeguda (cuadre vermell amb el número 5 al pas 3).\n1: Mostra altres posibles coincidències per aquesta carta.\n2: Si no t'agrada aquesta carta, la podes eliminar de la llista."
         }
       }
     },
