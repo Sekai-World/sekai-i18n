@@ -27,7 +27,6 @@
     "start": "Des del",
     "end": "Fins el"
   },
-  "no_enough_data": "No hi ha dades suficients.",
   "tracker": {
     "select": {
       "event_name": "Nom de l'esdeveniment",
@@ -38,25 +37,36 @@
       "graph": "Carregar gràfica",
       "random-palette": "Randomitzar colors"
     },
+    "tooltip": {
+      "get_prediction": "La predicció només hi seran disponible després de24 hores des del començament de l'esdeveniment."
+    },
+    "checkbox": {
+      "get_prediction": "Carregar predicció"
+    },
+    "pred_at": "Predicció calculada a les",
+    "show_all_rank": "Mostrar totes les posicions",
     "title": {
       "data_graph": "Gràfica de punts de l'esdeveniment",
       "average_speed": "Velocitat mitjana"
     }
   },
   "ranking": "Classificació",
-  "speedTable": {
-    "head": {
-      "all_time": "Total (per hora)",
-      "last_24h": "Darreres 24 hores (per hora)",
-      "last_1h": "Darrera hora (per hora)"
-    }
-  },
   "realtime": "Temps real",
   "nextfetch": "Càrrega següent",
   "rankingTable": {
     "head": {
       "userProfile": "Usuari",
-      "score": "Punt(s)"
+      "score": "Punt(s)",
+      "speed_per_hour": "Velocitat mitja (/h)",
+      "prediction": "Predicció"
+    }
+  },
+  "no_enough_data": "No hi ha dades suficients.",
+  "speedTable": {
+    "head": {
+      "all_time": "Total (per hora)",
+      "last_24h": "Darreres 24 hores (per hora)",
+      "last_1h": "Darrera hora (per hora)"
     }
   },
   "aggregateAt": "Afegir cronologia",
