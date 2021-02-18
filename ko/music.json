@@ -31,6 +31,10 @@
     "rankA": "A 랭크",
     "rankS": "S 랭크"
   },
+  "clear_status": "클리어 상태",
+  "hi_score": "최고점",
+  "mvp_count": "MVP 수",
+  "super_star_count": "슈퍼 스타 수",
   "combo": "콤보",
   "preview": "미리 보기",
   "categoryType": {
