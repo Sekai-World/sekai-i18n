@@ -91,6 +91,11 @@
         "add_card": "加入卡牌"
       }
     },
+    "statistics": {
+      "clear_count": "完成遊玩",
+      "full_combo_count": "FC",
+      "all_perfect_count": "AP"
+    },
     "sekai_id": "遊戲ID",
     "email_confirmed_status": {
       "true": "是",
