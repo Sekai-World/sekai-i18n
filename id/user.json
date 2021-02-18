@@ -91,6 +91,11 @@
         "add_card": "Tambahkan Kartu"
       }
     },
+    "statistics": {
+      "clear_count": "Hapus Jumlah",
+      "full_combo_count": "Jumlah Full Combo",
+      "all_perfect_count": "Jumlah All Perfect"
+    },
     "sekai_id": "ID Pengguna Sekai",
     "email_confirmed_status": {
       "true": "Ya",
