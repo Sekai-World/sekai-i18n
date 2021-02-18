@@ -91,6 +91,11 @@
         "add_card": "Afegir carta"
       }
     },
+    "statistics": {
+      "clear_count": "Compte de Completades",
+      "full_combo_count": "Compte de Full Combo",
+      "all_perfect_count": "Compte de All Perfect"
+    },
     "sekai_id": "ID Usuari Sekai",
     "email_confirmed_status": {
       "true": "Si",
