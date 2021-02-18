@@ -31,6 +31,10 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
+  "clear_status": "Completada",
+  "hi_score": "Màxima puntuació",
+  "mvp_count": "Compte de MVP",
+  "super_star_count": "Compte de Super Star",
   "combo": "Combos",
   "preview": "Vista prèvia",
   "categoryType": {
