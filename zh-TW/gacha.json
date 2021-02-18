@@ -13,7 +13,7 @@
   "summary": "摘要",
   "description": "描述",
   "gacha_rate": "轉蛋機率",
-  "normalRate": "正常招募機率",
+  "normalRate": "正常轉蛋機率",
   "guaranteedRate": "實際招募機率",
   "gacha_cards": "招募卡牌",
   "pickupMember": "本期角色",
