@@ -27,7 +27,6 @@
     "start": "Dari",
     "end": "Hingga"
   },
-  "no_enough_data": "Tidak ada cukup data.",
   "tracker": {
     "select": {
       "event_name": "Nama Event",
@@ -38,25 +37,36 @@
       "graph": "Ambil Grafik",
       "random-palette": "Acak Palet"
     },
+    "tooltip": {
+      "get_prediction": "Prediksi hanya tersedia setelah 24 jam sejak event dimulai."
+    },
+    "checkbox": {
+      "get_prediction": "Ambil Prediksi"
+    },
+    "pred_at": "Prediksi dihitung pada",
+    "show_all_rank": "Tampilkan semua peringkat",
     "title": {
       "data_graph": "Grafik Event Point",
       "average_speed": "Kecepatan Rata-rata"
     }
   },
   "ranking": "Peringkat",
-  "speedTable": {
-    "head": {
-      "all_time": "Sepanjang waktu (per-jam)",
-      "last_24h": "24 jam terakhir (per-jam)",
-      "last_1h": "1 jam terakhir (per-jam)"
-    }
-  },
   "realtime": "Diperbarui pada",
   "nextfetch": "Laporan berikutnya",
   "rankingTable": {
     "head": {
       "userProfile": "Pengguna",
-      "score": "Point"
+      "score": "Point",
+      "speed_per_hour": "Rata-rata Kecepatan (/jam)",
+      "prediction": "Prediksi"
+    }
+  },
+  "no_enough_data": "Tidak ada cukup data.",
+  "speedTable": {
+    "head": {
+      "all_time": "Sepanjang waktu (per-jam)",
+      "last_24h": "24 jam terakhir (per-jam)",
+      "last_1h": "1 jam terakhir (per-jam)"
     }
   },
   "aggregateAt": "Titik waktu Teragregasi",
