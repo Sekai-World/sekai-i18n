@@ -15,6 +15,7 @@
           "card_master_rank": "Rang Master",
           "cropped_image": "Source",
           "best_match": "Assorti",
+          "card_states": "États des cartes",
           "other_possible_result": "Autres correspondances",
           "card_power": "Puissance",
           "card_training_status": "Entraînée"
@@ -89,6 +90,11 @@
       "button": {
         "add_card": "Ajouter des cartes"
       }
+    },
+    "statistics": {
+      "clear_count": "Nombre terminé",
+      "full_combo_count": "Nombre de Full Combo",
+      "all_perfect_count": "Nombre d'All Perfect"
     },
     "sekai_id": "Utilisateur Sekai ID",
     "email_confirmed_status": {
