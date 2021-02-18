@@ -27,7 +27,6 @@
     "start": "From",
     "end": "To"
   },
-  "no_enough_data": "No enough data.",
   "tracker": {
     "select": {
       "event_name": "Event Name",
@@ -38,25 +37,36 @@
       "graph": "Fetch Graph",
       "random-palette": "Randomize Palette"
     },
+    "tooltip": {
+      "get_prediction": "Prediction is only available after 24 hours from event start."
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "Show all rankings",
     "title": {
       "data_graph": "Event Point Graph",
       "average_speed": "Average Speed"
     }
   },
   "ranking": "Ranking",
-  "speedTable": {
-    "head": {
-      "all_time": "All time (per hour)",
-      "last_24h": "Last 24 hours (per hour)",
-      "last_1h": "Last 1 hour (per hour)"
-    }
-  },
   "realtime": "Real time at",
   "nextfetch": "Next fetch",
   "rankingTable": {
     "head": {
       "userProfile": "User",
-      "score": "Point(s)"
+      "score": "Point(s)",
+      "speed_per_hour": "Avg. Speed (/h)",
+      "prediction": "Prediction"
+    }
+  },
+  "no_enough_data": "No enough data.",
+  "speedTable": {
+    "head": {
+      "all_time": "All time (per hour)",
+      "last_24h": "Last 24 hours (per hour)",
+      "last_1h": "Last 1 hour (per hour)"
     }
   },
   "aggregateAt": "Aggregate Timepoint",

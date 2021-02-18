@@ -91,6 +91,11 @@
         "add_card": "Add Card"
       }
     },
+    "statistics": {
+      "clear_count": "Clear Count",
+      "full_combo_count": "Full Combo Count",
+      "all_perfect_count": "All Perfect Count"
+    },
     "sekai_id": "Sekai User ID",
     "email_confirmed_status": {
       "true": "Yes",
