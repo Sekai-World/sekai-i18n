@@ -25,6 +25,7 @@
   "eventCalc": "活動pt計算機",
   "storyReader": "閱讀劇情",
   "eventTracker": "活動排名追蹤器",
+  "eventAnalyzer": "活動分數分析",
   "support": "支援",
   "toolbar": {
     "title": "功能列表"
@@ -57,6 +58,7 @@
   "reset": "重設",
   "submit": "提交",
   "ongoing_event": "正在進行的活動",
+  "mode": "模式",
   "type": "類型",
   "back": "上一步",
   "next": "下一步",
