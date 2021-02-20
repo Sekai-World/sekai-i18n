@@ -25,6 +25,7 @@
   "eventCalc": "Kalkulator Event",
   "storyReader": "Pembaca Cerita",
   "eventTracker": "Pelacak Event",
+  "eventAnalyzer": "Penganalisis Event",
   "support": "Dukungan",
   "toolbar": {
     "title": "Daftar Fungsi"
@@ -57,6 +58,7 @@
   "reset": "Atur ulang",
   "submit": "Kirimkan",
   "ongoing_event": "Event yang Sedang Berlangsung",
+  "mode": "Mode",
   "type": "Tipe",
   "back": "Kembali",
   "next": "Selanjutnya",
