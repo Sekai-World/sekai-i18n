@@ -91,6 +91,11 @@
         "add_card": "添加卡牌"
       }
     },
+    "statistics": {
+      "clear_count": "完成数量",
+      "full_combo_count": "全连（FC）数量",
+      "all_perfect_count": "AP数量"
+    },
     "sekai_id": "Sekai用户ID",
     "email_confirmed_status": {
       "true": "是",
