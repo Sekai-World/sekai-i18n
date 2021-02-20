@@ -31,6 +31,10 @@
     "rankA": "等级A",
     "rankS": "等级S"
   },
+  "clear_status": "完成状态",
+  "hi_score": "高分",
+  "mvp_count": "MVP数量",
+  "super_star_count": "超级明星数量",
   "combo": "连击",
   "preview": "预览",
   "categoryType": {
