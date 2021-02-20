@@ -37,21 +37,22 @@
       "graph": "Fetch Graph",
       "random-palette": "Randomize Palette"
     },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "Show all rankings",
+    "time_travel_enabled": "Time travel",
     "tooltip": {
       "get_prediction": "Prediction is only available after 24 hours from event start."
     },
     "checkbox": {
       "get_prediction": "Fetch Prediction"
     },
-    "pred_at": "Prediction calculated at",
-    "show_all_rank": "Show all rankings",
     "title": {
       "data_graph": "Event Point Graph",
       "average_speed": "Average Speed"
     }
   },
   "ranking": "Ranking",
-  "realtime": "Real time at",
+  "realtime": "Real time data at",
   "nextfetch": "Next fetch",
   "rankingTable": {
     "head": {

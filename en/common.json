@@ -25,6 +25,7 @@
   "eventCalc": "Event Planner",
   "storyReader": "Story Reader",
   "eventTracker": "Event Tracker",
+  "eventAnalyzer": "Event Analyzer",
   "support": "Support",
   "toolbar": {
     "title": "Function List"
@@ -57,6 +58,7 @@
   "reset": "Reset",
   "submit": "Submit",
   "ongoing_event": "Ongoing Event",
+  "mode": "Mode",
   "type": "Type",
   "back": "Back",
   "next": "Next",
