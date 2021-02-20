@@ -1,0 +1,26 @@
+{
+  "button": {
+    "calc_total_power": "Ottieni potenza totale"
+  },
+  "auto_calc_bonus": "Usa profilo Sekai",
+  "use_sekai_card_state": "Usa statistiche delle carte salvate",
+  "saveTeamDialog": {
+    "title": "Salva team",
+    "desc": "Salva un nuovo team o sostituisci con un team esistente"
+  },
+  "storage_location": {
+    "label": "Percorso",
+    "local": "Locale",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Spazio di archiviazione",
+  "noTeams": "Nessun team salvato.",
+  "saveNewEntry": "Salva nuovo team",
+  "loadTeamDialog": {
+    "title": "Carica team",
+    "desc": "Carica team tra i team salvati"
+  },
+  "error": {
+    "save_team_failed": "Salvataggio del team fallito. Se succede spesso, potrebbe essere un bug."
+  }
+}
