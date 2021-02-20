@@ -25,6 +25,7 @@
   "eventCalc": "活动规划器",
   "storyReader": "剧情回放",
   "eventTracker": "活动跟踪器",
+  "eventAnalyzer": "活动分析器",
   "support": "支持",
   "toolbar": {
     "title": "功能列表"
@@ -54,8 +55,10 @@
   "releaseCondition": "解放条件",
   "releaseCosts": "解放素材",
   "rewards": "奖励",
+  "reset": "重置",
   "submit": "提交",
   "ongoing_event": "进行中的活动",
+  "mode": "模式",
   "type": "类型",
   "back": "后退",
   "next": "下一个",
@@ -94,7 +97,6 @@
   "login": "登录",
   "reset_password": "重设密码",
   "save": "保存",
-  "reset": "重置",
   "help": "帮助",
   "close": "关闭",
   "hide": "隐藏",
