@@ -27,7 +27,6 @@
     "start": "Da",
     "end": "Fino"
   },
-  "no_enough_data": "Dati insufficienti.",
   "tracker": {
     "select": {
       "event_name": "Nome evento",
@@ -38,25 +37,37 @@
       "graph": "Recupera grafico",
       "random-palette": "Randomizza tavolozza"
     },
+    "pred_at": "Previsione calcolata il:",
+    "show_all_rank": "Mostra tutte le posizioni del ranking",
+    "time_travel_enabled": "Variazioni nel tempo",
+    "tooltip": {
+      "get_prediction": "La previsione è disponibile solo dopo 24 ore dall'inizio dell'evento"
+    },
+    "checkbox": {
+      "get_prediction": "Recupera previsione"
+    },
     "title": {
       "data_graph": "Grafico punti evento",
       "average_speed": "Velocità media"
     }
   },
   "ranking": "Posizioni",
-  "speedTable": {
-    "head": {
-      "all_time": "Tutto il tempo (per ora)",
-      "last_24h": "Ultime 24 ore (per ora)",
-      "last_1h": "Ultima ora (per ora)"
-    }
-  },
-  "realtime": "In tempo reale al",
+  "realtime": "In tempo reale il:",
   "nextfetch": "Prossimo aggionamento",
   "rankingTable": {
     "head": {
       "userProfile": "Utente",
-      "score": "Punteggio"
+      "score": "Punteggio",
+      "speed_per_hour": "Velocità media (all'ora)",
+      "prediction": "Previsione"
+    }
+  },
+  "no_enough_data": "Dati insufficienti.",
+  "speedTable": {
+    "head": {
+      "all_time": "Tutto il tempo (all'ora)",
+      "last_24h": "Ultime 24 ore (all'ora)",
+      "last_1h": "Ultima ora (all'ora)"
     }
   },
   "aggregateAt": "Conteggio dei punti",
