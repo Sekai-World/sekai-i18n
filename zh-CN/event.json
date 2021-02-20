@@ -27,7 +27,6 @@
     "start": "从",
     "end": "到"
   },
-  "no_enough_data": "没有足够数据。",
   "tracker": {
     "select": {
       "event_name": "活动名称",
@@ -38,25 +37,37 @@
       "graph": "获取图表",
       "random-palette": "随机颜色"
     },
+    "pred_at": "计算预测于",
+    "show_all_rank": "显示全部排名",
+    "time_travel_enabled": "时间旅行",
+    "tooltip": {
+      "get_prediction": "预测仅在活动开始24小时后可用"
+    },
+    "checkbox": {
+      "get_prediction": "获取预测"
+    },
     "title": {
       "data_graph": "活动点数图表",
       "average_speed": "平均速度"
     }
   },
   "ranking": "排名",
+  "realtime": "实时数据于",
+  "nextfetch": "下次获取",
+  "rankingTable": {
+    "head": {
+      "userProfile": "用户",
+      "score": "点数",
+      "speed_per_hour": "平均速度（每小时）",
+      "prediction": "预测"
+    }
+  },
+  "no_enough_data": "没有足够数据。",
   "speedTable": {
     "head": {
       "all_time": "活动开始后（每小时）",
       "last_24h": "最近24小时（每小时）",
       "last_1h": "最近一小时（每小时）"
-    }
-  },
-  "realtime": "实时数据",
-  "nextfetch": "下次获取",
-  "rankingTable": {
-    "head": {
-      "userProfile": "用户",
-      "score": "点数"
     }
   },
   "aggregateAt": "点数合计时间",
