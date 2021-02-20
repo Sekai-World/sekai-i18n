@@ -37,21 +37,22 @@
       "graph": "Ambil Grafik",
       "random-palette": "Acak Palet"
     },
+    "pred_at": "Prediksi dihitung pada",
+    "show_all_rank": "Tampilkan semua peringkat",
+    "time_travel_enabled": "Perjalanan waktu",
     "tooltip": {
       "get_prediction": "Prediksi hanya tersedia setelah 24 jam sejak event dimulai."
     },
     "checkbox": {
       "get_prediction": "Ambil Prediksi"
     },
-    "pred_at": "Prediksi dihitung pada",
-    "show_all_rank": "Tampilkan semua peringkat",
     "title": {
       "data_graph": "Grafik Event Point",
       "average_speed": "Kecepatan Rata-rata"
     }
   },
   "ranking": "Peringkat",
-  "realtime": "Diperbarui pada",
+  "realtime": "Data waktu saat ini pada",
   "nextfetch": "Laporan berikutnya",
   "rankingTable": {
     "head": {
