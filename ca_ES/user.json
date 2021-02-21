@@ -85,7 +85,7 @@
       "sekai_id_verify_failed": "No s'ha pogut verificar el propietari. Has deixat el quadre de perfil per desar?"
     },
     "card_list": {
-      "submit_success": "Estat de les cartes actualitzats.",
+      "submit_success": "Stats de les cartes actualitzats.",
       "submit_error": "Error a l'actualitzar l'estat de les cartes.",
       "button": {
         "add_card": "Afegir carta"
