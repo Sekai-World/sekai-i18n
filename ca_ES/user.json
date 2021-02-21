@@ -67,7 +67,7 @@
       "current_record_time": "Hora d'actualització:"
     },
     "label": {
-      "update_left": "Nombre de actualitzacions fetes: {{ used }} / {{ allowed }}",
+      "update_left": "Nombre d'actualitzacions fetes: {{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "No verificada",
       "sekai_user_id": "ID Usuari Sekai",
       "sekai_id_verify_token": "Token",
