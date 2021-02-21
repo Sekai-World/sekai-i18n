@@ -41,7 +41,7 @@
     "show_all_rank": "Mostrar totes les posicions",
     "time_travel_enabled": "Viatjar en el temps",
     "tooltip": {
-      "get_prediction": "La predicció només hi seran disponible després de24 hores des del començament de l'esdeveniment."
+      "get_prediction": "Les prediccions només hi seran disponibles després de 24 hores des del començament de l'esdeveniment."
     },
     "checkbox": {
       "get_prediction": "Carregar predicció"
