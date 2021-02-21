@@ -37,21 +37,22 @@
       "graph": "Carregar gràfica",
       "random-palette": "Randomitzar colors"
     },
+    "pred_at": "Predicció calculada a les",
+    "show_all_rank": "Mostrar totes les posicions",
+    "time_travel_enabled": "Viatje en el temps",
     "tooltip": {
       "get_prediction": "La predicció només hi seran disponible després de24 hores des del començament de l'esdeveniment."
     },
     "checkbox": {
       "get_prediction": "Carregar predicció"
     },
-    "pred_at": "Predicció calculada a les",
-    "show_all_rank": "Mostrar totes les posicions",
     "title": {
       "data_graph": "Gràfica de punts de l'esdeveniment",
       "average_speed": "Velocitat mitjana"
     }
   },
   "ranking": "Classificació",
-  "realtime": "Temps real",
+  "realtime": "Dades en temps real a",
   "nextfetch": "Càrrega següent",
   "rankingTable": {
     "head": {
