@@ -21,7 +21,7 @@
           "card_training_status": "Entrenada"
         }
       },
-      "submit_success": "Les cartes són desades i/o actualitzades.",
+      "submit_success": "Les cartes han estat desades i/o actualitzades.",
       "submit_error": "Error al desar les cartes.",
       "import_button": "Importar",
       "enable_ocr_tooltip": "Si habilitau la opció, si us plau, puja la teva captura de pantalla, ordenada per Nivell (レベル).\nS'utilitza Tesseract per reconèixer el nivell i rang mestre de les cartes. Aquest procés pot trigar alguns segons.\nLes dades d'entrenament son recolectades de la miniatura, assegura't d'utilitzar la correcta.",
