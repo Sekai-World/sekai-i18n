@@ -86,7 +86,7 @@
     },
     "card_list": {
       "submit_success": "Estat de les cartes actualitzats.",
-      "submit_error": "Error en actualitzar l'estat de les cartes.",
+      "submit_error": "Error a l'actualitzar l'estat de les cartes.",
       "button": {
         "add_card": "Afegir carta"
       }
