@@ -25,6 +25,7 @@
   "eventCalc": "Planificador d'esdeveniment",
   "storyReader": "Llector d'històries",
   "eventTracker": "Rastrejador d'esdeveniment",
+  "eventAnalyzer": "Analitzador d'esdeveniment",
   "support": "Suport",
   "toolbar": {
     "title": "Llista de funcions"
@@ -57,6 +58,7 @@
   "reset": "Reiniciar",
   "submit": "Presentar",
   "ongoing_event": "Esdeveniment en curs",
+  "mode": "Mode",
   "type": "Tipus",
   "back": "Enrere",
   "next": "Següent",
