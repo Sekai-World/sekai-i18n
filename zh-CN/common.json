@@ -53,7 +53,7 @@
   "stamina": "活力",
   "power": "综合力",
   "releaseCondition": "解放条件",
-  "releaseCosts": "解放素材",
+  "releaseCosts": "解放所需素材",
   "rewards": "奖励",
   "reset": "重置",
   "submit": "提交",
