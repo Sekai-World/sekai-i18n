@@ -1,0 +1,11 @@
+{
+  "play_live": "Posa a ｢{{- name}}｣ com líder {{count}} vegades.",
+  "waiting_room": "Troba a ｢{{- name}}｣ a la sala d'espera {{count}} vegades.",
+  "collect_costume_3d": "Aconsegueix les robes de ｢{{- name}}｣ {{count}} vegades, ja siguo per la botiga de vestuaris o pujant el rang mestre.",
+  "collect_stamp": "Aconsegueix adhesius de ｢{{- name}}｣ {{count}} vegades.",
+  "read_area_talk": "Llegeix converses d'àrea que impliquin a ｢{{- name}}｣ {{count}} vegades.",
+  "skill_level_up": "Puja el nivell d'habilitat de ｢{{- name}}｣ {{count}} vegades.",
+  "master_rank": "Puja el rang mestre de ｢{{- name}}｣{{count}} vegades.",
+  "read_card_episode_first": "Llegeix la primera part de les històries secundaries de ｢{{- name}}｣ {{count}} vegades.",
+  "read_card_episode_second": "Llegeix la segona part de les històries secundaries de ｢{{- name}}｣ {{count}} vegades."
+}
