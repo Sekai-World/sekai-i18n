@@ -1,0 +1,13 @@
+{
+  "1": "Agument del {{1;v}}% als punts obtinguts durant {{1;d}} segons.",
+  "2": "Augment del {{2;v}}% als punts obtinguts durant {{2;d}} segons.",
+  "3": "Augment del {{3;v}}% als punts obtinguts durant {{3;d}} segons.",
+  "4": "Augment del {{4;v}}% als punts obtinguts durant {{4;d}} segons.",
+  "5": "Tots els GREATs es convertiran en PERFECTs durant {{8;d}} segons; Augment del {{5;v}}% als punts obtinguts durant {{5;d}} segons.",
+  "6": "Tots els GOODs i superiors es convertiran en PERFECTs durant {{9;d}} segons; Augment del {{6;v}}% als punts obtinguts durant {{6;d}} segons.",
+  "7": "Tots els BADs i superiors es convertiran en PERFECTs durant {{10;d}} segons; Augment del {{7;v}}% als punts obtinguts durant {{7;d}} segons.",
+  "8": "Recupera {{14;v}} de vida; Augment del {{11;v}}% als punts obtinguts durant {{11;d}} segons.",
+  "9": "Recupera {{15;v}} de vida; Agument del {{12;v}}% als punts obtinguts durant {{12;d}} segons.",
+  "10": "Recupera {{16;v}} de vida; Augment del {{13;v}}% als punts obtinguts durant {{13;d}} segons.",
+  "11": "Augment del {{17;v}}% als punts obtinguts durant {{17;d}} segonsm, solament per als PERFECTs."
+}
