@@ -1,0 +1,43 @@
+{
+  "getResult": "Obter resultados",
+  "buildTeam": {
+    "label": "Construir equipa",
+    "desc": "Construa a sua equipa para o recomendador de canções",
+    "addCard": "Adicionar carta",
+    "saveTeam": "Guardar equipa",
+    "loadTeam": "Carregar equipa",
+    "clearTeam": "Limpar equipa",
+    "teamPower": "Poder da equipa",
+    "duplicatedCardError": "Não é possível adicionar a mesma carta a uma equipa.",
+    "cardMaxError": "Já existem cartas suficientes.",
+    "loadTeamError": "Verifique a sua inserção.",
+    "teamTextCopied": "Texto da equipa copiada para a Área de Transferência."},
+  "result": {
+    "label": "Resultado",
+    "musicName": "Nome da canção",
+    "desc": "Apenas mais um passo e está finalizado."
+  },
+  "modeSelect": {
+    "label": "Selecionar modo",
+    "desc": "Selecione o modo de recomendação."
+  },
+  "assumption": "Suposição: Tudo perfeito, sem bónus de evento, sem uso de bebidas de energia e em multijogador, todos têm a mesma equipa.",
+  "addCardDialog": {
+    "title": "Adicionar carta",
+    "selectChara": "Personagem",
+    "selectRarity": "Raridade"
+  },
+  "saveTeamDialog": {
+    "title": "Guardar equipa",
+    "desc": "Guarde o código da equipa e carregue-a depois."
+  },
+  "teamCode": "Código da equipa",
+  "loadTeamDialog": {
+    "title": "Carregar equipa",
+    "desc": "Copie o código da equipa guardada e carregue-a."
+  },
+  "songSelect": {
+    "label": "Selecionar canção",
+    "desc": "Seleciona uma ou mais canções para analisar. Deixe o espaço em branco para analisar todas."
+  }
+}
