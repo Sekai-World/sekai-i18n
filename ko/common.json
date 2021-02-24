@@ -25,6 +25,7 @@
   "eventCalc": "이벤트 계획표",
   "storyReader": "스토리 뷰어",
   "eventTracker": "이벤트 추적기",
+  "eventAnalyzer": "이벤트 분석기",
   "support": "지원",
   "toolbar": {
     "title": "메뉴"
@@ -57,6 +58,7 @@
   "reset": "초기화",
   "submit": "확인",
   "ongoing_event": "진행 중인 이벤트",
+  "mode": "모드",
   "type": "타입",
   "back": "뒤로 가기",
   "next": "다음",
