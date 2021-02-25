@@ -25,6 +25,7 @@
   "eventCalc": "Perancang Acara",
   "storyReader": "Pembaca Cerita",
   "eventTracker": "Penjejak Acara",
+  "eventAnalyzer": "Penganalisis Acara",
   "support": "Sokongan",
   "toolbar": {
     "title": "Senarai Fungsi"
@@ -57,6 +58,7 @@
   "reset": "Tetap Semula",
   "submit": "Hantar",
   "ongoing_event": "Acara Berlangsung",
+  "mode": "Mod",
   "type": "Jenis",
   "back": "Kembali",
   "next": "Seterusnya",
