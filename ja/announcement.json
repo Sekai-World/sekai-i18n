@@ -1,6 +1,6 @@
 {
   "category": "カテゴリー",
-  "published_at": "で公開",
+  "published_at": "公開日時",
   "translators": "翻訳者",
   "fetch_error": "データ取得中にエラーが発生しました。",
   "no_entry": "エントリはありません。",
