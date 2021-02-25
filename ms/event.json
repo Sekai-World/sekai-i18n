@@ -37,21 +37,22 @@
       "graph": "Dapatkan Graf",
       "random-palette": "Rawakkan Palet"
     },
+    "pred_at": "Ramalan dikira pada",
+    "show_all_rank": "Tunjuk semua kedudukan",
+    "time_travel_enabled": "Rentas masa",
     "tooltip": {
       "get_prediction": "Ramalan hanya tersedia selepas 24 jam sesuatu acara bermula."
     },
     "checkbox": {
       "get_prediction": "Dapatkan Ramalan"
     },
-    "pred_at": "Ramalan dikira pada",
-    "show_all_rank": "Tunjuk semua kedudukan",
     "title": {
       "data_graph": "Graf Mata Acara",
       "average_speed": "Kelajuan Purata"
     }
   },
   "ranking": "Kedudukan",
-  "realtime": "Masa nyata pada",
+  "realtime": "Data masa nyata setakat",
   "nextfetch": "Ambilan seterusnya",
   "rankingTable": {
     "head": {
