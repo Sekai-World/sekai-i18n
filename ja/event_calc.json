@@ -16,7 +16,7 @@
     "remainingTime": "イベント残り時間",
     "eventBonusRate": "イベントボーナス率(%)"
   },
-  "assumption": "仮定：AP達成、マルチモードで全員同じ編成、レベルアップのブーストボーナスを考えない",
+  "assumption": "APを達成、みんなでライブにて全員同じ編成、レベルアップ時のブーストプレゼントを考えないとする",
   "result": {
     "eventPointPerPlay": "一回当たりのイベントポイント",
     "playClount": "総プレイ回数",
