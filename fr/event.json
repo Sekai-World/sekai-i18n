@@ -37,21 +37,22 @@
       "graph": "Graphique de recherche",
       "random-palette": "Palette aléatoire"
     },
+    "pred_at": "Prévision calculée à",
+    "show_all_rank": "Afficher tous les classements",
+    "time_travel_enabled": "Déplacer dans le temps",
     "tooltip": {
       "get_prediction": "La prédiction n'est disponible qu'après 24 heures à compter du début de l'événement."
     },
     "checkbox": {
       "get_prediction": "Récupérer la prédiction"
     },
-    "pred_at": "Prévision calculée à",
-    "show_all_rank": "Afficher tous les classements",
     "title": {
       "data_graph": "Graphique des points d'événement",
       "average_speed": "Vitesse moyenne"
     }
   },
   "ranking": "Classement",
-  "realtime": "En temps réel le",
+  "realtime": "Données en temps réel le",
   "nextfetch": "Suivant",
   "rankingTable": {
     "head": {
