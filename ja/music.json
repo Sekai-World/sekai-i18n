@@ -31,6 +31,10 @@
     "rankA": "ランクA",
     "rankS": "ランクS"
   },
+  "clear_status": "クリア状況",
+  "hi_score": "ハイスコア",
+  "mvp_count": "MVPになった回数",
+  "super_star_count": "SUPER STARになった回数",
   "combo": "コンボ数",
   "preview": "プレビュー",
   "categoryType": {
