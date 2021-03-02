@@ -1,6 +1,6 @@
 {
   "songSelect": {
-    "label": "Wybór Piosenki",
+    "label": "Wybór piosenki",
     "desc": "Wybierz piosenkę do analizy.",
     "select": {
       "song": "Piosenka",
