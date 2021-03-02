@@ -1,0 +1,27 @@
+{
+  "songSelect": {
+    "label": "Wybór Piosenki",
+    "desc": "Wybierz piosenkę do analizy.",
+    "select": {
+      "song": "Piosenka",
+      "difficulty": "Trudność"
+    }
+  },
+  "gameData": {
+    "label": "Dane Gry",
+    "desc": "Uzupełnij dane z gry do kalkulacji",
+    "energyDrink": "Koszt bonusu",
+    "currentPoint": "Bieżąca liczba punktów",
+    "targetPoint": "Ostateczna liczba punktów",
+    "remainingTime": "Pozostała ilość godzin event'u",
+    "eventBonusRate": "Wysokość bonusu event'u (%)"
+  },
+  "assumption": "Założenie: wszystko \"perfect\", wszyscy gracze mają ten sam zespół, nie ma bonusu do podniesienia poziomu.",
+  "result": {
+    "eventPointPerPlay": "Zdobyte punkty event'u za każde zagranie",
+    "playClount": "Całkowita liczba zagrań",
+    "playTime": "Całkowity czas gry",
+    "useBoost": "Łączna liczba zużytych doładowań",
+    "totalPoint": "Łączna liczba punktów event'u"
+  }
+}
