@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Baner & Logo"
+    },
+    "title[3]": "Tło",
+    "title[4]": "Wyróżnij Zdjęcie",
     "title[0]": "Opis",
     "title[1]": "Podsumowanie",
-    "title[2]": "Symulator",
-    "title[3]": "Tło",
-    "title[4]": "Wyróżnij Zdjęcie"
+    "title[2]": "Symulator"
   },
+  "ceil_item": "Przedmiot wymiany",
+  "summary": "Podsumowanie",
+  "description": "Opis",
+  "gacha_rate": "Szanse Gacha",
   "normalRate": "Normalna Szansa Rzutu",
   "guaranteedRate": "Gwarantowana Szansa Rzutu",
+  "gacha_cards": "Karty Gacha",
   "pickupMember": "Odbierający Członek",
   "pickupMember_plural": "Odbierający Członkowie",
+  "gacha_behaviors": "Opcje losowania Gacha",
+  "gacha_simulator": "Symulator Gacha",
+  "simulator": {
+    "total": "Łącznie",
+    "cost": "Koszt",
+    "count": "Ilość",
+    "percentage": "W procentach"
+  },
+  "behavior": {
+    "normal": "Normalnie",
+    "over_rarity_3_once": "Gwarantowane (3*)",
+    "once_a_day": "Raz dziennie",
+    "over_rarity_4_once": "Gwarantowane (4*)"
+  },
   "gachaType": {
     "ceil": "Wymiana",
     "normal": "Normalny"
