@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Ładowanie metadanych modelu...",
+    "model_texture": "Ładowanie tekstur modelu...",
+    "model_moc3": "Ładowanie szkieletu modelu...",
+    "model_physics": "Ładowanie fizyki modelu...",
+    "motion_metadata": "Ładowanie ruchów modelu...",
+    "display_model": "Szykowanie do wyświetlania modelu..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generowanie metadanych",
+    "download_texture": "Pobieranie tekstury",
+    "download_moc3": "Pobieranie szkieletu",
+    "download_physics": "Pobieranie fizyki",
+    "download_motions": "Pobieranie ruchów i wyrazów twarzy {{dlcount}}/{{total}}",
+    "generate_zip": "Generowanie pliku .zip"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Ruchy",
+    "expressions": "Wyrazy twarzy"
+  },
+  "tooltip": {
+    "download": "Pobierz",
+    "fullscreen": "Przełącz na tryb pełnoekranowy",
+    "shot": "Zapisz zdjęcie",
+    "stop_record": "Zatrzymaj nagrywanie",
+    "start_record": "Rozpocznij nagrywanie"
+  }
+}
