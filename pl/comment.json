@@ -3,12 +3,12 @@
   "write": "Utwórz",
   "no_comment_yet": "Brak komentarzy.",
   "report-abuse": {
-    "title": "Zgłoś Komentarz",
+    "title": "Zgłoś komentarz",
     "description": "Zgłoś ten komentarz, jeśli sprawia, że czujesz się niekomfortowo.",
     "reason": {
-      "label": "Zgłoś Powód",
+      "label": "Zgłoś powód",
       "other": "Inny",
-      "bad_words": "Złe Słowa",
+      "bad_words": "Złe słowa",
       "discrimination": "Dyskryminacja"
     },
     "content": "Twoja wiadomość",
