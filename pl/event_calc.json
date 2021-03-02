@@ -8,7 +8,7 @@
     }
   },
   "gameData": {
-    "label": "Dane Gry",
+    "label": "Dane gry",
     "desc": "Uzupełnij dane z gry do kalkulacji",
     "energyDrink": "Koszt doładowań",
     "currentPoint": "Bieżąca liczba punktów",
