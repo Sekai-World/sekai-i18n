@@ -1,0 +1,11 @@
+{
+  "play_live": "Ukończ {{count}} utworów z ｢{{- name}}｣ jako lider.",
+  "waiting_room": "Spotkaj ｢{{- name}}｣ w poczekalni {{count}} razy.",
+  "collect_costume_3d": "Zdobądź {{count}} ubrań dla ｢{{- name}}｣ ze sklepu z kostiumami lub poprzez podniesienie rangi MASTER.",
+  "collect_stamp": "Zdobądź {{count}} naklejek ｢{{- name}}｣.",
+  "read_area_talk": "Przeczytaj rozmowy postaci z udziałem ｢{{- imię}}｣ {{count}} razy.",
+  "skill_level_up": "Podnieś poziom umiejętności ｢{{- name}}｣ {{count}} razy.",
+  "master_rank": "Podnieś poziom rangi MASTER ｢{{- name}}｣ {{count}} razy.",
+  "read_card_episode_first": "Przeczytaj pierwszą część historii pobocznej ｢{{- name}}｣ {{count}} razy.",
+  "read_card_episode_second": "Przeczytaj ostatnią część historii pobocznej ｢{{- name}}｣ {{count}} razy."
+}
