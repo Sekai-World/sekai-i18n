@@ -10,7 +10,7 @@
   "gameData": {
     "label": "Dane Gry",
     "desc": "Uzupełnij dane z gry do kalkulacji",
-    "energyDrink": "Koszt bonusu",
+    "energyDrink": "Koszt doładowań",
     "currentPoint": "Bieżąca liczba punktów",
     "targetPoint": "Ostateczna liczba punktów",
     "remainingTime": "Pozostała ilość godzin event'u",
