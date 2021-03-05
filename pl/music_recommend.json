@@ -31,9 +31,9 @@
     "title": "Zapisz zespół",
     "desc": "Zapisz kod zespołu, aby załadować go później."
   },
-  "teamCode": "Kod Zespołu",
+  "teamCode": "Kod zespołu",
   "loadTeamDialog": {
-    "title": "Wczytaj Zespół",
+    "title": "Wczytaj zespół",
     "desc": "Wklej zapisany kod zespołu i go wczytaj."
   },
   "songSelect": {
