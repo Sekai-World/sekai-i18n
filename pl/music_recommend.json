@@ -10,7 +10,7 @@
     "teamPower": "Siła zespołu",
     "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
     "cardMaxError": "Jest już wystarczająco dużo kart.",
-    "loadTeamError": "Sprawdź swój input.",
+    "loadTeamError": "Sprawdź dane wejściowe.",
     "teamTextCopied": "Tekst zespołu skopiowany do schowka."},
   "result": {
     "label": "Wynik",
