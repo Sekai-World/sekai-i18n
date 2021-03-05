@@ -3,7 +3,7 @@
   "alert[0]": "Pierwsze <b>dziewięć sekund</b> każdej piosenki nie ma dźwieku. To NIE jest błąd.",
   "vocalTab": {
     "title[0]": "Krótka wersja",
-    "title[1]": "Długa Wersja",
+    "title[1]": "Długa wersja",
     "title[2]": "Teledysk"
   },
   "skipBeginningSilence": "Pomiń ciszę na początku",
