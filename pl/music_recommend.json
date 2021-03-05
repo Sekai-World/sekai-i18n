@@ -3,7 +3,7 @@
   "buildTeam": {
     "label": "Zbuduj zespół",
     "desc": "Zbuduj swój zespół dla Rekomendatora Piosenek",
-    "addCard": "Dodaj Kartę",
+    "addCard": "Dodaj kartę",
     "saveTeam": "Zapisz Zespół",
     "loadTeam": "Wczytaj Zespół",
     "clearTeam": "Wyczyść Zespół",
