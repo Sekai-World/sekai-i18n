@@ -28,7 +28,7 @@
     "selectRarity": "Rzadkość"
   },
   "saveTeamDialog": {
-    "title": "Zapisz Zespół",
+    "title": "Zapisz zespół",
     "desc": "Zapisz kod zespołu i wczytaj go później."
   },
   "teamCode": "Kod Zespołu",
