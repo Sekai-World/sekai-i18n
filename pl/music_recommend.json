@@ -5,7 +5,7 @@
     "desc": "Zbuduj swój zespół dla Rekomendatora Piosenek",
     "addCard": "Dodaj kartę",
     "saveTeam": "Zapisz zespół",
-    "loadTeam": "Wczytaj Zespół",
+    "loadTeam": "Wczytaj zespół",
     "clearTeam": "Wyczyść Zespół",
     "teamPower": "Siła Zespołu",
     "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
