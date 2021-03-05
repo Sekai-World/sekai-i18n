@@ -21,7 +21,7 @@
     "label": "Wybór trybu",
     "desc": "Wybierz tryb pracy rekomendatora."
   },
-  "assumption": "Założenie: wszystko PERFECT, zespołowy bonus 0%, użyć 0 napojów energetycznych, multiplayerzy mają wszyscy tą samą siłę zespołową.",
+  "assumption": "Założenie: wszystko \"PERFECT\", bonus event'u 0%, brak zużytych napojów z energią, wszyscy gracze multiplayer mają tę samą drużynę.",
   "addCardDialog": {
     "title": "Dodaj Kartę",
     "selectChara": "Osoba",
