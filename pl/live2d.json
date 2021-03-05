@@ -17,7 +17,7 @@
   },
   "select": {
     "model": "Model",
-    "motions": "Ruchy",
+    "motions": "Ruchy postaci",
     "expressions": "Wyrazy twarzy"
   },
   "tooltip": {
