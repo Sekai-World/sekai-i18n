@@ -34,10 +34,10 @@
   "teamCode": "Kod zespołu",
   "loadTeamDialog": {
     "title": "Wczytaj zespół",
-    "desc": "Wklej zapisany kod zespołu i go wczytaj."
+    "desc": "Wklej zapisany kod zespołu i załaduj go."
   },
   "songSelect": {
-    "label": "Wybór Piosenki",
+    "label": "Wybór piosenki",
     "desc": "Wybierz jedną lub więcej piosenek do analizy. Zostaw to puste, aby przeanalizować wszystkie piosenki."
   }
 }
