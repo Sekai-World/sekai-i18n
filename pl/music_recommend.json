@@ -23,7 +23,7 @@
   },
   "assumption": "Założenie: wszystko \"PERFECT\", bonus event'u 0%, brak zużytych napojów z energią, wszyscy gracze multiplayer mają tę samą drużynę.",
   "addCardDialog": {
-    "title": "Dodaj Kartę",
+    "title": "Dodaj kartę",
     "selectChara": "Osoba",
     "selectRarity": "Rzadkość"
   },
