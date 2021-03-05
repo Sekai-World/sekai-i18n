@@ -7,7 +7,7 @@
     "saveTeam": "Zapisz zespół",
     "loadTeam": "Wczytaj zespół",
     "clearTeam": "Wyczyść zespół",
-    "teamPower": "Siła Zespołu",
+    "teamPower": "Siła zespołu",
     "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
     "cardMaxError": "Jest już wystarczająco dużo kart.",
     "loadTeamError": "Sprawdź swój input.",
