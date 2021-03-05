@@ -38,6 +38,6 @@
   },
   "songSelect": {
     "label": "Wybór piosenki",
-    "desc": "Wybierz jedną lub więcej piosenek do analizy. Zostaw to puste, aby przeanalizować wszystkie piosenki."
+    "desc": "Wybierz jeden lub więcej utworów do analizy. Pozostaw pole puste, aby przeanalizować wszystkie utwory."
   }
 }
