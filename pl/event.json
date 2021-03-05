@@ -1,23 +1,76 @@
 {
   "alreadyEnded": "Wydarzenie zostało zakończone",
-  "notStarted": "Nie zaczęte",
+  "notStarted": "Nie rozpoczęte",
   "tab": {
     "title[0]": "Baner i logo",
     "title[1]": "Tło",
     "title[2]": "Osoba"
   },
-  "remainingTime": "Pozostały Czas",
+  "remainingTime": "Pozostały czas",
   "progress": "Progres",
-  "boostAttribute": "Wzmacniający Atrybut",
-  "boostCharacters": "Wzmacniające Postacie",
-  "maxBoost": "Maksymalny Wzrost (Oba Dopasowane)",
-  "aggregateAt": "Zagregowany Punkt Czasowy",
-  "rankingAnnounceAt": "Ogłoszenie Rankingu W",
-  "distributionStartAt": "Dystrybucja Nagród Od",
-  "distributionEndAt": "Dystrybucja Nagród Do",
+  "eventCards": "Karty event'u",
+  "title": {
+    "boost": "Doładowanie",
+    "timepoint": "Punkty czasu",
+    "rankingRewards": "Nagrody rankingu"
+  },
+  "boostAttribute": "Wzmacniający atrybut",
+  "boostCharacters": "Wzmacniające postacie",
+  "maxBoost": "Maksymalne wzmocnienie (oba dopasowane)",
+  "startAt": "Wydarzenie zaczyna się",
+  "closeAt": "Wydarzenie kończy się",
+  "endAt": "Dostępność event'u trwa do",
+  "rankingAnnounceAt": "Ogłoszenie rankingu na",
+  "distributionStartAt": "Przydział nagród od",
+  "distributionEndAt": "Przydział nagród do",
+  "rankingReward": {
+    "start": "Od",
+    "end": "Do"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nazwa wydarzenia",
+      "rankings": "Ranking"
+    },
+    "button": {
+      "curr_event": "Obecne wydarzenie",
+      "graph": "Pobierz wykres",
+      "random-palette": "Losowo zmień paletę"
+    },
+    "pred_at": "Prognoza obliczona na",
+    "show_all_rank": "Pokaż wszystkie rankingi",
+    "time_travel_enabled": "Podróż w czasie",
+    "tooltip": {
+      "get_prediction": "Prognoza jest dostępna dopiero po 24 godzinach od rozpoczęcia event'u."
+    },
+    "checkbox": {
+      "get_prediction": "Pobierz prognozę"
+    },
+    "title": {
+      "data_graph": "Wykres punktów event'ów",
+      "average_speed": "Średnia prędkość"
+    }
+  },
   "ranking": "Ranking",
-  "realtime": "W czasie rzeczywistym o",
+  "realtime": "Dane w czasie rzeczywistym na",
   "nextfetch": "Następny aport",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Użytkownik",
+      "score": "Punkt(y)",
+      "speed_per_hour": "Śr. prędkość (/godz.)",
+      "prediction": "Prognoza"
+    }
+  },
+  "no_enough_data": "Brak wystarczających danych.",
+  "speedTable": {
+    "head": {
+      "all_time": "Cały czas (na godzinę)",
+      "last_24h": "Ostatnie 24 godzin (na godzinę)",
+      "last_1h": "Ostatnia 1 godzina (na godzinę)"
+    }
+  },
+  "aggregateAt": "Zagregowany punkt czasowy",
   "alreadyPast": "Już Przeszły",
   "type": {
     "marathon": "Maraton"
