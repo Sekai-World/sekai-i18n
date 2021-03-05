@@ -71,7 +71,7 @@
     }
   },
   "aggregateAt": "Zagregowany punkt czasowy",
-  "alreadyPast": "Już Przeszły",
+  "alreadyPast": "Już minął",
   "type": {
     "marathon": "Maraton"
   }
