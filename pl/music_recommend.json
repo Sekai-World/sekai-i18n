@@ -19,7 +19,7 @@
   },
   "modeSelect": {
     "label": "Wybór trybu",
-    "desc": "Wybierz rekomendowany tryb pracy."
+    "desc": "Wybierz tryb pracy rekomendatora."
   },
   "assumption": "Założenie: wszystko PERFECT, zespołowy bonus 0%, użyć 0 napojów energetycznych, multiplayerzy mają wszyscy tą samą siłę zespołową.",
   "addCardDialog": {
