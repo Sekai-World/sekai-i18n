@@ -31,6 +31,9 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
+  "baseScore": "Índex de punts base",
+  "feverScore": "Índex de punts al mode Fever",
+  "eventRate": "Índex de punts d'esdeveniment",
   "clear_status": "Completada",
   "hi_score": "Màxima puntuació",
   "mvp_count": "Compte de MVP",
