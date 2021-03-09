@@ -31,6 +31,9 @@
     "rankA": "等级A",
     "rankS": "等级S"
   },
+  "baseScore": "基础分数倍率",
+  "feverScore": "Fever分数倍率",
+  "eventRate": "活动点数倍率",
   "clear_status": "完成状态",
   "hi_score": "高分",
   "mvp_count": "MVP数量",
