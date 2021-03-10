@@ -1,0 +1,23 @@
+{
+  "live_characters": "Postacie",
+  "rewards": "Nagrody",
+  "title": {
+    "schedules": "Harmonogram",
+    "setlist": "Scenariusz"
+  },
+  "schedule": {
+    "start": "Rozpoczęcie",
+    "end": "Zakończenie"
+  },
+  "mc": {
+    "character_unspawn": "Zniknięcie postaci"
+  },
+  "type": {
+    "normal": "Normalny",
+    "beginner": "Początkujący"
+  },
+  "step": {
+    "mc": "Główne postacie",
+    "music": "Utwór"
+  }
+}
