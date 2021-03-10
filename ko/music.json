@@ -31,6 +31,9 @@
     "rankA": "A 랭크",
     "rankS": "S 랭크"
   },
+  "baseScore": "기본 스코어",
+  "feverScore": "피버 스코어",
+  "eventRate": "이벤트 포인트",
   "clear_status": "클리어 상태",
   "hi_score": "최고점",
   "mvp_count": "MVP 수",
