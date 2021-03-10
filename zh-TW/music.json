@@ -31,6 +31,9 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
+  "baseScore": "基礎分數倍率",
+  "feverScore": "Fever分數倍率",
+  "eventRate": "活動Pt倍率",
   "clear_status": "通關狀態",
   "hi_score": "最高分數",
   "mvp_count": "MVP次數",
