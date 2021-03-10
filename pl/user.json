@@ -1,0 +1,105 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Obecny zespół Sekai",
+      "sekai_profile": "Profil Sekai",
+      "user_event": "Dane wydarzenia Sekai",
+      "user_statistics": "Statystyka Sekai",
+      "card_list": "Karty Sekai",
+      "import_card": "Importuj karty Sekai",
+      "manage_teams": "Zarządzaj zespołami"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Ranga \"Master\"",
+          "cropped_image": "Źródło",
+          "best_match": "Dopasowane",
+          "card_states": "Stan kart",
+          "other_possible_result": "Inne dopasowania",
+          "card_power": "Siła",
+          "card_training_status": "Przeszkolony"
+        }
+      },
+      "submit_success": "Karty zostały zapisane oraz/albo zaktualizowane.",
+      "submit_error": "Nie udało się zapisać kart.",
+      "import_button": "Importuj",
+      "enable_ocr_tooltip": "Jeśli włączone, załaduj zrzut ekranu gry, sortując według poziomu (レベル).\nUżywa on Tesseract do rozpoznania poziomu kart i rangi \"master\". Ten proces może zająć trochę czasu.\nStan treningu jest pobierany z miniaturki, upewnij się, że używasz właściwej.",
+      "enable_ocr": "Rozpoznaj dane kart",
+      "wrong_result": "Niespodziewana karta?",
+      "help": {
+        "step1": {
+          "title": "Krok 1: Zrób zrzut ekranu",
+          "subtitle": "Zrób zrzut ekranu swojej skrzynki, upewniając się, że \"Lv.XX\" jest pokazane zamiast mocy (same liczby)."
+        },
+        "step2": {
+          "title": "Krok 2: Prześlij swój zrzut ekranu",
+          "subtitle": "1: Kliknij i wybierz swój zrzut ekranu.\n2: Spróbuj rozpoznać poziom karty i rangę za pomocą OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Krok 3: Potwierdź wynik",
+          "subtitle": "1: Miniaturka karty przycięta z zrzutu ekranu.\n2: Najlepiej dopasowana miniatura karty z procentowym podobieństwem.\n3: Zakłada się, że wszystkie historie poboczne są odblokowane, pamiętaj, aby to wyłączyć, jeśli nie są odblokowane.\n4: Potwierdź i zapisz rozpoznane karty.\n5: Jeśli karta jest źle zidentyfikowana, kliknij na ją, aby ją zastąpić."
+        },
+        "step4": {
+          "title": "Dodatek: Zmodyfikuj wynik",
+          "subtitle": "To okno dialogowe jest wyświetlane po kliknięciu miniaturki dopasowanej karty (czerwony kwadrat z numerem 5 w kroku 3).\n1: Pokazuje inne możliwe dopasowania dla tej karty.\n2: Jeśli nie chcesz tej karty, możesz ją usunąć z listy."
+        }
+      }
+    },
+    "upload_avatar": "Prześlij awatar",
+    "username": "Nazwa użytkownika",
+    "nickname": "Wyświetlana nazwa",
+    "role": "Rola",
+    "email": "E-mail",
+    "button": {
+      "show_email": "Pokaż",
+      "update_sekai_profile": "Zaktualizuj profil Sekai",
+      "bind_sekai_id": "Powiąż",
+      "verify_sekai_id": "Zweryfikuj"
+    },
+    "email_confirmed": "E-mail potwierdzony",
+    "upload_avatar_error": "Nie udało się przesłać awatara!",
+    "event": {
+      "current_name": "Obecne wydarzenie:",
+      "current_record_info": "Poprzedni rekord:",
+      "current_record_point": "Punkty event'u:",
+      "current_record_rank": "Ranking event'u:",
+      "current_record_time": "Czas rekordu:"
+    },
+    "label": {
+      "update_left": "Użyta liczba aktualizacji: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Nie Zweryfikowane",
+      "sekai_user_id": "ID użytkownika Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nazwa",
+      "sekai_user_rank": "Ranga",
+      "sekai_user_word": "Wprowadzenie",
+      "sekai_id_verify": "Zweryfikuj",
+      "sekai_id_verify_step_1_title": "Otwórz Profil",
+      "sekai_id_verify_step_1_subtitle": "Kliknij \"Menu\" (1) w prawym górnym rogu, a potem kliknij \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Wpisz token i zapisz",
+      "sekai_id_verify_step_2_subtitle": "Wpisz twój token weryfikacyjny {{verify_token}} w pole tekstowe (1), a potem kliknij \"Back\" (2), aby zapisać. Potem kliknij przycisk \"ZWERYFIKUJ\"."
+    },
+    "error": {
+      "sekai_id_already_bind": "ID Sekai jest już powiązane z innym użytkownikiem.",
+      "sekai_id_verify_failed": "Nie udało się zweryfikować własności, czy opuściłeś panel profilu, aby zapisać?"
+    },
+    "card_list": {
+      "submit_success": "Stan kart został zaktualizowany.",
+      "submit_error": "Nie udało się zaktualizować stanu kart.",
+      "button": {
+        "add_card": "Dodaj kartę"
+      }
+    },
+    "statistics": {
+      "clear_count": "Wyczyść licznik",
+      "full_combo_count": "Liczba \"pełnego combo\"",
+      "all_perfect_count": "Liczba \"all perfect\""
+    },
+    "sekai_id": "Sekai ID użytkownika",
+    "email_confirmed_status": {
+      "true": "Tak",
+      "false": "Nie"
+    }
+  }
+}
