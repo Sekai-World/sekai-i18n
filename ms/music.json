@@ -31,6 +31,9 @@
     "rankA": "Kedudukan A",
     "rankS": "Kedudukan S"
   },
+  "baseScore": "Kadar Mata Asas",
+  "feverScore": "Kadar Mata Kemuncak",
+  "eventRate": "Kadar Mata Acara",
   "clear_status": "Kosongkan Status",
   "hi_score": "Markah Tinggi",
   "mvp_count": "Bilangan MVP",
