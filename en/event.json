@@ -73,6 +73,7 @@
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
-    "marathon": "Marathon"
+    "marathon": "Marathon",
+    "cheerful_carnival": "Cheerful Carnival"
   }
 }
