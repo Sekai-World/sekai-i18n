@@ -5,6 +5,7 @@
     "title[2]": "Imej selepas latihan",
     "title[3]": "Imej perapi selepas latihan"
   },
+  "gachaPhrase": "Ungkapan Gacha",
   "skillLevel": "Tahap Kemahiran",
   "skillName": "Nama Kemahiran",
   "skillEffect": "Kesan Kemahiran",
@@ -18,6 +19,6 @@
   "sideStory_plural": "Cerita Sampingan",
   "rarity": "Kejarangan",
   "power": "Kuasa",
-  "skill": "Kemahiran",
-  "apply_event_filter": "Gunakan Bonus Acara"
+  "apply_event_filter": "Gunakan Bonus Acara",
+  "skill": "Kemahiran"
 }
