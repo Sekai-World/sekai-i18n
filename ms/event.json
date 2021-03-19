@@ -8,7 +8,6 @@
   },
   "remainingTime": "Baki Masa",
   "progress": "Perkembangan",
-  "eventCards": "Kad Acara",
   "title": {
     "boost": "Penggalak",
     "timepoint": "Mata Masa",
@@ -17,6 +16,8 @@
   "boostAttribute": "Atribut Penggalak",
   "boostCharacters": "Watak Penggalak",
   "maxBoost": "Penggalak Maksimum (Kedua-duanya Sepadan)",
+  "boostCards": "Kad Penggalak",
+  "eventCards": "Kad Acara",
   "startAt": "Acara Bermula Pada",
   "closeAt": "Acara Tamat Pada",
   "endAt": "Masukan Acara Tersedia Sehingga",
@@ -73,6 +74,7 @@
   "aggregateAt": "Titik Masa Agregat",
   "alreadyPast": "Telah Berlalu",
   "type": {
-    "marathon": "Maraton"
+    "marathon": "Maraton",
+    "cheerful_carnival": "Pesta Penuh Girang"
   }
 }
