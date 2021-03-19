@@ -1,13 +1,34 @@
 {
   "profile": {
     "title": {
+      "user_event": "Sekai Event Data",
       "user_deck": "Sekai Current Team",
       "sekai_profile": "Sekai Profile",
-      "user_event": "Sekai Event Data",
       "user_statistics": "Sekai Statistics",
       "card_list": "Sekai Cards",
       "import_card": "Import Sekai Cards",
       "manage_teams": "Manage Teams"
+    },
+    "event": {
+      "current_record_info": "Last record:",
+      "current_record_point": "Event points:",
+      "current_record_rank": "Event ranking:",
+      "current_record_time": "Record time:",
+      "current_name": "Current event:"
+    },
+    "label": {
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Not Verified",
+      "sekai_user_id": "Sekai User ID",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Name",
+      "sekai_user_rank": "Rank",
+      "sekai_user_word": "Introduction",
+      "sekai_id_verify": "Verify",
+      "sekai_id_verify_step_1_title": "Open Profile",
+      "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
+      "sekai_id_verify_step_2_title": "Write token and save",
+      "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button."
     },
     "import_card": {
       "table": {
@@ -59,27 +80,6 @@
     },
     "email_confirmed": "Email Confirmed",
     "upload_avatar_error": "Failed to upload avatar!",
-    "event": {
-      "current_name": "Current event:",
-      "current_record_info": "Last record:",
-      "current_record_point": "Event points:",
-      "current_record_rank": "Event ranking:",
-      "current_record_time": "Record time:"
-    },
-    "label": {
-      "update_left": "Update count used: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Not Verified",
-      "sekai_user_id": "Sekai User ID",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Name",
-      "sekai_user_rank": "Rank",
-      "sekai_user_word": "Introduction",
-      "sekai_id_verify": "Verify",
-      "sekai_id_verify_step_1_title": "Open Profile",
-      "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
-      "sekai_id_verify_step_2_title": "Write token and save",
-      "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button."
-    },
     "error": {
       "sekai_id_already_bind": "Sekai ID is already bound to another user.",
       "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?"

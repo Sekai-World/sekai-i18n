@@ -8,7 +8,6 @@
   },
   "remainingTime": "Remaining Time",
   "progress": "Progress",
-  "eventCards": "Event Cards",
   "title": {
     "boost": "Boost",
     "timepoint": "Time Points",
@@ -17,6 +16,8 @@
   "boostAttribute": "Boost Attribute",
   "boostCharacters": "Boost Charaters",
   "maxBoost": "Max Boost (Both Matched)",
+  "boostCards": "Boost Cards",
+  "eventCards": "Event Cards",
   "startAt": "Event Starts At",
   "closeAt": "Event Closes At",
   "endAt": "Event Entry Available Until",
