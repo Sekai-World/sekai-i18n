@@ -6,6 +6,6 @@
   "read_area_talk": "Lihatlah {{count}} perbualan kawasan yang dikatakan oleh {{- name}}.",
   "skill_level_up": "Naikkan tahap kemahiran {{- name}} sebanyak {{count}} kali.",
   "master_rank": "Naikkan tahap MASTER bagi {{- name}} secara keseluruhannya {{count}} kali.",
-  "read_card_episode_first": "Bacalah bahagian awal cerita sampingan {{- name}} sebanyak {{count}} jenis.",
+  "read_card_episode_first": "Bacalah bhg awal cerita sampingan {{- name}} sebanyak {{count}} jenis.",
   "read_card_episode_second": "Bacalah bahagian akhir cerita sampingan {{- name}} sebanyak {{count}} jenis."
 }
