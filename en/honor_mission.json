@@ -14,6 +14,9 @@
   "901": "Complete 5 songs at all difficulty levels.",
   "902": "Complete 10 songs at all difficulty levels.",
   "903": "Complete 20 songs at all difficulty levels.",
+  "904": "Complete 30 songs at all difficulty levels.",
+  "905": "Complete 40 songs at all difficulty levels.",
+  "906": "Complete 50 songs at all difficulty levels.",
   "1004": "Get a Full Combo for 30 songs at Master difficulty.",
   "1104": "Get an All Perfect for 30 songs at Master difficulty.",
   "1201": "Complete a live with 2000 life points left.",
@@ -95,5 +98,8 @@
   "3907": "Reach 40,000 cheering points (cumulative) in a virtual live with Virtual Singer members.",
   "3908": "Reach 50,000 cheering points (cumulative) in a virtual live with Virtual Singer members.",
   "3909": "Reach 60,000 cheering points (cumulative) in a virtual live with Virtual Singer members.",
-  "3910": "Reach 70,000 cheering points (cumulative) in a virtual live with Virtual Singer members."
+  "3910": "Reach 70,000 cheering points (cumulative) in a virtual live with Virtual Singer members.",
+  "3911": "Make 1 friend request.",
+  "3912": "Make friend with 100 people.",
+  "3913": "Complete a Multi Live with 5 friends one time."
 }
