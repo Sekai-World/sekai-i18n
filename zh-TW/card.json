@@ -5,6 +5,7 @@
     "title[2]": "特訓後卡圖",
     "title[3]": "特訓後角色圖"
   },
+  "gachaPhrase": "轉蛋語句",
   "skillLevel": "技能等級",
   "skillName": "技能名稱",
   "skillEffect": "技能效果",
@@ -18,6 +19,6 @@
   "sideStory_plural": "角色劇情",
   "rarity": "稀有度",
   "power": "綜合力",
-  "skill": "技能",
-  "apply_event_filter": "應用活動加成"
+  "apply_event_filter": "應用活動加成",
+  "skill": "技能"
 }
