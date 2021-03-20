@@ -8,7 +8,6 @@
   },
   "remainingTime": "Temps restant",
   "progress": "Progrés",
-  "eventCards": "Cartes de l'esdeveniment",
   "title": {
     "boost": "Impuls",
     "timepoint": "Cronologia",
@@ -17,6 +16,8 @@
   "boostAttribute": "Atribut que dóna Impuls",
   "boostCharacters": "Personatges que donen Impuls",
   "maxBoost": "Impuls máxim (utilitzant tots dos)",
+  "boostCards": "Cartes d'Impuls",
+  "eventCards": "Cartes de l'esdeveniment",
   "startAt": "L'esdeveniment comença el",
   "closeAt": "L'esdeveniment finalitza el",
   "endAt": "Participació a l'esdeveniment disponible fins el",
@@ -73,6 +74,7 @@
   "aggregateAt": "Afegir cronologia",
   "alreadyPast": "Ja pasada",
   "type": {
-    "marathon": "Marató"
+    "marathon": "Marató",
+    "cheerful_carnival": "Un Carnaval Animat"
   }
 }
