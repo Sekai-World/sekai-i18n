@@ -31,6 +31,9 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
+  "baseScore": "Taux du score de base",
+  "feverScore": "Taux du score Fever",
+  "eventRate": "Taux de points d'événement",
   "clear_status": "Statut",
   "hi_score": "Meilleur score",
   "mvp_count": "Nombre de MVP",
