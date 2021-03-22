@@ -14,6 +14,9 @@
   "901": "Complétez 5 chansons dans tous les niveaux de difficulté.",
   "902": "Complétez 10 chansons dans tous les niveaux de difficulté.",
   "903": "Complétez 20 chansons dans tous les niveaux de difficulté.",
+  "904": "Complétez 30 chansons dans tous les niveaux de difficulté.",
+  "905": "Complétez 40 chansons dans tous les niveaux de difficulté.",
+  "906": "Complétez 50 chansons dans tous les niveaux de difficulté.",
   "1004": "Obtenez un Full Combo pour 30 chansons à difficulté Master.",
   "1104": "Obtenez un All Perfect pour 30 chansons à difficulté Master.",
   "1201": "Terminez une partie avec 2000 points de vie.",
@@ -95,5 +98,8 @@
   "3907": "Atteignez 40000 points d'encouragement durant les Virtual Lives réunissant les Virtual Singers.",
   "3908": "Atteignez 50000 points d'encouragement durant les Virtual Lives réunissant les Virtual Singers.",
   "3909": "Atteignez 60000 points d'encouragement durant les Virtual Lives réunissant les Virtual Singers.",
-  "3910": "Atteignez 70000 points d'encouragement durant les Virtual Lives réunissant les Virtual Singers."
+  "3910": "Atteignez 70000 points d'encouragement durant les Virtual Lives réunissant les Virtual Singers.",
+  "3911": "Faites une demande d'ami.",
+  "3912": "Faites-vous 100 amis.",
+  "3913": "Faites un Multi Live avec 4 amis."
 }
