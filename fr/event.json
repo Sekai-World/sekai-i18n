@@ -8,7 +8,6 @@
   },
   "remainingTime": "Temps restant",
   "progress": "Progression",
-  "eventCards": "Cartes d'événement",
   "title": {
     "boost": "Boost",
     "timepoint": "Points de temps",
@@ -17,6 +16,8 @@
   "boostAttribute": "Attribut favorisé",
   "boostCharacters": "Personnages favorisés",
   "maxBoost": "Boost max (lorsque les deux correspondent)",
+  "boostCards": "Cartes favorisées",
+  "eventCards": "Cartes d'événement",
   "startAt": "Commence le",
   "closeAt": "Se termine le",
   "endAt": "Disponible jusqu'au",
@@ -73,6 +74,7 @@
   "aggregateAt": "Fin de l'événement",
   "alreadyPast": "Déjà passé",
   "type": {
-    "marathon": "Marathon"
+    "marathon": "Marathon",
+    "cheerful_carnival": "Carnaval joyeux"
   }
 }
