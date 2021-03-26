@@ -8,7 +8,6 @@
   },
   "remainingTime": "活動剩餘時間",
   "progress": "進度",
-  "eventCards": "活動卡牌",
   "title": {
     "boost": "加成",
     "timepoint": "時間點",
@@ -17,6 +16,8 @@
   "boostAttribute": "加成屬性",
   "boostCharacters": "加成角色",
   "maxBoost": "加成（兩者皆滿足）",
+  "boostCards": "加成卡牌",
+  "eventCards": "活動卡牌",
   "startAt": "開始日期",
   "closeAt": "結束日期",
   "endAt": "下期活動更新日期",
@@ -73,6 +74,7 @@
   "aggregateAt": "點數合計時間",
   "alreadyPast": "活動已經過",
   "type": {
-    "marathon": "累積點數"
+    "marathon": "累積點數",
+    "cheerful_carnival": "歡樂嘉年華"
   }
 }
