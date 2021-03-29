@@ -8,7 +8,6 @@
   },
   "remainingTime": "Pozostały czas",
   "progress": "Progres",
-  "eventCards": "Karty event'u",
   "title": {
     "boost": "Doładowanie",
     "timepoint": "Punkty czasu",
@@ -17,6 +16,8 @@
   "boostAttribute": "Wzmacniający atrybut",
   "boostCharacters": "Wzmacniające postacie",
   "maxBoost": "Maksymalne wzmocnienie (oba dopasowane)",
+  "boostCards": "Wzmacniające karty",
+  "eventCards": "Karty event'u",
   "startAt": "Wydarzenie zaczyna się",
   "closeAt": "Wydarzenie kończy się",
   "endAt": "Dostępność event'u trwa do",
@@ -73,6 +74,7 @@
   "aggregateAt": "Zagregowany punkt czasowy",
   "alreadyPast": "Już minął",
   "type": {
-    "marathon": "Maraton"
+    "marathon": "Maraton",
+    "cheerful_carnival": "Cheerful Carnival"
   }
 }
