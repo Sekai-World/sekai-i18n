@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "Zwiększenie wyniku",
+    "judgment_up": "Zwiększenie wyniku i punktacji",
+    "life_recovery": "Odnowienie życia i zwiększenie wyniku",
+    "perfect_score_up": "Zwiększenie wyniku, gdy PERFECT"
+  },
   "character": {
     "caption": "Osoba"
   },
@@ -7,10 +13,23 @@
     "ascending": "Rosnąco",
     "descending": "Malejąco"
   },
+  "honorType": {
+    "caption": "Rodzaj tytułu",
+    "group_only_once": "Pokaż po jednym w każdej grupie"
+  },
+  "not_set": "Nieokreślono",
   "missionType": {
     "caption": "Typ Misji"
   },
   "music_tag": {
     "caption": "Tag Piosenki"
+  },
+  "music_mv": {
+    "caption": "Rodzaj MV"
+  },
+  "language": {
+    "caption": "Język",
+    "source": "Język źródłowy",
+    "target": "Język docelowy"
   }
 }
