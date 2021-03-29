@@ -20,9 +20,6 @@
   "dancerCount": "Bilangan Penari",
   "vocal_plural": "Vokal",
   "vocalType": "Jenis Vokal",
-  "difficulty": "Kesukaran",
-  "difficulty_plural": "Kesukaran",
-  "noteCount": "Bilangan Not",
   "achievement": "Pencapaian",
   "scoreRankAchievement": {
     "title": "Kedudukan Mata",
@@ -31,6 +28,12 @@
     "rankA": "Kedudukan A",
     "rankS": "Kedudukan S"
   },
+  "difficulty": "Kesukaran",
+  "difficulty_plural": "Kesukaran",
+  "chartCredit": "Imej Carta diubahsuai daripada versi Erik (pjsek.ai).",
+  "noteCount": "Bilangan Not",
+  "comboRewards": "Ganjaran Kombo",
+  "chartImage": "Carta",
   "baseScore": "Kadar Mata Asas",
   "feverScore": "Kadar Mata Kemuncak",
   "eventRate": "Kadar Mata Acara",
