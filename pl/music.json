@@ -31,6 +31,9 @@
     "rankA": "Ranga A",
     "rankS": "Ranga S"
   },
+  "baseScore": "Podstawowa stawka punktowa",
+  "feverScore": "Stawka punktowa fever",
+  "eventRate": "Stawka punktowa wydarzenia",
   "clear_status": "Wyczyść status",
   "hi_score": "Wynik",
   "mvp_count": "Liczba \"MVP\"",
