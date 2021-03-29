@@ -20,9 +20,6 @@
   "dancerCount": "舞蹈人员数量",
   "vocal_plural": "演唱者",
   "vocalType": "演唱者类型",
-  "difficulty": "难度",
-  "difficulty_plural": "难度",
-  "noteCount": "音符数量",
   "achievement": "成就",
   "scoreRankAchievement": {
     "title": "分数等级",
@@ -31,6 +28,12 @@
     "rankA": "等级A",
     "rankS": "等级S"
   },
+  "difficulty": "难度",
+  "difficulty_plural": "难度",
+  "chartCredit": "谱面图片修改自Erik (pjsek.ai)的版本。",
+  "noteCount": "音符数量",
+  "comboRewards": "连击奖励",
+  "chartImage": "谱面",
   "baseScore": "基础分数倍率",
   "feverScore": "Fever分数倍率",
   "eventRate": "活动点数倍率",
