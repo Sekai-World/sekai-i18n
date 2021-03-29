@@ -22,10 +22,10 @@
   "virtualLive": "Wirtualny koncert",
   "musicMeta": "Piosenka Meta",
   "musicRecommend": "Rekomendator piosenek",
-  "eventCalc": "Organizator event'ów",
+  "eventCalc": "Organizator wydarzeń",
   "storyReader": "Czytnik historii",
-  "eventTracker": "Śledzenie event'ów",
-  "eventAnalyzer": "Analizator event'ów",
+  "eventTracker": "Śledzenie wydarzeń",
+  "eventAnalyzer": "Analizator wydarzeń",
   "support": "Wsparcie",
   "toolbar": {
     "title": "Lista funkcji"
@@ -57,7 +57,7 @@
   "rewards": "Nagrody",
   "reset": "Zresetuj",
   "submit": "Zatwierdź",
-  "ongoing_event": "Bieżący event",
+  "ongoing_event": "Bieżące wydarzenie",
   "mode": "Tryb",
   "type": "Typ",
   "back": "Wstecz",
@@ -87,6 +87,7 @@
     "translated": "Przetłumaczone (jeżeli dostępne)",
     "both": "Pokaż obydwa"
   },
+  "spoilerContent": "Zawiera spoiler",
   "spoiler": "Spoiler",
   "all": "Wszystko",
   "search": "Szukaj",
