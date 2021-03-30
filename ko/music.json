@@ -20,9 +20,6 @@
   "dancerCount": "댄스 멤버 수",
   "vocal_plural": "보컬",
   "vocalType": "보컬 타입",
-  "difficulty": "난이도",
-  "difficulty_plural": "난이도",
-  "noteCount": "노트 수",
   "achievement": "클리어 보상",
   "scoreRankAchievement": {
     "title": "스코어 랭킹",
@@ -31,6 +28,12 @@
     "rankA": "A 랭크",
     "rankS": "S 랭크"
   },
+  "difficulty": "난이도",
+  "difficulty_plural": "난이도",
+  "chartCredit": "차트 이미지는 에릭(pjsek.ai)이 수정해준 버전입니다.",
+  "noteCount": "노트 수",
+  "comboRewards": "콤보 보상",
+  "chartImage": "차트",
   "baseScore": "기본 스코어",
   "feverScore": "피버 스코어",
   "eventRate": "이벤트 포인트",
