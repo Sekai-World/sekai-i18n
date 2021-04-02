@@ -20,9 +20,6 @@
   "dancerCount": "Nombre de danseurs",
   "vocal_plural": "Voix",
   "vocalType": "Type de voix",
-  "difficulty": "Difficulté",
-  "difficulty_plural": "Difficultés",
-  "noteCount": "Nombre de notes",
   "achievement": "Objectif",
   "scoreRankAchievement": {
     "title": "Rang du score",
@@ -31,6 +28,12 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
+  "difficulty": "Difficulté",
+  "difficulty_plural": "Difficultés",
+  "chartCredit": "L'image du graphique a été modifiée à partir de la version d'Erik (pjsek.ai).",
+  "noteCount": "Nombre de notes",
+  "comboRewards": "Récompenses de combo",
+  "chartImage": "Graphique",
   "baseScore": "Taux du score de base",
   "feverScore": "Taux du score Fever",
   "eventRate": "Taux de points d'événement",
