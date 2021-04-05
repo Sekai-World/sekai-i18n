@@ -12,6 +12,7 @@
     "male": "ชาย",
     "secret": "ความลับ"
   },
+  "scenario": "เนื้อเรื่อง",
   "introduction": "แนะนำตัวละคร",
   "colorCode": "สีประจำตัวละคร",
   "skinColorCode": "สีผิว",
