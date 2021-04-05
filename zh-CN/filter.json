@@ -27,6 +27,11 @@
   "music_mv": {
     "caption": "MV类型"
   },
+  "stampType": {
+    "caption": "贴纸类型",
+    "text": "纯文字",
+    "illustration": "插画"
+  },
   "language": {
     "caption": "语言",
     "source": "源语言",
