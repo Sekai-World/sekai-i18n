@@ -1,15 +1,37 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "แบนเนอร์ & โลโก้"
+    },
+    "title[3]": "ภาพพื้นหลัง",
+    "title[4]": "ภาพตัวละครหน้าตู้",
     "title[0]": "คำอธิบาย",
     "title[1]": "สรุป",
-    "title[2]": "กาชาจำลอง",
-    "title[3]": "ภาพพื้นหลัง",
-    "title[4]": "ภาพตัวละครหน้าตู้"
+    "title[2]": "กาชาจำลอง"
   },
+  "ceil_item": "ไอเท็มแลกเปลี่ยน",
+  "summary": "สรุป",
+  "description": "คำอธิบาย",
+  "gacha_rate": "เรทกาชา",
   "normalRate": "เรทกาชาปกติ",
   "guaranteedRate": "เรทกาชาการันตี",
+  "gacha_cards": "การ์ดกาชา",
   "pickupMember": "ตัวละครพิคอัพ",
   "pickupMember_plural": "ตัวละครพิคอัพ",
+  "gacha_behaviors": "ตัวเลือกการกดกาชา",
+  "gacha_simulator": "เครื่องจำลองตู้กาชา",
+  "simulator": {
+    "total": "ทั้งหมด",
+    "cost": "จำนวนเพชร",
+    "count": "จำนวน",
+    "percentage": "อัตราร้อยละ"
+  },
+  "behavior": {
+    "normal": "ปกติ",
+    "over_rarity_3_once": "การันตี (3*)",
+    "once_a_day": "วันละหนึ่งครั้ง",
+    "over_rarity_4_once": "การันตี (4*)"
+  },
   "gachaType": {
     "ceil": "ขีดสูงสุด",
     "normal": "ปกติ"
