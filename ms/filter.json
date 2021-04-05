@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "Penggalak Mata",
+    "judgment_up": "Penggalak Mata & Pertimbangan",
+    "life_recovery": "Penggalak Mata & Pulih Nyawa",
+    "perfect_score_up": "Penggalak Mata apabila PERFECT"
+  },
   "character": {
     "caption": "Watak"
   },
@@ -20,6 +26,11 @@
   },
   "music_mv": {
     "caption": "Jenis MV"
+  },
+  "stampType": {
+    "caption": "Jenis Pelekat Cap",
+    "text": "Teks sahaja",
+    "illustration": "Dengan Ilustrasi"
   },
   "language": {
     "caption": "Bahasa",
