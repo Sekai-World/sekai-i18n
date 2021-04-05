@@ -1,0 +1,18 @@
+{
+  "category": "ประเภท",
+  "published_at": "แผยแพร่เมื่อ",
+  "translators": "ผู้แปล",
+  "fetch_error": "เกิดข้อผิดพลาดขณะดึงข้อมูล",
+  "no_entry": "ไม่มีรายการ",
+  "title": "หัวข้อ",
+  "language": "ภาษา",
+  "author": "ผู้เขียน",
+  "co-authors": "ผู้เขียนร่วม",
+  "categoryName": {
+    "website": "เว็บไซต์",
+    "normal": "อื่นๆ",
+    "game_update": "เกมอัพเดต",
+    "maintenance": "การปรับปรุง",
+    "bug": "ข้อผิดพลาด"
+  }
+}
