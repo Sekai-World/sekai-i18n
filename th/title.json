@@ -16,7 +16,7 @@
   "live2d": "Live2D | Sekai Viewer",
   "memberDetail": "{{- name}} | ตัวละคร | Sekai Viewer",
   "memberList": "รายชื่อตัวละคร | Sekai Viewer",
-  "beginnerMissionList": "มือใหม่ | ภารกิจ | Sekai Viewer",
+  "beginnerMissionList": "ผู้เล่นใหม่ | ภารกิจ | Sekai Viewer",
   "characterMissionList": "ตัวละคร | ภารกิจ | Sekai Viewer",
   "normalMissionList": "ทั่วไป | ภารกิจ | Sekai Viewer",
   "musicDetail": "{{- title}} | เพลง | Sekai Viewer",
