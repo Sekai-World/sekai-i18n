@@ -27,6 +27,11 @@
   "music_mv": {
     "caption": "Rodzaj MV"
   },
+  "stampType": {
+    "caption": "Rodzaj naklejki",
+    "text": "Tekst",
+    "illustration": "Ilustracja"
+  },
   "language": {
     "caption": "Język",
     "source": "Język źródłowy",
