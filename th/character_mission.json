@@ -7,5 +7,5 @@
   "skill_level_up": "เพิ่มระดับสกิล｢{{- name}}｣ {{count}} ครั้ง",
   "master_rank": "เพิ่มระดับมาสเตอร์แรงค์｢{{- name}}｣ {{count}} ครั้ง",
   "read_card_episode_first": "ปลดล็อคไซด์สตอรี่ของ｢{{- name}}｣ พาร์ทแรก {{count}} ครั้ง",
-  "read_card_episode_second": "ปลดล็อคไซด์สตอรี่ของ｢{{- name}}｣ครึ่งหลัง{{count}}ครั้ง"
+  "read_card_episode_second": "ปลดล็อคไซด์สตอรี่ของ｢{{- name}}｣ พาร์ทหลัง {{count}} ครั้ง"
 }
