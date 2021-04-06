@@ -1,0 +1,23 @@
+{
+  "live_characters": "ตัวละคร",
+  "rewards": "รางวัล",
+  "title": {
+    "schedules": "กำหนดการ",
+    "setlist": "แผนงานทั้งหมด"
+  },
+  "schedule": {
+    "start": "เริ่ม",
+    "end": "จบ"
+  },
+  "mc": {
+    "character_unspawn": "ตัวละครหายไป"
+  },
+  "type": {
+    "normal": "ปกติ",
+    "beginner": "ผู้เล่นใหม่"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}
