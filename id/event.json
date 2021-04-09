@@ -8,7 +8,6 @@
   },
   "remainingTime": "Waktu yang tersisa",
   "progress": "Proses",
-  "eventCards": "Kartu Event",
   "title": {
     "boost": "Boost",
     "timepoint": "Titik Waktu",
@@ -17,6 +16,8 @@
   "boostAttribute": "Atribut Boost",
   "boostCharacters": "Karakter Boost",
   "maxBoost": "Boost Max (Keduanya digunakan)",
+  "boostCards": "Kartu Penguat",
+  "eventCards": "Kartu Event",
   "startAt": "Event Dimulai Pada",
   "closeAt": "Event Ditutup Pada",
   "endAt": "Event Tersedia Hingga",
@@ -73,6 +74,7 @@
   "aggregateAt": "Titik waktu Teragregasi",
   "alreadyPast": "Sudah lewat",
   "type": {
-    "marathon": "Maraton"
+    "marathon": "Maraton",
+    "cheerful_carnival": "Karnaval Ceria"
   }
 }
