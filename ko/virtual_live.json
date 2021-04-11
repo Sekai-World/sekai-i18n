@@ -14,7 +14,8 @@
   },
   "type": {
     "normal": "보통",
-    "beginner": "초심자"
+    "beginner": "초심자",
+    "cheerful_carnival": "치어풀 카니발"
   },
   "step": {
     "mc": "MC",
