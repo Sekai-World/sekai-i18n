@@ -27,6 +27,11 @@
   "music_mv": {
     "caption": "Type de MV"
   },
+  "stampType": {
+    "caption": "Type de tampon",
+    "text": "Texte uniquement",
+    "illustration": "Avec illustration"
+  },
   "language": {
     "caption": "Langue",
     "source": "Langue source",
