@@ -1,13 +1,34 @@
 {
   "profile": {
     "title": {
+      "user_event": "Datos de eventos de Sekai",
       "user_deck": "Equipo Sekai actual",
       "sekai_profile": "Perfil sekai",
-      "user_event": "Datos de eventos de Sekai",
       "user_statistics": "Estadísticas Sekai",
       "card_list": "Cartas Sekai",
       "import_card": "Importar cartas Sekai",
       "manage_teams": "Gestionar equipos"
+    },
+    "event": {
+      "current_record_info": "Ultimo Record",
+      "current_record_point": "Puntos de evento:",
+      "current_record_rank": "Ranking de evento:",
+      "current_record_time": "Tiempo Record",
+      "current_name": "Evento actual"
+    },
+    "label": {
+      "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
+      "sekai_id_not_verified": "No verificado",
+      "sekai_user_id": "ID de usuario Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nombre",
+      "sekai_user_rank": "Rango",
+      "sekai_user_word": "Introducción",
+      "sekai_id_verify": "Verificar",
+      "sekai_id_verify_step_1_title": "Abrir perfil",
+      "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
+      "sekai_id_verify_step_2_title": "Escribe token y guarda",
+      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\""
     },
     "import_card": {
       "table": {
@@ -59,27 +80,6 @@
     },
     "email_confirmed": "Email confirmado",
     "upload_avatar_error": "Error al cargar avatar",
-    "event": {
-      "current_name": "Evento actual",
-      "current_record_info": "Ultimo Record",
-      "current_record_point": "Puntos de evento:",
-      "current_record_rank": "Ranking de evento:",
-      "current_record_time": "Tiempo Record"
-    },
-    "label": {
-      "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
-      "sekai_id_not_verified": "No verificado",
-      "sekai_user_id": "ID de usuario Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nombre",
-      "sekai_user_rank": "Rango",
-      "sekai_user_word": "Introducción",
-      "sekai_id_verify": "Verificar",
-      "sekai_id_verify_step_1_title": "Abrir perfil",
-      "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
-      "sekai_id_verify_step_2_title": "Escribe token y guarda",
-      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\""
-    },
     "error": {
       "sekai_id_already_bind": "La ID de Sekai ya está vinculada a otro usuario.",
       "sekai_id_verify_failed": "No se pudo verificar la propiedad. ¿Dejaste el panel de perfil para guardar?"
@@ -90,6 +90,11 @@
       "button": {
         "add_card": "Añadir Carta"
       }
+    },
+    "statistics": {
+      "clear_count": "Conteo para proceder",
+      "full_combo_count": "Conteo de Full Combo",
+      "all_perfect_count": "Conteo de All Perfect"
     },
     "sekai_id": "ID de usuario sekai",
     "email_confirmed_status": {
