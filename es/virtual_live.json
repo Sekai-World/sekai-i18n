@@ -14,7 +14,8 @@
   },
   "type": {
     "normal": "Normal",
-    "beginner": "Principiante"
+    "beginner": "Principiante",
+    "cheerful_carnival": "Cheerful Carnival"
   },
   "step": {
     "mc": "MC",
