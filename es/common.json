@@ -25,6 +25,7 @@
   "eventCalc": "Planeador de eventos",
   "storyReader": "Lector de historia",
   "eventTracker": "Seguimiento del evento",
+  "eventAnalyzer": "Analizador del Evento",
   "support": "Support",
   "toolbar": {
     "title": "Lista de Funciones"
@@ -54,8 +55,10 @@
   "releaseCondition": "Condición de Desbloqueo",
   "releaseCosts": "Costo de Desbloqueo",
   "rewards": "Recompensas",
+  "reset": "Reiniciar",
   "submit": "Enviar",
   "ongoing_event": "Evento actual",
+  "mode": "Modo",
   "type": "Tipo",
   "back": "Atrás",
   "next": "Siguiente",
@@ -84,6 +87,7 @@
     "translated": "Traducido (si está disponible)",
     "both": "Mostrar ambos"
   },
+  "spoilerContent": "Contenido con Spoilers",
   "spoiler": "Spoiler",
   "all": "Todo",
   "search": "Buscar",
@@ -94,7 +98,6 @@
   "login": "Iniciar sesión",
   "reset_password": "Resetear Contraseña.",
   "save": "Guardar",
-  "reset": "Reiniciar",
   "help": "Ayuda",
   "close": "Cerrar",
   "hide": "Ocultar",
