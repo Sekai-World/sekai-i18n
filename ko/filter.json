@@ -27,6 +27,11 @@
   "music_mv": {
     "caption": "MV 타입"
   },
+  "stampType": {
+    "caption": "스탬프 유형",
+    "text": "텍스트만",
+    "illustration": "일러스트도 같이"
+  },
   "language": {
     "caption": "언어",
     "source": "소스 언어",
