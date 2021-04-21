@@ -14,18 +14,22 @@
   },
   "happy_new_year": "🎊新年快乐！🎉",
   "alert_settings": "使用右上角的 <s /> 切换语言和亮度模式。",
-  "alert1": {
-    "title": "需要你的帮助！",
-    "translation": "翻译",
-    "development": "开发",
-    "see_contrib_list": "查看项目的贡献者",
-    "contact": "联系我",
-    "join-discord": "加入Discord服务器"
-  },
   "detect": {
     "warning": "在兼容模式下运行，你可能会遭遇性能问题。请升级您的浏览器或iOS/macOS系统版本。 <br> 更多信息： <l>Can I Use - WebP image format</l>",
     "failed": "十分抱歉，您的浏览器在加载大量图片时出现问题，请升级您的浏览器或系统版本。我们正在加强兼容性。<br>更多信息：<l>您的浏览器是否可用 - WebP图像格式</l>",
     "success": "恭喜！你的浏览器看起来很现代，您可以更快地加载图像并节省流量。"
+  },
+  "directLink": {
+    "caption": "捷径",
+    "contribList": "贡献者"
+  },
+  "alert1": {
+    "translation": "翻译",
+    "development": "开发",
+    "title": "需要你的帮助！",
+    "see_contrib_list": "查看项目的贡献者",
+    "contact": "联系我",
+    "join-discord": "加入Discord服务器"
   },
   "update": "相关链接"
 }
