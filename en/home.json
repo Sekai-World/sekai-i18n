@@ -15,18 +15,22 @@
   "new_year_countdown": "",
   "happy_new_year": "🎊Happy New Year!🎉",
   "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more.",
-  "alert1": {
-    "title": "Help needed!",
-    "translation": "Translations",
-    "development": "Development",
-    "see_contrib_list": "See the contributors list",
-    "contact": "Contact Me",
-    "join-discord": "Join Discord Server"
-  },
   "detect": {
     "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
     "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
     "success": "Congratulations! Your browser seems modern, you are able to load images faster and save bandwidth."
+  },
+  "directLink": {
+    "caption": "Shortcuts",
+    "contribList": "Contributors"
+  },
+  "alert1": {
+    "translation": "Translations",
+    "development": "Development",
+    "title": "Help needed!",
+    "see_contrib_list": "See the contributors list",
+    "contact": "Contact Me",
+    "join-discord": "Join Discord Server"
   },
   "update": "Related Links"
 }
