@@ -14,18 +14,22 @@
   },
   "happy_new_year": "🎊¡Feliz Año Nuevo!🎉",
   "alert_settings": "Utiliza <s /> de la esquina superior derecha para cambiar el idioma, el modo de brillo y más.",
-  "alert1": {
-    "title": "¡Se necesita ayuda!",
-    "translation": "Traducciones",
-    "development": "Desarrollo",
-    "see_contrib_list": "Ver la lista de colaboradores",
-    "contact": "Contáctame",
-    "join-discord": "Únete al servidor de Discord"
-  },
   "detect": {
     "warning": "Ejecutando en modo compatibilidad, puede que sufras problemas de rendimiento. Considera actualizar tu navegador o tu versión de iOS/macOS. <br> Más información: <l>Puedo utilizar - formato de imagen WebP</l>",
     "failed": "Desgraciadamente, tu navegador no puede cargar la mayor parte de las imágenes. Actualízalo, o bien actualiza tu versión de iOS/macOS. Pronto pondremos solución a los problemas de compatibilidad. <br> Más información: <l> Utilizar - formato de imagen WebP</l>",
     "success": "¡Felicidades! Tu navegador parece moderno, puedes cargar imágenes más rápido y ahorrar banda ancha."
+  },
+  "directLink": {
+    "caption": "Atajos",
+    "contribList": "Contribuyentes"
+  },
+  "alert1": {
+    "translation": "Traducciones",
+    "development": "Desarrollo",
+    "title": "¡Se necesita ayuda!",
+    "see_contrib_list": "Ver la lista de colaboradores",
+    "contact": "Contáctame",
+    "join-discord": "Únete al servidor de Discord"
   },
   "update": "Links Relacionados"
 }
