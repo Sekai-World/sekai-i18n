@@ -8,7 +8,6 @@
   },
   "remainingTime": "Tiempo restante",
   "progress": "Progreso",
-  "eventCards": "Cartas de Evento",
   "title": {
     "boost": "Aumento",
     "timepoint": "Puntos de Tiempo",
@@ -17,6 +16,8 @@
   "boostAttribute": "Atributo de aumento",
   "boostCharacters": "Personajes de aumento",
   "maxBoost": "Máximo aumento (Ambos usados) ",
+  "boostCards": "Cartas con Bonus",
+  "eventCards": "Cartas de Evento",
   "startAt": "El evento empieza el",
   "closeAt": "El evento termina el",
   "endAt": "Entrada del evento en el juego disponible hasta el",
@@ -27,7 +28,6 @@
     "start": "De",
     "end": "A"
   },
-  "no_enough_data": "Datos insuficientes",
   "tracker": {
     "select": {
       "event_name": "Nombre del Evento",
@@ -38,12 +38,32 @@
       "graph": "Mostrar Gráfica",
       "random-palette": "Paleta Aleatoria"
     },
+    "pred_at": "Predicción calculada en",
+    "show_all_rank": "Mostrar todos los rangos",
+    "time_travel_enabled": "Viaje en el Tiempo",
+    "tooltip": {
+      "get_prediction": "Predicción solo está disponible después de 24 horas de cuando se empieza el evento"
+    },
+    "checkbox": {
+      "get_prediction": "Predicción de la búsqueda"
+    },
     "title": {
       "data_graph": "Gráfica de Puntos de Evento",
       "average_speed": "Velocidad promedio"
     }
   },
   "ranking": "Ranking",
+  "realtime": "Dato en tiempo real",
+  "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuario",
+      "score": "Punto(s)",
+      "speed_per_hour": "Velocidad promedio (/h)",
+      "prediction": "Predicción"
+    }
+  },
+  "no_enough_data": "Datos insuficientes",
   "speedTable": {
     "head": {
       "all_time": "Todo el evento (por hora)",
@@ -51,17 +71,10 @@
       "last_1h": "Hace 1 hora (por hora)"
     }
   },
-  "realtime": "En tiempo real el",
-  "nextfetch": "Next fetch",
-  "rankingTable": {
-    "head": {
-      "userProfile": "Usuario",
-      "score": "Punto(s)"
-    }
-  },
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
-    "marathon": "Maratón"
+    "marathon": "Maratón",
+    "cheerful_carnival": "Cheerful Carnival"
   }
 }
