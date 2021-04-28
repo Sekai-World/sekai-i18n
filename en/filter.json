@@ -27,6 +27,7 @@
   "music_mv": {
     "caption": "MV Type"
   },
+  "not-selected": "Not selected",
   "stampType": {
     "caption": "Stamp Type",
     "text": "Text only",

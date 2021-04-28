@@ -17,7 +17,6 @@
   "lyricist": "Lyricist",
   "danceMember": "Dance Member",
   "danceMember_plural": "Dance Members",
-  "dancerCount": "Dancer Count",
   "vocal_plural": "Vocals",
   "vocalType": "Vocal Type",
   "achievement": "Achievements",
@@ -41,6 +40,7 @@
   "hi_score": "High Score",
   "mvp_count": "MVP Count",
   "super_star_count": "Super Star Count",
+  "dancerCount": "Dancer Count",
   "combo": "Combos",
   "preview": "Preview",
   "categoryType": {
