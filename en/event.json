@@ -10,6 +10,7 @@
   "progress": "Progress",
   "title": {
     "boost": "Boost",
+    "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Time Points",
     "rankingRewards": "Ranking Rewards"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Max Boost (Both Matched)",
   "boostCards": "Boost Cards",
   "eventCards": "Event Cards",
+  "cheerful_carnival_midterm_1": "First Midterm Report",
+  "cheerful_carnival_midterm_2": "Second Midterm Report",
   "startAt": "Event Starts At",
   "closeAt": "Event Closes At",
   "endAt": "Event Entry Available Until",
   "rankingAnnounceAt": "Ranking Announcement At",
   "distributionStartAt": "Reward Distribution From",
-  "distributionEndAt": "Reward Distribution Until",
   "rankingReward": {
     "start": "From",
     "end": "To"
@@ -71,6 +73,7 @@
       "last_1h": "Last 1 hour (per hour)"
     }
   },
+  "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
