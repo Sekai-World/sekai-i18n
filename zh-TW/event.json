@@ -10,6 +10,7 @@
   "progress": "進度",
   "title": {
     "boost": "加成",
+    "cheerful_carnival": "歡樂嘉年華",
     "timepoint": "時間點",
     "rankingRewards": "排名獎勵"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "加成（兩者皆滿足）",
   "boostCards": "加成卡牌",
   "eventCards": "活動卡牌",
+  "cheerful_carnival_midterm_1": "第一個中期報告",
+  "cheerful_carnival_midterm_2": "第二個中期報告",
   "startAt": "開始日期",
   "closeAt": "結束日期",
   "endAt": "下期活動更新日期",
   "rankingAnnounceAt": "排名宣布時間",
   "distributionStartAt": "排名報酬開始發放日期",
-  "distributionEndAt": "排名報酬結束發放日期",
   "rankingReward": {
     "start": "由",
     "end": "到"
@@ -71,6 +73,7 @@
       "last_1h": "最近1小時（每小時）"
     }
   },
+  "distributionEndAt": "排名報酬結束發放日期",
   "aggregateAt": "點數合計時間",
   "alreadyPast": "活動已經過",
   "type": {
