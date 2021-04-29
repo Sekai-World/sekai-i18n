@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "遊戲活動數據",
       "user_deck": "目前遊戲隊伍",
       "sekai_profile": "遊戲個人資料",
-      "user_event": "遊戲活動數據",
-      "user_statistics": "遊戲數據",
+      "sekai_cards_teams": "遊戲卡牌及隊伍",
       "card_list": "遊戲卡牌",
       "import_card": "滙入遊戲卡牌",
-      "manage_teams": "管理隊伍"
+      "manage_teams": "管理隊伍",
+      "user_statistics": "遊戲數據"
+    },
+    "event": {
+      "current_record_info": "上一條記錄：",
+      "current_record_point": "活動pt：",
+      "current_record_rank": "活動排名：",
+      "current_record_time": "記錄時間：",
+      "current_name": "當前活動："
+    },
+    "label": {
+      "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "未驗證",
+      "sekai_user_id": "遊戲ID",
+      "sekai_id_verify_token": "令牌",
+      "sekai_user_name": "名字",
+      "sekai_user_rank": "等級",
+      "sekai_user_word": "個人簡介",
+      "sekai_id_verify": "驗證",
+      "sekai_id_verify_step_1_title": "打開個人檔案",
+      "sekai_id_verify_step_1_subtitle": "點擊右上角的＂菜單＂(1)按鈕，然後點擊＂稱號 & プロフィール＂(2)按鈕",
+      "sekai_id_verify_step_2_title": "寫入令牌並保存",
+      "sekai_id_verify_step_2_subtitle": "寫入你的驗證令牌 {{verify_token}} 到文本框裡(1)，然後點擊＂返回＂(2)按鈕以保存。在這之後點擊＂驗證＂按鈕。",
+      "sekai_user_music_not_found": "找不到對應的樂曲紀錄。"
     },
     "import_card": {
       "table": {
@@ -59,27 +82,6 @@
     },
     "email_confirmed": "己確認電子郵件",
     "upload_avatar_error": "無法上傳頭像！",
-    "event": {
-      "current_name": "當前活動：",
-      "current_record_info": "上一條記錄：",
-      "current_record_point": "活動pt：",
-      "current_record_rank": "活動排名：",
-      "current_record_time": "記錄時間："
-    },
-    "label": {
-      "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "未驗證",
-      "sekai_user_id": "遊戲ID",
-      "sekai_id_verify_token": "令牌",
-      "sekai_user_name": "名字",
-      "sekai_user_rank": "等級",
-      "sekai_user_word": "個人簡介",
-      "sekai_id_verify": "驗證",
-      "sekai_id_verify_step_1_title": "打開個人檔案",
-      "sekai_id_verify_step_1_subtitle": "點擊右上角的＂菜單＂(1)按鈕，然後點擊＂稱號 & プロフィール＂(2)按鈕",
-      "sekai_id_verify_step_2_title": "寫入令牌並保存",
-      "sekai_id_verify_step_2_subtitle": "寫入你的驗證令牌 {{verify_token}} 到文本框裡(1)，然後點擊＂返回＂(2)按鈕以保存。在這之後點擊＂驗證＂按鈕。"
-    },
     "error": {
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
       "sekai_id_verify_failed": "無法驗證所有者，你是否忘記了離開資料界面以保存？"
