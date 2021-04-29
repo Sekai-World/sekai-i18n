@@ -27,6 +27,7 @@
   "music_mv": {
     "caption": "MV类型"
   },
+  "not-selected": "尚未选择",
   "stampType": {
     "caption": "贴纸类型",
     "text": "纯文字",
