@@ -27,6 +27,7 @@
   "music_mv": {
     "caption": "MV 타입"
   },
+  "not-selected": "선택되지 않음",
   "stampType": {
     "caption": "스탬프 유형",
     "text": "텍스트만",
