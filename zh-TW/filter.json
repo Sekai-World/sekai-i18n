@@ -27,6 +27,7 @@
   "music_mv": {
     "caption": "MV類型"
   },
+  "not-selected": "未選擇",
   "stampType": {
     "caption": "貼圖類型",
     "text": "純文字",
