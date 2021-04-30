@@ -10,6 +10,7 @@
   "progress": "Perkembangan",
   "title": {
     "boost": "Penggalak",
+    "cheerful_carnival": "Karnival Penuh Riang",
     "timepoint": "Mata Masa",
     "rankingRewards": "Ganjaran Kedudukan"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Penggalak Maksimum (Kedua-duanya Sepadan)",
   "boostCards": "Kad Penggalak",
   "eventCards": "Kad Acara",
+  "cheerful_carnival_midterm_1": "Laporan Separuh Penggal Pertama",
+  "cheerful_carnival_midterm_2": "Laporan Separuh Penggal Kedua",
   "startAt": "Acara Bermula Pada",
   "closeAt": "Acara Tamat Pada",
   "endAt": "Masukan Acara Tersedia Sehingga",
   "rankingAnnounceAt": "Pengumuman Kedudukan Pada",
   "distributionStartAt": "Pengagihan Ganjaran Mulai",
-  "distributionEndAt": "Pengagihan Ganjaran Sehingga",
   "rankingReward": {
     "start": "Mulai",
     "end": "Hingga"
@@ -71,6 +73,7 @@
       "last_1h": "1 jam terakhir (per jam)"
     }
   },
+  "distributionEndAt": "Pengagihan Ganjaran Sehingga",
   "aggregateAt": "Titik Masa Agregat",
   "alreadyPast": "Telah Berlalu",
   "type": {
