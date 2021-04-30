@@ -18,7 +18,7 @@
       "current_name": "当前活动："
     },
     "label": {
-      "update_left": "更新次数已用: {{ used }} / {{ allowed }}",
+      "update_left": "更新次数已用：{{ used }} / {{ allowed }}",
       "sekai_id_not_verified": "未验证",
       "sekai_user_id": "Sekai用户ID",
       "sekai_id_verify_token": "令牌",
