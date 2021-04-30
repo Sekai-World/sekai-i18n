@@ -10,6 +10,7 @@
   "progress": "진행률",
   "title": {
     "boost": "부스트",
+    "cheerful_carnival": "치어풀 카니발",
     "timepoint": "시점",
     "rankingRewards": "랭킹 보상"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "최대 부스트 (두 조건 모두 충족)",
   "boostCards": "부스트 카드",
   "eventCards": "이벤트 카드",
+  "cheerful_carnival_midterm_1": "첫 번째 중간 결과",
+  "cheerful_carnival_midterm_2": "두 번째 중간 결과",
   "startAt": "이벤트 개시일시",
   "closeAt": "이벤트 종료일시",
   "endAt": "이벤트 접속가능 시한",
   "rankingAnnounceAt": "순위 발표",
   "distributionStartAt": "보상 지급 개시",
-  "distributionEndAt": "보상 지급 종료",
   "rankingReward": {
     "start": "개시일",
     "end": "종료일"
@@ -71,6 +73,7 @@
       "last_1h": "최근 1시간 (시간당)"
     }
   },
+  "distributionEndAt": "보상 지급 종료",
   "aggregateAt": "집계 개시",
   "alreadyPast": "경과일",
   "type": {
