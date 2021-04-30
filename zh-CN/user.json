@@ -30,7 +30,7 @@
       "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
       "sekai_id_verify_step_2_title": "写入令牌并保存",
       "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框里(1)，然后点击“返回”(2)按钮以保存。在这之后点击“验证”按钮。",
-      "sekai_user_music_not_found": "未发现该曲的记录"
+      "sekai_user_music_not_found": "未发现该曲的记录。"
     },
     "import_card": {
       "table": {
