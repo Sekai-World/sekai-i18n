@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Sekai活动数据",
       "user_deck": "Sekai当前队伍",
       "sekai_profile": "Sekai个人档案",
-      "user_event": "Sekai活动数据",
-      "user_statistics": "Sekai 统计资料",
+      "sekai_cards_teams": "Sekai卡牌和队伍",
       "card_list": "Sekai卡牌",
       "import_card": "导入Sekai卡牌",
-      "manage_teams": "管理队伍"
+      "manage_teams": "管理队伍",
+      "user_statistics": "Sekai 统计资料"
+    },
+    "event": {
+      "current_record_info": "上次记录：",
+      "current_record_point": "活动点数：",
+      "current_record_rank": "活动排名：",
+      "current_record_time": "记录时间：",
+      "current_name": "当前活动："
+    },
+    "label": {
+      "update_left": "更新次数已用: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "未验证",
+      "sekai_user_id": "Sekai用户ID",
+      "sekai_id_verify_token": "令牌",
+      "sekai_user_name": "名字",
+      "sekai_user_rank": "等级",
+      "sekai_user_word": "自我介绍",
+      "sekai_id_verify": "验证",
+      "sekai_id_verify_step_1_title": "打开资料",
+      "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
+      "sekai_id_verify_step_2_title": "写入令牌并保存",
+      "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框里(1)，然后点击“返回”(2)按钮以保存。在这之后点击“验证”按钮。",
+      "sekai_user_music_not_found": "未发现该曲的记录"
     },
     "import_card": {
       "table": {
@@ -59,27 +82,6 @@
     },
     "email_confirmed": "邮箱地址已验证",
     "upload_avatar_error": "上传头像失败",
-    "event": {
-      "current_name": "当前活动：",
-      "current_record_info": "上次记录：",
-      "current_record_point": "活动点数：",
-      "current_record_rank": "活动排名：",
-      "current_record_time": "记录时间："
-    },
-    "label": {
-      "update_left": "更新次数已用: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "未验证",
-      "sekai_user_id": "Sekai用户ID",
-      "sekai_id_verify_token": "令牌",
-      "sekai_user_name": "名字",
-      "sekai_user_rank": "等级",
-      "sekai_user_word": "自我介绍",
-      "sekai_id_verify": "验证",
-      "sekai_id_verify_step_1_title": "打开资料",
-      "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
-      "sekai_id_verify_step_2_title": "写入令牌并保存",
-      "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框里(1)，然后点击“返回”(2)按钮以保存。在这之后点击“验证”按钮。"
-    },
     "error": {
       "sekai_id_already_bind": "Sekai ID已经绑定到其他账户",
       "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？"
