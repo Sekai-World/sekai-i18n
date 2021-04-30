@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Data Acara Sekai",
       "user_deck": "Pasukan Semasa Sekai",
       "sekai_profile": "Profil Sekai",
-      "user_event": "Data Acara Sekai",
-      "user_statistics": "Statistik Sekai",
+      "sekai_cards_teams": "Pasukan & Kad Sekai",
       "card_list": "Kad Sekai",
       "import_card": "Import Kad Sekai",
-      "manage_teams": "Urus Pasukan"
+      "manage_teams": "Urus Pasukan",
+      "user_statistics": "Statistik Sekai"
+    },
+    "event": {
+      "current_record_info": "Catatan terakhir:",
+      "current_record_point": "Mata acara:",
+      "current_record_rank": "Kedudukan acara:",
+      "current_record_time": "Masa catatan:",
+      "current_name": "Acara semasa:"
+    },
+    "label": {
+      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Belum Disahkan",
+      "sekai_user_id": "ID Pengguna Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Kedudukan",
+      "sekai_user_word": "Pengenalan",
+      "sekai_id_verify": "Sahkan",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\".",
+      "sekai_user_music_not_found": "Rekod muzik pengguna tidak dijumpai."
     },
     "import_card": {
       "table": {
@@ -59,27 +82,6 @@
     },
     "email_confirmed": "E-mel Disahkan",
     "upload_avatar_error": "Gagal memuat naik avatar!",
-    "event": {
-      "current_name": "Acara semasa:",
-      "current_record_info": "Catatan terakhir:",
-      "current_record_point": "Mata acara:",
-      "current_record_rank": "Kedudukan acara:",
-      "current_record_time": "Masa catatan:"
-    },
-    "label": {
-      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Belum Disahkan",
-      "sekai_user_id": "ID Pengguna Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nama",
-      "sekai_user_rank": "Kedudukan",
-      "sekai_user_word": "Pengenalan",
-      "sekai_id_verify": "Sahkan",
-      "sekai_id_verify_step_1_title": "Buka Profil",
-      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
-      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
-      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\"."
-    },
     "error": {
       "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
       "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
