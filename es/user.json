@@ -4,10 +4,11 @@
       "user_event": "Datos de eventos de Sekai",
       "user_deck": "Equipo Sekai actual",
       "sekai_profile": "Perfil sekai",
-      "user_statistics": "Estadísticas Sekai",
+      "sekai_cards_teams": "Cartas y Equipos Sekai",
       "card_list": "Cartas Sekai",
       "import_card": "Importar cartas Sekai",
-      "manage_teams": "Gestionar equipos"
+      "manage_teams": "Gestionar equipos",
+      "user_statistics": "Estadísticas Sekai"
     },
     "event": {
       "current_record_info": "Ultimo Record",
@@ -28,7 +29,8 @@
       "sekai_id_verify_step_1_title": "Abrir perfil",
       "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
       "sekai_id_verify_step_2_title": "Escribe token y guarda",
-      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\""
+      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\"",
+      "sekai_user_music_not_found": "No se ha encontrado el registro de música del usuario."
     },
     "import_card": {
       "table": {
