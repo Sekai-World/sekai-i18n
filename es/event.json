@@ -10,6 +10,7 @@
   "progress": "Progreso",
   "title": {
     "boost": "Aumento",
+    "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Puntos de Tiempo",
     "rankingRewards": "Premios de Ranking"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Máximo aumento (Ambos usados) ",
   "boostCards": "Cartas con Bonus",
   "eventCards": "Cartas de Evento",
+  "cheerful_carnival_midterm_1": "Primer informe intermedio",
+  "cheerful_carnival_midterm_2": "Segundo informe intermedio",
   "startAt": "El evento empieza el",
   "closeAt": "El evento termina el",
   "endAt": "Entrada del evento en el juego disponible hasta el",
   "rankingAnnounceAt": "Anuncio de ranking el",
   "distributionStartAt": "Distribución de recompensas desde",
-  "distributionEndAt": "Distribución de recompensas hasta",
   "rankingReward": {
     "start": "De",
     "end": "A"
@@ -71,6 +73,7 @@
       "last_1h": "Hace 1 hora (por hora)"
     }
   },
+  "distributionEndAt": "Distribución de recompensas hasta",
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past",
   "type": {
