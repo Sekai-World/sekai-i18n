@@ -8,26 +8,28 @@
   },
   "remainingTime": "残り時間",
   "progress": "進捗",
-  "eventCards": "イベント限定カード",
   "title": {
     "boost": "ブースト",
+    "cheerful_carnival": "チアフルカーニバル",
     "timepoint": "時点",
     "rankingRewards": "ランキング報酬"
   },
   "boostAttribute": "ボーナスタイプ",
   "boostCharacters": "ボーナスキャラクター",
   "maxBoost": "ボーナス(両方一致）",
+  "boostCards": "ボーナスカード",
+  "eventCards": "イベント限定カード",
+  "cheerful_carnival_midterm_1": "最初の中間発表",
+  "cheerful_carnival_midterm_2": "次の中間発表",
   "startAt": "イベント開始時間",
   "closeAt": "イベント終了時間",
   "endAt": "イベント参加期限",
   "rankingAnnounceAt": "ランキング公開時間",
   "distributionStartAt": "報酬配布時間",
-  "distributionEndAt": "報酬受け取り期限",
   "rankingReward": {
-    "start": "開始日",
-    "end": "終了日"
+    "start": "何位から",
+    "end": "何位まで"
   },
-  "no_enough_data": "データ不足",
   "tracker": {
     "select": {
       "event_name": "イベント名",
@@ -38,12 +40,32 @@
       "graph": "グラフを読み込む",
       "random-palette": "パレットをランダム生成"
     },
+    "pred_at": "予測の更新時間",
+    "show_all_rank": "細かいランキングを表示する",
+    "time_travel_enabled": "過去のデータを見る",
+    "tooltip": {
+      "get_prediction": "予測はイベント開始から24時間後にのみ利用可能です。"
+    },
+    "checkbox": {
+      "get_prediction": "フェッチ予測"
+    },
     "title": {
       "data_graph": "イベントポイントグラフ",
       "average_speed": "平均速度"
     }
   },
   "ranking": "ランキング",
+  "realtime": "更新時間",
+  "nextfetch": "次の取得",
+  "rankingTable": {
+    "head": {
+      "userProfile": "ユーザー",
+      "score": "ポイント",
+      "speed_per_hour": "ポイント獲得量(ポイント/1時間)",
+      "prediction": "予測"
+    }
+  },
+  "no_enough_data": "データ不足",
   "speedTable": {
     "head": {
       "all_time": "全期間(一時間ごと)",
@@ -51,17 +73,11 @@
       "last_1h": "終了前の1時間(時間毎)"
     }
   },
-  "realtime": "更新時間",
-  "nextfetch": "次の取得",
-  "rankingTable": {
-    "head": {
-      "userProfile": "ユーザー",
-      "score": "ポイント"
-    }
-  },
+  "distributionEndAt": "報酬受け取り期限",
   "aggregateAt": "集計開始時間",
   "alreadyPast": "経過時間",
   "type": {
-    "marathon": "マラソン"
+    "marathon": "マラソン",
+    "cheerful_carnival": "チアフルカーニバル"
   }
 }
