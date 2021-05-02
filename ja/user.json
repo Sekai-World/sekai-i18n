@@ -1,13 +1,104 @@
 {
   "profile": {
+    "title": {
+      "user_event": "Sekaiイベントデータ",
+      "user_deck": "現在のSekaiチーム",
+      "sekai_profile": "Sekaiプロフィール",
+      "sekai_cards_teams": "Sekaiカードとチーム",
+      "card_list": "Sekaiカード",
+      "import_card": "Sekaiカードをインポートする",
+      "manage_teams": "チーム管理",
+      "user_statistics": "Sekai統計"
+    },
+    "event": {
+      "current_record_info": "前回の記録",
+      "current_record_point": "イベントポイント:",
+      "current_record_rank": "イベントのランキング",
+      "current_record_time": "記録時間",
+      "current_name": "現在のイベント:"
+    },
+    "label": {
+      "update_left": "使用された更新の数： {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "未検証",
+      "sekai_user_id": "SekaiユーザーID",
+      "sekai_id_verify_token": "称号",
+      "sekai_user_name": "名前",
+      "sekai_user_rank": "ランク",
+      "sekai_user_word": "紹介文",
+      "sekai_id_verify": "確認",
+      "sekai_id_verify_step_1_title": "プロフィールを開く",
+      "sekai_id_verify_step_1_subtitle": "右上のボタンから\"メニュー\" (1) を開き、\"称号 & プロフィール\" (2) のボタンを押してください",
+      "sekai_id_verify_step_2_title": "称号を書き込んで保存",
+      "sekai_id_verify_step_2_subtitle": "確認トークン{{verify_token}}をテキストボックスに書き込み（1）、「戻る」ボタン（2）をタップして保存します。 その後、「確認」ボタンをタップします。",
+      "sekai_user_music_not_found": "ユーザーの楽曲記録が見つかりません。"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "マスターランク",
+          "cropped_image": "ソース",
+          "best_match": "一致",
+          "card_states": "カードの状態",
+          "other_possible_result": "その他の一致",
+          "card_power": "総合力",
+          "card_training_status": "特訓済み"
+        }
+      },
+      "submit_success": "カードが保存/更新されました。",
+      "submit_error": "カードが保存できませんでした",
+      "import_button": "インポート",
+      "enable_ocr_tooltip": "可能なら、Lv (レベル)ごとに小分けしたスクリーンショットをアップロードしてください。\nカードのレベルとマスターランクを認識するためにTesseractというソフトウェアを用います。この工程には少し時間がかかります。\n特訓の有無はサムネイル画像から取得されます。正しい画像をお使いください。",
+      "enable_ocr": "カードのデータを認識",
+      "wrong_result": "違うカードですか？",
+      "help": {
+        "step1": {
+          "title": "ステップ1、スクリーンショットを取ってください",
+          "subtitle": "スクリーンショットをボックス内に入れたら、総合力の代わりに、\"LvXX\"のように表示されているのを確認してください。(表示は数値だけです)"
+        },
+        "step2": {
+          "title": "ステップ2、スクリーンショットをアップロードしてください。",
+          "subtitle": "1：スクリーンショットをクリックして選んでください。\n2：カードのレベルとマスターランクを試験的に認識します。(Tesseract)"
+        },
+        "step3": {
+          "title": "ステップ3：結果を確認してください。",
+          "subtitle": "1：スクリーンショットからトリミングされたカードのサムネイル画像\n2：類似度を%で表した、もっとも合致するサムネイル画像\n3：サイドストーリーは全て解放されている設定になっています。もし違う場合は忘れずにオフにしてください。\n4：認識されたカードを保存してください。\n5：もしカードが間違って認識されていれば、クリックで取り消してください。"
+        },
+        "step4": {
+          "title": "付録：結果を変更する",
+          "subtitle": "このダイアログは、一致したカードのサムネイルをクリックした場合に表示されます（ステップ3の番号5の赤い四角）。 \n1：このカードの他の可能な一致を表示します。 \n2：このカードが必要ない場合は、リストから削除できます。"
+        }
+      }
+    },
+    "upload_avatar": "アバターをアップロード",
     "username": "ユーザー名",
     "nickname": "表示するユーザー名",
+    "role": "役職",
     "email": "Eメール",
-    "email_confirmed": "メールアドレスが確認されました",
-    "sekai_id": "SekaiユーザーID",
     "button": {
-      "bind_sekai_id": "bind"
+      "show_email": "表示",
+      "update_sekai_profile": "Sekaiプロフィールを更新",
+      "bind_sekai_id": "bind",
+      "verify_sekai_id": "確認"
     },
+    "email_confirmed": "メールアドレスが確認されました",
+    "upload_avatar_error": "アバターのアップロードに失敗しました",
+    "error": {
+      "sekai_id_already_bind": "Sekai IDはすでに別のユーザーにバインドされています。",
+      "sekai_id_verify_failed": "所有権の確認に失敗しました。プロファイルパネルを残して保存しましたか？"
+    },
+    "card_list": {
+      "submit_success": "カード情報を更新しました。",
+      "submit_error": "カード情報の更新に失敗しました。",
+      "button": {
+        "add_card": "カードを追加"
+      }
+    },
+    "statistics": {
+      "clear_count": "クリアの数",
+      "full_combo_count": "Full Comboの数",
+      "all_perfect_count": "All Perfectの数"
+    },
+    "sekai_id": "SekaiユーザーID",
     "email_confirmed_status": {
       "true": "yes",
       "false": "no"
