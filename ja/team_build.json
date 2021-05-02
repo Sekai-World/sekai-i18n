@@ -1,0 +1,26 @@
+{
+  "button": {
+    "calc_total_power": "総合力を取得"
+  },
+  "auto_calc_bonus": "Sekaiプロフィールを使う",
+  "use_sekai_card_state": "Sekaiカードの状態を使う",
+  "saveTeamDialog": {
+    "title": "編成を保存",
+    "desc": "新規編成を保存、既存の編成を置き換えます。 "
+  },
+  "storage_location": {
+    "label": "保存場所",
+    "local": "端末",
+    "cloud": "クラウド"
+  },
+  "storage_space": "空きスペース",
+  "noTeams": "保存した編成はありません。",
+  "saveNewEntry": "新規編成を保存",
+  "loadTeamDialog": {
+    "title": "編成読み込み",
+    "desc": "保存した編成から読み込む"
+  },
+  "error": {
+    "save_team_failed": "チーム情報の保存に失敗しました。繰り返し表示される場合は、バグの可能性があります。"
+  }
+}
