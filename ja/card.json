@@ -5,6 +5,7 @@
     "title[2]": "特訓後画像",
     "title[3]": "特訓後画像(背景なし)"
   },
+  "gachaPhrase": "演出セリフ",
   "skillLevel": "スキルレベル",
   "skillName": "スキル名",
   "skillEffect": "スキル効果",
@@ -18,6 +19,6 @@
   "sideStory_plural": "サイドストーリー",
   "rarity": "レアリティ",
   "power": "総合力",
-  "skill": "スキル",
-  "apply_event_filter": "イベントボーナスを適用する"
+  "apply_event_filter": "イベントボーナスを適用する",
+  "skill": "スキル"
 }
