@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "ソース",
+      "target": "目的"
+    },
+    "source_lang": "ソース元の言語",
+    "announcement": {
+      "source_title": "ソース元のタイトル",
+      "source_desc": "ソース元の説明",
+      "target_title": "目的のタイトル",
+      "target_desc": "目的の説明"
+    },
+    "target_lang": "目的の言語",
+    "button": {
+      "copy_source": "ソース文字列をコピー"
+    },
+    "target_contributors": "コントリビューター",
+    "dialog": {
+      "copy_source": {
+        "title": "ソース文字列をコピー",
+        "text": "すべてのソース文字列を翻訳エリアにコピーします。翻訳エリアで送信されていない翻訳はすべて失われます。",
+        "confirm": "確認",
+        "cancel": "キャンセル"
+      }
+    },
+    "submit-status": {
+      "success": "成功",
+      "failed": "失敗"
+    }
+  },
+  "button": {
+    "mark_unfinished": "\"進行中\"にする",
+    "mark_finished": "\"翻訳済み\"にする",
+    "continue_translate": "作業を続ける",
+    "start_translate": "翻訳を始める"
+  },
+  "status": {
+    "finished": "翻訳済み",
+    "inprogress": "進行中"
+  },
+  "error": {
+    "lang_mismatch": "言語が合っていません"
+  },
+  "title": {
+    "my_works": "既存の翻訳",
+    "available_contents": "翻訳可能なコンテンツ"
+  }
+}
