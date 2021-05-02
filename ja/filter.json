@@ -1,4 +1,10 @@
 {
+  "skill": {
+    "score_up": "スコア上昇",
+    "judgment_up": "判定・スコア上昇",
+    "life_recovery": "ライフ回復・スコア上昇",
+    "perfect_score_up": "パーフェクト時のみスコア上昇"
+  },
   "character": {
     "caption": "キャラクター"
   },
@@ -7,10 +13,29 @@
     "ascending": "昇順",
     "descending": "降順"
   },
+  "honorType": {
+    "caption": "称号タイプ",
+    "group_only_once": "各グループで一つだけ表示"
+  },
+  "not_set": "設定されていません",
   "missionType": {
     "caption": "ミッション種類"
   },
   "music_tag": {
     "caption": "楽曲タグ"
+  },
+  "music_mv": {
+    "caption": "MVの種類"
+  },
+  "not-selected": "選択されていません",
+  "stampType": {
+    "caption": "スタンプタイプ",
+    "text": "テキストのみ",
+    "illustration": "イラスト付き"
+  },
+  "language": {
+    "caption": "言語",
+    "source": "ソース元の言語",
+    "target": "目的の言語"
   }
 }
