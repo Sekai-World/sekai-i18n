@@ -10,6 +10,7 @@
   "progress": "Progression",
   "title": {
     "boost": "Boost",
+    "cheerful_carnival": "Joyeux carnaval",
     "timepoint": "Points de temps",
     "rankingRewards": "Récompenses de classement"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Boost max (lorsque les deux correspondent)",
   "boostCards": "Cartes favorisées",
   "eventCards": "Cartes d'événement",
+  "cheerful_carnival_midterm_1": "Premier rapport de mi-parcours",
+  "cheerful_carnival_midterm_2": "Deuxième rapport de mi-parcours",
   "startAt": "Commence le",
   "closeAt": "Se termine le",
   "endAt": "Disponible jusqu'au",
   "rankingAnnounceAt": "Annonce du classement",
   "distributionStartAt": "Distribution des récompenses",
-  "distributionEndAt": "Fin de la distribution des récompenses",
   "rankingReward": {
     "start": "De",
     "end": "À"
@@ -71,6 +73,7 @@
       "last_1h": "Dernière heure (par heure)"
     }
   },
+  "distributionEndAt": "Fin de la distribution des récompenses",
   "aggregateAt": "Fin de l'événement",
   "alreadyPast": "Déjà passé",
   "type": {
