@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Données sur l'événement",
       "user_deck": "Équipe actuelle",
       "sekai_profile": "Profil Sekai",
-      "user_event": "Données sur l'événement",
-      "user_statistics": "Statistiques",
+      "sekai_cards_teams": "Cartes et équipes",
       "card_list": "Cartes",
       "import_card": "Importer les cartes",
-      "manage_teams": "Gérer les équipes"
+      "manage_teams": "Gérer les équipes",
+      "user_statistics": "Statistiques"
+    },
+    "event": {
+      "current_record_info": "Dernier enregistrement :",
+      "current_record_point": "Points d'événement :",
+      "current_record_rank": "Classement dans l'événement :",
+      "current_record_time": "Dernière actualisation :",
+      "current_name": "Événement en cours :"
+    },
+    "label": {
+      "update_left": "Nombre d'actualisation utilisé : {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Non vérifié",
+      "sekai_user_id": "Utilisateur Sekai ID",
+      "sekai_id_verify_token": "Code",
+      "sekai_user_name": "Nom",
+      "sekai_user_rank": "Rang",
+      "sekai_user_word": "Introduction",
+      "sekai_id_verify": "Vérifier",
+      "sekai_id_verify_step_1_title": "Ouvrir le profil",
+      "sekai_id_verify_step_1_subtitle": "Appuyez sur le bouton « Menu » (1) dans le coin supérieur droit, puis sur le bouton « 称号 & プロフィール » (2)",
+      "sekai_id_verify_step_2_title": "Écrire le code et sauvegarder",
+      "sekai_id_verify_step_2_subtitle": "Inscrivez votre code de vérification {{verify_token}} dans la zone de texte (1), puis appuyez sur le bouton « Retour » (2) pour sauvegarder. Ensuite, cliquez/appuyez sur le bouton « VÉRIFIER ».",
+      "sekai_user_music_not_found": "Le rapport de musique de l'utilisateur n'a pas été trouvé."
     },
     "import_card": {
       "table": {
@@ -59,27 +82,6 @@
     },
     "email_confirmed": "Email confirmé",
     "upload_avatar_error": "Échec du chargement de l'avatar !",
-    "event": {
-      "current_name": "Événement en cours :",
-      "current_record_info": "Dernier enregistrement :",
-      "current_record_point": "Points d'événement :",
-      "current_record_rank": "Classement dans l'événement :",
-      "current_record_time": "Dernière actualisation :"
-    },
-    "label": {
-      "update_left": "Nombre d'actualisation utilisé : {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Non vérifié",
-      "sekai_user_id": "Utilisateur Sekai ID",
-      "sekai_id_verify_token": "Code",
-      "sekai_user_name": "Nom",
-      "sekai_user_rank": "Rang",
-      "sekai_user_word": "Introduction",
-      "sekai_id_verify": "Vérifier",
-      "sekai_id_verify_step_1_title": "Ouvrir le profil",
-      "sekai_id_verify_step_1_subtitle": "Appuyez sur le bouton « Menu » (1) dans le coin supérieur droit, puis sur le bouton « 称号 & プロフィール » (2)",
-      "sekai_id_verify_step_2_title": "Écrire le code et sauvegarder",
-      "sekai_id_verify_step_2_subtitle": "Inscrivez votre code de vérification {{verify_token}} dans la zone de texte (1), puis appuyez sur le bouton « Retour » (2) pour sauvegarder. Ensuite, cliquez/appuyez sur le bouton « VÉRIFIER »."
-    },
     "error": {
       "sekai_id_already_bind": "Le Sekai ID est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification. Avez-vous quitté le menu de profil du jeu pour sauvegarder ?"
