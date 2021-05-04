@@ -27,6 +27,7 @@
   "music_mv": {
     "caption": "Type de MV"
   },
+  "not-selected": "Pas sélectionné",
   "stampType": {
     "caption": "Type de tampon",
     "text": "Texte uniquement",
