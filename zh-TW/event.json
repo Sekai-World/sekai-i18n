@@ -62,7 +62,7 @@
       "userProfile": "用戶",
       "score": "活動Pt",
       "speed_per_hour": "平均速度（每小時）",
-      "prediction": "預計"
+      "prediction": "預計活動pt"
     }
   },
   "no_enough_data": "沒有足夠的數據。",
