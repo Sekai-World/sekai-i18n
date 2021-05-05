@@ -44,7 +44,7 @@
     "show_all_rank": "顯示所有排名",
     "time_travel_enabled": "查看過去數據",
     "tooltip": {
-      "get_prediction": "預測分數只會在活動開始24小時後才提供。"
+      "get_prediction": "預測活動pt只會在活動開始24小時後才提供。"
     },
     "checkbox": {
       "get_prediction": "獲取預計分數"
