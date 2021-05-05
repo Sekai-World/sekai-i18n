@@ -3,13 +3,13 @@
   "buildTeam": {
     "label": "Build Team",
     "desc": "Build your team for Song Recommender",
+    "duplicatedCardError": "Can't add same card to one team.",
+    "cardMaxError": "There are already enough cards.",
     "addCard": "Add Card",
     "saveTeam": "Save Team",
     "loadTeam": "Load Team",
     "clearTeam": "Clear Team",
     "teamPower": "Team Power",
-    "duplicatedCardError": "Can't add same card to one team.",
-    "cardMaxError": "There are already enough cards.",
     "loadTeamError": "Check your input.",
     "teamTextCopied": "Team text copied to clipboard.",
     "teamTextSaved": ""

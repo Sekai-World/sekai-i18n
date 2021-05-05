@@ -1,4 +1,7 @@
 {
+  "error": {
+    "save_team_failed": "Failed to save team. If it happens too often, it could be a bug."
+  },
   "button": {
     "calc_total_power": "Get Total Power"
   },
@@ -19,8 +22,5 @@
   "loadTeamDialog": {
     "title": "Load Team",
     "desc": "Load team from saved team entries."
-  },
-  "error": {
-    "save_team_failed": "Failed to save team. If it happens too often, it could be a bug."
   }
 }

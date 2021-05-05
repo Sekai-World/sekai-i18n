@@ -24,6 +24,7 @@
   "musicRecommend": "Song Recommender",
   "eventCalc": "Event Planner",
   "storyReader": "Story Reader",
+  "text": "Text",
   "eventTracker": "Event Tracker",
   "eventAnalyzer": "Event Analyzer",
   "support": "Support",
@@ -100,9 +101,9 @@
   "save": "Save",
   "help": "Help",
   "close": "Close",
-  "hide": "Hide",
   "area_item": "Area Item",
   "signup": "Sign Up",
+  "hide": "Hide",
   "detect": {
     "checking": "Checking...",
     "unsupported": "Unsupported",
