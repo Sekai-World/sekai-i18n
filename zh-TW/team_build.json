@@ -5,7 +5,7 @@
   "auto_calc_bonus": "使用遊戲個人檔案",
   "use_sekai_card_state": "使用已保存的遊戲卡牌狀態",
   "saveTeamDialog": {
-    "title": "儲存隊伍",
+    "title": "保存隊伍",
     "desc": "保存新的隊伍或替換現有的隊伍。"
   },
   "storage_location": {
