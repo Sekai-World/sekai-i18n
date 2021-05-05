@@ -2,7 +2,7 @@
   "category": "類別",
   "published_at": "發表於",
   "translators": "翻譯者",
-  "fetch_error": "提取數據時發生錯誤。",
+  "fetch_error": "獲取數據時發生錯誤。",
   "no_entry": "沒有條目。",
   "title": "標題",
   "language": "語言",
