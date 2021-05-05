@@ -37,7 +37,7 @@
     },
     "button": {
       "curr_event": "當前活動",
-      "graph": "生成圖表",
+      "graph": "獲取圖表",
       "random-palette": "隨機顏色"
     },
     "pred_at": "預計分數的生成時間",
