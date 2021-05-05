@@ -40,7 +40,7 @@
       "graph": "獲取圖表",
       "random-palette": "隨機顏色"
     },
-    "pred_at": "預計分數的生成時間",
+    "pred_at": "預計活動pt的生成時間",
     "show_all_rank": "顯示所有排名",
     "time_travel_enabled": "查看過去數據",
     "tooltip": {
