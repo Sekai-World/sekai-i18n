@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "無法上傳頭像！",
     "upload_avatar": "上傳頭像",
     "username": "用戶名",
     "nickname": "顯示用戶名",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "驗證"
     },
     "email_confirmed": "己確認電子郵件",
-    "upload_avatar_error": "無法上傳頭像！",
     "error": {
+      "sekai_id_malformed": "遊戲ID是一組16位數字，和你的好友代碼相同。",
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
       "sekai_id_verify_failed": "無法驗證所有者，你是否忘記了離開資料界面以保存？"
     },
