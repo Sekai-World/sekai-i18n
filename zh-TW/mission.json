@@ -1,6 +1,6 @@
 {
   "select": {
-    "charaName": "角色名字"
+    "charaName": "角色姓名"
   },
   "type": {
     "caption": "目標類型",
