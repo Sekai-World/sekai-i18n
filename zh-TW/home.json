@@ -13,7 +13,7 @@
     "title": "遊戲通知"
   },
   "happy_new_year": "🎊新年快樂！🎉",
-  "alert_settings": "使用右上角的 <s /> 切換語言和亮度模式。",
+  "alert_settings": "使用右上角的 <s /> 來切換語言、亮度模式及其他選項。",
   "detect": {
     "warning": "在兼容模式中運行可能會導致卡頓問題，可以考慮更新您的瀏覽器或iOS/macOS版本。 <br>更多資訊：<l>Can I Use - WebP image format</l>",
     "failed": "非常不幸的，你無法讀取大多數的圖片。請更新你的瀏覽器或iOS/macOS 的版本。補償方案即將上線。<br>更多資訊：<l>Can I Use - WebP image format</l>",
