@@ -1,7 +1,7 @@
 {
   "songSelect": {
     "label": "選擇樂曲",
-    "desc": "請選擇要計算的歌曲。",
+    "desc": "請選擇要計算的樂曲。",
     "select": {
       "song": "樂曲",
       "difficulty": "難度"
