@@ -1,6 +1,6 @@
 {
   "songSelect": {
-    "label": "選擇歌曲",
+    "label": "選擇樂曲",
     "desc": "請選擇要計算的歌曲。",
     "select": {
       "song": "樂曲",
