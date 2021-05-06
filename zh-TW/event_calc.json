@@ -16,7 +16,7 @@
     "remainingTime": "活動剩餘時間",
     "eventBonusRate": "活動pt獎勵(％)"
   },
-  "assumption": "以AP,隊友有相同總合力作計算",
+  "assumption": "以AP，在協力模式下全部隊友有相同隊伍，且不考慮升等能量作計算。",
   "result": {
     "eventPointPerPlay": "活動pt/局數",
     "playClount": "所需的總局數",
