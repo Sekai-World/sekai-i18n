@@ -16,6 +16,10 @@
       "copy_source": "複製原文代碼"
     },
     "target_contributors": "貢獻者",
+    "submit-status": {
+      "success": "成功",
+      "failed": "失敗"
+    },
     "dialog": {
       "copy_source": {
         "title": "複製原文代碼",
@@ -23,15 +27,11 @@
         "confirm": "確認",
         "cancel": "取消"
       }
-    },
-    "submit-status": {
-      "success": "成功",
-      "failed": "失敗"
     }
   },
   "button": {
     "mark_unfinished": "標記為翻譯中",
-    "mark_finished": "標記為完成",
+    "mark_finished": "標記為已完成",
     "continue_translate": "繼續翻譯",
     "start_translate": "開始翻譯"
   },
