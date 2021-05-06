@@ -24,6 +24,7 @@
   "musicRecommend": "Pengesyoran Lagu",
   "eventCalc": "Perancang Acara",
   "storyReader": "Pembaca Cerita",
+  "text": "Teks",
   "eventTracker": "Penjejak Acara",
   "eventAnalyzer": "Penganalisis Acara",
   "support": "Sokongan",
@@ -100,9 +101,9 @@
   "save": "Simpan",
   "help": "Bantuan",
   "close": "Tutup",
-  "hide": "Sembunyikan",
   "area_item": "Item Kawasan",
   "signup": "Daftar",
+  "hide": "Sembunyikan",
   "detect": {
     "checking": "Memeriksa...",
     "unsupported": "Tidak Disokong",
