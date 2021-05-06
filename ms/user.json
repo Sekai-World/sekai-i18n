@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Gagal memuat naik avatar!",
     "upload_avatar": "Muat Naik Avatar",
     "username": "Nama Pengguna",
     "nickname": "Nama Paparan",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "Sahkan"
     },
     "email_confirmed": "E-mel Disahkan",
-    "upload_avatar_error": "Gagal memuat naik avatar!",
     "error": {
+      "sekai_id_malformed": "ID Sekai ialah nombor 16 digit, sama seperti kod kawan anda.",
       "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
       "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
     },
