@@ -2,7 +2,7 @@
   "vocal": "演唱者",
   "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "vocalTab": {
-    "title[0]": "Short version",
+    "title[0]": "預覽版本",
     "title[1]": "Long version",
     "title[2]": "Music video"
   },
