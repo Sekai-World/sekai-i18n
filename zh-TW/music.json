@@ -1,6 +1,6 @@
 {
   "vocal": "演唱者",
-  "alert[0]": "每首歌曲的<b>前九秒</b>是無聲的。這不是Bug！",
+  "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "vocalTab": {
     "title[0]": "Short version",
     "title[1]": "Long version",
@@ -17,7 +17,6 @@
   "lyricist": "作詞",
   "danceMember": "舞蹈成員",
   "danceMember_plural": "舞蹈成員",
-  "dancerCount": "舞蹈人員數量",
   "vocal_plural": "演唱者",
   "vocalType": "演唱者類型",
   "achievement": "目標",
@@ -41,6 +40,7 @@
   "hi_score": "最高分數",
   "mvp_count": "MVP次數",
   "super_star_count": "Super Star次數",
+  "dancerCount": "舞蹈人員數量",
   "combo": "Combos",
   "preview": "預覽",
   "categoryType": {
