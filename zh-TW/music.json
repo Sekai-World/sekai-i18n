@@ -3,7 +3,7 @@
   "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "vocalTab": {
     "title[0]": "預覽版本",
-    "title[1]": "Long version",
+    "title[1]": "完整版本",
     "title[2]": "Music video"
   },
   "skipBeginningSilence": "跳過開頭的無聲段",
