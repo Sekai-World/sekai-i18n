@@ -6,7 +6,7 @@
     "title[1]": "完整版本",
     "title[2]": "2DMV"
   },
-  "skipBeginningSilence": "跳過開頭的無聲段",
+  "skipBeginningSilence": "跳過前面的無聲段",
   "tag": "標籤",
   "tag_plural": "標籤",
   "category": "類別",
