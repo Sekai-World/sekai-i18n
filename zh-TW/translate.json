@@ -36,7 +36,7 @@
     "start_translate": "開始翻譯"
   },
   "status": {
-    "finished": "完成",
+    "finished": "已完成",
     "inprogress": "翻譯中"
   },
   "error": {
