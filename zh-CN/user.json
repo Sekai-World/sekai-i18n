@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "上传头像失败",
     "upload_avatar": "上传头像",
     "username": "用户名",
     "nickname": "显示名",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "验证"
     },
     "email_confirmed": "邮箱地址已验证",
-    "upload_avatar_error": "上传头像失败",
     "error": {
+      "sekai_id_malformed": "Sekai ID就是你的好友代码的16位数字",
       "sekai_id_already_bind": "Sekai ID已经绑定到其他账户",
       "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？"
     },
