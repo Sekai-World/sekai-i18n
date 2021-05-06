@@ -17,7 +17,7 @@
   "detect": {
     "warning": "在兼容模式中運行可能會導致卡頓問題，建議你考慮更新瀏覽器或iOS/macOS版本。 <br>更多資訊：<l>Can I Use - WebP image format</l>",
     "failed": "非常不幸地，你無法讀取大多數的圖片。請更新你的瀏覽器或iOS/macOS的版本。補償方案即將上線。<br>更多資訊：<l>Can I Use - WebP image format</l>",
-    "success": "恭喜！你的瀏覽器看起來很現代，您可以更快地加載圖像並節省流量。"
+    "success": "恭喜！你的瀏覽器看起來很現代，您可以更快地載入圖片並節省流量。"
   },
   "directLink": {
     "caption": "捷徑",
