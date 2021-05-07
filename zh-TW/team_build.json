@@ -1,6 +1,9 @@
 {
+  "error": {
+    "save_team_failed": "無法保存隊伍。此情況經常出現時有可能是由系統錯誤導致。"
+  },
   "button": {
-    "calc_total_power": "獲取總合力數據"
+    "calc_total_power": "獲取綜合力數據"
   },
   "auto_calc_bonus": "使用遊戲個人檔案",
   "use_sekai_card_state": "使用已保存的遊戲卡牌狀態",
@@ -19,8 +22,5 @@
   "loadTeamDialog": {
     "title": "載入隊伍",
     "desc": "載入已保存的隊伍。"
-  },
-  "error": {
-    "save_team_failed": "無法保存隊伍。此情況經常出現時有可能是由系統錯誤導致。"
   }
 }
