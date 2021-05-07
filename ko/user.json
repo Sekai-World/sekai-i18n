@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
     "upload_avatar": "프로필사진 업로드",
     "username": "ID",
     "nickname": "닉네임",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "인증"
     },
     "email_confirmed": "확인된 E-mail",
-    "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
     "error": {
+      "sekai_id_malformed": "세카이 ID는 16자리의 숫자로, 당신의 친구 코드와 같습니다.",
       "sekai_id_already_bind": "이미 다른 사용자가 사용중인 Sekai ID 입니다.",
       "sekai_id_verify_failed": "소유권 인증에 실패했습니다. 프로필 패널을 저장하기 위해 창을 닫았나요?"
     },
