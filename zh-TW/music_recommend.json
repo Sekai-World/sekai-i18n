@@ -34,7 +34,7 @@
   "teamCode": "隊伍代碼",
   "loadTeamDialog": {
     "title": "載入隊伍",
-    "desc": "貼上已保存的隊伍代碼以載入"
+    "desc": "貼上並載入已保存的隊伍代碼。"
   },
   "songSelect": {
     "label": "選擇樂曲",
