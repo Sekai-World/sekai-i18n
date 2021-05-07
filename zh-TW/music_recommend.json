@@ -33,7 +33,7 @@
   },
   "teamCode": "隊伍代碼",
   "loadTeamDialog": {
-    "title": "存取隊伍",
+    "title": "載入隊伍",
     "desc": "貼上已保存的隊伍代碼以載入"
   },
   "songSelect": {
