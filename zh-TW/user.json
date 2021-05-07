@@ -49,7 +49,7 @@
       "import_button": "滙入",
       "enable_ocr_tooltip": "請上載根據等級排列的卡牌列表截圖，系統會使用Tesseract去辨認卡牌等級及突破等級，所以需要使用一定時間。\n特訓與否以卡片縮圖作判斷，請確保使用正確的卡片縮圖。",
       "enable_ocr": "辨認卡牌數值",
-      "wrong_result": "辨認到錯誤的卡牌？",
+      "wrong_result": "辨認到錯誤的卡片？",
       "help": {
         "step1": {
           "title": "步驟1：截圖",
