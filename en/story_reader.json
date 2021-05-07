@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "Story Type",
-    "unitName": "Unit Name",
-    "unitStoryChapter": "Chapter",
-    "unitStoryEpisode": "Episode",
-    "eventName": "Event Name",
-    "eventStoryEpisode": "Episode",
-    "charaName": "Character Name",
-    "cardName": "Card Name",
-    "cardStoryEpisode": "Episode"
-  },
   "selectValue": {
     "eventStory": "Event Stories",
     "unitStory": "Unit Stories",
     "charaStory": "Character Stories",
-    "cardStory": "Card Stories"
-  },
-  "buttonLabel": {
-    "showEpisode": "Load Story Episode"
+    "cardStory": "Card Stories",
+    "areaTalk": "Map Talk",
+    "liveTalk": "Live Talk"
   },
   "snippet": {
     "FullScreenText": "Full Screen Text",
@@ -29,5 +17,19 @@
     "BGM": "Background Music",
     "SE": "Sound Effect",
     "NoSound": "No Sound"
+  },
+  "selectLabel": {
+    "storyType": "Story Type",
+    "unitName": "Unit Name",
+    "unitStoryChapter": "Chapter",
+    "unitStoryEpisode": "Episode",
+    "eventName": "Event Name",
+    "eventStoryEpisode": "Episode",
+    "charaName": "Character Name",
+    "cardName": "Card Name",
+    "cardStoryEpisode": "Episode"
+  },
+  "buttonLabel": {
+    "showEpisode": "Load Story Episode"
   }
 }
