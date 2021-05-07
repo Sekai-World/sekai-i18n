@@ -10,7 +10,7 @@
     "loadTeam": "載入隊伍",
     "clearTeam": "清除隊伍",
     "teamPower": "隊伍總合力",
-    "loadTeamError": "請檢查你是否正確輸入",
+    "loadTeamError": "請檢查你是否正確輸入內容。",
     "teamTextCopied": "隊伍代碼已複制至剪貼頁"},
   "result": {
     "label": "結果",
