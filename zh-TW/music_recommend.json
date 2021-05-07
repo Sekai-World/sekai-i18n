@@ -21,7 +21,7 @@
     "label": "選擇模式",
     "desc": "選擇歌曲推薦器運行模式"
   },
-  "assumption": "以AP,0%活動加成,0火,隊友有相同總合力作計算",
+  "assumption": "以AP丶0%活動加成丶不使用回復能量道具丶在協力模式所有隊友有相同隊伍作計算。",
   "addCardDialog": {
     "title": "新增卡片",
     "selectChara": "角色",
