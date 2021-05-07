@@ -91,7 +91,7 @@
       "submit_success": "已經更新卡牌列表。",
       "submit_error": "無法更新卡牌列表。",
       "button": {
-        "add_card": "加入卡牌"
+        "add_card": "加入卡片"
       }
     },
     "statistics": {
