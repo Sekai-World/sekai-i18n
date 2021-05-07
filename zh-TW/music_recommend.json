@@ -4,7 +4,7 @@
     "label": "輸入隊伍",
     "desc": "在歌曲推薦器中輸入隊伍",
     "duplicatedCardError": "不可增加已有的卡片到同一個隊伍",
-    "cardMaxError": "已經有足夠的卡",
+    "cardMaxError": "已經有足夠數量的的卡片",
     "addCard": "加入卡片",
     "saveTeam": "儲存隊伍",
     "loadTeam": "加載隊伍",
