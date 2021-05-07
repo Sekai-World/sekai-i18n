@@ -81,7 +81,7 @@
       "bind_sekai_id": "綁定",
       "verify_sekai_id": "驗證"
     },
-    "email_confirmed": "己確認電子郵件",
+    "email_confirmed": "已確認電子郵件",
     "error": {
       "sekai_id_malformed": "遊戲ID是一組16位數字，和你的好友代碼相同。",
       "sekai_id_already_bind": "遊戲ID已經綁定另一位用戶。",
