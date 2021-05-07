@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "Jenis Cerita",
-    "unitName": "Nama Unit",
-    "unitStoryChapter": "Bab",
-    "unitStoryEpisode": "Episod",
-    "eventName": "Nama Acara",
-    "eventStoryEpisode": "Episod",
-    "charaName": "Nama Watak",
-    "cardName": "Nama Kad",
-    "cardStoryEpisode": "Episod"
-  },
   "selectValue": {
     "eventStory": "Cerita Acara",
     "unitStory": "Cerita Unit",
     "charaStory": "Cerita Watak",
-    "cardStory": "Cerita Kad"
-  },
-  "buttonLabel": {
-    "showEpisode": "Muatkan Episod Cerita"
+    "cardStory": "Cerita Kad",
+    "areaTalk": "Sembang Peta",
+    "liveTalk": "Sembang Persembahan"
   },
   "snippet": {
     "FullScreenText": "Tulisan Skrin Penuh",
@@ -29,5 +17,19 @@
     "BGM": "Muzik Latar",
     "SE": "Kesan Bunyi",
     "NoSound": "Tiada Bunyi"
+  },
+  "selectLabel": {
+    "storyType": "Jenis Cerita",
+    "unitName": "Nama Unit",
+    "unitStoryChapter": "Bab",
+    "unitStoryEpisode": "Episod",
+    "eventName": "Nama Acara",
+    "eventStoryEpisode": "Episod",
+    "charaName": "Nama Watak",
+    "cardName": "Nama Kad",
+    "cardStoryEpisode": "Episod"
+  },
+  "buttonLabel": {
+    "showEpisode": "Muatkan Episod Cerita"
   }
 }
