@@ -29,7 +29,7 @@
   },
   "saveTeamDialog": {
     "title": "保存隊伍",
-    "desc": "保存隊伍代碼以後再用"
+    "desc": "保存隊伍代碼以後再用。"
   },
   "teamCode": "隊伍代碼",
   "loadTeamDialog": {
