@@ -89,7 +89,7 @@
     },
     "card_list": {
       "submit_success": "已經更新卡牌列表。",
-      "submit_error": "無法更新卡牌列表。",
+      "submit_error": "無法更新卡片列表。",
       "button": {
         "add_card": "加入卡片"
       }
