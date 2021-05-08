@@ -24,6 +24,7 @@
   "musicRecommend": "リザルト計算機",
   "eventCalc": "イベント計画",
   "storyReader": "ストーリー",
+  "text": "テキストのみ",
   "eventTracker": "イベントトラッカー",
   "eventAnalyzer": "イベントアナライザー",
   "support": "サポート",
@@ -87,7 +88,7 @@
     "translated": "可能なら翻訳",
     "both": "両方表示"
   },
-  "spoilerContent": "ネタバレコンテンツ",
+  "spoilerContent": "ネタバレを扱っている内容",
   "spoiler": "ネタバレ",
   "all": "全てのキャラ",
   "search": "検索",
@@ -100,9 +101,9 @@
   "save": "保存",
   "help": "ヘルプ",
   "close": "閉じる",
-  "hide": "隠す",
   "area_item": "エリアアイテム",
   "signup": "登録",
+  "hide": "隠す",
   "detect": {
     "checking": "確認しています...",
     "unsupported": "サポートされていません",
