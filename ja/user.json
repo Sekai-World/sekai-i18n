@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "アバターのアップロードに失敗しました",
     "upload_avatar": "アバターをアップロード",
     "username": "ユーザー名",
     "nickname": "表示するユーザー名",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "確認"
     },
     "email_confirmed": "メールアドレスが確認されました",
-    "upload_avatar_error": "アバターのアップロードに失敗しました",
     "error": {
+      "sekai_id_malformed": "Sekai IDは16桁の数字で、友達のコードと同じです。",
       "sekai_id_already_bind": "Sekai IDはすでに別のユーザーにバインドされています。",
       "sekai_id_verify_failed": "所有権の確認に失敗しました。プロファイルパネルを残して保存しましたか？"
     },
