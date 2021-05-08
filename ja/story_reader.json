@@ -1,4 +1,23 @@
 {
+  "selectValue": {
+    "eventStory": "イベントストーリー",
+    "unitStory": "ユニットストーリー",
+    "charaStory": "キャラクター紹介",
+    "cardStory": "サイドストーリー",
+    "areaTalk": "マップの会話",
+    "liveTalk": "バーチャルライブの会話"
+  },
+  "snippet": {
+    "FullScreenText": "フルスクリーン",
+    "Telop": "字幕",
+    "ChangeBackground": "背景切り替え",
+    "ShowBackground": "背景画像を表示",
+    "Movie": "映像",
+    "ShowMovie": "再生",
+    "BGM": "BGM",
+    "SE": "効果音",
+    "NoSound": "サウンドなし"
+  },
   "selectLabel": {
     "storyType": "ストーリータイプ",
     "unitName": "ユニット名",
@@ -10,24 +29,7 @@
     "cardName": "カード名",
     "cardStoryEpisode": "エピソード"
   },
-  "selectValue": {
-    "eventStory": "イベントストーリー",
-    "unitStory": "ユニットストーリー",
-    "charaStory": "キャラクター紹介",
-    "cardStory": "サイドストーリー"
-  },
   "buttonLabel": {
     "showEpisode": "ストーリーを読み込む"
-  },
-  "snippet": {
-    "FullScreenText": "フルスクリーン",
-    "Telop": "キャプション",
-    "ChangeBackground": "背景切り替え",
-    "ShowBackground": "背景画像を表示",
-    "Movie": "映像",
-    "ShowMovie": "再生",
-    "BGM": "BGM",
-    "SE": "効果音",
-    "NoSound": "サウンドなし"
   }
 }
