@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "劇情類型",
-    "unitName": "組合名稱",
-    "unitStoryChapter": "章數",
-    "unitStoryEpisode": "集數",
-    "eventName": "活動名稱",
-    "eventStoryEpisode": "集數",
-    "charaName": "角色姓名",
-    "cardName": "卡片名稱",
-    "cardStoryEpisode": "集數"
-  },
   "selectValue": {
     "eventStory": "活動劇情",
     "unitStory": "組合劇情",
     "charaStory": "角色劇情",
-    "cardStory": "卡片劇情"
-  },
-  "buttonLabel": {
-    "showEpisode": "載入劇情"
+    "cardStory": "卡片劇情",
+    "areaTalk": "區域對話",
+    "liveTalk": "虛擬演唱會對話"
   },
   "snippet": {
     "FullScreenText": "全螢幕文字",
@@ -29,5 +17,19 @@
     "BGM": "背景音樂",
     "SE": "聲效",
     "NoSound": "靜音"
+  },
+  "selectLabel": {
+    "storyType": "劇情類型",
+    "unitName": "組合名稱",
+    "unitStoryChapter": "章數",
+    "unitStoryEpisode": "集數",
+    "eventName": "活動名稱",
+    "eventStoryEpisode": "集數",
+    "charaName": "角色姓名",
+    "cardName": "卡片名稱",
+    "cardStoryEpisode": "集數"
+  },
+  "buttonLabel": {
+    "showEpisode": "載入劇情"
   }
 }
