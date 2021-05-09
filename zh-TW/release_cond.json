@@ -40,7 +40,7 @@
   "unit_story_7": "閱讀虛擬歌手的主要劇情「教室的\"世界\"篇」第4話",
   "unit_story_11": "閱讀虛擬歌手的主要劇情「舞台的\"世界\"篇」第4話",
   "master_rank": "獲得「[{{cardPrefix}}] {{cardCharaName}}」",
-  "master_rank_level": "「[{{cardPrefix}}] {{cardCharaName}}」のマスターランク{{level}}で開放",
+  "master_rank_level": "開放「[{{cardPrefix}}] {{cardCharaName}}」的{{level}}熟練等級",
   "character_rank": "｢{{charaName}}｣的角色等級達到{{num}}級後提升隊伍編成數",
   "inherit_complete": "資料繼承完成",
   "event_point": "活動P達到{{point}}",
