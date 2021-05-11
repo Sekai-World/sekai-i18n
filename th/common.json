@@ -24,6 +24,7 @@
   "musicRecommend": "แนะนำเพลง",
   "eventCalc": "คำนวนแต้มอีเว้นต์",
   "storyReader": "เนื้อเรื่อง",
+  "text": "ตัวหนังสือเท่านั้น",
   "eventTracker": "ติดตามอีเว้นต์",
   "eventAnalyzer": "วิเคราะห์อีเว้นต์",
   "support": "สนับสนุนเรา",
@@ -100,9 +101,9 @@
   "save": "บันทึก",
   "help": "ช่วยเหลือ",
   "close": "ปิด",
-  "hide": "ซ่อน",
   "area_item": "ไอเท็มในพื้นที่",
   "signup": "สมัคร",
+  "hide": "ซ่อน",
   "detect": {
     "checking": "กำลังตรวจสอบ...",
     "unsupported": "ไม่รองรับ",
