@@ -1,5 +1,5 @@
 {
-  "play_live": "Usar {{count}} veces a ｢{{- name}} como líder.",
+  "play_live": "Usar {{count}} veces a ｢{{- name}}｣ como líder.",
   "waiting_room": "Demos la bienvenida a ｢{{- name}}｣ en la antesala {{count}} veces.",
   "collect_costume_3d": "Consigue {{count}} disfraz ｢{{- name}}｣ para en la tienda de disfraces, Gacha y Master Rank Up.",
   "collect_stamp": "Obtenga {{count}} stikers diferentes de ｢{{- name}}｣",
