@@ -24,6 +24,7 @@
   "musicRecommend": "Recomendador de Canciones",
   "eventCalc": "Planeador de eventos",
   "storyReader": "Lector de historia",
+  "text": "Solo Texto",
   "eventTracker": "Seguimiento del evento",
   "eventAnalyzer": "Analizador del Evento",
   "support": "Support",
@@ -100,9 +101,9 @@
   "save": "Guardar",
   "help": "Ayuda",
   "close": "Cerrar",
-  "hide": "Ocultar",
   "area_item": "Objeto de área",
   "signup": "Registrarse",
+  "hide": "Ocultar",
   "detect": {
     "checking": "Comprobando...",
     "unsupported": "No compatible",
