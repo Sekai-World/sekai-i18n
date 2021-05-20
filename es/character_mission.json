@@ -1,7 +1,7 @@
 {
   "play_live": "Usar {{count}} veces a ｢{{- name}}｣ como líder.",
   "waiting_room": "Demos la bienvenida con ｢{{- name}}｣ en la antesala {{count}} veces.",
-  "collect_costume_3d": "Consigue {{count}} disfrazes para ｢{{- name}}｣ en la tienda de disfraces, Gacha y Master Rank Up.",
+  "collect_costume_3d": "Consigue {{count}} disfrazes para ｢{{- name}}｣ en la tienda de disfraces, Gacha o Master Rank Up.",
   "collect_stamp": "Obtenga {{count}} stikers diferentes de ｢{{- name}}｣",
   "read_area_talk": "Veamos los tipos de conversaciones de área de ｢{{- name}}｣{{count}} veces",
   "skill_level_up": "Aumenta el nivel de habilidad de ｢{{- name}}｣ {{count}} veces.",
