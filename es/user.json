@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Error al cargar avatar",
     "upload_avatar": "Cargar avatar",
     "username": "Nombre de usuario",
     "nickname": "Nombre publico",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "Verificar"
     },
     "email_confirmed": "Email confirmado",
-    "upload_avatar_error": "Error al cargar avatar",
     "error": {
+      "sekai_id_malformed": "El Sekai ID es un número de 16 dígitos, igual que tu código de amigo.",
       "sekai_id_already_bind": "La ID de Sekai ya está vinculada a otro usuario.",
       "sekai_id_verify_failed": "No se pudo verificar la propiedad. ¿Dejaste el panel de perfil para guardar?"
     },
