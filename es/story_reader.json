@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "Tipo de historia",
-    "unitName": "Nombre de la unidad",
-    "unitStoryChapter": "Capítulo",
-    "unitStoryEpisode": "Episodio",
-    "eventName": "Nombre del evento",
-    "eventStoryEpisode": "Episodio",
-    "charaName": "Nombre del personaje",
-    "cardName": "Nombre de la carta",
-    "cardStoryEpisode": "Episodio"
-  },
   "selectValue": {
     "eventStory": "Historias de Evento",
     "unitStory": "Historias de Unidad",
     "charaStory": "Historias de Personaje",
-    "cardStory": "Historia de Cartas"
-  },
-  "buttonLabel": {
-    "showEpisode": "Cargar Episodio"
+    "cardStory": "Historia de Cartas",
+    "areaTalk": "Mapa de la conversación",
+    "liveTalk": "Charla en vivo"
   },
   "snippet": {
     "FullScreenText": "Texto en Pantalla Completa",
@@ -29,5 +17,19 @@
     "BGM": "Música de Fondo",
     "SE": "Efecto de Sonido",
     "NoSound": "Sin Sonido"
+  },
+  "selectLabel": {
+    "storyType": "Tipo de historia",
+    "unitName": "Nombre de la unidad",
+    "unitStoryChapter": "Capítulo",
+    "unitStoryEpisode": "Episodio",
+    "eventName": "Nombre del evento",
+    "eventStoryEpisode": "Episodio",
+    "charaName": "Nombre del personaje",
+    "cardName": "Nombre de la carta",
+    "cardStoryEpisode": "Episodio"
+  },
+  "buttonLabel": {
+    "showEpisode": "Cargar Episodio"
   }
 }
