@@ -69,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Échec du chargement de l'avatar !",
     "upload_avatar": "Ajouter un avatar",
     "username": "Nom d'utilisateur",
     "nickname": "Nom d'affichage",
@@ -81,8 +82,8 @@
       "verify_sekai_id": "Vérifier"
     },
     "email_confirmed": "Email confirmé",
-    "upload_avatar_error": "Échec du chargement de l'avatar !",
     "error": {
+      "sekai_id_malformed": "Le Sekai ID est un numéro à 16 chiffres, le même que votre code d'ami.",
       "sekai_id_already_bind": "Le Sekai ID est déjà lié à un autre utilisateur.",
       "sekai_id_verify_failed": "Échec de la vérification. Avez-vous quitté le menu de profil du jeu pour sauvegarder ?"
     },
