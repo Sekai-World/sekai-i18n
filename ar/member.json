@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "الشخصية",
+    "title[1]": "ملصق الاسم (عرضي)",
+    "title[2]": "ملصق الاسم (عمودي)"
+  },
+  "name": "اسم",
+  "hiragana": "فوريغانا",
+  "gender": {
+    "caption": "جنس",
+    "female": "أنثى",
+    "male": "ذكر",
+    "secret": "سر"
+  },
+  "scenario": "قصة",
+  "introduction": "مقدمة الذاتية",
+  "colorCode": "لون الرمزي",
+  "skinColorCode": "لون البشرة",
+  "skinShadowColorCode1": "لون ظلال البشرة 1",
+  "skinShadowColorCode2": "لون ظلال البشرة 2",
+  "height": "طول القامة",
+  "birthday": "يوم الميلاد",
+  "characterVoice": "مؤدي الصوت",
+  "school": "مدرسة",
+  "schoolYear": "صف",
+  "hobby": "هواية",
+  "specialSkill": "تخصص",
+  "favoriteFood": "طعام المفضل",
+  "hatedFood": "طعام المكروه",
+  "weak": "نقطة الضعف"
+}
