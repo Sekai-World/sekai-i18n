@@ -1,0 +1,24 @@
+{
+  "live_characters": "شخصيات",
+  "rewards": "مكافآت",
+  "title": {
+    "schedules": "جداول",
+    "setlist": "سيناريو"
+  },
+  "schedule": {
+    "start": "بداية",
+    "end": "نهاية"
+  },
+  "mc": {
+    "character_unspawn": "تختفي الشخصية"
+  },
+  "type": {
+    "normal": "عادي",
+    "beginner": "مبتدئ",
+    "cheerful_carnival": "كرنفال مرح"
+  },
+  "step": {
+    "mc": "إم سي",
+    "music": "العرض الحي"
+  }
+}
