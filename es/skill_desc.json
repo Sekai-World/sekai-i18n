@@ -1,0 +1,13 @@
+{
+  "1": "Tu puntuación aumentará un {{1;v}}% durante {{1;d}} segundos.",
+  "2": "Tu puntuación aumentará un {{2;v}}% durante {{2;d}} segundos.",
+  "3": "Tu puntuación aumentará un {{3;v}}% durante {{3;d}} segundos.",
+  "4": "Tu puntuación aumentará un {{4;v}}% durante {{4;d}} segundos.",
+  "5": "los GREATS se convierten en PERFECTS durante {{8;d}} segundos, y su puntuación sube un {{5;v}}% durante {{5;d}} segundos.",
+  "6": "Los GOOD o mejor se convierten en PERFECTS durante {{9;d}} segundos, y su puntuación sube un {{6;v}}% durante {{6;d}} segundos.",
+  "7": "Los BADS o peor se convierte en PERFECTS durante {{10;d}} segundos y su puntuación sube un {{7;v}}% durante {{7;d}} segundos.",
+  "8": "La vida se restaura a {{14;v}} y la puntuación aumenta en {{11;v}} durante {{11;d}} segundos.",
+  "9": "La vida se restaura a {{15;v}} y la puntuación aumenta en {{12;v}} durante {{12;d}} segundos.",
+  "10": "La vida se restaura a {{16;v}} y la puntuación aumenta en {{13;v}} durante {{13;d}} segundos.",
+  "11": "Tu puntuación aumentará un {{17;v}}% durante {{17;d}} segundos sólo cuando realices un PERFECT"
+}
