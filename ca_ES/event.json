@@ -10,6 +10,7 @@
   "progress": "Progrés",
   "title": {
     "boost": "Impuls",
+    "cheerful_carnival": "Carnaval animat",
     "timepoint": "Cronologia",
     "rankingRewards": "Recompenses per classificació"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Impuls máxim (utilitzant tots dos)",
   "boostCards": "Cartes d'Impuls",
   "eventCards": "Cartes de l'esdeveniment",
+  "cheerful_carnival_midterm_1": "Informe de la primera part",
+  "cheerful_carnival_midterm_2": "Informe de la segona part",
   "startAt": "L'esdeveniment comença el",
   "closeAt": "L'esdeveniment finalitza el",
   "endAt": "Participació a l'esdeveniment disponible fins el",
   "rankingAnnounceAt": "Anunci de la classificació el",
   "distributionStartAt": "Distribució de les recompenses des del",
-  "distributionEndAt": "Distribució de les recompenses fins el",
   "rankingReward": {
     "start": "Des del",
     "end": "Fins el"
@@ -71,6 +73,7 @@
       "last_1h": "Darrera hora (per hora)"
     }
   },
+  "distributionEndAt": "Distribució de les recompenses fins el",
   "aggregateAt": "Afegir cronologia",
   "alreadyPast": "Ja pasada",
   "type": {
