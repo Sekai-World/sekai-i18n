@@ -14,7 +14,8 @@
   },
   "type": {
     "normal": "Normal",
-    "beginner": "Inicial"
+    "beginner": "Inicial",
+    "cheerful_carnival": "Carnaval animar"
   },
   "step": {
     "mc": "Conversació",
