@@ -17,12 +17,8 @@
   "lyricist": "Líric",
   "danceMember": "Ballarí",
   "danceMember_plural": "Ballarins",
-  "dancerCount": "Nombre de ballarins",
   "vocal_plural": "Vocalistes",
   "vocalType": "Tipus de vocalista",
-  "difficulty": "Dificultat",
-  "difficulty_plural": "Dificultats",
-  "noteCount": "Nombre de notes",
   "achievement": "Assoliments",
   "scoreRankAchievement": {
     "title": "Rang de puntuació",
@@ -31,6 +27,12 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
+  "difficulty": "Dificultat",
+  "difficulty_plural": "Dificultats",
+  "chartCredit": "L'imatge del mapa de notes es una modificació de la versió de Erik (pjsek.ai).",
+  "noteCount": "Nombre de notes",
+  "comboRewards": "Premis per combo",
+  "chartImage": "Mapa de notes",
   "baseScore": "Índex de punts base",
   "feverScore": "Índex de punts al mode Fever",
   "eventRate": "Índex de punts d'esdeveniment",
@@ -38,6 +40,7 @@
   "hi_score": "Màxima puntuació",
   "mvp_count": "Compte de MVP",
   "super_star_count": "Compte de Super Star",
+  "dancerCount": "Nombre de ballarins",
   "combo": "Combos",
   "preview": "Vista prèvia",
   "categoryType": {
