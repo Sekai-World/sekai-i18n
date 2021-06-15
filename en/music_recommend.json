@@ -1,4 +1,9 @@
 {
+  "result": {
+    "musicName": "Music Name",
+    "label": "Result",
+    "desc": "Just one step and you're finished."
+  },
   "getResult": "Get Result",
   "buildTeam": {
     "label": "Build Team",
@@ -14,14 +19,15 @@
     "teamTextCopied": "Team text copied to clipboard.",
     "teamTextSaved": ""
   },
-  "result": {
-    "label": "Result",
-    "musicName": "Music Name",
-    "desc": "Just one step and you're finished."
-  },
   "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
     "label": "Mode Select",
-    "desc": "Select recommender work mode."
+    "desc": "Select recommender work mode.",
+    "score": "Score",
+    "event_point": "Event Point",
+    "play_count": "Per Play Count",
+    "per_hour": "Per Hour"
   },
   "assumption": "Assumption: all perfect, event bonus 0%, use 0 energy drink, multiplayers all have same team.",
   "addCardDialog": {

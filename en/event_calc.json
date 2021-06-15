@@ -1,27 +1,38 @@
 {
-  "songSelect": {
-    "label": "Song Select",
-    "desc": "Select song for analyzing.",
-    "select": {
-      "song": "Song",
-      "difficulty": "Difficulty"
-    }
-  },
-  "gameData": {
-    "label": "Game Data",
-    "desc": "Fill in the data from game for calculation",
-    "energyDrink": "Boost Cost",
-    "currentPoint": "Current Point",
-    "targetPoint": "Target Point",
-    "remainingTime": "Event Remaining Hours",
-    "eventBonusRate": "Event Bonus Rate (%)"
-  },
-  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus.",
   "result": {
+    "perHour": "Per Hour",
     "eventPointPerPlay": "Event Point Per Play",
     "playClount": "Total Play Count",
     "playTime": "Total Play Time",
     "useBoost": "Total Consumed Boost",
     "totalPoint": "Total Event Point"
-  }
+  },
+  "gameData": {
+    "label": "Game Data",
+    "energyDrink": "Boost Cost",
+    "eventBonusRate": "Event Bonus Rate (%)",
+    "currentPoint": "Current Point",
+    "targetPoint": "Target Point",
+    "teamAvgPower": "Average Total Power",
+    "desc": "Fill in the data from game for calculation",
+    "remainingTime": "Event Remaining Hours"
+  },
+  "songMode": {
+    "label": "Song Select",
+    "all_songs": "All songs",
+    "only_one": "Choose one"
+  },
+  "songSelect": {
+    "select": {
+      "difficulty": "Difficulty",
+      "song": "Song"
+    },
+    "label": "Song Select",
+    "desc": "Select song for analyzing."
+  },
+  "eventMode": {
+    "existed": "Existing",
+    "custom": "Customize"
+  },
+  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus."
 }

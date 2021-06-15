@@ -73,11 +73,11 @@
       "last_1h": "Last 1 hour (per hour)"
     }
   },
-  "distributionEndAt": "Reward Distribution Until",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past",
   "type": {
     "marathon": "Marathon",
     "cheerful_carnival": "Cheerful Carnival"
-  }
+  },
+  "distributionEndAt": "Reward Distribution Until",
+  "aggregateAt": "Aggregate Timepoint",
+  "alreadyPast": "Already Past"
 }

@@ -1,4 +1,5 @@
 {
+  "actualPlaybackTime": "Actual Playback Time",
   "vocal": "Vocal",
   "alert[0]": "The first <b>nine seconds</b> of every song have no sound. This is NOT a bug.",
   "vocalTab": {
@@ -11,7 +12,6 @@
   "tag_plural": "Tags",
   "category": "Category",
   "category_plural": "Categories",
-  "actualPlaybackTime": "Actual Playback Time",
   "arranger": "Arranger",
   "composer": "Composer",
   "lyricist": "Lyricist",
