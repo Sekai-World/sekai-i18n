@@ -7,32 +7,35 @@
     "useBoost": "Jumlah Penggalak Digunakan",
     "totalPoint": "Jumlah Mata Acara"
   },
+  "eventData": {
+    "label": "Data Acara"
+  },
+  "eventMode": {
+    "existed": "Sedia ada",
+    "custom": "Ubah suai"
+  },
   "gameData": {
-    "label": "Data Permainan",
     "energyDrink": "Kos Penggalak",
     "eventBonusRate": "Kadar Bonus Acara (%)",
     "currentPoint": "Mata Semasa",
     "targetPoint": "Mata Sasaran",
     "teamAvgPower": "Jumlah Kuasa Purata",
+    "label": "Data Permainan",
     "desc": "Isikan data daripada permainan untuk pengiraan",
     "remainingTime": "Baki Masa Acara"
   },
-  "songMode": {
-    "label": "Pemilihan Lagu",
-    "all_songs": "Semua lagu",
-    "only_one": "Pilih satu"
-  },
   "songSelect": {
+    "label": "Pilih Lagu",
+    "desc": "Pilih lagu untuk dianalisa.",
     "select": {
       "difficulty": "Kesukaran",
       "song": "Lagu"
-    },
-    "label": "Pilih Lagu",
-    "desc": "Pilih lagu untuk dianalisa."
+    }
   },
-  "eventMode": {
-    "existed": "Sedia ada",
-    "custom": "Ubah suai"
+  "songMode": {
+    "label": "Pemilihan Lagu",
+    "all_songs": "Bandingkan lagu",
+    "only_one": "Sasarkan satu lagu"
   },
   "assumption": "Anggapan: ALL PERFECT, permainan ramai semua mempunyai pasukan yang sama, tiada bonus penggalak naik tahap."
 }
