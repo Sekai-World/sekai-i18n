@@ -1,4 +1,9 @@
 {
+  "result": {
+    "musicName": "樂曲名稱",
+    "label": "結果",
+    "desc": "只差最後一步了。"
+  },
   "getResult": "取得結果",
   "buildTeam": {
     "label": "輸入隊伍",
@@ -12,14 +17,15 @@
     "teamPower": "隊伍綜合力",
     "loadTeamError": "請檢查你是否正確輸入數據。",
     "teamTextCopied": "隊伍代碼已複製至剪貼板。"},
-  "result": {
-    "label": "結果",
-    "musicName": "樂曲名稱",
-    "desc": "只差最後一步了。"
-  },
   "modeSelect": {
+    "solo": "單人模式",
+    "multi": "協力模式",
     "label": "選擇模式",
-    "desc": "選擇歌曲推薦器運行模式"
+    "desc": "選擇歌曲推薦器運行模式",
+    "score": "分數",
+    "event_point": "活動pt",
+    "play_count": "每局Live",
+    "per_hour": "每小時"
   },
   "assumption": "以AP丶0%活動加成丶不使用回復能量道具丶在協力模式全部隊友有相同隊伍作計算。",
   "addCardDialog": {
