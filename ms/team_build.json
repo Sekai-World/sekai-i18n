@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Gagal menyimpan pasukan. Jika ia berlaku terlalu kerap, ia mungkin pepijat."
+  },
+  "save_team_succeed": "Data pasukan berjaya disimpan",
   "button": {
     "calc_total_power": "Dapatkan Jumlah Kuasa"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Muatkan Pasukan",
     "desc": "Muatkan pasukan dari masukan pasukan disimpan."
-  },
-  "error": {
-    "save_team_failed": "Gagal menyimpan pasukan. Jika ia berlaku terlalu kerap, ia mungkin pepijat."
   }
 }
