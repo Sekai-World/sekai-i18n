@@ -1,25 +1,31 @@
 {
+  "result": {
+    "musicName": "Nama Muzik",
+    "label": "Keputusan",
+    "desc": "Hanya satu langkah dan anda selesai."
+  },
   "getResult": "Tunjukkan Keputusan",
   "buildTeam": {
     "label": "Cipta Pasukan",
     "desc": "Cipta pasukan untuk Pengesyoran Lagu",
+    "duplicatedCardError": "Tidak boleh tambah kad yang sama dalam satu pasukan.",
+    "cardMaxError": "Jumlah kad sudah mencukupi.",
     "addCard": "Tambah Kad",
     "saveTeam": "Simpan Pasukan",
     "loadTeam": "Muatkan Pasukan",
     "clearTeam": "Kosongkan Pasukan",
     "teamPower": "Kuasa Pasukan",
-    "duplicatedCardError": "Tidak boleh tambah kad yang sama dalam satu pasukan.",
-    "cardMaxError": "Jumlah kad sudah mencukupi.",
     "loadTeamError": "Periksa input anda.",
     "teamTextCopied": "Tulisan pasukan disalin ke papan keratan."},
-  "result": {
-    "label": "Keputusan",
-    "musicName": "Nama Muzik",
-    "desc": "Hanya satu langkah dan anda selesai."
-  },
   "modeSelect": {
+    "solo": "Perseorangan",
+    "multi": "Multipemain",
     "label": "Pilih Mod",
-    "desc": "Sila pilih mod kerja pengesyoran."
+    "desc": "Sila pilih mod kerja pengesyoran.",
+    "score": "Mata",
+    "event_point": "Mata Acara",
+    "play_count": "Bilangan Per Permainan",
+    "per_hour": "Per Jam"
   },
   "assumption": "Anggapan: ALL PERFECT, bonus acara 0%, menggunakan 0 minuman tenaga, permainan ramai semua mempunyai pasukan yang sama.",
   "addCardDialog": {
