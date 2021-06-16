@@ -1,4 +1,5 @@
 {
+  "actualPlaybackTime": "Masa Main Semula Sebenar",
   "vocal": "Vokal",
   "alert[0]": "<b>Sembilan saat</b> yang pertama bagi setiap lagu tidak mempunyai bunyi. Ini BUKAN pepijat.",
   "vocalTab": {
@@ -11,18 +12,16 @@
   "tag_plural": "Tag",
   "category": "Kategori",
   "category_plural": "Kategori",
-  "actualPlaybackTime": "Masa Main Semula Sebenar",
   "arranger": "Susunan",
   "composer": "Komposer",
   "lyricist": "Lirik",
   "danceMember": "Ahli Tarian",
   "danceMember_plural": "Ahli Tarian",
-  "dancerCount": "Bilangan Penari",
   "vocal_plural": "Vokal",
   "vocalType": "Jenis Vokal",
   "achievement": "Pencapaian",
   "scoreRankAchievement": {
-    "title": "Kedudukan Mata",
+    "title": "Kedudukan Markah",
     "rankC": "Kedudukan C",
     "rankB": "Kedudukan B",
     "rankA": "Kedudukan A",
@@ -41,6 +40,7 @@
   "hi_score": "Mata Tertinggi",
   "mvp_count": "Bilangan MVP",
   "super_star_count": "Bilangan Bintang Super",
+  "dancerCount": "Bilangan Penari",
   "combo": "Kombo",
   "preview": "Pratonton",
   "categoryType": {
