@@ -1,27 +1,41 @@
 {
-  "songSelect": {
-    "label": "Selección de Canción",
-    "desc": "Selecciona una canción para el análisis.",
-    "select": {
-      "song": "Canción",
-      "difficulty": "Dificultad"
-    }
-  },
-  "gameData": {
-    "label": "Datos del Juego",
-    "desc": "Llena los datos del juego para el cálculo.",
-    "energyDrink": "Cantidad de Boosters",
-    "currentPoint": "Puntos Actuales",
-    "targetPoint": "Puntos Objetivo",
-    "remainingTime": "Horas Restantes del Evento",
-    "eventBonusRate": "Tasa de Bonificación del Evento (%)"
-  },
-  "assumption": "Supuesto: todo perfecto, en multijugador todos tienen el mismo equipo, sin bonificación de aumento de nivel.",
   "result": {
+    "perHour": "Por hora",
     "eventPointPerPlay": "Puntos de Evento por Partida",
     "playClount": "Cantidad de Partidas Totales",
     "playTime": "Tiempo Total de Juego",
     "useBoost": "Total de Boosters Consumidos",
     "totalPoint": "Puntos de Evento Totales"
-  }
+  },
+  "eventData": {
+    "label": "Datos del evento"
+  },
+  "eventMode": {
+    "existed": "Existente",
+    "custom": "Personalizar"
+  },
+  "gameData": {
+    "energyDrink": "Cantidad de Boosters",
+    "eventBonusRate": "Tasa de Bonificación del Evento (%)",
+    "currentPoint": "Puntos Actuales",
+    "targetPoint": "Puntos Objetivo",
+    "teamAvgPower": "Potencia total media",
+    "label": "Datos del Juego",
+    "desc": "Llena los datos del juego para el cálculo.",
+    "remainingTime": "Horas Restantes del Evento"
+  },
+  "songSelect": {
+    "label": "Selección de Canción",
+    "desc": "Selecciona una canción para el análisis.",
+    "select": {
+      "difficulty": "Dificultad",
+      "song": "Canción"
+    }
+  },
+  "songMode": {
+    "label": "Selección de canciones",
+    "all_songs": "Comparar canciones",
+    "only_one": "Dirigirse a uno"
+  },
+  "assumption": "Supuesto: todo perfecto, en multijugador todos tienen el mismo equipo, sin bonificación de aumento de nivel."
 }
