@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Error al guardar el equipo. Si esto ocurre con frecuencia, podría ser un bug."
+  },
+  "save_team_succeed": "Datos del equipo guardados con éxito",
   "button": {
     "calc_total_power": "Obtener poder total"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Cargar Equipó",
     "desc": "Cargar equipo de las entradas de equipo guardadas."
-  },
-  "error": {
-    "save_team_failed": "Error al guardar el equipo. Si esto ocurre con frecuencia, podría ser un bug."
   }
 }
