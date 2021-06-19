@@ -1,25 +1,31 @@
 {
+  "result": {
+    "musicName": "Nombre de la Música",
+    "label": "Resultado",
+    "desc": "Solo un paso más y habrás terminado."
+  },
   "getResult": "Obtener Resultado",
   "buildTeam": {
     "label": "Formar Equipo",
     "desc": "Formar tu equipo para el Recomendador de Canciones",
+    "duplicatedCardError": "No se puede agregar la misma carta a un equipo.",
+    "cardMaxError": "Ya hay suficientes cartas.",
     "addCard": "Agregar Carta",
     "saveTeam": "Guardar Equipo",
     "loadTeam": "Cargar Equipo",
     "clearTeam": "Borrar Equipo",
     "teamPower": "Poder del Equipo",
-    "duplicatedCardError": "No se puede agregar la misma carta a un equipo.",
-    "cardMaxError": "Ya hay suficientes cartas.",
     "loadTeamError": "Revisa los datos ingresados.",
     "teamTextCopied": "Texto del equipo copiado al portapapeles."},
-  "result": {
-    "label": "Resultado",
-    "musicName": "Nombre de la Música",
-    "desc": "Solo un paso más y habrás terminado."
-  },
   "modeSelect": {
+    "solo": "Solitario",
+    "multi": "Multijugador",
     "label": "Seleccionar Modo",
-    "desc": "Selecciona el modo de trabajo del recomendador."
+    "desc": "Selecciona el modo de trabajo del recomendador.",
+    "score": "Puntuación",
+    "event_point": "Punto de encuentro",
+    "play_count": "Por recuento de jugadas",
+    "per_hour": "Por hora"
   },
   "assumption": "Suponiendo que: solo PERFECT, beneficio de evento 0%, usas 0 bebidas de energía, todos los jugadores tienen el mismo equipo.",
   "addCardDialog": {
