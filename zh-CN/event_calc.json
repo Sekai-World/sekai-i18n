@@ -1,27 +1,41 @@
 {
-  "songSelect": {
-    "label": "歌曲选择",
-    "desc": "选择歌曲以分析",
-    "select": {
-      "song": "歌曲",
-      "difficulty": "难度"
-    }
-  },
-  "gameData": {
-    "label": "游戏数据",
-    "desc": "填写用于计算的游戏内数据",
-    "energyDrink": "加成消耗",
-    "currentPoint": "当前点数",
-    "targetPoint": "目标点数",
-    "remainingTime": "活动剩余时数",
-    "eventBonusRate": "活动分数奖励百分比"
-  },
-  "assumption": "假设条件：All Perfect，多人模式所有人队伍综合力都一样，没有升级奖励。",
   "result": {
+    "perHour": "每小时",
     "eventPointPerPlay": "每次游玩活动点数",
     "playClount": "总游玩数量",
     "playTime": "总游玩时间",
     "useBoost": "总消耗加成",
     "totalPoint": "总活动点数"
-  }
+  },
+  "eventData": {
+    "label": "活动数据"
+  },
+  "eventMode": {
+    "existed": "现有的",
+    "custom": "自定义"
+  },
+  "gameData": {
+    "energyDrink": "加成消耗",
+    "eventBonusRate": "活动分数奖励百分比",
+    "currentPoint": "当前点数",
+    "targetPoint": "目标点数",
+    "teamAvgPower": "平均综合力",
+    "label": "游戏数据",
+    "desc": "填写用于计算的游戏内数据",
+    "remainingTime": "活动剩余时数"
+  },
+  "songSelect": {
+    "label": "歌曲选择",
+    "desc": "选择歌曲以分析",
+    "select": {
+      "difficulty": "难度",
+      "song": "歌曲"
+    }
+  },
+  "songMode": {
+    "label": "歌曲选择",
+    "all_songs": "比较歌曲",
+    "only_one": "自選歌曲"
+  },
+  "assumption": "假设条件：All Perfect，多人模式所有人队伍综合力都一样，没有升级奖励。"
 }
