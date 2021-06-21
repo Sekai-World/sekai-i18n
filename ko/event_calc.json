@@ -11,7 +11,7 @@
     "label": "이벤트 데이터"
   },
   "eventMode": {
-    "existed": "존재함",
+    "existed": "기존 이벤트",
     "custom": "커스터마이즈"
   },
   "gameData": {
