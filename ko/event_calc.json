@@ -1,27 +1,41 @@
 {
-  "songSelect": {
-    "label": "곡 선택",
-    "desc": "분석을 위해 곡을 선택해주세요.",
-    "select": {
-      "song": "곡",
-      "difficulty": "난이도"
-    }
-  },
-  "gameData": {
-    "label": "게임 데이터",
-    "desc": "계산을 위해 게임에서 데이터를 입력해주세요",
-    "energyDrink": "전지 소모량",
-    "currentPoint": "현재 포인트",
-    "targetPoint": "목표 포인트",
-    "remainingTime": "이벤트 잔여시간",
-    "eventBonusRate": "이벤트 보너스율(%)"
-  },
-  "assumption": "가정: All Perfect, 멀티에서 모두 같은 덱 구성, 레벨업 전지 보너스 없음",
   "result": {
+    "perHour": "시간당",
     "eventPointPerPlay": "1곡당 이벤트 포인트",
     "playClount": "플레이 횟수 합계",
     "playTime": "플레이 시간 합계",
     "useBoost": "전지 소모량 합계",
     "totalPoint": "이벤트 포인트 합계"
-  }
+  },
+  "eventData": {
+    "label": "이벤트 데이터"
+  },
+  "eventMode": {
+    "existed": "존재함",
+    "custom": "커스터마이즈"
+  },
+  "gameData": {
+    "energyDrink": "전지 소모량",
+    "eventBonusRate": "이벤트 보너스율(%)",
+    "currentPoint": "현재 포인트",
+    "targetPoint": "목표 포인트",
+    "teamAvgPower": "평균 종합력",
+    "label": "게임 데이터",
+    "desc": "계산을 위해 게임에서 데이터를 입력해주세요",
+    "remainingTime": "이벤트 잔여시간"
+  },
+  "songSelect": {
+    "label": "곡 선택",
+    "desc": "분석을 위해 곡을 선택해주세요.",
+    "select": {
+      "difficulty": "난이도",
+      "song": "곡"
+    }
+  },
+  "songMode": {
+    "label": "곡 선택",
+    "all_songs": "노래 비교",
+    "only_one": "목표"
+  },
+  "assumption": "가정: All Perfect, 멀티에서 모두 같은 덱 구성, 레벨업 전지 보너스 없음"
 }
