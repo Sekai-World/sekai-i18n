@@ -1,25 +1,31 @@
 {
+  "result": {
+    "musicName": "乐曲名称",
+    "label": "结果",
+    "desc": "再来一步就完成了！"
+  },
   "getResult": "获取结果",
   "buildTeam": {
     "label": "组建队伍",
     "desc": "为歌曲推荐器组建你的队伍。",
+    "duplicatedCardError": "不能在一个队伍添加重复的卡。",
+    "cardMaxError": "队伍内卡片已满。",
     "addCard": "添加卡片",
     "saveTeam": "保存队伍",
     "loadTeam": "载入队伍",
     "clearTeam": "清除队伍",
     "teamPower": "队伍综合力",
-    "duplicatedCardError": "不能在一个队伍添加重复的卡。",
-    "cardMaxError": "队伍内卡片已满。",
     "loadTeamError": "检查你的输入。",
     "teamTextCopied": "队伍代码已拷贝到剪贴板。"},
-  "result": {
-    "label": "结果",
-    "musicName": "乐曲名称",
-    "desc": "再来一步就完成了！"
-  },
   "modeSelect": {
+    "solo": "单人模式",
+    "multi": "协力模式",
     "label": "模式选择",
-    "desc": "选择推荐器工作模式。"
+    "desc": "选择推荐器工作模式。",
+    "score": "分数",
+    "event_point": "活动点数",
+    "play_count": "每局Live",
+    "per_hour": "每小时"
   },
   "assumption": "假设条件：All Perfect，活动加成0%，不使用能量饮料加成，多人模式所有人队伍综合力都一样。",
   "addCardDialog": {
