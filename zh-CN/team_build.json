@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "无法保存队伍。如果频繁遇到此问题，请报告这个bug。"
+  },
+  "save_team_succeed": "成功保存队伍",
   "button": {
     "calc_total_power": "获得综合力"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "加载队伍",
     "desc": "从保存的队伍条目加载队伍。"
-  },
-  "error": {
-    "save_team_failed": "无法保存队伍。如果频繁遇到此问题，请报告这个bug。"
   }
 }
