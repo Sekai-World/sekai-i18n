@@ -34,7 +34,7 @@
   },
   "songMode": {
     "label": "選擇樂曲",
-    "all_songs": "對照歌曲",
+    "all_songs": "對照樂曲",
     "only_one": "自選一首"
   },
   "assumption": "以AP，在協力模式下全部隊友有相同隊伍，且不考慮升等能量作計算。"
