@@ -35,7 +35,7 @@
   "songMode": {
     "label": "곡 선택",
     "all_songs": "노래 비교",
-    "only_one": "하나만"
+    "only_one": "한 곡만"
   },
   "assumption": "가정: All Perfect, 멀티에서 모두 같은 덱 구성, 레벨업 전지 보너스 없음"
 }
