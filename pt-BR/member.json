@@ -12,7 +12,8 @@
     "male": "Masculino",
     "secret": "Segredo"
   },
-  "introduction": "Introdução",
+  "scenario": "História",
+  "introduction": "Descrição",
   "colorCode": "Cor da Imagem",
   "skinColorCode": "Cor da Pele",
   "skinShadowColorCode1": "Cor da sombra da pele 1",
