@@ -27,7 +27,7 @@
   "rankingAnnounceAt": "순위 발표",
   "distributionStartAt": "보상 지급 개시",
   "rankingReward": {
-    "start": "개시일",
+    "start": "최대 순위",
     "end": "종료일"
   },
   "tracker": {
@@ -73,11 +73,11 @@
       "last_1h": "최근 1시간 (시간당)"
     }
   },
-  "distributionEndAt": "보상 지급 종료",
-  "aggregateAt": "집계 개시",
-  "alreadyPast": "경과일",
   "type": {
     "marathon": "마라톤",
     "cheerful_carnival": "치어풀 카니발"
-  }
+  },
+  "distributionEndAt": "보상 지급 종료",
+  "aggregateAt": "집계 개시",
+  "alreadyPast": "경과일"
 }
