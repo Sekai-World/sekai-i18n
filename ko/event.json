@@ -28,7 +28,7 @@
   "distributionStartAt": "보상 지급 개시",
   "rankingReward": {
     "start": "최대 순위",
-    "end": "종료일"
+    "end": "최소 순위"
   },
   "tracker": {
     "select": {
