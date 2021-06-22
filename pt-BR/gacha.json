@@ -1,17 +1,39 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Banner e Logo"
+    },
+    "title[3]": "Plano de Fundo",
+    "title[4]": "Imagem Destaque",
     "title[0]": "Descrição",
-    "title[1]": "Sumário",
-    "title[2]": "Simulação",
-    "title[3]": "Background",
-    "title[4]": "Imagem Destacada"
+    "title[1]": "Resumo",
+    "title[2]": "Simulador"
   },
+  "ceil_item": "Itens para troca",
+  "summary": "Resumo do Gacha",
+  "description": "Observação",
+  "gacha_rate": "Proporção de raridade no Gacha",
   "normalRate": "Taxa de Roll Normal",
   "guaranteedRate": "Taxa de Roll Garantida",
-  "pickupMember": "Membro Destacado",
-  "pickupMember_plural": "Membros Destacados",
+  "gacha_cards": "Cards do Gacha",
+  "pickupMember": "Membro em Destaque",
+  "pickupMember_plural": "Membros em Destaque",
+  "gacha_behaviors": "Item necessário para roll do Gacha",
+  "gacha_simulator": "Simulador de Gacha",
+  "simulator": {
+    "total": "Total de rolls",
+    "cost": "Custo",
+    "count": "Número de personagens obtidos",
+    "percentage": "Probabilidade"
+  },
+  "behavior": {
+    "normal": "Roll x1",
+    "over_rarity_3_once": "Roll x10 (Uma card 3* garantida)",
+    "once_a_day": "Uma vez por dia",
+    "over_rarity_4_once": "Roll x10 (Uma card 4* garantida)"
+  },
   "gachaType": {
-    "ceil": "Ceiling",
+    "ceil": "Teto",
     "normal": "Normal"
   }
 }
