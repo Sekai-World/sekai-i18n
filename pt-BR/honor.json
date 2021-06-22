@@ -1,0 +1,15 @@
+{
+  "page_title": "Conquistas",
+  "honor_group": "Grupo de Conquistas",
+  "rarity": {
+    "low": "Baixo",
+    "middle": "Médio",
+    "high": "Alto",
+    "highest": "Altíssimo"
+  },
+  "type": {
+    "character": "Personagem",
+    "achievement": "Conquista",
+    "event": "Evento"
+  }
+}
