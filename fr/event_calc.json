@@ -34,7 +34,7 @@
   },
   "songMode": {
     "label": "Choix de la chanson",
-    "all_songs": "Comparer les chansons/",
+    "all_songs": "Comparer les chansons",
     "only_one": "Choisir un"
   },
   "assumption": "Hypothèse : All Perfect, les joueurs ont la même équipe, aucun bonus boost."
