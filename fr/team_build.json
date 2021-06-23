@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Échec de l'enregistrement de l'équipe. Si cela se produit trop souvent, il pourrait s'agir d'un bug."
+  },
+  "save_team_succeed": "Les données de l'équipe ont été sauvegardées avec succès",
   "button": {
     "calc_total_power": "Obtenir la puissance totale"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Charger l'équipe",
     "desc": "Charger l'équipe à partir des équipes enregistrées."
-  },
-  "error": {
-    "save_team_failed": "Échec de l'enregistrement de l'équipe. Si cela se produit trop souvent, il pourrait s'agir d'un bug."
   }
 }
