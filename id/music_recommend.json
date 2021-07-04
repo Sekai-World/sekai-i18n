@@ -1,25 +1,31 @@
 {
+  "result": {
+    "musicName": "Nama Musik",
+    "label": "Hasil",
+    "desc": "Cukup satu langkah dan Anda selesai."
+  },
   "getResult": "Dapatkan Hasil",
   "buildTeam": {
     "label": "Buat Tim",
     "desc": "Buat tim anda untuk Rekomendasi Lagu",
+    "duplicatedCardError": "Tidak dapat menambahkan kartu yang sama ke satu tim.",
+    "cardMaxError": "Sudah cukup banyak kartu.",
     "addCard": "Tambah Kartu",
     "saveTeam": "Simpan Tim",
     "loadTeam": "Muat Tim",
     "clearTeam": "Hapus Tim",
     "teamPower": "Kekuatan Tim",
-    "duplicatedCardError": "Tidak dapat menambahkan kartu yang sama ke satu tim.",
-    "cardMaxError": "Sudah cukup banyak kartu.",
     "loadTeamError": "Periksa masukan Anda.",
     "teamTextCopied": "Teks tim disalin ke papan klip."},
-  "result": {
-    "label": "Hasil",
-    "musicName": "Nama Musik",
-    "desc": "Cukup satu langkah dan Anda selesai."
-  },
   "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
     "label": "Pilih Mode",
-    "desc": "Pilih mode tipe rekomendasi"
+    "desc": "Pilih mode tipe rekomendasi",
+    "score": "Skor",
+    "event_point": "Poin Event",
+    "play_count": "Jumlah Per Permainan",
+    "per_hour": "Per Jam"
   },
   "assumption": "Asumsi: all perfect, bonus event 0%, menggunakan 0 energy drink, semua pemain memiliki kekuatan tim yang sama.",
   "addCardDialog": {
