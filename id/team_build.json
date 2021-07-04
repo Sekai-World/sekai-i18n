@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Gagal menyimpan tim. Jika sering terjadi, kemungkinan ini adalah bug."
+  },
+  "save_team_succeed": "Data tim tersimpan",
   "button": {
     "calc_total_power": "Dapatkan Kekuatan Total"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Muat Tim",
     "desc": "Muat tim dari entri tim yang disimpan."
-  },
-  "error": {
-    "save_team_failed": "Gagal menyimpan tim. Jika sering terjadi, kemungkinan ini adalah bug."
   }
 }
