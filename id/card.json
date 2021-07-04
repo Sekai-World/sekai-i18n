@@ -5,6 +5,7 @@
     "title[2]": "Gambar setelah training",
     "title[3]": "Gambar potongan setelah training"
   },
+  "gachaPhrase": "Dialog Gacha",
   "skillLevel": "Level Skill",
   "skillName": "Nama Skill",
   "skillEffect": "Efek Skill",
@@ -18,6 +19,6 @@
   "sideStory_plural": "Cerita Spesial",
   "rarity": "Rarity",
   "power": "Kekuatan",
-  "skill": "Skill",
-  "apply_event_filter": "Terapkan Bonus Event"
+  "apply_event_filter": "Terapkan Bonus Event",
+  "skill": "Skill"
 }
