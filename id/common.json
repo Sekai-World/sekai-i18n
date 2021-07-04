@@ -24,6 +24,7 @@
   "musicRecommend": "Rekomendasi Lagu",
   "eventCalc": "Kalkulator Event",
   "storyReader": "Pembaca Cerita",
+  "text": "Teks Saja",
   "eventTracker": "Pelacak Event",
   "eventAnalyzer": "Penganalisis Event",
   "support": "Dukungan",
@@ -87,6 +88,7 @@
     "translated": "Terjemahan (jika tersedia)",
     "both": "Lihat Keduanya"
   },
+  "spoilerContent": "Konten Spoiler",
   "spoiler": "Spoiler",
   "all": "Semua",
   "search": "Cari",
@@ -99,9 +101,9 @@
   "save": "Simpan",
   "help": "Bantuan",
   "close": "Tutup",
-  "hide": "Sembunyikan",
   "area_item": "Area Item",
   "signup": "Daftar",
+  "hide": "Sembunyikan",
   "detect": {
     "checking": "Memeriksa...",
     "unsupported": "Tidak didukung",
