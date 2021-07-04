@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "Tipe Cerita",
-    "unitName": "Nama Unit",
-    "unitStoryChapter": "Chapter",
-    "unitStoryEpisode": "Episode",
-    "eventName": "Nama Event",
-    "eventStoryEpisode": "Episode",
-    "charaName": "Nama Karakter",
-    "cardName": "Nama Kartu",
-    "cardStoryEpisode": "Episode"
-  },
   "selectValue": {
     "eventStory": "Cerita Event",
     "unitStory": "Cerita Unit",
     "charaStory": "Cerita Karakter",
-    "cardStory": "Cerita Kartu"
-  },
-  "buttonLabel": {
-    "showEpisode": "Muat Episode Cerita"
+    "cardStory": "Cerita Kartu",
+    "areaTalk": "Dialog Map",
+    "liveTalk": "Dialog Live"
   },
   "snippet": {
     "FullScreenText": "Teks Layar Penuh",
@@ -29,5 +17,19 @@
     "BGM": "Latar Belakang Musik",
     "SE": "Efek Suara",
     "NoSound": "Tidak ada Suara"
+  },
+  "selectLabel": {
+    "storyType": "Tipe Cerita",
+    "unitName": "Nama Unit",
+    "unitStoryChapter": "Chapter",
+    "unitStoryEpisode": "Episode",
+    "eventName": "Nama Event",
+    "eventStoryEpisode": "Episode",
+    "charaName": "Nama Karakter",
+    "cardName": "Nama Kartu",
+    "cardStoryEpisode": "Episode"
+  },
+  "buttonLabel": {
+    "showEpisode": "Muat Episode Cerita"
   }
 }
