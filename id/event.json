@@ -10,6 +10,7 @@
   "progress": "Proses",
   "title": {
     "boost": "Boost",
+    "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Titik Waktu",
     "rankingRewards": "Hadiah Peringkat"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Boost Max (Keduanya digunakan)",
   "boostCards": "Kartu Penguat",
   "eventCards": "Kartu Event",
+  "cheerful_carnival_midterm_1": "Laporan Hasil Pertama",
+  "cheerful_carnival_midterm_2": "Laporan Hasil Kedua",
   "startAt": "Event Dimulai Pada",
   "closeAt": "Event Ditutup Pada",
   "endAt": "Event Tersedia Hingga",
   "rankingAnnounceAt": "Pengumuman Peringkat Pada",
   "distributionStartAt": "Pembagian Hadiah Dari",
-  "distributionEndAt": "Pembagian Hadiah Hingga",
   "rankingReward": {
     "start": "Dari",
     "end": "Hingga"
@@ -71,10 +73,11 @@
       "last_1h": "1 jam terakhir (per-jam)"
     }
   },
-  "aggregateAt": "Titik waktu Teragregasi",
-  "alreadyPast": "Sudah lewat",
   "type": {
     "marathon": "Maraton",
     "cheerful_carnival": "Karnaval Ceria"
-  }
+  },
+  "distributionEndAt": "Pembagian Hadiah Hingga",
+  "aggregateAt": "Titik waktu Teragregasi",
+  "alreadyPast": "Sudah lewat"
 }
