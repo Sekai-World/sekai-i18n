@@ -27,6 +27,12 @@
   "music_mv": {
     "caption": "Tipe MV"
   },
+  "not-selected": "Tidak dipilih",
+  "stampType": {
+    "caption": "Tipe Stamp",
+    "text": "Teks saja",
+    "illustration": "Dengan Ilustrasi"
+  },
   "language": {
     "caption": "Bahasa",
     "source": "Bahasa sumber",
