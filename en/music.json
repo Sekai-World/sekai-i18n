@@ -1,11 +1,18 @@
 {
+  "difficulty": "Difficulty",
   "actualPlaybackTime": "Actual Playback Time",
+  "downloadFlacNoTrim": "Downloaded FLAC file will contain the beginning slience part.",
   "vocal": "Vocal",
   "alert[0]": "The first <b>nine seconds</b> of every song have no sound. This is NOT a bug.",
   "vocalTab": {
     "title[0]": "Short version",
     "title[1]": "Long version",
     "title[2]": "Music video"
+  },
+  "fileFormat": {
+    "caption": "File Format",
+    "mp3": "MP3",
+    "flac": "FLAC"
   },
   "skipBeginningSilence": "Skip beginning silence",
   "tag": "Tag",
@@ -27,7 +34,6 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
-  "difficulty": "Difficulty",
   "difficulty_plural": "Difficulties",
   "chartCredit": "Chart Image is modified from Erik's (pjsek.ai) version.",
   "noteCount": "Note Count",
