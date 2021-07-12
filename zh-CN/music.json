@@ -1,4 +1,7 @@
 {
+  "difficulty": "难度",
+  "actualPlaybackTime": "实际播放时长",
+  "downloadFlacNoTrim": "下载的FLAC文件会包含开头的静音段。",
   "vocal": "演唱者",
   "alert[0]": "每首歌曲的<b>前九秒</b>无声。这不是程序错误！",
   "vocalTab": {
@@ -6,18 +9,21 @@
     "title[1]": "全曲",
     "title[2]": "MV"
   },
+  "fileFormat": {
+    "caption": "文件格式",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "跳过开头的无声段",
   "tag": "标签",
   "tag_plural": "标签",
   "category": "类别",
   "category_plural": "类别",
-  "actualPlaybackTime": "实际播放时长",
   "arranger": "编曲",
   "composer": "作曲",
   "lyricist": "作词",
   "danceMember": "舞蹈成员",
   "danceMember_plural": "舞蹈成员",
-  "dancerCount": "舞蹈人员数量",
   "vocal_plural": "演唱者",
   "vocalType": "演唱者类型",
   "achievement": "成就",
@@ -28,7 +34,6 @@
     "rankA": "等级A",
     "rankS": "等级S"
   },
-  "difficulty": "难度",
   "difficulty_plural": "难度",
   "chartCredit": "谱面图片修改自Erik (pjsek.ai)的版本。",
   "noteCount": "音符数量",
@@ -41,6 +46,7 @@
   "hi_score": "高分",
   "mvp_count": "MVP数量",
   "super_star_count": "超级明星数量",
+  "dancerCount": "舞蹈人员数量",
   "combo": "连击",
   "preview": "预览",
   "categoryType": {
