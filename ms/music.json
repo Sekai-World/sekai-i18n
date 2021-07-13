@@ -1,11 +1,18 @@
 {
+  "difficulty": "Kesukaran",
   "actualPlaybackTime": "Masa Main Semula Sebenar",
+  "downloadFlacNoTrim": "Fail FLAC yang dimuat turun akan mempunyai bahagian bunyi senyap di permulaan.",
   "vocal": "Vokal",
   "alert[0]": "<b>Sembilan saat</b> yang pertama bagi setiap lagu tidak mempunyai bunyi. Ini BUKAN pepijat.",
   "vocalTab": {
     "title[0]": "Versi pendek",
     "title[1]": "Versi panjang",
     "title[2]": "Video muzik"
+  },
+  "fileFormat": {
+    "caption": "Format Fail",
+    "mp3": "MP3",
+    "flac": "FLAC"
   },
   "skipBeginningSilence": "Langkau bunyi senyap di permulaan",
   "tag": "Tag",
@@ -27,7 +34,6 @@
     "rankA": "Kedudukan A",
     "rankS": "Kedudukan S"
   },
-  "difficulty": "Kesukaran",
   "difficulty_plural": "Kesukaran",
   "chartCredit": "Imej Carta diubahsuai daripada versi Erik (pjsek.ai).",
   "noteCount": "Bilangan Not",
