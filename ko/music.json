@@ -1,4 +1,7 @@
 {
+  "difficulty": "난이도",
+  "actualPlaybackTime": "실제 재생 시간",
+  "downloadFlacNoTrim": "다운로드된 FLAC 파일은 시작 무음 구간이 포함됩니다.",
   "vocal": "보컬",
   "alert[0]": "모든 음악의 처음 <b>9초</b> 동안은 아무 소리도 나지 않습니다. 버그가 아니예요!",
   "vocalTab": {
@@ -6,12 +9,16 @@
     "title[1]": "롱버전",
     "title[2]": "뮤직 비디오"
   },
+  "fileFormat": {
+    "caption": "파일 형식",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "시작 무음 구간 스킵하기",
   "tag": "태그",
   "tag_plural": "태그",
   "category": "카테고리",
   "category_plural": "카테고리",
-  "actualPlaybackTime": "실제 재생 시간",
   "arranger": "편곡",
   "composer": "작곡",
   "lyricist": "작사",
@@ -27,7 +34,6 @@
     "rankA": "A 랭크",
     "rankS": "S 랭크"
   },
-  "difficulty": "난이도",
   "difficulty_plural": "난이도",
   "chartCredit": "채보 이미지는 에릭(pjsek.ai)이 수정해준 버전입니다.",
   "noteCount": "노트 수",
