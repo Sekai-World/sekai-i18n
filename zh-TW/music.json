@@ -1,4 +1,7 @@
 {
+  "difficulty": "難度",
+  "actualPlaybackTime": "實際播放時長",
+  "downloadFlacNoTrim": "下載的FLAC檔案會包含開頭的靜音段。",
   "vocal": "演唱者",
   "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "vocalTab": {
@@ -6,12 +9,16 @@
     "title[1]": "完整版本",
     "title[2]": "2DMV"
   },
+  "fileFormat": {
+    "caption": "檔案格式",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "跳過前面的無聲段",
   "tag": "標籤",
   "tag_plural": "標籤",
   "category": "類別",
   "category_plural": "類別",
-  "actualPlaybackTime": "實際播放時長",
   "arranger": "編曲",
   "composer": "作曲",
   "lyricist": "作詞",
@@ -27,7 +34,6 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
-  "difficulty": "難度",
   "difficulty_plural": "難度",
   "chartCredit": "譜面圖片改良自Erik(pjsek.ai)的版本。",
   "noteCount": "音符數量",
