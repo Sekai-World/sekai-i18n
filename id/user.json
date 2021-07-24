@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Data Event Sekai",
       "user_deck": "Tim Sekai Saat ini",
       "sekai_profile": "Profil Sekai",
-      "user_event": "Data Event Sekai",
-      "user_statistics": "Statistik Sekai",
+      "sekai_cards_teams": "Kartu & Tim Sekai",
       "card_list": "Kartu Sekai",
       "import_card": "Impor Kartu Sekai",
-      "manage_teams": "Kelola Tim"
+      "manage_teams": "Kelola Tim",
+      "user_statistics": "Statistik Sekai"
+    },
+    "event": {
+      "current_record_info": "Rekaman terakhir:",
+      "current_record_point": "Event point:",
+      "current_record_rank": "Peringkat Event:",
+      "current_record_time": "Waktu rekaman:",
+      "current_name": "Event saat ini:"
+    },
+    "label": {
+      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Tidak diverifikasi",
+      "sekai_user_id": "ID Pengguna Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Rank",
+      "sekai_user_word": "Perkenalan",
+      "sekai_id_verify": "Verifikasi",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"VERIFIKASI\".",
+      "sekai_user_music_not_found": "Catatan musik pengguna tidak ditemukan."
     },
     "import_card": {
       "table": {
@@ -46,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Gagal mengunggah avatar!",
     "upload_avatar": "Unggah Avatar",
     "username": "Nama pengguna",
     "nickname": "Nama Tampilan",
@@ -58,29 +82,8 @@
       "verify_sekai_id": "Verifikasi"
     },
     "email_confirmed": "Email Dikonfirmasi",
-    "upload_avatar_error": "Gagal mengunggah avatar!",
-    "event": {
-      "current_name": "Event saat ini:",
-      "current_record_info": "Rekaman terakhir:",
-      "current_record_point": "Event point:",
-      "current_record_rank": "Peringkat Event:",
-      "current_record_time": "Waktu rekaman:"
-    },
-    "label": {
-      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Tidak diverifikasi",
-      "sekai_user_id": "ID Pengguna Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nama",
-      "sekai_user_rank": "Rank",
-      "sekai_user_word": "Perkenalan",
-      "sekai_id_verify": "Verifikasi",
-      "sekai_id_verify_step_1_title": "Buka Profil",
-      "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
-      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
-      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"VERIFIKASI\"."
-    },
     "error": {
+      "sekai_id_malformed": "Sekai ID terdiri atas 16 digit angka, sama seperti kode pertemanan Anda.",
       "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain.",
       "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?"
     },
