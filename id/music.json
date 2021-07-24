@@ -1,4 +1,7 @@
 {
+  "difficulty": "Tingkat Kesulitan",
+  "actualPlaybackTime": "Waktu Pemutaran Aktual",
+  "downloadFlacNoTrim": "Berkas FLAC yang terunduh akan memiliki awalan yang bisu.",
   "vocal": "Vokal",
   "alert[0]": "<b>Sembilan detik</b> pertama dari setiap lagu tidak bersuara. Ini BUKAN bug.",
   "vocalTab": {
@@ -6,23 +9,23 @@
     "title[1]": "Versi panjang",
     "title[2]": "Video musik"
   },
+  "fileFormat": {
+    "caption": "Format Berkas",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Lewati bagian tidak bersuara",
   "tag": "Tag",
   "tag_plural": "Tags",
   "category": "Kategori",
   "category_plural": "Kategori",
-  "actualPlaybackTime": "Waktu Pemutaran Aktual",
   "arranger": "Aransemen",
   "composer": "Komposer",
   "lyricist": "Penulis lirik",
   "danceMember": "Anggota Tari",
   "danceMember_plural": "Anggota Tari",
-  "dancerCount": "Jumlah Penari",
   "vocal_plural": "Vokal",
   "vocalType": "Tipe Vokal",
-  "difficulty": "Tingkat Kesulitan",
-  "difficulty_plural": "Tingkat Kesulitan",
-  "noteCount": "Jumlah Not",
   "achievement": "Pencapaian",
   "scoreRankAchievement": {
     "title": "Rank Skor",
@@ -31,10 +34,19 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
+  "difficulty_plural": "Tingkat Kesulitan",
+  "chartCredit": "Gambar chart dimodifikasi dari versi Erik (pjsek.ai).",
+  "noteCount": "Jumlah Not",
+  "comboRewards": "Hadiah Combo",
+  "chartImage": "Chart",
+  "baseScore": "Rate Skor Dasar",
+  "feverScore": "Rate Skor Fever",
+  "eventRate": "Rate Poin Event",
   "clear_status": "Hapus Status",
   "hi_score": "Skor Tertinggi",
   "mvp_count": "Jumlah MVP",
   "super_star_count": "Jumlah Super Star",
+  "dancerCount": "Jumlah Penari",
   "combo": "Combo",
   "preview": "Pratinjau",
   "categoryType": {
