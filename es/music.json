@@ -1,4 +1,7 @@
 {
+  "difficulty": "Dificultad",
+  "actualPlaybackTime": "Tiempo real de reproducción",
+  "downloadFlacNoTrim": "El archivo FLAC descargado contendrá la parte silenciada inicial",
   "vocal": "Voz",
   "alert[0]": "Los primeros <b>nueve segundos</b> de cada canción no tienen sonido. Esto NO es un error. ",
   "vocalTab": {
@@ -6,18 +9,21 @@
     "title[1]": "Versión larga",
     "title[2]": "Vídeo musical"
   },
+  "fileFormat": {
+    "caption": "Formato de archivo",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Saltar el inicio silencioso",
   "tag": "Etiqueta",
   "tag_plural": "Etiquetas",
   "category": "Categoría",
   "category_plural": "Categorías",
-  "actualPlaybackTime": "Tiempo real de reproducción",
   "arranger": "Arreglista",
   "composer": "Compositor",
   "lyricist": "Letrista",
   "danceMember": "Miembro del baile",
   "danceMember_plural": "Miembros del baile",
-  "dancerCount": "Cantidad de bailarines",
   "vocal_plural": "Voces",
   "vocalType": "Tipo de voz",
   "achievement": "Logros",
@@ -28,7 +34,6 @@
     "rankA": "Rango A",
     "rankS": "Rango S"
   },
-  "difficulty": "Dificultad",
   "difficulty_plural": "Dificultades",
   "chartCredit": "La imagen del gráfico se ha modificado por parte de Erik's (pjsek.ai) ",
   "noteCount": "Número de notas",
@@ -41,6 +46,7 @@
   "hi_score": "Puntaje Record",
   "mvp_count": "Conteo de MVP",
   "super_star_count": "Conteo de Super Star",
+  "dancerCount": "Cantidad de bailarines",
   "combo": "Combos",
   "preview": "Vista previa",
   "categoryType": {
