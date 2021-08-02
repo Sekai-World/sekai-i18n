@@ -29,6 +29,12 @@
     "play_count": "Per Play Count",
     "per_hour": "Per Hour"
   },
+  "table": {
+    "column": {
+      "low": "Lowest Score",
+      "high": "Highest Score"
+    }
+  },
   "assumption": "Assumption: all perfect, event bonus 0%, use 0 energy drink, multiplayers all have same team.",
   "addCardDialog": {
     "title": "Add Card",

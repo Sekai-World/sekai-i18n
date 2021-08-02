@@ -1,11 +1,4 @@
 {
-  "skill": {
-    "score_up": "Score Boost",
-    "judgment_up": "Judgment & Score Boost",
-    "life_recovery": "Life Recovery & Score Boost",
-    "perfect_score_up": "Score Boost when PERFECT",
-    "life_score_up": "Score Boost with life condition"
-  },
   "character": {
     "caption": "Character"
   },
@@ -38,5 +31,12 @@
     "caption": "Language",
     "source": "Source Language",
     "target": "Target Language"
+  },
+  "skill": {
+    "score_up": "Score Boost",
+    "judgment_up": "Judgment & Score Boost",
+    "life_recovery": "Life Recovery & Score Boost",
+    "perfect_score_up": "Score Boost when PERFECT",
+    "life_score_up": "Score Boost with life condition"
   }
 }
