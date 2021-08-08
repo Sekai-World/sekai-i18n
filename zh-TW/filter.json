@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "分數加成",
-    "judgment_up": "判定和分數加成",
-    "life_recovery": "回復和分數加成",
-    "perfect_score_up": "PERFECT時分數加成"
-  },
   "character": {
     "caption": "角色"
   },
@@ -37,5 +31,12 @@
     "caption": "語言",
     "source": "原文語言",
     "target": "目標語言"
+  },
+  "skill": {
+    "score_up": "分數加成",
+    "judgment_up": "判定和分數加成",
+    "life_recovery": "回復和分數加成",
+    "perfect_score_up": "PERFECT時分數加成",
+    "life_score_up": "依生命值提升分數"
   }
 }
