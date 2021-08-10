@@ -1,4 +1,7 @@
 {
+  "difficulty": "難易度",
+  "actualPlaybackTime": "実際の再生時間",
+  "downloadFlacNoTrim": "ダウンロードしたFLACファイルには冒頭に無音部分があります。",
   "vocal": "ボーカル",
   "alert[0]": "全ての曲の最初の<b>9秒</b>は無音です.これはバグではありません.",
   "vocalTab": {
@@ -6,12 +9,16 @@
     "title[1]": "ロング版",
     "title[2]": "MV"
   },
+  "fileFormat": {
+    "caption": "ファイルフォーマット",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "冒頭の無音部分を飛ばす",
   "tag": "タグ",
   "tag_plural": "タグ",
   "category": "カテゴリー",
   "category_plural": "カテゴリー",
-  "actualPlaybackTime": "実際の再生時間",
   "arranger": "編曲",
   "composer": "作曲",
   "lyricist": "作詞",
@@ -27,7 +34,6 @@
     "rankA": "ランクA",
     "rankS": "ランクS"
   },
-  "difficulty": "難易度",
   "difficulty_plural": "難易度",
   "chartCredit": "譜面画像は、エリックさん（pjsek.ai）のバージョンを参考にしています。",
   "noteCount": "ノーツ数",
