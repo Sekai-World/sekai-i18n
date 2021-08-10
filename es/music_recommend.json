@@ -27,6 +27,12 @@
     "play_count": "Por recuento de jugadas",
     "per_hour": "Por hora"
   },
+  "table": {
+    "column": {
+      "low": "Puntuación más baja",
+      "high": "Puntuación más alta"
+    }
+  },
   "assumption": "Suponiendo que: solo PERFECT, beneficio de evento 0%, usas 0 bebidas de energía, todos los jugadores tienen el mismo equipo.",
   "addCardDialog": {
     "title": "Agregar Carta",
