@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "チーム情報の保存に失敗しました。繰り返し表示される場合は、バグの可能性があります。"
+  },
+  "save_team_succeed": "チーム情報の保存に成功しました",
   "button": {
     "calc_total_power": "総合力を取得"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "編成読み込み",
     "desc": "保存した編成から読み込む"
-  },
-  "error": {
-    "save_team_failed": "チーム情報の保存に失敗しました。繰り返し表示される場合は、バグの可能性があります。"
   }
 }
