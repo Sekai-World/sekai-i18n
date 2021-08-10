@@ -1,25 +1,37 @@
 {
+  "result": {
+    "musicName": "楽曲名",
+    "label": "結果",
+    "desc": "たった一つの操作で完了です。"
+  },
   "getResult": "結果を表示",
   "buildTeam": {
     "label": "チーム編成",
     "desc": "リザルト計算機に使用するチームを編成できます。",
+    "duplicatedCardError": "同じカードは追加できません。",
+    "cardMaxError": "これ以上追加できません。",
     "addCard": "カードを追加",
     "saveTeam": "編成を保存",
     "loadTeam": "編成を読み込む",
     "clearTeam": "リセット",
     "teamPower": "総合力",
-    "duplicatedCardError": "同じカードは追加できません。",
-    "cardMaxError": "これ以上追加できません。",
     "loadTeamError": "値が間違っています。",
     "teamTextCopied": "編成をクリップボードにコピーしました。"},
-  "result": {
-    "label": "結果",
-    "musicName": "楽曲名",
-    "desc": "たった一つの操作で完了です。"
-  },
   "modeSelect": {
+    "solo": "ひとりでライブ",
+    "multi": "みんなでライブ",
     "label": "モード選択",
-    "desc": "Recommender のモードを選択してください。"
+    "desc": "Recommender のモードを選択してください。",
+    "score": "スコア",
+    "event_point": "イベントポイント",
+    "play_count": "1 プレイあたり",
+    "per_hour": "1 時間あたり"
+  },
+  "table": {
+    "column": {
+      "low": "最低スコア",
+      "high": "最高スコア"
+    }
   },
   "assumption": "前提：ALL PERFECT、イベントボーナス0%、ライブPを0個使用、仲間は全員同じチームを使用",
   "addCardDialog": {
