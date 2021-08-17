@@ -1,0 +1,24 @@
+{
+  "tab": {
+    "title[0]": "الصورة الأولية",
+    "title[1]": "الصورة الأولية مقصوصة",
+    "title[2]": "صورة ما بعد التدريب",
+    "title[3]": "صورة ما بعد التدريب مقصوصة"
+  },
+  "gachaPhrase": "عبارة القاتشا",
+  "skillLevel": "مستوى المهارة",
+  "skillName": "مسمى المهارة",
+  "skillEffect": "قوى المهارة",
+  "stats": "الخصائص",
+  "cardLevel": "مستوى البطاقة",
+  "normal": "بطاقة اولية",
+  "trained": "ما بعد التدريب",
+  "sideStory": "قصة جانبية",
+  "sideStory1Unlocked": "فتح القصة الجانبية 1",
+  "sideStory2Unlocked": "فتح القصة الجانبية 2",
+  "sideStory_plural": "قصص جانبية",
+  "rarity": "النُدرة",
+  "power": "القوة",
+  "apply_event_filter": "أضف بونس الأحداث",
+  "skill": "المهارة"
+}
