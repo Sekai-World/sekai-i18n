@@ -1,0 +1,11 @@
+{
+  "play_live": "اختر ｢{{- name}}｣ قائدا لفريقك {{count}} مرات ",
+  "waiting_room": "قابل ｢{{- name}}｣ بساحة الإنتظار {{count}} مرات",
+  "collect_costume_3d": "احصل على {{count}} ازياء لـ ｢{{- name}}｣ من محل الازياء او من ترقية مستوى الشخصية",
+  "collect_stamp": "احصل على {{count}} مصلقات لـ ｢{{- name}}｣",
+  "read_area_talk": "اقرأ حوارات لـ ｢{{- name}}｣ بعدد {{count}} مرات",
+  "skill_level_up": "ارفع مستوى مهارة بطاقة ｢{{- name}}｣ بعدد {{count}} مرات",
+  "master_rank": "ارفع مستوى شخصية ｢{{- name}}｣ بعدد {{count}} مرات",
+  "read_card_episode_first": "اقرأ الجزء الأول من القصةالجانبية لأحدى بطاقات ｢{{- name}}｣ بعدد {{count}} مرات",
+  "read_card_episode_second": "اقرأ الجزء الثاني من القصة الجانبية لأحدى بطاقات ｢{{- name}}｣ بعدد {{count}} مرات"
+}
