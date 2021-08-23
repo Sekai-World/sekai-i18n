@@ -6,6 +6,6 @@
   "read_area_talk": "اقرأ حوارات لـ ｢{{- name}}｣ بعدد {{count}} مرات",
   "skill_level_up": "ارفع مستوى مهارة بطاقة ｢{{- name}}｣ بعدد {{count}} مرات",
   "master_rank": "ارفع مستوى شخصية ｢{{- name}}｣ بعدد {{count}} مرات",
-  "read_card_episode_first": "اقرأ الجزء الأول من القصةالجانبية لأحدى بطاقات ｢{{- name}}｣ بعدد {{count}} مرات",
+  "read_card_episode_first": "اقرأ الجزء الأول من القصة الجانبية لأحدى بطاقات ｢{{- name}}｣ بعدد {{count}} مرات",
   "read_card_episode_second": "اقرأ الجزء الثاني من القصة الجانبية لأحدى بطاقات ｢{{- name}}｣ بعدد {{count}} مرات"
 }
