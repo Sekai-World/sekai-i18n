@@ -27,6 +27,12 @@
     "play_count": "每局Live",
     "per_hour": "每小时"
   },
+  "table": {
+    "column": {
+      "low": "最低分数",
+      "high": "最高分数"
+    }
+  },
   "assumption": "假设条件：All Perfect，活动加成0%，不使用能量饮料加成，多人模式所有人队伍综合力都一样。",
   "addCardDialog": {
     "title": "添加卡片",
