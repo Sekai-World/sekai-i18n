@@ -1,0 +1,39 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "البانر والشعار"
+    },
+    "title[3]": "الخلفية",
+    "title[4]": "صورة العرض",
+    "title[0]": "الوصف",
+    "title[1]": "ملخص",
+    "title[2]": "محاكي"
+  },
+  "ceil_item": "غرض المبادلة",
+  "summary": "ملخص",
+  "description": "وصف",
+  "gacha_rate": "نِسَب القاتشا",
+  "normalRate": "النسبة المئوية العادية للبطاقات",
+  "guaranteedRate": "النسبة المئوية المضمونة للبطاقات",
+  "gacha_cards": "بطاقات القاتشا",
+  "pickupMember": "هامش",
+  "pickupMember_plural": "هامش",
+  "gacha_behaviors": "خيارات سحب القاتشا",
+  "gacha_simulator": "محاكي قاتشا",
+  "simulator": {
+    "total": "المجموع",
+    "cost": "التكلفة",
+    "count": "التعداد",
+    "percentage": "النسبة المئوية"
+  },
+  "behavior": {
+    "normal": "عادي",
+    "over_rarity_3_once": "بطاقة (3*) مضمون الحصول عليها",
+    "once_a_day": "مرة باليوم",
+    "over_rarity_4_once": "بطاقة (4*) مضمون الحصول عليها"
+  },
+  "gachaType": {
+    "ceil": "هامش",
+    "normal": "عادي"
+  }
+}
