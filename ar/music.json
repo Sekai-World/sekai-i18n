@@ -1,0 +1,58 @@
+{
+  "difficulty": "الصعوبة",
+  "actualPlaybackTime": "مدة الأغنية الأساسية",
+  "downloadFlacNoTrim": "تحميلك لملف الـFLAC سيتضمن التسع ثواني بلا صوت",
+  "vocal": "المغني",
+  "alert[0]": "لا يوجد صوت بأول <b>تسع ثواني</b> من كل أغنية. هذا حال الأغنية بملفات اللعبة وليس بخلل.",
+  "vocalTab": {
+    "title[0]": "النسخة القصيرة",
+    "title[1]": "النسخة الطويلة",
+    "title[2]": "الفيديو الموسيقي"
+  },
+  "fileFormat": {
+    "caption": "صيغة الملف",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "تخطي الصمت ببداية الأغنية",
+  "tag": "التصنيف",
+  "tag_plural": "التصنيفات",
+  "category": "النوع",
+  "category_plural": "الأنواع",
+  "arranger": "المُعِد الموسيقي",
+  "composer": "المؤلف",
+  "lyricist": "كاتب الكلمات",
+  "danceMember": "عضو بالفيديو",
+  "danceMember_plural": "اعضاء الفيديو",
+  "vocal_plural": "المغنين",
+  "vocalType": "نوع الغناء",
+  "achievement": "الإنجازات",
+  "scoreRankAchievement": {
+    "title": "مستوى مجموع النقاط",
+    "rankC": "مستوى C",
+    "rankB": "مستوى B",
+    "rankA": "مستوى A",
+    "rankS": "مستوى S"
+  },
+  "difficulty_plural": "مستويات الصعوبة",
+  "chartCredit": "مخطط الأغنية معدل من نسخة إيريك (pjsek.ai)",
+  "noteCount": "عدد النقرات",
+  "comboRewards": "مكافآت الكومبو",
+  "chartImage": "مخطط الأغنية",
+  "baseScore": "المعدل الأساسي",
+  "feverScore": "المعدل عند الحصول على Fever",
+  "eventRate": "المعدل خلال حدث",
+  "clear_status": "هامش",
+  "hi_score": "اعلى نتيجة",
+  "mvp_count": "عداد MVP",
+  "super_star_count": "عداد Super Star",
+  "dancerCount": "عداد اعضاء الفيديو",
+  "combo": "الكومبو",
+  "preview": "معاينة",
+  "categoryType": {
+    "mv": "فيديو ثلاثي الأبعاد",
+    "mv_2d": "فيديو ثنائي الأبعاد",
+    "original": "فيديو اصلي",
+    "image": "صورة ثابتة"
+  }
+}
