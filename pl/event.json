@@ -10,6 +10,7 @@
   "progress": "Progres",
   "title": {
     "boost": "Doładowanie",
+    "cheerful_carnival": "Wesoły Karnawał",
     "timepoint": "Punkty czasu",
     "rankingRewards": "Nagrody rankingu"
   },
@@ -18,12 +19,13 @@
   "maxBoost": "Maksymalne wzmocnienie (oba dopasowane)",
   "boostCards": "Wzmacniające karty",
   "eventCards": "Karty z wydarzenia",
+  "cheerful_carnival_midterm_1": "Pierwszy raport śródroczny",
+  "cheerful_carnival_midterm_2": "Drugi raport śródroczny",
   "startAt": "Wydarzenie zaczyna się",
   "closeAt": "Wydarzenie kończy się",
   "endAt": "Dostępność wydarzenia trwa do",
   "rankingAnnounceAt": "Ogłoszenie rankingu na",
   "distributionStartAt": "Przydział nagród od",
-  "distributionEndAt": "Przydział nagród do",
   "rankingReward": {
     "start": "Od",
     "end": "Do"
@@ -71,10 +73,11 @@
       "last_1h": "Ostatnia 1 godzina (na godzinę)"
     }
   },
-  "aggregateAt": "Zagregowany punkt czasowy",
-  "alreadyPast": "Już minął",
   "type": {
     "marathon": "Maraton",
     "cheerful_carnival": "Cheerful Carnival"
-  }
+  },
+  "distributionEndAt": "Przydział nagród do",
+  "aggregateAt": "Zagregowany punkt czasowy",
+  "alreadyPast": "Już minął"
 }
