@@ -1,0 +1,18 @@
+{
+  "category": "Kategoria",
+  "published_at": "Opublikowano",
+  "translators": "Tłumacze",
+  "fetch_error": "Wystąpił błąd podczas pobierania danych.",
+  "no_entry": "Brak wpisów.",
+  "title": "Tytuł",
+  "language": "Język",
+  "author": "Autor",
+  "co-authors": "Współautorzy",
+  "categoryName": {
+    "website": "Strona",
+    "normal": "Inne",
+    "game_update": "Aktualizacja gry",
+    "maintenance": "Przerwa techniczna",
+    "bug": "Błąd"
+  }
+}
