@@ -1,25 +1,37 @@
 {
+  "result": {
+    "musicName": "Nazwa piosenki",
+    "label": "Wynik",
+    "desc": "Jeszcze jeden krok i gotowe."
+  },
   "getResult": "Uzyskaj wynik",
   "buildTeam": {
     "label": "Zbuduj zespół",
     "desc": "Zbuduj swój zespół dla Rekomendatora Piosenek",
+    "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
+    "cardMaxError": "Jest już wystarczająco dużo kart.",
     "addCard": "Dodaj kartę",
     "saveTeam": "Zapisz zespół",
     "loadTeam": "Wczytaj zespół",
     "clearTeam": "Wyczyść zespół",
     "teamPower": "Siła zespołu",
-    "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
-    "cardMaxError": "Jest już wystarczająco dużo kart.",
     "loadTeamError": "Sprawdź dane wejściowe.",
     "teamTextCopied": "Tekst zespołu skopiowany do schowka."},
-  "result": {
-    "label": "Wynik",
-    "musicName": "Nazwa piosenki",
-    "desc": "Jeszcze jeden krok i gotowe."
-  },
   "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
     "label": "Wybór trybu",
-    "desc": "Wybierz tryb pracy rekomendatora."
+    "desc": "Wybierz tryb pracy rekomendatora.",
+    "score": "Wynik",
+    "event_point": "Punkty eventowe",
+    "play_count": "Ilość zagranych utworów",
+    "per_hour": "Na godzinę"
+  },
+  "table": {
+    "column": {
+      "low": "Najniższy wynik",
+      "high": "Najwyższy score"
+    }
   },
   "assumption": "Założenie: wszystko \"PERFECT\", bonus event'u 0%, brak zużytych napojów z energią, wszyscy gracze multiplayer mają tę samą drużynę.",
   "addCardDialog": {
