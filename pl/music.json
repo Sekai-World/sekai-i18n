@@ -1,4 +1,7 @@
 {
+  "difficulty": "Trudność",
+  "actualPlaybackTime": "Rzeczywisty czas odtwarzania",
+  "downloadFlacNoTrim": "Pobrany plik FLAC będzie zawierał ciszę na początku",
   "vocal": "Wokal",
   "alert[0]": "Pierwsze <b>dziewięć sekund</b> każdej piosenki nie ma dźwieku. To NIE jest błąd.",
   "vocalTab": {
@@ -6,23 +9,23 @@
     "title[1]": "Długa wersja",
     "title[2]": "Teledysk"
   },
+  "fileFormat": {
+    "caption": "Format pliku",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Pomiń ciszę na początku",
   "tag": "Etykieta",
   "tag_plural": "Etykiety",
   "category": "Kategoria",
   "category_plural": "Kategorie",
-  "actualPlaybackTime": "Rzeczywisty czas odtwarzania",
   "arranger": "Aranżer",
   "composer": "Kompozytor",
   "lyricist": "Autor tekstu",
   "danceMember": "Uczestnik tańca",
   "danceMember_plural": "Uczestnicy tańca",
-  "dancerCount": "Liczba tancerzy",
   "vocal_plural": "Wokale",
   "vocalType": "Typ wokalu",
-  "difficulty": "Trudność",
-  "difficulty_plural": "Trudności",
-  "noteCount": "Liczba nut",
   "achievement": "Osiągnięcia",
   "scoreRankAchievement": {
     "title": "Wynik rangi",
@@ -31,6 +34,11 @@
     "rankA": "Ranga A",
     "rankS": "Ranga S"
   },
+  "difficulty_plural": "Trudności",
+  "chartCredit": "Chart Image jest zmodyfikowane z wersji Erika (pjsek.ai).",
+  "noteCount": "Liczba nut",
+  "comboRewards": "Nagrody za Combo",
+  "chartImage": "Chart",
   "baseScore": "Podstawowa stawka punktowa",
   "feverScore": "Stawka punktowa fever",
   "eventRate": "Stawka punktowa wydarzenia",
@@ -38,6 +46,7 @@
   "hi_score": "Wynik",
   "mvp_count": "Liczba \"MVP\"",
   "super_star_count": "Liczba \"Super Star\"",
+  "dancerCount": "Liczba tancerzy",
   "combo": "Combos",
   "preview": "Podgląd",
   "categoryType": {
