@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Dane wydarzenia Sekai",
       "user_deck": "Obecny zespół Sekai",
       "sekai_profile": "Profil Sekai",
-      "user_event": "Dane wydarzenia Sekai",
-      "user_statistics": "Statystyka Sekai",
+      "sekai_cards_teams": "Karty i Drużyny Sekai",
       "card_list": "Karty Sekai",
       "import_card": "Importuj karty Sekai",
-      "manage_teams": "Zarządzaj zespołami"
+      "manage_teams": "Zarządzaj zespołami",
+      "user_statistics": "Statystyka Sekai"
+    },
+    "event": {
+      "current_record_info": "Poprzedni rekord:",
+      "current_record_point": "Punkty event'u:",
+      "current_record_rank": "Ranking event'u:",
+      "current_record_time": "Czas rekordu:",
+      "current_name": "Obecne wydarzenie:"
+    },
+    "label": {
+      "update_left": "Użyta liczba aktualizacji: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "Nie Zweryfikowane",
+      "sekai_user_id": "ID użytkownika Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nazwa",
+      "sekai_user_rank": "Ranga",
+      "sekai_user_word": "Wprowadzenie",
+      "sekai_id_verify": "Zweryfikuj",
+      "sekai_id_verify_step_1_title": "Otwórz Profil",
+      "sekai_id_verify_step_1_subtitle": "Kliknij \"Menu\" (1) w prawym górnym rogu, a potem kliknij \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Wpisz token i zapisz",
+      "sekai_id_verify_step_2_subtitle": "Wpisz twój token weryfikacyjny {{verify_token}} w pole tekstowe (1), a potem kliknij \"Back\" (2), aby zapisać. Potem kliknij przycisk \"ZWERYFIKUJ\".",
+      "sekai_user_music_not_found": "Nie znaleziono nagrania."
     },
     "import_card": {
       "table": {
@@ -46,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Nie udało się przesłać awatara!",
     "upload_avatar": "Prześlij awatar",
     "username": "Nazwa użytkownika",
     "nickname": "Wyświetlana nazwa",
@@ -58,29 +82,8 @@
       "verify_sekai_id": "Zweryfikuj"
     },
     "email_confirmed": "E-mail potwierdzony",
-    "upload_avatar_error": "Nie udało się przesłać awatara!",
-    "event": {
-      "current_name": "Obecne wydarzenie:",
-      "current_record_info": "Poprzedni rekord:",
-      "current_record_point": "Punkty event'u:",
-      "current_record_rank": "Ranking event'u:",
-      "current_record_time": "Czas rekordu:"
-    },
-    "label": {
-      "update_left": "Użyta liczba aktualizacji: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Nie Zweryfikowane",
-      "sekai_user_id": "ID użytkownika Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nazwa",
-      "sekai_user_rank": "Ranga",
-      "sekai_user_word": "Wprowadzenie",
-      "sekai_id_verify": "Zweryfikuj",
-      "sekai_id_verify_step_1_title": "Otwórz Profil",
-      "sekai_id_verify_step_1_subtitle": "Kliknij \"Menu\" (1) w prawym górnym rogu, a potem kliknij \"称号 & プロフィール\" (2)",
-      "sekai_id_verify_step_2_title": "Wpisz token i zapisz",
-      "sekai_id_verify_step_2_subtitle": "Wpisz twój token weryfikacyjny {{verify_token}} w pole tekstowe (1), a potem kliknij \"Back\" (2), aby zapisać. Potem kliknij przycisk \"ZWERYFIKUJ\"."
-    },
     "error": {
+      "sekai_id_malformed": "Sekai ID to 16 cyfrowy numer, taki sam jak twój friend code.",
       "sekai_id_already_bind": "ID Sekai jest już powiązane z innym użytkownikiem.",
       "sekai_id_verify_failed": "Nie udało się zweryfikować własności, czy opuściłeś panel profilu, aby zapisać?"
     },
