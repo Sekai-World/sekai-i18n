@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "Zwiększenie wyniku",
-    "judgment_up": "Zwiększenie wyniku i punktacji",
-    "life_recovery": "Odnowienie życia i zwiększenie wyniku",
-    "perfect_score_up": "Zwiększenie wyniku, gdy PERFECT"
-  },
   "character": {
     "caption": "Postać"
   },
@@ -27,6 +21,7 @@
   "music_mv": {
     "caption": "Rodzaj MV"
   },
+  "not-selected": "Niewybrane",
   "stampType": {
     "caption": "Rodzaj naklejki",
     "text": "Tekst",
@@ -36,5 +31,12 @@
     "caption": "Język",
     "source": "Język źródłowy",
     "target": "Język docelowy"
+  },
+  "skill": {
+    "score_up": "Zwiększenie wyniku",
+    "judgment_up": "Zwiększenie wyniku i punktacji",
+    "life_recovery": "Odnowienie życia i zwiększenie wyniku",
+    "perfect_score_up": "Zwiększenie wyniku, gdy PERFECT",
+    "life_score_up": "Zwiększenie liczby punktów z life condition"
   }
 }
