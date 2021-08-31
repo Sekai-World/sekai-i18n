@@ -1,23 +1,11 @@
 {
-  "selectLabel": {
-    "storyType": "Rodzaj historii",
-    "unitName": "Nazwa jednostki",
-    "unitStoryChapter": "Rozdział",
-    "unitStoryEpisode": "Epizod",
-    "eventName": "Nazwa wydarzenia",
-    "eventStoryEpisode": "Epizod",
-    "charaName": "Nazwa postaci",
-    "cardName": "Tytuł karty",
-    "cardStoryEpisode": "Epizod"
-  },
   "selectValue": {
     "eventStory": "Historie wydarzeń",
     "unitStory": "Historie jednostek",
     "charaStory": "Historie postaci",
-    "cardStory": "Historie kart"
-  },
-  "buttonLabel": {
-    "showEpisode": "Załaduj epizod opowieści"
+    "cardStory": "Historie kart",
+    "areaTalk": "Map Talk",
+    "liveTalk": "Live talk"
   },
   "snippet": {
     "FullScreenText": "Tekst pełnoekranowy",
@@ -29,5 +17,19 @@
     "BGM": "Muzyka w tle",
     "SE": "Efekt dźwiękowy",
     "NoSound": "Brak dźwięku"
+  },
+  "selectLabel": {
+    "storyType": "Rodzaj historii",
+    "unitName": "Nazwa jednostki",
+    "unitStoryChapter": "Rozdział",
+    "unitStoryEpisode": "Epizod",
+    "eventName": "Nazwa wydarzenia",
+    "eventStoryEpisode": "Epizod",
+    "charaName": "Nazwa postaci",
+    "cardName": "Tytuł karty",
+    "cardStoryEpisode": "Epizod"
+  },
+  "buttonLabel": {
+    "showEpisode": "Załaduj epizod opowieści"
   }
 }
