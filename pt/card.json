@@ -5,6 +5,7 @@
     "title[2]": "Imagem após treino",
     "title[3]": "Imagem após treino cortada"
   },
+  "gachaPhrase": "Frase do gacha",
   "skillLevel": "Nível da habilidade",
   "skillName": "Nome da habilidade",
   "skillEffect": "Efeito da habilidade",
@@ -18,6 +19,6 @@
   "sideStory_plural": "Histórias laterais",
   "rarity": "Raridade",
   "power": "Poder",
-  "skill": "Habilidade",
-  "apply_event_filter": "Aplicar bónus de evento"
+  "apply_event_filter": "Aplicar bónus de evento",
+  "skill": "Habilidade"
 }
