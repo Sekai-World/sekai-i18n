@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "Augmentation de score",
-    "judgment_up": "Perfect Lock et amélioration de score",
-    "life_recovery": "Récupération de vie et amélioration de score",
-    "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement"
-  },
   "character": {
     "caption": "Personnage"
   },
@@ -37,5 +31,12 @@
     "caption": "Langue",
     "source": "Langue source",
     "target": "Langue cible"
+  },
+  "skill": {
+    "score_up": "Augmentation de score",
+    "judgment_up": "Perfect Lock et amélioration de score",
+    "life_recovery": "Récupération de vie et amélioration de score",
+    "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement",
+    "life_score_up": "Amélioration de score avec état de la vie"
   }
 }
