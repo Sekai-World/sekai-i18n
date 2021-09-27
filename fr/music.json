@@ -1,4 +1,7 @@
 {
+  "difficulty": "Difficulté",
+  "actualPlaybackTime": "Durée de lecture",
+  "downloadFlacNoTrim": "Les fichiers téléchargés au format FLAC contiennent le silence au début de la chanson",
   "vocal": "Voix",
   "alert[0]": "Les premières <b>neuf secondes</b> de chaque chanson n'ont pas de son. Il ne s'agit PAS d'un bug.",
   "vocalTab": {
@@ -6,18 +9,21 @@
     "title[1]": "Version longue",
     "title[2]": "Clip vidéo"
   },
+  "fileFormat": {
+    "caption": "Format de fichier",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Passer le début sans son",
   "tag": "Balise",
   "tag_plural": "Balises",
   "category": "Catégorie",
   "category_plural": "Catégories",
-  "actualPlaybackTime": "Durée de lecture",
   "arranger": "Arrangement",
   "composer": "Composition",
   "lyricist": "Paroles",
   "danceMember": "Danseur",
   "danceMember_plural": "Danseurs",
-  "dancerCount": "Nombre de danseurs",
   "vocal_plural": "Voix",
   "vocalType": "Type de voix",
   "achievement": "Objectif",
@@ -28,7 +34,6 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
-  "difficulty": "Difficulté",
   "difficulty_plural": "Difficultés",
   "chartCredit": "L'image du graphique a été modifiée à partir de la version d'Erik (pjsek.ai).",
   "noteCount": "Nombre de notes",
@@ -41,6 +46,7 @@
   "hi_score": "Meilleur score",
   "mvp_count": "Nombre de MVP",
   "super_star_count": "Nombre de Super Star",
+  "dancerCount": "Nombre de danseurs",
   "combo": "Combos",
   "preview": "Aperçu",
   "categoryType": {
