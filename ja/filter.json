@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "スコア上昇",
-    "judgment_up": "判定・スコア上昇",
-    "life_recovery": "ライフ回復・スコア上昇",
-    "perfect_score_up": "パーフェクト時のみスコア上昇"
-  },
   "character": {
     "caption": "キャラクター"
   },
@@ -37,5 +31,12 @@
     "caption": "言語",
     "source": "ソース元の言語",
     "target": "目的の言語"
+  },
+  "skill": {
+    "score_up": "スコア上昇",
+    "judgment_up": "判定・スコア上昇",
+    "life_recovery": "ライフ回復・スコア上昇",
+    "perfect_score_up": "パーフェクト時のみスコア上昇",
+    "life_score_up": "ライフに応じてスコア上昇"
   }
 }

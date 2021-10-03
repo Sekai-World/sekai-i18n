@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "스코어 부스트",
-    "judgment_up": "판정 강화 & 스코어 부스트",
-    "life_recovery": "라이프 회복 & 스코어 부스트",
-    "perfect_score_up": "PERFECT일 때 스코어 부스트"
-  },
   "character": {
     "caption": "캐릭터"
   },
@@ -37,5 +31,12 @@
     "caption": "언어",
     "source": "소스 언어",
     "target": "대상 언어"
+  },
+  "skill": {
+    "score_up": "스코어 부스트",
+    "judgment_up": "판정 강화 & 스코어 부스트",
+    "life_recovery": "라이프 회복 & 스코어 부스트",
+    "perfect_score_up": "PERFECT일 때 스코어 부스트",
+    "life_score_up": "라이프 조건이 있는 점수 부스트"
   }
 }

@@ -27,6 +27,12 @@
     "play_count": "Bilangan Per Permainan",
     "per_hour": "Per Jam"
   },
+  "table": {
+    "column": {
+      "low": "Markah Terendah",
+      "high": "Markah Tertinggi"
+    }
+  },
   "assumption": "Anggapan: ALL PERFECT, bonus acara 0%, menggunakan 0 minuman tenaga, permainan ramai semua mempunyai pasukan yang sama.",
   "addCardDialog": {
     "title": "Tambah Kad",

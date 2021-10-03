@@ -4,8 +4,8 @@
     "title[1]": "ملصق الاسم (عرضي)",
     "title[2]": "ملصق الاسم (عمودي)"
   },
-  "name": "اسم",
-  "hiragana": "فوريقانا",
+  "name": "الاسم",
+  "hiragana": "فوريغانا",
   "gender": {
     "caption": "جنس",
     "female": "أنثى",
@@ -13,8 +13,8 @@
     "secret": "سر"
   },
   "scenario": "قصة",
-  "introduction": "مقدمة الذاتية",
-  "colorCode": "لون الرمزي",
+  "introduction": "مقدمة ذاتية",
+  "colorCode": "اللون الرمزي",
   "skinColorCode": "لون البشرة",
   "skinShadowColorCode1": "لون ظلال البشرة 1",
   "skinShadowColorCode2": "لون ظلال البشرة 2",
@@ -23,9 +23,9 @@
   "characterVoice": "مؤدي الصوت",
   "school": "مدرسة",
   "schoolYear": "صف",
-  "hobby": "هواية",
-  "specialSkill": "تخصص",
-  "favoriteFood": "طعام المفضل",
-  "hatedFood": "طعام المكروه",
+  "hobby": "الهواية",
+  "specialSkill": "التخصص",
+  "favoriteFood": "الطعام المفضل",
+  "hatedFood": "الطعام المكروه",
   "weak": "نقطة الضعف"
 }

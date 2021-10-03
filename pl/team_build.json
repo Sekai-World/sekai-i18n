@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Nie udało się zapisać zespołu. Jeśli zdarza się to zbyt często, może to być błąd."
+  },
+  "save_team_succeed": "Dane drużyny zostały pomyślnie zapisane",
   "button": {
     "calc_total_power": "Uzyskaj całkowitą moc"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Wczytaj zespół",
     "desc": "Wczytaj zespół z zapisanych wpisów zespołu."
-  },
-  "error": {
-    "save_team_failed": "Nie udało się zapisać zespołu. Jeśli zdarza się to zbyt często, może to być błąd."
   }
 }

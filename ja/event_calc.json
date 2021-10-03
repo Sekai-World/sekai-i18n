@@ -1,27 +1,41 @@
 {
-  "songSelect": {
-    "label": "楽曲の選択",
-    "desc": "分析する楽曲を選んでください",
-    "select": {
-      "song": "楽曲",
-      "difficulty": "難易度"
-    }
-  },
-  "gameData": {
-    "label": "ゲームデータ",
-    "desc": "計算のためのゲームデータを入力してください",
-    "energyDrink": "ブースト数",
-    "currentPoint": "現在の得点",
-    "targetPoint": "目標得点",
-    "remainingTime": "イベント残り時間",
-    "eventBonusRate": "イベントボーナス率(%)"
-  },
-  "assumption": "APを達成、みんなでライブにて全員同じ編成、レベルアップ時のブーストプレゼントを考えないとする",
   "result": {
+    "perHour": "1時間あたり",
     "eventPointPerPlay": "一回当たりのイベントポイント",
     "playClount": "総プレイ回数",
     "playTime": "総プレイ時間",
     "useBoost": "ブースト総消費量",
     "totalPoint": "総イベントポイント"
-  }
+  },
+  "eventData": {
+    "label": "イベントデータ"
+  },
+  "eventMode": {
+    "existed": "既存",
+    "custom": "カスタム"
+  },
+  "gameData": {
+    "energyDrink": "ブースト数",
+    "eventBonusRate": "イベントボーナス率(%)",
+    "teamAvgPower": "平均総合パワー",
+    "currentPoint": "現在の得点",
+    "targetPoint": "目標得点",
+    "label": "ゲームデータ",
+    "desc": "計算のためのゲームデータを入力してください",
+    "remainingTime": "イベント残り時間"
+  },
+  "songSelect": {
+    "label": "楽曲の選択",
+    "select": {
+      "difficulty": "難易度",
+      "song": "楽曲"
+    },
+    "desc": "分析する楽曲を選んでください"
+  },
+  "songMode": {
+    "label": "楽曲を選択",
+    "all_songs": "楽曲を比較",
+    "only_one": "楽曲を指定"
+  },
+  "assumption": "APを達成、みんなでライブにて全員同じ編成、レベルアップ時のブーストプレゼントを考えないとする"
 }
