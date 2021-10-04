@@ -17,6 +17,7 @@
   "boostAttribute": "ボーナスタイプ",
   "boostCharacters": "ボーナスキャラクター",
   "maxBoost": "ボーナス(両方一致）",
+  "boostSpecificCards": "キャラクターボーナス",
   "boostCards": "ボーナスカード",
   "eventCards": "イベント限定カード",
   "cheerful_carnival_midterm_1": "最初の中間発表",
@@ -73,11 +74,11 @@
       "last_1h": "終了前の1時間(時間毎)"
     }
   },
-  "distributionEndAt": "報酬受け取り期限",
-  "aggregateAt": "集計開始時間",
-  "alreadyPast": "経過時間",
   "type": {
     "marathon": "マラソン",
     "cheerful_carnival": "チアフルカーニバル"
-  }
+  },
+  "distributionEndAt": "報酬受け取り期限",
+  "aggregateAt": "集計開始時間",
+  "alreadyPast": "経過時間"
 }
