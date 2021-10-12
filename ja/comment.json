@@ -3,7 +3,7 @@
   "write": "構成する",
   "no_comment_yet": "コメントはありません。",
   "report-abuse": {
-    "title": "コメントを報告",
+    "title": "コメントを報告する",
     "description": "このコメントが不快に感じた場合は報告してください",
     "reason": {
       "label": "報告の理由",
