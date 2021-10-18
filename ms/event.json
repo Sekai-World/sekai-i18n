@@ -17,6 +17,7 @@
   "boostAttribute": "Atribut Penggalak",
   "boostCharacters": "Watak Penggalak",
   "maxBoost": "Penggalak Maksimum (Kedua-duanya Sepadan)",
+  "boostSpecificCards": "Kad Istimewa Penggalak",
   "boostCards": "Kad Penggalak",
   "eventCards": "Kad Acara",
   "cheerful_carnival_midterm_1": "Laporan Separuh Penggal Pertama",
@@ -73,11 +74,11 @@
       "last_1h": "1 jam terakhir (per jam)"
     }
   },
-  "distributionEndAt": "Pengagihan Ganjaran Sehingga",
-  "aggregateAt": "Titik Masa Agregat",
-  "alreadyPast": "Telah Berlalu",
   "type": {
     "marathon": "Maraton",
     "cheerful_carnival": "Karnival Penuh Riang"
-  }
+  },
+  "distributionEndAt": "Pengagihan Ganjaran Sehingga",
+  "aggregateAt": "Titik Masa Agregat",
+  "alreadyPast": "Telah Berlalu"
 }
