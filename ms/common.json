@@ -74,12 +74,11 @@
   "apply": "Gunakan",
   "profile": "Profil",
   "character_plural": "Watak",
-  "advertisement": "Iklan",
-  "countdown": {
-    "day": "Hari",
-    "hour": "Jam",
-    "minute": "Minit",
-    "second": "Saat"
+  "serverRegionSelect": "Kawasan Pelayan",
+  "serverRegion": {
+    "jp": "Bahasa Jepun",
+    "tw": "Bahasa Cina Tradisional",
+    "en": "Bahasa Inggeris"
   },
   "language": "Bahasa",
   "darkmode": "Mod Kecerahan",
@@ -90,6 +89,13 @@
     "both": "Tunjukkan Kedua-duanya"
   },
   "spoilerContent": "Kandungan Belum Terbit",
+  "advertisement": "Iklan",
+  "countdown": {
+    "day": "Hari",
+    "hour": "Jam",
+    "minute": "Minit",
+    "second": "Saat"
+  },
   "spoiler": "Belum Terbit",
   "all": "Semua",
   "search": "Cari",
