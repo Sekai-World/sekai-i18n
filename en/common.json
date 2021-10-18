@@ -74,12 +74,11 @@
   "apply": "Apply",
   "profile": "Profile",
   "character_plural": "Characters",
-  "advertisement": "Advertisement",
-  "countdown": {
-    "day": "Days",
-    "hour": "Hours",
-    "minute": "Minutes",
-    "second": "Seconds"
+  "serverRegionSelect": "Server Region",
+  "serverRegion": {
+    "jp": "Japanese",
+    "tw": "Traditional Chinese",
+    "en": "English (Global)"
   },
   "language": "Language",
   "darkmode": "Brightness Mode",
@@ -90,6 +89,13 @@
     "both": "Show Both"
   },
   "spoilerContent": "Spoiler Content",
+  "advertisement": "Advertisement",
+  "countdown": {
+    "day": "Days",
+    "hour": "Hours",
+    "minute": "Minutes",
+    "second": "Seconds"
+  },
   "spoiler": "Spoiler",
   "all": "All",
   "search": "Search",
