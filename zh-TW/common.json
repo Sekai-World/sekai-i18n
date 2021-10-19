@@ -64,6 +64,7 @@
   "back": "上一步",
   "next": "下一步",
   "betaIndicator": "這項功能目前仍處於測試階段。歡迎向我們提報這項功能的錯誤。",
+  "challengeLive": "挑戰Live",
   "endAt": "結束於",
   "show": "顯示",
   "campaign": "紀念活動",
@@ -73,12 +74,11 @@
   "apply": "應用",
   "profile": "角色資料",
   "character_plural": "角色",
-  "advertisement": "廣告",
-  "countdown": {
-    "day": "天",
-    "hour": "小時",
-    "minute": "分鐘",
-    "second": "秒"
+  "serverRegionSelect": "伺服器地區",
+  "serverRegion": {
+    "jp": "日服",
+    "tw": "繁體字服",
+    "en": "英文服(國際服)"
   },
   "language": "語言",
   "darkmode": "顯示主題",
@@ -89,6 +89,13 @@
     "both": "皆顯示"
   },
   "spoilerContent": "劇透內容",
+  "advertisement": "廣告",
+  "countdown": {
+    "day": "天",
+    "hour": "小時",
+    "minute": "分鐘",
+    "second": "秒"
+  },
   "spoiler": "劇透",
   "all": "全部",
   "search": "搜尋",
