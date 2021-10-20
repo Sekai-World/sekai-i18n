@@ -17,6 +17,7 @@
   "boostAttribute": "加成屬性",
   "boostCharacters": "加成角色",
   "maxBoost": "加成（兩者皆滿足）",
+  "boostSpecificCards": "特殊加成卡牌",
   "boostCards": "加成卡片",
   "eventCards": "活動卡片",
   "cheerful_carnival_midterm_1": "第一個中期報告",
@@ -73,11 +74,11 @@
       "last_1h": "最近1小時（每小時）"
     }
   },
-  "distributionEndAt": "排名報酬結束發放日期",
-  "aggregateAt": "活動pt合計時間",
-  "alreadyPast": "活動已經過",
   "type": {
     "marathon": "累積點數",
     "cheerful_carnival": "歡樂嘉年華"
-  }
+  },
+  "distributionEndAt": "排名報酬結束發放日期",
+  "aggregateAt": "活動pt合計時間",
+  "alreadyPast": "活動已經過"
 }
