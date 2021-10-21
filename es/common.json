@@ -64,6 +64,7 @@
   "back": "Atrás",
   "next": "Siguiente",
   "betaIndicator": "Esta función está en beta. El reporte de bugs es bienvenido.",
+  "challengeLive": "Desafío en vivo",
   "endAt": "Disponible hasta",
   "show": "Mostrar",
   "campaign": "Campaña",
@@ -73,12 +74,11 @@
   "apply": "Aplicar",
   "profile": "Perfil",
   "character_plural": "Personajes",
-  "advertisement": "Anuncio",
-  "countdown": {
-    "day": "Días",
-    "hour": "Horas",
-    "minute": "Minutos",
-    "second": "Segundos"
+  "serverRegionSelect": "Region del server",
+  "serverRegion": {
+    "jp": "Japonés ",
+    "tw": "Chino tradicional",
+    "en": "Ingles (Global)"
   },
   "language": "Idioma",
   "darkmode": "Modo de brillo",
@@ -89,6 +89,13 @@
     "both": "Mostrar ambos"
   },
   "spoilerContent": "Contenido con Spoilers",
+  "advertisement": "Anuncio",
+  "countdown": {
+    "day": "Días",
+    "hour": "Horas",
+    "minute": "Minutos",
+    "second": "Segundos"
+  },
   "spoiler": "Spoiler",
   "all": "Todo",
   "search": "Buscar",
