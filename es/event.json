@@ -17,6 +17,7 @@
   "boostAttribute": "Atributo de aumento",
   "boostCharacters": "Personajes de aumento",
   "maxBoost": "Máximo aumento (Ambos usados) ",
+  "boostSpecificCards": "Cartas con boost especial",
   "boostCards": "Cartas con Bonus",
   "eventCards": "Cartas de Evento",
   "cheerful_carnival_midterm_1": "Primer informe intermedio",
@@ -73,11 +74,11 @@
       "last_1h": "Hace 1 hora (por hora)"
     }
   },
-  "distributionEndAt": "Distribución de recompensas hasta",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past",
   "type": {
     "marathon": "Maratón",
     "cheerful_carnival": "Cheerful Carnival"
-  }
+  },
+  "distributionEndAt": "Distribución de recompensas hasta",
+  "aggregateAt": "Aggregate Timepoint",
+  "alreadyPast": "Already Past"
 }
