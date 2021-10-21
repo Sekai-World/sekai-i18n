@@ -29,7 +29,7 @@
       "sekai_id_verify_step_1_title": "打開個人檔案",
       "sekai_id_verify_step_1_subtitle": "點擊右上角的「目錄」(1)按鈕，然後點擊＂称号 & プロフィール＂(2)按鈕",
       "sekai_id_verify_step_2_title": "填入令牌並儲存",
-      "sekai_id_verify_step_2_subtitle": "寫入你的驗證令牌 {{verify_token}} 到文本框裡(1)，然後點擊＂返回＂(2)按鈕以保存。在這之後點擊＂驗證＂按鈕。",
+      "sekai_id_verify_step_2_subtitle": "填入你的驗證令牌 {{verify_token}} 到文字框內(1)，然後點擊「上一頁」(2)按鈕以儲存。在這之後點擊＂驗證＂按鈕。",
       "sekai_user_music_not_found": "找不到對應的樂曲紀錄。"
     },
     "import_card": {
