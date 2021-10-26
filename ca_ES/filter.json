@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "Impuls de puntuació",
-    "judgment_up": "Impuls de puntuació i judici",
-    "life_recovery": "Impuls de puntuació y recuperació",
-    "perfect_score_up": "Impuls de puntuación per PERFECT"
-  },
   "character": {
     "caption": "Persontatge"
   },
@@ -37,5 +31,12 @@
     "caption": "Llengua",
     "source": "Llengua d'origen",
     "target": "Llengua objectiu"
+  },
+  "skill": {
+    "score_up": "Impuls de puntuació",
+    "judgment_up": "Impuls de puntuació i judici",
+    "life_recovery": "Impuls de puntuació y recuperació",
+    "perfect_score_up": "Impuls de puntuación per PERFECT",
+    "life_score_up": "Impuls de puntuació amb les condicions de salut."
   }
 }
