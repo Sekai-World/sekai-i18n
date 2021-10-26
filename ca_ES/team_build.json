@@ -1,4 +1,8 @@
 {
+  "error": {
+    "save_team_failed": "Error al desar l'equip. Si ocorre massa aviat, pot ser un bug."
+  },
+  "save_team_succeed": "Les dades del grup s'han desart correctament",
   "button": {
     "calc_total_power": "Obtenir poder total"
   },
@@ -19,8 +23,5 @@
   "loadTeamDialog": {
     "title": "Carregar equip",
     "desc": "Carregar equip d'entrades d'equip desades."
-  },
-  "error": {
-    "save_team_failed": "Error al desar l'equip. Si ocorre massa aviat, pot ser un bug."
   }
 }
