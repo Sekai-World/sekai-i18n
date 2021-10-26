@@ -1,13 +1,36 @@
 {
   "profile": {
     "title": {
+      "user_event": "Dades d'esdeveniments",
       "user_deck": "Equip actual",
       "sekai_profile": "Perfil a Sekai",
-      "user_event": "Dades d'esdeveniments",
-      "user_statistics": "Estadístiques",
+      "sekai_cards_teams": "Cartes i equips a Sekai",
       "card_list": "Cartes",
       "import_card": "Importar cartes",
-      "manage_teams": "Gestionar equips"
+      "manage_teams": "Gestionar equips",
+      "user_statistics": "Estadístiques"
+    },
+    "event": {
+      "current_record_info": "Última actualització:",
+      "current_record_point": "Punts d'esdeveniment:",
+      "current_record_rank": "Posició a l'esdeveniment:",
+      "current_record_time": "Hora d'actualització:",
+      "current_name": "Esdeveniment actual:"
+    },
+    "label": {
+      "update_left": "Nombre d'actualitzacions fetes: {{ used }} / {{ allowed }}",
+      "sekai_id_not_verified": "No verificada",
+      "sekai_user_id": "ID Usuari Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nom",
+      "sekai_user_rank": "Nivell",
+      "sekai_user_word": "Introducció",
+      "sekai_id_verify": "Verificar",
+      "sekai_id_verify_step_1_title": "Obrir perfil",
+      "sekai_id_verify_step_1_subtitle": "Premeu el botó \"Menu\" (1) al racó superior dret, i torna a premer el botó \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Escriu el token i desa",
+      "sekai_id_verify_step_2_subtitle": "Escriu el teu token de verificació {{verify_token}} al cuadre de text (1), prem el botó \"Back\" (2) per desar. Després, premeu el botó \"VERIFICAR\".",
+      "sekai_user_music_not_found": "El registre musical de l'usuario no s'ha trobat."
     },
     "import_card": {
       "table": {
@@ -46,6 +69,7 @@
         }
       }
     },
+    "upload_avatar_error": "Error al pujar l'avatar!",
     "upload_avatar": "Pujar avatar",
     "username": "Nom d'usuari",
     "nickname": "Nom",
@@ -58,29 +82,8 @@
       "verify_sekai_id": "Verificar"
     },
     "email_confirmed": "Correu confirmat",
-    "upload_avatar_error": "Error al pujar l'avatar!",
-    "event": {
-      "current_name": "Esdeveniment actual:",
-      "current_record_info": "Última actualització:",
-      "current_record_point": "Punts d'esdeveniment:",
-      "current_record_rank": "Posició a l'esdeveniment:",
-      "current_record_time": "Hora d'actualització:"
-    },
-    "label": {
-      "update_left": "Nombre d'actualitzacions fetes: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "No verificada",
-      "sekai_user_id": "ID Usuari Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nom",
-      "sekai_user_rank": "Nivell",
-      "sekai_user_word": "Introducció",
-      "sekai_id_verify": "Verificar",
-      "sekai_id_verify_step_1_title": "Obrir perfil",
-      "sekai_id_verify_step_1_subtitle": "Premeu el botó \"Menu\" (1) al racó superior dret, i torna a premer el botó \"称号 & プロフィール\" (2)",
-      "sekai_id_verify_step_2_title": "Escriu el token i desa",
-      "sekai_id_verify_step_2_subtitle": "Escriu el teu token de verificació {{verify_token}} al cuadre de text (1), prem el botó \"Back\" (2) per desar. Després, premeu el botó \"VERIFICAR\"."
-    },
     "error": {
+      "sekai_id_malformed": "El ID d'usuari Sekai es un número de 16 dígits, idéntic al codi d'amic.",
       "sekai_id_already_bind": "La Sekai ID ja està lligada a un altre usuari.",
       "sekai_id_verify_failed": "No s'ha pogut verificar el propietari. Has deixat el quadre de perfil per desar?"
     },
