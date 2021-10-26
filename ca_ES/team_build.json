@@ -1,6 +1,6 @@
 {
   "error": {
-    "save_team_failed": "Error al desar l'equip. Si ocorre massa aviat, pot ser un bug."
+    "save_team_failed": "Error al desar el grup. Si ocorre massa aviat, pot ser un bug."
   },
   "save_team_succeed": "Les dades del grup s'han desart correctament",
   "button": {
