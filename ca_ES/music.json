@@ -1,4 +1,7 @@
 {
+  "difficulty": "Dificultat",
+  "actualPlaybackTime": "Duració total",
+  "downloadFlacNoTrim": "El fitxer descarregat en format FLAC contindrà el silenci inical",
   "vocal": "Vocalista",
   "alert[0]": "Els primers <b>nou segons</b>de cada cançó no tenen so. Aixó NO és un bug.",
   "vocalTab": {
@@ -6,12 +9,16 @@
     "title[1]": "Versió llarga",
     "title[2]": "Videoclip"
   },
+  "fileFormat": {
+    "caption": "Forma de l'arxiu",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Ometre el silenci inicial",
   "tag": "Etiqueta",
   "tag_plural": "Etiquetes",
   "category": "Categoria",
   "category_plural": "Categories",
-  "actualPlaybackTime": "Duració total",
   "arranger": "Arranjador",
   "composer": "Compositor",
   "lyricist": "Líric",
@@ -27,7 +34,6 @@
     "rankA": "Rang A",
     "rankS": "Rang S"
   },
-  "difficulty": "Dificultat",
   "difficulty_plural": "Dificultats",
   "chartCredit": "L'imatge del mapa de notes es una modificació de la versió de Erik (pjsek.ai).",
   "noteCount": "Nombre de notes",
