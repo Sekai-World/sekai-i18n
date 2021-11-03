@@ -74,12 +74,11 @@
   "apply": "適用",
   "profile": "プロフィール",
   "character_plural": "キャラクター",
-  "advertisement": "宣伝",
-  "countdown": {
-    "day": "日",
-    "hour": "時間",
-    "minute": "分",
-    "second": "秒"
+  "serverRegionSelect": "リージョン",
+  "serverRegion": {
+    "jp": "日本語版",
+    "tw": "繁体字版",
+    "en": "グローバル版"
   },
   "language": "言語",
   "darkmode": "画面の明るさ",
@@ -90,6 +89,13 @@
     "both": "両方表示"
   },
   "spoilerContent": "ネタバレを扱っている内容",
+  "advertisement": "宣伝",
+  "countdown": {
+    "day": "日",
+    "hour": "時間",
+    "minute": "分",
+    "second": "秒"
+  },
   "spoiler": "ネタバレ",
   "all": "全てのキャラ",
   "search": "検索",
