@@ -1,0 +1,17 @@
+{
+  "send": "Poslat",
+  "write": "Napsat",
+  "no_comment_yet": "Žádné komentáře",
+  "report-abuse": {
+    "title": "Nahlásit komentář",
+    "description": "Nahlašte tento komentář jenom pokud vás znepokojuje",
+    "reason": {
+      "label": "Důvod nahlášení",
+      "other": "Ostatní",
+      "bad_words": "Sprostá Slova",
+      "discrimination": "Diskriminace"
+    },
+    "content": "Vaše zpráva",
+    "success": "Děkujeme za nahlášení, brzy to vyhodnotíme"
+  }
+}
