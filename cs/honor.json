@@ -1,0 +1,15 @@
+{
+  "page_title": "Tituly",
+  "honor_group": "Skupina Titilů",
+  "rarity": {
+    "low": "Nízká",
+    "middle": "Střední",
+    "high": "Vysoká",
+    "highest": "Nejvyšší"
+  },
+  "type": {
+    "character": "Postava",
+    "achievement": "Úspěch",
+    "event": "Event"
+  }
+}
