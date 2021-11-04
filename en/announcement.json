@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Error occured while fetching data.",
   "category": "Category",
+  "no_entry": "No entries.",
   "published_at": "Published At",
   "translators": "Translators",
-  "fetch_error": "Error occured while fetching data.",
-  "no_entry": "No entries.",
   "title": "Title",
   "language": "Language",
   "author": "Author",

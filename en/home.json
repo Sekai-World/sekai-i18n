@@ -5,6 +5,13 @@
   "alert_translate": {
     "title": "Thanks to the translators!"
   },
+  "versionInfo": {
+    "caption": "Version Info",
+    "gameClientVer": "Game Client Version",
+    "dataVer": "Data Version",
+    "assetVer": "Asset Version",
+    "multiPlayerVer": "Multiplayer Version"
+  },
   "game-news": {
     "action": "Action",
     "show-from": "Show From",
@@ -14,7 +21,6 @@
   },
   "new_year_countdown": "",
   "happy_new_year": "🎊Happy New Year!🎉",
-  "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more.",
   "detect": {
     "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
     "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
@@ -32,5 +38,7 @@
     "contact": "Contact Me",
     "join-discord": "Join Discord Server"
   },
-  "update": "Related Links"
+  "changelog": "Changelog",
+  "update": "Related Links",
+  "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
 }

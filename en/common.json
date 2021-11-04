@@ -1,8 +1,27 @@
 {
-  "about": "About",
-  "comment": "Comments",
+  "advertisement": "Advertisement",
+  "character": "Character",
+  "all": "All",
+  "rarity": "Rarity",
+  "attribute": "Attribute",
+  "search": "Search",
+  "replace": "Replace",
+  "delete": "Delete",
+  "load": "Load",
+  "update": "Update",
+  "update-available": "New version available.",
   "announcement": "Announcements",
   "loading": "Loading...",
+  "countdown": {
+    "day": "Days",
+    "hour": "Hours",
+    "minute": "Minutes",
+    "second": "Seconds"
+  },
+  "ongoing_event": "Ongoing Event",
+  "spoiler": "Spoiler",
+  "about": "About",
+  "comment": "Comments",
   "home": "Home",
   "translation": "Translation",
   "card": "Card",
@@ -11,7 +30,6 @@
   "event": "Event",
   "stamp": "Sticker",
   "comic": "Comic",
-  "character": "Character",
   "mission": {
     "main": "Mission",
     "honor": "Title",
@@ -27,6 +45,9 @@
   "text": "Text Only",
   "eventTracker": "Event Tracker",
   "eventAnalyzer": "Event Analyzer",
+  "settings": {
+    "title": "Settings"
+  },
   "support": "Support",
   "toolbar": {
     "title": "Function List"
@@ -34,19 +55,12 @@
   "community": "Community",
   "information": "Information",
   "tools": "Tools",
-  "settings": {
-    "title": "Settings"
-  },
   "user": "User",
-  "update": "Update",
-  "update-available": "New version available.",
   "id": "ID",
   "title": "Title",
   "unit": "Unit",
   "support_unit": "Support Unit",
-  "attribute": "Attribute",
   "startAt": "Available From",
-  "rarity": "Rarity",
   "thumb": "Thumbnail",
   "skill": "Skill",
   "performance": "Performance",
@@ -58,7 +72,6 @@
   "rewards": "Rewards",
   "reset": "Reset",
   "submit": "Submit",
-  "ongoing_event": "Ongoing Event",
   "mode": "Mode",
   "type": "Type",
   "back": "Back",
@@ -74,6 +87,7 @@
   "apply": "Apply",
   "profile": "Profile",
   "character_plural": "Characters",
+  "detectionFailedPrompt": "Failed to determine your region, please check your network",
   "serverRegionSelect": "Server Region",
   "serverRegion": {
     "jp": "Japanese",
@@ -88,20 +102,10 @@
     "translated": "Translated (if available)",
     "both": "Show Both"
   },
+  "miscs": "Miscellaneous",
   "spoilerContent": "Spoiler Content",
-  "advertisement": "Advertisement",
-  "countdown": {
-    "day": "Days",
-    "hour": "Hours",
-    "minute": "Minutes",
-    "second": "Seconds"
-  },
-  "spoiler": "Spoiler",
-  "all": "All",
-  "search": "Search",
-  "replace": "Replace",
-  "delete": "Delete",
-  "load": "Load",
+  "currentRegion": "Current Detected Region",
+  "regionTooltip": "This will determine your CDN server region",
   "modify": "Modify",
   "login": "Login",
   "reset_password": "Reset Password",
@@ -110,12 +114,13 @@
   "close": "Close",
   "area_item": "Area Item",
   "signup": "Sign Up",
-  "hide": "Hide",
   "detect": {
+    "button": "Detect",
     "checking": "Checking...",
     "unsupported": "Unsupported",
     "supported": "Supported"
   },
+  "hide": "Hide",
   "icon": "Icon",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",

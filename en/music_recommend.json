@@ -1,24 +1,29 @@
 {
-  "result": {
-    "musicName": "Music Name",
-    "label": "Result",
-    "desc": "Just one step and you're finished."
-  },
-  "getResult": "Get Result",
   "buildTeam": {
-    "label": "Build Team",
-    "desc": "Build your team for Song Recommender",
     "cardMaxError": "There are already enough cards.",
     "addCard": "Add Card",
     "saveTeam": "Save Team",
     "loadTeam": "Load Team",
     "clearTeam": "Clear Team",
     "teamPower": "Team Power",
+    "label": "Build Team",
+    "desc": "Build your team for Song Recommender",
     "duplicatedCardError": "Can't add same card to one team.",
     "loadTeamError": "Check your input.",
     "teamTextCopied": "Team text copied to clipboard.",
     "teamTextSaved": ""
   },
+  "addCardDialog": {
+    "title": "Add Card",
+    "selectChara": "Character",
+    "selectRarity": "Rarity"
+  },
+  "result": {
+    "musicName": "Music Name",
+    "label": "Result",
+    "desc": "Just one step and you're finished."
+  },
+  "getResult": "Get Result",
   "modeSelect": {
     "solo": "Solo",
     "multi": "Multiplayer",
@@ -36,11 +41,6 @@
     }
   },
   "assumption": "Assumption: all perfect, event bonus 0%, use 0 energy drink, multiplayers all have same team.",
-  "addCardDialog": {
-    "title": "Add Card",
-    "selectChara": "Character",
-    "selectRarity": "Rarity"
-  },
   "saveTeamDialog": {
     "title": "Save Team",
     "desc": "Save team code and load it later."
