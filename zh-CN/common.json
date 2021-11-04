@@ -104,7 +104,7 @@
   },
   "miscs": "杂项",
   "spoilerContent": "剧透内容",
-  "currentRegion": "当前识别的区域",
+  "currentRegion": "探测到的当前区域",
   "regionTooltip": "这会决定你的CDN服务器地区",
   "modify": "修改",
   "login": "登录",
