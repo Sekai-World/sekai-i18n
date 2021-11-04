@@ -1,8 +1,27 @@
 {
-  "about": "关于",
-  "comment": "评论",
+  "advertisement": "广告",
+  "character": "角色",
+  "all": "全部",
+  "rarity": "稀有度",
+  "attribute": "属性",
+  "search": "搜索",
+  "replace": "替换",
+  "delete": "删除",
+  "load": "加载",
+  "update": "更新",
+  "update-available": "新版本可用。",
   "announcement": "公告",
   "loading": "载入中……",
+  "countdown": {
+    "day": "天",
+    "hour": "小时",
+    "minute": "分钟",
+    "second": "秒"
+  },
+  "ongoing_event": "进行中的活动",
+  "spoiler": "剧透",
+  "about": "关于",
+  "comment": "评论",
   "home": "主页",
   "translation": "翻译",
   "card": "卡牌",
@@ -11,7 +30,6 @@
   "event": "活动",
   "stamp": "贴纸",
   "comic": "漫画",
-  "character": "角色",
   "mission": {
     "main": "任务",
     "honor": "称号",
@@ -27,6 +45,9 @@
   "text": "纯文本",
   "eventTracker": "活动跟踪器",
   "eventAnalyzer": "活动分析器",
+  "settings": {
+    "title": "设置"
+  },
   "support": "支持",
   "toolbar": {
     "title": "功能列表"
@@ -34,19 +55,12 @@
   "community": "社区",
   "information": "信息",
   "tools": "工具",
-  "settings": {
-    "title": "设置"
-  },
   "user": "用户",
-  "update": "更新",
-  "update-available": "新版本可用。",
   "id": "编号",
   "title": "标题",
   "unit": "组合",
   "support_unit": "附属组合",
-  "attribute": "属性",
   "startAt": "开放时间",
-  "rarity": "稀有度",
   "thumb": "缩图",
   "skill": "技能",
   "performance": "表现力",
@@ -58,7 +72,6 @@
   "rewards": "奖励",
   "reset": "重置",
   "submit": "提交",
-  "ongoing_event": "进行中的活动",
   "mode": "模式",
   "type": "类型",
   "back": "后退",
@@ -74,6 +87,7 @@
   "apply": "应用",
   "profile": "角色资料",
   "character_plural": "角色",
+  "detectionFailedPrompt": "无法确定你的地区，请检查你的网络链接",
   "serverRegionSelect": "服务器地区",
   "serverRegion": {
     "jp": "日服",
@@ -88,20 +102,10 @@
     "translated": "翻译版本（若可用）",
     "both": "两者皆显示"
   },
+  "miscs": "杂项",
   "spoilerContent": "剧透内容",
-  "advertisement": "广告",
-  "countdown": {
-    "day": "天",
-    "hour": "小时",
-    "minute": "分钟",
-    "second": "秒"
-  },
-  "spoiler": "剧透",
-  "all": "全部",
-  "search": "搜索",
-  "replace": "替换",
-  "delete": "删除",
-  "load": "加载",
+  "currentRegion": "当前识别的区域",
+  "regionTooltip": "这会决定你的CDN服务器地区",
   "modify": "修改",
   "login": "登录",
   "reset_password": "重设密码",
@@ -110,12 +114,13 @@
   "close": "关闭",
   "area_item": "区域道具",
   "signup": "注册",
-  "hide": "隐藏",
   "detect": {
+    "button": "探测",
     "checking": "检查中",
     "unsupported": "不支持",
     "supported": "支持"
   },
+  "hide": "隐藏",
   "icon": "图标",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
