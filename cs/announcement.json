@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Objevil se error při kontrolování dat",
+  "category": "Kategorie",
+  "no_entry": "Žádné záznamy",
+  "published_at": "Publikováno v",
+  "translators": "Překladatelé",
+  "title": "Titul",
+  "language": "Jazyk",
+  "author": "Autor",
+  "co-authors": "Více Autoři",
+  "categoryName": {
+    "website": "Webová stránka",
+    "normal": "Ostatní",
+    "game_update": "Aktualizace",
+    "maintenance": "Údržba",
+    "bug": "Chyba"
+  }
+}
