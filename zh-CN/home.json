@@ -5,6 +5,13 @@
   "alert_translate": {
     "title": "感谢翻译者们！"
   },
+  "versionInfo": {
+    "caption": "版本信息",
+    "gameClientVer": "游戏客户端版本",
+    "dataVer": "数据版本",
+    "assetVer": "资产版本",
+    "multiPlayerVer": "多人Live版本"
+  },
   "game-news": {
     "action": "动作",
     "show-from": "开始日期",
@@ -13,7 +20,6 @@
     "title": "游戏通知"
   },
   "happy_new_year": "🎊新年快乐！🎉",
-  "alert_settings": "使用右上角的 <s /> 切换语言和亮度模式。",
   "detect": {
     "warning": "在兼容模式下运行，你可能会遭遇性能问题。请升级您的浏览器或iOS/macOS系统版本。 <br> 更多信息： <l>Can I Use - WebP image format</l>",
     "failed": "十分抱歉，您的浏览器在加载大量图片时出现问题，请升级您的浏览器或系统版本。我们正在加强兼容性。<br>更多信息：<l>您的浏览器是否可用 - WebP图像格式</l>",
@@ -31,5 +37,7 @@
     "contact": "联系我",
     "join-discord": "加入Discord服务器"
   },
-  "update": "相关链接"
+  "changelog": "更新日志",
+  "update": "相关链接",
+  "alert_settings": "使用右上角的 <s /> 切换语言和亮度模式。"
 }
