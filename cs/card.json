@@ -1,0 +1,24 @@
+{
+  "skillName": "Název Skillu",
+  "cardLevel": "Level karty",
+  "skillLevel": "Level Skillu",
+  "trained": "Vytránovaná ",
+  "sideStory1Unlocked": "Vedlejší příběh 1 odemčený",
+  "sideStory2Unlocked": "Vedlejší příběh 2 odemčený",
+  "tab": {
+    "title[0]": "Normální Obrázek",
+    "title[1]": "Normální oříznutý obrázek",
+    "title[2]": "Obrázek po vytrénování",
+    "title[3]": "Oříznutý obrázek po vytrénování"
+  },
+  "gachaPhrase": "Gacha fráze",
+  "skillEffect": "Efekt Skillu",
+  "stats": "Statistiky",
+  "normal": "Normální",
+  "sideStory": "Vedlejší Příběh",
+  "sideStory_plural": "Vedlejší Příběhy",
+  "rarity": "Vzácnost",
+  "power": "Síla",
+  "apply_event_filter": "Aplikovat bonusy eventu",
+  "skill": "Skill"
+}
