@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Za Hodinu",
+    "eventPointPerPlay": "Počet Eventových bodů za odehrání",
+    "playClount": "Počet celkových odehrání",
+    "playTime": "Počet odehraného času",
+    "useBoost": "Počet zkonzumovaných Boostů",
+    "totalPoint": "Počet Eventových Bodů"
+  },
+  "eventData": {
+    "label": "Eventová data"
+  },
+  "eventMode": {
+    "existed": "Existující",
+    "custom": "Přizpůsobit"
+  },
+  "gameData": {
+    "energyDrink": "Cena Boostů",
+    "eventBonusRate": "Míra Bonusu z Eventu (%)",
+    "teamAvgPower": "Průměrná celková síla",
+    "currentPoint": "Aktuální počet bodů",
+    "targetPoint": "Cíl bodů",
+    "label": "Herní Data",
+    "desc": "Zadat data ze hry pro vypočítání",
+    "remainingTime": "Zbývající hodiny eventu"
+  },
+  "songSelect": {
+    "label": "Výběr písničky",
+    "select": {
+      "difficulty": "Obtížnost",
+      "song": "Píseň"
+    },
+    "desc": "Vybrat písničku pro analyzaci"
+  },
+  "songMode": {
+    "label": "Výběr písničky",
+    "all_songs": "Přirovnat písničky",
+    "only_one": "Zaměřit na jeden"
+  },
+  "assumption": "Předpoklad: všechno perfect, multihráči mají stejný tým, žádný level up boost bonus."
+}
