@@ -1,0 +1,39 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Banner a logo"
+    },
+    "title[3]": "Pozadí",
+    "title[4]": "Hlavní obrázek",
+    "title[0]": "Popis",
+    "title[1]": "Přehled",
+    "title[2]": "Simulátor"
+  },
+  "ceil_item": "Výměnná věc",
+  "summary": "Souhrn",
+  "description": "Popis",
+  "gacha_rate": "Gacha šance",
+  "normalRate": "Normální roll šance",
+  "guaranteedRate": "Garantováná roll šance",
+  "gacha_cards": "Gacha karty",
+  "pickupMember": "Vyzvednutý člen",
+  "pickupMember_plural": "Vyzvednutí Členi",
+  "gacha_behaviors": "Gacha Draw možnosti",
+  "gacha_simulator": "Gacha Simulator",
+  "simulator": {
+    "total": "Celkem",
+    "cost": "Cena",
+    "count": "Počet",
+    "percentage": "Procento"
+  },
+  "behavior": {
+    "normal": "Normální",
+    "over_rarity_3_once": "Garantovaná (3*)",
+    "once_a_day": "Jednou za den",
+    "over_rarity_4_once": "Garantovaná (4*)"
+  },
+  "gachaType": {
+    "ceil": "Strop",
+    "normal": "Normální"
+  }
+}
