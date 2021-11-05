@@ -1,0 +1,43 @@
+{
+  "alert_contributor": {
+    "title": "Děkujeme naším prispěvatelům!"
+  },
+  "alert_translate": {
+    "title": "Děkujeme překladatelům!"
+  },
+  "versionInfo": {
+    "caption": "Info verze",
+    "gameClientVer": "Verze Herního Klienta",
+    "dataVer": "Data verze",
+    "assetVer": "Verze Asset",
+    "multiPlayerVer": "Multiplayer verze"
+  },
+  "game-news": {
+    "action": "Akce",
+    "show-from": "Ukázat od",
+    "title-column": "Titul",
+    "show-until": "Ukázat od",
+    "title": "Hení novinky"
+  },
+  "happy_new_year": "🎊Šťastný nový rok🎉",
+  "detect": {
+    "warning": "Spuštěno v kompatibilním modu, možná máte problémy s výkonem. Zvažte upgradování vašeho prohlížeče nebo vašeho iOS/macOS verze.<br> Více informací: <l> Můžu použít WebP formát</l>",
+    "failed": "Božel, nemůžete načíst vetšinu obrázků. Vylepšte váš prohlížeč nebo vaše iOS/macOS verzi.  Řešení problému s kompabilitou brzy vyjde <br> Více info:<l> Můžu použít WebP formát",
+    "success": "Gratulujeme! Váš prohlížeč je moderní, teď můžete načítat obrázky rychleji a uložit šířku pásma"
+  },
+  "directLink": {
+    "caption": "Zkratky",
+    "contribList": "Přispěvatelé"
+  },
+  "alert1": {
+    "translation": "Překlady",
+    "development": "Rozvoj",
+    "title": "Potřebujeme pomoc!",
+    "see_contrib_list": "Podívejte se na list příspěvků",
+    "contact": "Kontaktuj mě",
+    "join-discord": "Přidejte se k Discord serveru"
+  },
+  "changelog": "List změn",
+  "update": "Související odkazy",
+  "alert_settings": "Použijte <s /> na pravám horním rohu pro změnění jazyku, přehození jasu a víc."
+}
