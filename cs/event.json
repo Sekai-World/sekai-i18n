@@ -1,0 +1,84 @@
+{
+  "alreadyEnded": "Event skončil",
+  "notStarted": "Nezačal",
+  "tab": {
+    "title[0]": "Banner a Logo",
+    "title[1]": "Pozadí",
+    "title[2]": "Postavy"
+  },
+  "remainingTime": "Zbývající čas",
+  "progress": "Pokrok",
+  "title": {
+    "boost": "Zesílení",
+    "cheerful_carnival": "Veselý Karneval",
+    "timepoint": "Časový bod",
+    "rankingRewards": "Odměny za Rank"
+  },
+  "boostAttribute": "Zesílený Atribut",
+  "boostCharacters": "Vysílené postavy",
+  "maxBoost": "Maximální vysílení (Obě sladěné)",
+  "boostSpecificCards": "Vysílit speciální karty",
+  "boostCards": "Vysílit Karty",
+  "eventCards": "Eventové Karty",
+  "cheerful_carnival_midterm_1": "První střednědobé nahlášní ",
+  "cheerful_carnival_midterm_2": "Druhé štřednědobé nahlášení",
+  "startAt": "Event začíná v",
+  "closeAt": "Event končí v ",
+  "endAt": "Vstup do eventu možný od",
+  "rankingAnnounceAt": "Oznámení žebříčku v",
+  "distributionStartAt": "Rozdělení odměn od",
+  "rankingReward": {
+    "start": "Od",
+    "end": "Pro"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Název Eventu",
+      "rankings": "Žebříček"
+    },
+    "button": {
+      "curr_event": "Momentální event",
+      "graph": "Graf",
+      "random-palette": "Náhodná Paleta"
+    },
+    "pred_at": "Předpovězení vypočítané v",
+    "show_all_rank": "Ukázat všechny žebříčky",
+    "time_travel_enabled": "Cestování časem",
+    "tooltip": {
+      "get_prediction": "Předpovězení je k dispozici pouze 24 hodin před začátkem eventu"
+    },
+    "checkbox": {
+      "get_prediction": "Předpovězení"
+    },
+    "title": {
+      "data_graph": "Graf bodů z eventu",
+      "average_speed": "Průměrná rychlost"
+    }
+  },
+  "ranking": "Žebříček",
+  "realtime": "Reálný čas v",
+  "nextfetch": "Další",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Uživatel",
+      "score": "Bod(y)",
+      "speed_per_hour": "Průměrná rychlost (/h)",
+      "prediction": "Předpověd"
+    }
+  },
+  "no_enough_data": "Není dostatek dat",
+  "speedTable": {
+    "head": {
+      "all_time": "Celý čas (za hodinu)",
+      "last_24h": "Posledních 24 hodin (za hodinu) ",
+      "last_1h": "Poslední 1 hodina (za hodinu)"
+    }
+  },
+  "type": {
+    "marathon": "Maraton",
+    "cheerful_carnival": "Veselý Karneval"
+  },
+  "distributionEndAt": "Rozdělení odměn do",
+  "aggregateAt": "Souhrn Časového Bodu",
+  "alreadyPast": "Už proběhl"
+}
