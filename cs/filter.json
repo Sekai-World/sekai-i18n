@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Postava"
+  },
+  "sort": {
+    "caption": "Seřadit",
+    "ascending": "Vzestupně",
+    "descending": "Sestupně"
+  },
+  "honorType": {
+    "caption": "Typ titulu",
+    "group_only_once": "Ukázat jen jeden v každé skupině"
+  },
+  "not_set": "Není nastaven",
+  "missionType": {
+    "caption": "Typ Mise"
+  },
+  "music_tag": {
+    "caption": "Štítek písničky"
+  },
+  "music_mv": {
+    "caption": "Typ Hudebního Videa"
+  },
+  "not-selected": "Není vybráno",
+  "stampType": {
+    "caption": "Typ Samolepky",
+    "text": "Jenom text",
+    "illustration": " S obrázkem"
+  },
+  "language": {
+    "caption": "Jazyk",
+    "source": "Jazyk zdroje",
+    "target": "Zaměřit na jazyk"
+  },
+  "skill": {
+    "score_up": "Vysílení skore",
+    "judgment_up": "Hodnocení a Vysílení skore",
+    "life_recovery": "Zotavení života a vysílení skore",
+    "perfect_score_up": "Vysílení skore když PERFECT",
+    "life_score_up": "Vysílení skore s životní podmínkou"
+  }
+}
