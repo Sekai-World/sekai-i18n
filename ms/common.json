@@ -1,8 +1,27 @@
 {
-  "about": "Perihalan",
-  "comment": "Ulasan",
+  "advertisement": "Iklan",
+  "character": "Watak",
+  "all": "Semua",
+  "rarity": "Kejarangan",
+  "attribute": "Atribut",
+  "search": "Cari",
+  "replace": "Ganti",
+  "delete": "Padam",
+  "load": "Muatkan",
+  "update": "Kemas Kini",
+  "update-available": "Versi baharu tersedia.",
   "announcement": "Pengumuman",
   "loading": "Memuatkan...",
+  "countdown": {
+    "day": "Hari",
+    "hour": "Jam",
+    "minute": "Minit",
+    "second": "Saat"
+  },
+  "ongoing_event": "Acara Berlangsung",
+  "spoiler": "Belum Terbit",
+  "about": "Perihalan",
+  "comment": "Ulasan",
   "home": "Utama",
   "translation": "Terjemahan",
   "card": "Kad",
@@ -11,7 +30,6 @@
   "event": "Acara",
   "stamp": "Pelekat Cap",
   "comic": "Komik",
-  "character": "Watak",
   "mission": {
     "main": "Misi",
     "honor": "Plak Gelaran",
@@ -27,6 +45,9 @@
   "text": "Teks Sahaja",
   "eventTracker": "Penjejak Acara",
   "eventAnalyzer": "Penganalisis Acara",
+  "settings": {
+    "title": "Tetapan"
+  },
   "support": "Sokongan",
   "toolbar": {
     "title": "Senarai Fungsi"
@@ -34,19 +55,12 @@
   "community": "Komuniti",
   "information": "Maklumat",
   "tools": "Alatan",
-  "settings": {
-    "title": "Tetapan"
-  },
   "user": "Pengguna",
-  "update": "Kemas Kini",
-  "update-available": "Versi baharu tersedia.",
   "id": "ID",
   "title": "Tajuk",
   "unit": "Unit",
   "support_unit": "Unit Sokongan",
-  "attribute": "Atribut",
   "startAt": "Tersedia Mulai",
-  "rarity": "Kejarangan",
   "thumb": "Imej Kenit",
   "skill": "Kemahiran",
   "performance": "Prestasi",
@@ -58,7 +72,6 @@
   "rewards": "Ganjaran",
   "reset": "Tetap Semula",
   "submit": "Hantar",
-  "ongoing_event": "Acara Berlangsung",
   "mode": "Mod",
   "type": "Jenis",
   "back": "Kembali",
@@ -74,6 +87,7 @@
   "apply": "Gunakan",
   "profile": "Profil",
   "character_plural": "Watak",
+  "detectionFailedPrompt": "Gagal mengenal pasti kawasan anda, sila periksa rangkaian anda",
   "serverRegionSelect": "Kawasan Pelayan",
   "serverRegion": {
     "jp": "Bahasa Jepun",
@@ -88,20 +102,10 @@
     "translated": "Terjemahan (jika ada)",
     "both": "Tunjukkan Kedua-duanya"
   },
+  "miscs": "Aneka",
   "spoilerContent": "Kandungan Belum Terbit",
-  "advertisement": "Iklan",
-  "countdown": {
-    "day": "Hari",
-    "hour": "Jam",
-    "minute": "Minit",
-    "second": "Saat"
-  },
-  "spoiler": "Belum Terbit",
-  "all": "Semua",
-  "search": "Cari",
-  "replace": "Ganti",
-  "delete": "Padam",
-  "load": "Muatkan",
+  "currentRegion": "Kawasan Dikesan Semasa",
+  "regionTooltip": "Ini akan menentukan kawasan pelayan CDN anda",
   "modify": "Ubahsuai",
   "login": "Log Masuk",
   "reset_password": "Tetapkan Semula Kata Laluan",
@@ -110,12 +114,13 @@
   "close": "Tutup",
   "area_item": "Item Kawasan",
   "signup": "Daftar",
-  "hide": "Sembunyikan",
   "detect": {
+    "button": "Kesan",
     "checking": "Memeriksa...",
     "unsupported": "Tidak Disokong",
     "supported": "Disokong"
   },
+  "hide": "Sembunyikan",
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan Keratan",
   "scoreCalculator": "Kalkulator Markah",
