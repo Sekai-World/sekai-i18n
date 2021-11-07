@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Načítám metadata modelu...",
+    "model_texture": "Načítám textury modelu...",
+    "model_moc3": "Načítám model kostry...",
+    "model_physics": "Načítám fyziku modelu",
+    "motion_metadata": "Načítám modelové pohyby",
+    "display_model": "Připravuji zobrazení modelu"
+  },
+  "pack_progress": {
+    "generate_metadata": "Generovat metadata",
+    "download_texture": "Stáhnout texturu",
+    "download_moc3": "Stáhnout kostru",
+    "download_physics": "Stáhnout fyziku",
+    "download_motions": "Stáhnout pohyby a obličeje {{dlcount}}/{{total}}",
+    "generate_zip": "Generovat zip soubor"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Pohyby",
+    "expressions": "Obličeje"
+  },
+  "tooltip": {
+    "download": "Stáhnout",
+    "fullscreen": "Přepnout na celou obrazovku",
+    "shot": "Uložit obrázek",
+    "stop_record": "Zastavit nahrávání",
+    "start_record": "Začít nahrávání"
+  }
+}
