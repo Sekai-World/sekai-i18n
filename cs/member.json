@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Postava",
+    "title[1]": "Jméno (šířka)",
+    "title[2]": "Jméno (výška)"
+  },
+  "name": "Jméno",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Pohlaví",
+    "female": "Žena",
+    "male": "Muž",
+    "secret": "Tajemství"
+  },
+  "scenario": "Příběh",
+  "introduction": "Úvod",
+  "colorCode": "Barva obrázku",
+  "skinColorCode": "Barva kůže",
+  "skinShadowColorCode1": "Barva stínu kůže 1",
+  "skinShadowColorCode2": "Barva stínu kůže 2",
+  "height": "Výška",
+  "birthday": "Narozeniny",
+  "characterVoice": "Dabér",
+  "school": "Škola",
+  "schoolYear": "Třída",
+  "hobby": "Koníčky",
+  "specialSkill": "Specialita",
+  "favoriteFood": "Oblíbená Jídla",
+  "hatedFood": "Neoblíbená jídla",
+  "weak": "Slabina"
+}
