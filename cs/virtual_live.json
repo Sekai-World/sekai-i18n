@@ -1,0 +1,24 @@
+{
+  "live_characters": "Postavy",
+  "rewards": "Odměny",
+  "title": {
+    "schedules": "Plány",
+    "setlist": "Scénář"
+  },
+  "schedule": {
+    "start": "Start",
+    "end": "Konec"
+  },
+  "mc": {
+    "character_unspawn": "Postava zmizne"
+  },
+  "type": {
+    "normal": "Normální",
+    "beginner": "Žačáteční",
+    "cheerful_carnival": "Veselý karneval"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Koncert"
+  }
+}
