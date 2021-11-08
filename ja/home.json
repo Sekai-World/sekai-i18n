@@ -5,6 +5,13 @@
   "alert_translate": {
     "title": "翻訳者の皆様、ありがとうございます！"
   },
+  "versionInfo": {
+    "caption": "バージョン情報",
+    "gameClientVer": "ゲームクライアントバージョン",
+    "dataVer": "データバージョン",
+    "assetVer": "アセットバージョン",
+    "multiPlayerVer": "マルチプレイヤーバージョン"
+  },
   "game-news": {
     "action": "アクション",
     "show-from": "公開開始時間",
@@ -13,7 +20,6 @@
     "title": "ゲームニュース"
   },
   "happy_new_year": "🎊新年あけましておめでとう🎉",
-  "alert_settings": "右上の<s />から言語や画面の明るさなどを変更できます。",
   "detect": {
     "warning": "互換モードで実行すると、パフォーマンスの問題が発生する可能性があります。 ブラウザまたはiOS / macOSバージョンのアップデートを検討してください。<br>詳細:<l>WebPという画像形式を使用できますか？</l>",
     "failed": "残念ながらほとんどの画像を読み込めません。ブラウザ、もしくはiOS/MacOSのバージョンをアップグレードしてください。互換性のあるソリューションはまもなく公開されます。<br>詳細はこちら: <l> Can I Use - WebP 画像フォーマット </l>",
@@ -31,5 +37,7 @@
     "contact": "連絡先",
     "join-discord": "Discordに参加"
   },
-  "update": "関連サイト"
+  "changelog": "変更ログ",
+  "update": "関連サイト",
+  "alert_settings": "右上の<s />から言語や画面の明るさなどを変更できます。"
 }
