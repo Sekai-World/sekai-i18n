@@ -5,6 +5,13 @@
   "alert_translate": {
     "title": "Merci à nos traducteurs !"
   },
+  "versionInfo": {
+    "caption": "Infos sur la version",
+    "gameClientVer": "Version du client du jeu",
+    "dataVer": "Version de données",
+    "assetVer": "Version d'actif",
+    "multiPlayerVer": "Version multijoueur"
+  },
   "game-news": {
     "action": "Action",
     "show-from": "Afficher depuis",
@@ -13,7 +20,6 @@
     "title": "Nouvelles du jeu"
   },
   "happy_new_year": "🎊 Bonne année ! 🎉",
-  "alert_settings": "Utilisez <s /> en haut à droite pour changer de langue, la luminosité, et plus.",
   "detect": {
     "warning": "Vous êtes en mode de compatibilité; vous pourriez rencontrer des problèmes de performance. Envisagez de mettre à jour votre navigateur ou votre version d'iOS/macOS. <br>Plus d'informations : <l>Puis-je utiliser le format d'image WebP</l>",
     "failed": "Malheureusement, vous ne pouvez pas charger la plupart des images. Mettez à jour votre navigateur ou votre version d'iOS/macOS. La compatibilité sera bientôt disponible. <br> Plus d'informations : <l>Puis-je utiliser le format d'image WebP</l>",
@@ -31,5 +37,7 @@
     "contact": "Pour me contacter",
     "join-discord": "Rejoignez le serveur Discord"
   },
-  "update": "Liens connexes"
+  "changelog": "Historique des changements",
+  "update": "Liens connexes",
+  "alert_settings": "Utilisez <s /> en haut à droite pour changer de langue, la luminosité, et plus."
 }
