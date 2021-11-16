@@ -1,36 +1,14 @@
 {
   "profile": {
     "title": {
-      "user_event": "Data Acara Sekai",
       "user_deck": "Pasukan Semasa Sekai",
-      "sekai_profile": "Profil Sekai",
-      "sekai_cards_teams": "Pasukan & Kad Sekai",
+      "user_event": "Data Acara Sekai",
       "card_list": "Kad Sekai",
       "import_card": "Import Kad Sekai",
       "manage_teams": "Urus Pasukan",
+      "sekai_profile": "Profil Sekai",
+      "sekai_cards_teams": "Pasukan & Kad Sekai",
       "user_statistics": "Statistik Sekai"
-    },
-    "event": {
-      "current_record_info": "Catatan terakhir:",
-      "current_record_point": "Mata acara:",
-      "current_record_rank": "Kedudukan acara:",
-      "current_record_time": "Masa catatan:",
-      "current_name": "Acara semasa:"
-    },
-    "label": {
-      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Belum Disahkan",
-      "sekai_user_id": "ID Pengguna Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nama",
-      "sekai_user_rank": "Kedudukan",
-      "sekai_user_word": "Pengenalan",
-      "sekai_id_verify": "Sahkan",
-      "sekai_id_verify_step_1_title": "Buka Profil",
-      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
-      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
-      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\".",
-      "sekai_user_music_not_found": "Rekod muzik pengguna tidak dijumpai."
     },
     "import_card": {
       "table": {
@@ -69,6 +47,29 @@
         }
       }
     },
+    "event": {
+      "current_record_info": "Catatan terakhir:",
+      "current_record_point": "Mata acara:",
+      "current_record_rank": "Kedudukan acara:",
+      "current_record_time": "Masa catatan:",
+      "current_name": "Acara semasa:"
+    },
+    "label": {
+      "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan butang \"Menu\" (1) di bucu kanan atas, kemudian tekan butang \"称号 & プロフィール\" (2)",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token pengesahan anda {{verify_token}} ke kotak tulisan (1), kemudian tekan butang \"Kembali\" (2) untuk simpan. Selepas itu klik/tekan butang \"SAHKAN\".",
+      "sekai_id_verify": "Sahkan",
+      "sekai_id_not_verified": "Belum Disahkan",
+      "sekai_user_id": "ID Pengguna Sekai",
+      "unlink_sekai_id": "Nyahpaut ID Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Kedudukan",
+      "sekai_user_word": "Pengenalan",
+      "sekai_user_music_not_found": "Catatan muzik pengguna tidak dijumpai."
+    },
     "upload_avatar_error": "Gagal memuat naik avatar!",
     "upload_avatar": "Muat Naik Avatar",
     "username": "Nama Pengguna",
@@ -82,10 +83,18 @@
       "verify_sekai_id": "Sahkan"
     },
     "email_confirmed": "E-mel Disahkan",
+    "sekai_id_delete_confirm": {
+      "title": "Pengesahan nyahpaut ID Sekai",
+      "content1": "Adakah anda ingin menyahpaut ID Sekai ini? Kesemua data spt. sejarah catatan acara akan hilang!"
+    },
+    "sekai_id_transfer": {
+      "title": "Pindah ID Sekai",
+      "content1": "Oleh kerana ID Sekai yang diberi telah disambung ke pengguna lain, jika anda lakukannya dengan sengaja dan anda ingat nama pengguna bagi akaun pengguna terdahulu, anda boleh masukkannya dalam kotak tulisan di bawah. Jika anda terlupa nama pengguna terdahulu, anda boleh mesej DM ke @SekaiViewer di Twitter untuk pemindahan manual."
+    },
     "error": {
-      "sekai_id_malformed": "ID Sekai ialah nombor 16 digit, sama seperti kod kawan anda.",
-      "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain.",
-      "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?"
+      "sekai_id_verify_failed": "Gagal mengesahkan pemilikan, adakah anda sudah keluar dari profil untuk menyimpannya?",
+      "sekai_id_malformed": "ID Sekai ialah nombor dengan 16 atau lebih digit, bukan nama pengguna anda.",
+      "sekai_id_already_bind": "ID Sekai telah disambung ke pengguna lain."
     },
     "card_list": {
       "submit_success": "Keadaan kad telah dikemas kini.",
