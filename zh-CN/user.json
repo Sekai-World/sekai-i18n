@@ -1,36 +1,14 @@
 {
   "profile": {
     "title": {
-      "user_event": "Sekai活动数据",
       "user_deck": "Sekai当前队伍",
-      "sekai_profile": "Sekai个人档案",
-      "sekai_cards_teams": "Sekai卡牌和队伍",
+      "user_event": "Sekai活动数据",
       "card_list": "Sekai卡牌",
       "import_card": "导入Sekai卡牌",
       "manage_teams": "管理队伍",
+      "sekai_profile": "Sekai个人档案",
+      "sekai_cards_teams": "Sekai卡牌和队伍",
       "user_statistics": "Sekai 统计资料"
-    },
-    "event": {
-      "current_record_info": "上次记录：",
-      "current_record_point": "活动点数：",
-      "current_record_rank": "活动排名：",
-      "current_record_time": "记录时间：",
-      "current_name": "当前活动："
-    },
-    "label": {
-      "update_left": "更新次数已用：{{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "未验证",
-      "sekai_user_id": "Sekai用户ID",
-      "sekai_id_verify_token": "令牌",
-      "sekai_user_name": "名字",
-      "sekai_user_rank": "等级",
-      "sekai_user_word": "自我介绍",
-      "sekai_id_verify": "验证",
-      "sekai_id_verify_step_1_title": "打开资料",
-      "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
-      "sekai_id_verify_step_2_title": "写入令牌并保存",
-      "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框(1)里，然后点击“返回”(2)以保存。在这之后点击“验证”。",
-      "sekai_user_music_not_found": "未发现该曲的记录。"
     },
     "import_card": {
       "table": {
@@ -69,6 +47,29 @@
         }
       }
     },
+    "event": {
+      "current_record_info": "上次记录：",
+      "current_record_point": "活动点数：",
+      "current_record_rank": "活动排名：",
+      "current_record_time": "记录时间：",
+      "current_name": "当前活动："
+    },
+    "label": {
+      "update_left": "更新次数已用：{{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "打开资料",
+      "sekai_id_verify_step_1_subtitle": "点击右上角的“菜单”(1)按钮，然后点击“称号 & プロフィール”(2)按钮",
+      "sekai_id_verify_step_2_title": "写入令牌并保存",
+      "sekai_id_verify_step_2_subtitle": "写入你的验证令牌{{verify_token}}到文本框(1)里，然后点击“返回”(2)以保存。在这之后点击“验证”。",
+      "sekai_id_verify": "验证",
+      "sekai_id_not_verified": "未验证",
+      "sekai_user_id": "Sekai用户ID",
+      "unlink_sekai_id": "解除Sekai ID链接",
+      "sekai_id_verify_token": "令牌",
+      "sekai_user_name": "名字",
+      "sekai_user_rank": "等级",
+      "sekai_user_word": "自我介绍",
+      "sekai_user_music_not_found": "未发现该曲的记录。"
+    },
     "upload_avatar_error": "上传头像失败",
     "upload_avatar": "上传头像",
     "username": "用户名",
@@ -82,10 +83,18 @@
       "verify_sekai_id": "验证"
     },
     "email_confirmed": "邮箱地址已验证",
+    "sekai_id_delete_confirm": {
+      "title": "确认解除Sekai ID链接",
+      "content1": "你确认解除Sekai ID链接吗？所有数据包括活动历史记录将被清除！"
+    },
+    "sekai_id_transfer": {
+      "title": "转移Sekai ID",
+      "content1": "由于此Sekai ID已经绑定到其他用户，如果你记得之前绑定的用户名，你可以在下面的文本框里输入这个用户名以完成转移。如果你忘记了，你也可以在Twitter上私信@SekaiViewer账户以执行手动转移。"
+    },
     "error": {
-      "sekai_id_malformed": "Sekai ID就是你的好友代码的16位数字",
-      "sekai_id_already_bind": "Sekai ID已经绑定到其他账户",
-      "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？"
+      "sekai_id_verify_failed": "无法验证 所有者，你是否忘记了离开资料界面以保存输入？",
+      "sekai_id_malformed": "Sekai ID是16或更多位数字，并非你的用户名",
+      "sekai_id_already_bind": "Sekai ID已经绑定到其他账户"
     },
     "card_list": {
       "submit_success": "卡牌状态更新成功。",
