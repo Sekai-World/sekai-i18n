@@ -3,11 +3,11 @@
     "title": {
       "user_deck": "Sekai Current Team",
       "user_event": "Sekai Event Data",
-      "sekai_profile": "Sekai Profile",
-      "sekai_cards_teams": "Sekai Cards & Teams",
       "card_list": "Sekai Cards",
       "import_card": "Import Sekai Cards",
       "manage_teams": "Manage Teams",
+      "sekai_profile": "Sekai Profile",
+      "sekai_cards_teams": "Sekai Cards & Teams",
       "user_statistics": "Sekai Statistics"
     },
     "import_card": {
@@ -56,17 +56,18 @@
     },
     "label": {
       "update_left": "Update count used: {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "Not Verified",
-      "sekai_user_id": "Sekai User ID",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Name",
-      "sekai_user_rank": "Rank",
-      "sekai_user_word": "Introduction",
       "sekai_id_verify_step_1_title": "Open Profile",
       "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
       "sekai_id_verify_step_2_title": "Write token and save",
       "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button.",
       "sekai_id_verify": "Verify",
+      "sekai_id_not_verified": "Not Verified",
+      "sekai_user_id": "Sekai User ID",
+      "unlink_sekai_id": "Unlink Sekai ID",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Name",
+      "sekai_user_rank": "Rank",
+      "sekai_user_word": "Introduction",
       "sekai_user_music_not_found": "User music record not found."
     },
     "upload_avatar_error": "Failed to upload avatar!",
@@ -82,10 +83,19 @@
       "verify_sekai_id": "Verify"
     },
     "email_confirmed": "Email Confirmed",
+    "syncing_card_team": "",
+    "sekai_id_delete_confirm": {
+      "title": "Unlink Sekai ID confirmation",
+      "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
+    },
+    "sekai_id_transfer": {
+      "title": "Transfer Sekai ID",
+      "content1": "As the given Sekai ID is already bound to another user, if you do it on purpose and remembers the username of previous user account, you may enter it in textbox below. If you forget the previous username, you can DM @SekaiViewer on twitter for a manual transfer."
+    },
     "error": {
-      "sekai_id_malformed": "Sekai ID is the 16 digits number, same as your friend code.",
-      "sekai_id_already_bind": "Sekai ID is already bound to another user.",
-      "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?"
+      "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?",
+      "sekai_id_malformed": "Sekai ID is the 16 or more digits number, not your username.",
+      "sekai_id_already_bind": "Sekai ID is already bound to another user."
     },
     "card_list": {
       "submit_success": "Card states are updated.",
