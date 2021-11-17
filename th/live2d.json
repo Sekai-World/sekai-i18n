@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "กำลังดาวน์โหลดโมเดล metadata ...",
+    "model_texture": "กำลังดาวน์โหลดองค์ประกอบของโมเดล ...",
+    "model_moc3": "กำลังดาวน์โหลดโครงสร้างของโมเดล ...",
+    "model_physics": "กำลังดาวน์โหลด physics ของโมเดล ...",
+    "motion_metadata": "กำลังดาวน์โหลดโมชั่นของโมเดล ...",
+    "display_model": "กำลังจัดเตรียมการแสดงผลของโมเดล ..."
+  },
+  "pack_progress": {
+    "generate_metadata": "สร้างข้อมูล metadata",
+    "download_texture": "ดาวน์โหลดองค์ประกอบ",
+    "download_moc3": "ดาวน์โหลดโครงสร้าง",
+    "download_physics": "ดาวน์โหลด physics",
+    "download_motions": "ดาวน์โหลดการเคลื่อนไหวและการแสดงผล",
+    "generate_zip": "สร้างข้อมูลไฟล์ zip"
+  },
+  "select": {
+    "model": "โมเดล",
+    "motions": "การเคลื่อนไหว",
+    "expressions": "แสดงความคิดเห็น"
+  },
+  "tooltip": {
+    "download": "ดาวน์โหลด",
+    "fullscreen": "สลับไปโหมดเต็มหน้าจอ",
+    "shot": "เซฟรูปภาพ",
+    "stop_record": "หยุดการบันทึก",
+    "start_record": "เริ่มการบันทึก"
+  }
+}
