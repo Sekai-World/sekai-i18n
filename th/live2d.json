@@ -10,7 +10,7 @@
   "pack_progress": {
     "generate_metadata": "สร้างข้อมูล metadata",
     "download_texture": "ดาวน์โหลดองค์ประกอบ",
-    "download_moc3": "ดาวน์โหลดโครงสร้าง",
+    "download_moc3": "ดาวน์โหลด Skeleton (Rig)",
     "download_physics": "ดาวน์โหลด physics",
     "download_motions": "ดาวน์โหลดการเคลื่อนไหวและการแสดงผล",
     "generate_zip": "สร้างข้อมูลไฟล์ zip"
