@@ -2,7 +2,7 @@
   "load_progress": {
     "model_metadata": "กำลังดาวน์โหลดโมเดล metadata ...",
     "model_texture": "กำลังดาวน์โหลดองค์ประกอบของโมเดล ...",
-    "model_moc3": "กำลังดาวน์โหลด skeleton (Rig) ของโมเดล ...",
+    "model_moc3": "กำลังดาวน์โหลด Skeleton (Rig) ของโมเดล ...",
     "model_physics": "กำลังดาวน์โหลด physics ของโมเดล ...",
     "motion_metadata": "กำลังดาวน์โหลดโมชั่นของโมเดล ...",
     "display_model": "กำลังจัดเตรียมการแสดงผลของโมเดล ..."
