@@ -48,7 +48,7 @@
       "get_prediction": "預測的活動pt在活動開始24小時後才開放查詢。"
     },
     "checkbox": {
-      "get_prediction": "獲取預計活動pt"
+      "get_prediction": "獲取預測的活動pt"
     },
     "title": {
       "data_graph": "活動Pt圖表",
