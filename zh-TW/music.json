@@ -15,7 +15,7 @@
     "flac": "FLAC"
   },
   "skipBeginningSilence": "跳過前面的無聲段",
-  "tag": "標籤",
+  "tag": "分類",
   "tag_plural": "標籤",
   "category": "類別",
   "category_plural": "類別",
