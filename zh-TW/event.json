@@ -75,7 +75,7 @@
     }
   },
   "type": {
-    "marathon": "累積點數",
+    "marathon": "累積點數（馬拉松）",
     "cheerful_carnival": "歡樂嘉年華"
   },
   "distributionEndAt": "排名報酬結束發放日期",
