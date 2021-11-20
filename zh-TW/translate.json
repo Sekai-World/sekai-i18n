@@ -13,7 +13,7 @@
     },
     "target_lang": "目標語言",
     "button": {
-      "copy_source": "複製原文代碼"
+      "copy_source": "複製原文字串"
     },
     "target_contributors": "貢獻者",
     "submit-status": {
