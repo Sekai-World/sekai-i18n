@@ -7,7 +7,7 @@
     "calc_total_power": "獲取綜合力數據"
   },
   "auto_calc_bonus": "使用遊戲個人檔案",
-  "use_sekai_card_state": "使用已保存的遊戲卡牌狀態",
+  "use_sekai_card_state": "使用已儲存的遊戲卡牌狀態",
   "saveTeamDialog": {
     "title": "保存隊伍",
     "desc": "保存新的隊伍或替換現有的隊伍。"
