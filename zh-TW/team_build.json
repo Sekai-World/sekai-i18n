@@ -2,7 +2,7 @@
   "error": {
     "save_team_failed": "無法儲存隊伍。若此情況經常出現，則可能是由於系統錯誤所導致。"
   },
-  "save_team_succeed": "成功保存隊伍",
+  "save_team_succeed": "成功儲存隊伍",
   "button": {
     "calc_total_power": "獲取綜合力數據"
   },
