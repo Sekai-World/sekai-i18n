@@ -99,7 +99,7 @@
   "contentTranslationMode": {
     "title": "遊戲內容顯示模式",
     "original": "原始",
-    "translated": "翻譯 (如果已翻譯)",
+    "translated": "翻譯（如果已翻譯）",
     "both": "皆顯示"
   },
   "miscs": "其他",
