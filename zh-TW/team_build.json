@@ -19,7 +19,7 @@
   },
   "storage_space": "儲存空間",
   "noTeams": "沒有已儲存的隊伍。",
-  "saveNewEntry": "保存新的隊伍",
+  "saveNewEntry": "儲存新的隊伍",
   "loadTeamDialog": {
     "title": "載入隊伍",
     "desc": "載入已保存的隊伍。"
