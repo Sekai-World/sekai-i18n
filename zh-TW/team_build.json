@@ -10,7 +10,7 @@
   "use_sekai_card_state": "使用已儲存的遊戲卡牌狀態",
   "saveTeamDialog": {
     "title": "儲存隊伍",
-    "desc": "保存新的隊伍或替換現有的隊伍。"
+    "desc": "儲存新的隊伍或替換現有的隊伍。"
   },
   "storage_location": {
     "label": "儲存位置",
