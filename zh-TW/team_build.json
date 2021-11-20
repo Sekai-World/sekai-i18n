@@ -22,6 +22,6 @@
   "saveNewEntry": "儲存新的隊伍",
   "loadTeamDialog": {
     "title": "載入隊伍",
-    "desc": "載入已保存的隊伍。"
+    "desc": "載入已儲存的隊伍。"
   }
 }
