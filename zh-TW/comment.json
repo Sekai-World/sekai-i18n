@@ -4,7 +4,7 @@
   "no_comment_yet": "沒有留言。",
   "report-abuse": {
     "title": "檢舉留言",
-    "description": "如果您認為這則評論讓您感到不舒服，請按下檢舉。",
+    "description": "如果您認為這則留言讓您感到不舒服，請按下檢舉。",
     "reason": {
       "label": "檢舉原因",
       "other": "其他",
