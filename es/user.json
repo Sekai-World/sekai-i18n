@@ -1,36 +1,14 @@
 {
   "profile": {
     "title": {
-      "user_event": "Datos de eventos de Sekai",
       "user_deck": "Equipo Sekai actual",
-      "sekai_profile": "Perfil sekai",
-      "sekai_cards_teams": "Cartas y Equipos Sekai",
+      "user_event": "Datos de eventos de Sekai",
       "card_list": "Cartas Sekai",
       "import_card": "Importar cartas Sekai",
       "manage_teams": "Gestionar equipos",
+      "sekai_profile": "Perfil sekai",
+      "sekai_cards_teams": "Cartas y Equipos Sekai",
       "user_statistics": "Estadísticas Sekai"
-    },
-    "event": {
-      "current_record_info": "Ultimo Record",
-      "current_record_point": "Puntos de evento:",
-      "current_record_rank": "Ranking de evento:",
-      "current_record_time": "Tiempo Record",
-      "current_name": "Evento actual"
-    },
-    "label": {
-      "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
-      "sekai_id_not_verified": "No verificado",
-      "sekai_user_id": "ID de usuario Sekai",
-      "sekai_id_verify_token": "Token",
-      "sekai_user_name": "Nombre",
-      "sekai_user_rank": "Rango",
-      "sekai_user_word": "Introducción",
-      "sekai_id_verify": "Verificar",
-      "sekai_id_verify_step_1_title": "Abrir perfil",
-      "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
-      "sekai_id_verify_step_2_title": "Escribe token y guarda",
-      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\"",
-      "sekai_user_music_not_found": "No se ha encontrado el registro de música del usuario."
     },
     "import_card": {
       "table": {
@@ -69,6 +47,29 @@
         }
       }
     },
+    "event": {
+      "current_record_info": "Ultimo Record",
+      "current_record_point": "Puntos de evento:",
+      "current_record_rank": "Ranking de evento:",
+      "current_record_time": "Tiempo Record",
+      "current_name": "Evento actual"
+    },
+    "label": {
+      "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
+      "sekai_id_verify_step_1_title": "Abrir perfil",
+      "sekai_id_verify_step_1_subtitle": "Toque el botón \"Menú\" (1) en la esquina superior derecha, luego toque el botón \"Título y perfil\" (2)",
+      "sekai_id_verify_step_2_title": "Escribe token y guarda",
+      "sekai_id_verify_step_2_subtitle": "Escribe tu token de verificación {{verify_token}} en el cuadro de texto (1), luego presiona el botón \"Atrás\" (2) para guardar.  Después de eso, haga clic / toque el botón \"VERIFICAR\"",
+      "sekai_id_verify": "Verificar",
+      "sekai_id_not_verified": "No verificado",
+      "sekai_user_id": "ID de usuario Sekai",
+      "unlink_sekai_id": "Desvincular el Sekai ID",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nombre",
+      "sekai_user_rank": "Rango",
+      "sekai_user_word": "Introducción",
+      "sekai_user_music_not_found": "No se ha encontrado el registro de música del usuario."
+    },
     "upload_avatar_error": "Error al cargar avatar",
     "upload_avatar": "Cargar avatar",
     "username": "Nombre de usuario",
@@ -82,10 +83,18 @@
       "verify_sekai_id": "Verificar"
     },
     "email_confirmed": "Email confirmado",
+    "sekai_id_delete_confirm": {
+      "title": "Confirmar desvinculación al Sekai ID",
+      "content1": "¿Estás seguro de desvincular este ID de Sekai? ¡Se perderán Todos los datos y el historial de registros de eventos!"
+    },
+    "sekai_id_transfer": {
+      "title": "Transferir Sekai ID",
+      "content1": "Como la ID de Sekai dada ya está vinculada a otro usuario, si lo hace a propósito y recuerda el nombre de usuario de la cuenta de usuario anterior, puede ingresarlo en el cuadro de texto a continuación. Si olvida el nombre de usuario anterior, puede enviar un mensaje de correo electrónico a @SekaiViewer en Twitter para una transferencia manual."
+    },
     "error": {
-      "sekai_id_malformed": "El Sekai ID es un número de 16 dígitos, igual que tu código de amigo.",
-      "sekai_id_already_bind": "La ID de Sekai ya está vinculada a otro usuario.",
-      "sekai_id_verify_failed": "No se pudo verificar la propiedad. ¿Dejaste el panel de perfil para guardar?"
+      "sekai_id_verify_failed": "No se pudo verificar la propiedad. ¿Dejaste el panel de perfil para guardar?",
+      "sekai_id_malformed": "Sekai ID es el número de 16 dígitos o más , no su nombre de usuario.",
+      "sekai_id_already_bind": "La ID de Sekai ya está vinculada a otro usuario."
     },
     "card_list": {
       "submit_success": "Datos de la carta actualizados.",
