@@ -60,7 +60,7 @@
   "nextfetch": "下次獲取",
   "rankingTable": {
     "head": {
-      "userProfile": "使用者",
+      "userProfile": "玩家名稱",
       "score": "活動pt",
       "speed_per_hour": "平均速度（每小時）",
       "prediction": "預測活動pt"
