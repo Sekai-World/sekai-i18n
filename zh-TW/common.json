@@ -77,7 +77,7 @@
   "type": "類型",
   "back": "上一步",
   "next": "下一步",
-  "betaIndicator": "這項功能目前仍處於測試階段。歡迎向我們提報這項功能的錯誤。",
+  "betaIndicator": "這項功能目前仍處於測試階段，若發現 bug 歡迎回報給我們。",
   "challengeLive": "挑戰Live",
   "endAt": "結束於",
   "show": "顯示",
