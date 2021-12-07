@@ -1,0 +1,17 @@
+{
+  "send": "Senden",
+  "write": "Verfassen",
+  "no_comment_yet": "Keine Kommentare.",
+  "report-abuse": {
+    "title": "Melde Kommentar.",
+    "description": "Melde diesen Kommentar, wenn du denkst dieser Kommentar ist unangebracht.",
+    "reason": {
+      "label": "Melde Grund",
+      "other": "Anderer Grund",
+      "bad_words": "Unangebrachte Wörter",
+      "discrimination": "Diskriminierung"
+    },
+    "content": "Deine Nachricht",
+    "success": "Danke für deine Meldung. Wir überprüfen diese in Kürze."
+  }
+}
