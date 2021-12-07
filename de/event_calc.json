@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Pro Stunde",
+    "eventPointPerPlay": "Event Punkte pro Spiel",
+    "playClount": "Gesamtzahl der Spiele",
+    "playTime": "Gesamtzahl der Spielzeit",
+    "useBoost": "Gesamtzahl der verbrauchten Boosts",
+    "totalPoint": "Gesamtzahl der Event Punkte"
+  },
+  "eventData": {
+    "label": "Event Daten"
+  },
+  "eventMode": {
+    "existed": "Vorliegend",
+    "custom": "Individualisieren"
+  },
+  "gameData": {
+    "energyDrink": "Boost Kosten",
+    "eventBonusRate": "Event Bonus Rate (%)",
+    "teamAvgPower": "Durchschnittliche Gesamtstärke",
+    "currentPoint": "Aktuelle Punkte",
+    "targetPoint": "Erstrebte Punkte",
+    "label": "Spiele Dateien",
+    "desc": "Fülle die Daten vom Spiel für die Kalkulierung ein.",
+    "remainingTime": "Event verbleibende Stunden"
+  },
+  "songSelect": {
+    "label": "Lied Auswahl",
+    "select": {
+      "difficulty": "Schwierigkeitsgrad",
+      "song": "Lied"
+    },
+    "desc": "Wähle ein Lied zum analysieren aus."
+  },
+  "songMode": {
+    "label": "Lied Auswahl",
+    "all_songs": "Vergleiche Lieder",
+    "only_one": "Bestimmtes Lied"
+  },
+  "assumption": "Annahme: Alles Perfekt, alle im Multiplayer haben das selbe Team, kein Level Up boost Bonus."
+}
