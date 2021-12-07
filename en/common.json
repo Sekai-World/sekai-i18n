@@ -38,6 +38,7 @@
     "beginner": "Beginner"
   },
   "virtualLive": "Virtual Live",
+  "assetViewer": "Asset Viewer",
   "musicMeta": "Music Meta",
   "musicRecommend": "Song Recommender",
   "eventCalc": "Event Planner",
@@ -56,6 +57,7 @@
   "information": "Information",
   "tools": "Tools",
   "user": "User",
+  "betaIndicator": "This function is in beta. Reporting bugs is welcomed.",
   "id": "ID",
   "title": "Title",
   "unit": "Unit",
@@ -77,7 +79,6 @@
   "type": "Type",
   "back": "Back",
   "next": "Next",
-  "betaIndicator": "This function is in beta. Reporting bugs is welcomed.",
   "challengeLive": "Challenge Live",
   "endAt": "Available Until",
   "show": "Show",
