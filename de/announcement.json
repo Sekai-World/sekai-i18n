@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Beim Abrufen von Daten ist ein Fehler aufgetreten.",
+  "category": "Kategorie",
+  "no_entry": "Keine Einträge.",
+  "published_at": "Veröffentlicht am",
+  "translators": "Übersetzer",
+  "title": "Title",
+  "language": "Sprache",
+  "author": "Autor",
+  "co-authors": "Co-Autor",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Andere",
+    "game_update": "Spiele Update",
+    "maintenance": "Wartungsarbeiten",
+    "bug": "Fehler"
+  }
+}
