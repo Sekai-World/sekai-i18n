@@ -1,4 +1,17 @@
 {
+  "alert_contributor": {
+    "title": "Vielen Dank an unsere Entwicklungshelfer!"
+  },
+  "alert_translate": {
+    "title": "Vielen Dank an die Übersetzer!"
+  },
+  "versionInfo": {
+    "caption": "Versions Info",
+    "gameClientVer": "Spieleclient Version",
+    "dataVer": "Daten Version",
+    "assetVer": "Asset Version",
+    "multiPlayerVer": "Multiplayer Version"
+  },
   "game-news": {
     "action": "Aktion",
     "show-from": "Erscheinung seit",
@@ -6,22 +19,26 @@
     "show-until": "Erscheinung bis",
     "title": "Neuigkeiten"
   },
-  "alert0": "Sekai Viewer ist jetzt in Open Beta!",
-  "alert_contributor": {
-    "title": ""
+  "new_year_countdown": "",
+  "happy_new_year": "🎊Frohes Neues Jahr!🎉",
+  "detect": {
+    "warning": "Läuft in Kompatibilitätsmodus, du könntest Stabilitätseinbuße haben. Ziehen Sie ein Upgrade Ihres Browsers oder iOS/macOS in Betracht.<br>Mehr Infos: <l>Kann ich benutzen - WebP Bild Format</l>",
+    "failed": "Leider kannst du nicht alle Bilder laden. Upgrade deine Browser oder iOS/macOS Version. Eine Kompatibilitätslösung wird bald verfügbar sein.<br> Mehr Infos: <l>Can I Use - WebP Bild Format</l>",
+    "success": "Dein Browser sieht modern aus. Du hast Glück, die Bilder schneller zu laden und dabei Bandbreite zu sparen."
   },
-  "alert_translate": {
-    "title": ""
+  "directLink": {
+    "caption": "Abkürzungen",
+    "contribList": "Mitwirkende"
   },
-  "alert_settings": "",
   "alert1": {
-    "title": "Hilfskraft benötigt!",
     "translation": "Übersetztungen",
     "development": "Entwicklung",
+    "title": "Hilfskraft benötigt!",
+    "see_contrib_list": "Siehe: Liste der Mitwirkenden",
     "contact": "Kontakt",
-    "join-discord": ""
+    "join-discord": "Trete dem Discord Server bei."
   },
-  "detect": {
-    "success": "Dein Browser sieht modern aus. Du hast Glück, die Bilder schneller zu laden und dabei Bandbreite zu sparen."
-  }
+  "changelog": "Änderungsprotokoll",
+  "update": "Verwandte Links",
+  "alert_settings": "Benutze<s />in der rechten oberen Ecke um die Sprache, Helligkeit und mehr zu ändern."
 }
