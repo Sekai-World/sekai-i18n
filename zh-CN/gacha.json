@@ -21,10 +21,13 @@
   "gacha_behaviors": "扭蛋消耗",
   "gacha_simulator": "扭蛋模拟器",
   "simulator": {
+    "reset": "重置",
     "total": "总数",
-    "cost": "消费",
+    "jewel": "宝石",
+    "ticket": "扭蛋券",
     "count": "数量",
-    "percentage": "百分比"
+    "percentage": "百分比",
+    "cost": "消费"
   },
   "behavior": {
     "normal": "普通",
