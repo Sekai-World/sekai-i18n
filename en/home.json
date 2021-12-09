@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "Action",
+    "show-from": "Show From",
+    "title-column": "Title",
+    "show-until": "Show Until",
+    "title": "Game News"
+  },
+  "update": "Related Links",
   "alert_contributor": {
     "title": "Thanks to our development contributors!"
   },
@@ -11,13 +19,6 @@
     "dataVer": "Data Version",
     "assetVer": "Asset Version",
     "multiPlayerVer": "Multiplayer Version"
-  },
-  "game-news": {
-    "action": "Action",
-    "show-from": "Show From",
-    "title-column": "Title",
-    "show-until": "Show Until",
-    "title": "Game News"
   },
   "new_year_countdown": "",
   "happy_new_year": "🎊Happy New Year!🎉",
@@ -39,6 +40,5 @@
     "join-discord": "Join Discord Server"
   },
   "changelog": "Changelog",
-  "update": "Related Links",
   "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
 }
