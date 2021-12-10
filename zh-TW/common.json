@@ -92,7 +92,7 @@
   "serverRegionSelect": "伺服器地區",
   "serverRegion": {
     "jp": "日服",
-    "tw": "繁體字服",
+    "tw": "繁體中文服",
     "en": "英文服（國際服）"
   },
   "language": "語言",
