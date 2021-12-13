@@ -21,10 +21,13 @@
   "gacha_behaviors": "Opciones para Tirar en el Gacha",
   "gacha_simulator": "Simulador de Gacha",
   "simulator": {
+    "reset": "Reiniciar",
     "total": "Total",
-    "cost": "Costo",
+    "jewel": "Joya",
+    "ticket": "Ticket de Gacha",
     "count": "Conteo",
-    "percentage": "Porcentaje"
+    "percentage": "Porcentaje",
+    "cost": "Costo"
   },
   "behavior": {
     "normal": "Normal",
