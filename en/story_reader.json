@@ -5,7 +5,8 @@
     "charaStory": "Character Stories",
     "cardStory": "Card Stories",
     "areaTalk": "Map Talk",
-    "liveTalk": "Live Talk"
+    "liveTalk": "Live Talk",
+    "special": "Special Stories"
   },
   "snippet": {
     "FullScreenText": "Full Screen Text",
