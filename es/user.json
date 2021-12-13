@@ -47,13 +47,20 @@
         }
       }
     },
-    "event": {
-      "current_record_info": "Ultimo Record",
-      "current_record_point": "Puntos de evento:",
-      "current_record_rank": "Ranking de evento:",
-      "current_record_time": "Tiempo Record",
-      "current_name": "Evento actual"
+    "upload_avatar_error": "Error al cargar avatar",
+    "upload_avatar": "Cargar avatar",
+    "username": "Nombre de usuario",
+    "nickname": "Nombre publico",
+    "role": "papel",
+    "email": "Email",
+    "button": {
+      "show_email": "Mostrar",
+      "update_sekai_profile": "Actualizar Perfil sekai",
+      "bind_sekai_id": "Enlazar",
+      "verify_sekai_id": "Verificar"
     },
+    "email_confirmed": "Email confirmado",
+    "syncing_card_team": "Sincronización de tarjetas Sekai y equipos...",
     "label": {
       "update_left": "Conteo de actualización utilizado: {{usado}} / {{permitido}}",
       "sekai_id_verify_step_1_title": "Abrir perfil",
@@ -70,19 +77,13 @@
       "sekai_user_word": "Introducción",
       "sekai_user_music_not_found": "No se ha encontrado el registro de música del usuario."
     },
-    "upload_avatar_error": "Error al cargar avatar",
-    "upload_avatar": "Cargar avatar",
-    "username": "Nombre de usuario",
-    "nickname": "Nombre publico",
-    "role": "papel",
-    "email": "Email",
-    "button": {
-      "show_email": "Mostrar",
-      "update_sekai_profile": "Actualizar Perfil sekai",
-      "bind_sekai_id": "Enlazar",
-      "verify_sekai_id": "Verificar"
+    "event": {
+      "current_record_info": "Ultimo Record",
+      "current_record_point": "Puntos de evento:",
+      "current_record_rank": "Ranking de evento:",
+      "current_record_time": "Tiempo Record",
+      "current_name": "Evento actual"
     },
-    "email_confirmed": "Email confirmado",
     "sekai_id_delete_confirm": {
       "title": "Confirmar desvinculación al Sekai ID",
       "content1": "¿Estás seguro de desvincular este ID de Sekai? ¡Se perderán Todos los datos y el historial de registros de eventos!"
