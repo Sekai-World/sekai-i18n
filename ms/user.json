@@ -47,13 +47,20 @@
         }
       }
     },
-    "event": {
-      "current_record_info": "Catatan terakhir:",
-      "current_record_point": "Mata acara:",
-      "current_record_rank": "Kedudukan acara:",
-      "current_record_time": "Masa catatan:",
-      "current_name": "Acara semasa:"
+    "upload_avatar_error": "Gagal memuat naik avatar!",
+    "upload_avatar": "Muat Naik Avatar",
+    "username": "Nama Pengguna",
+    "nickname": "Nama Paparan",
+    "role": "Peranan",
+    "email": "E-mel",
+    "button": {
+      "show_email": "Tunjukkan",
+      "update_sekai_profile": "Kemas Kini Profil Sekai",
+      "bind_sekai_id": "Sambung",
+      "verify_sekai_id": "Sahkan"
     },
+    "email_confirmed": "E-mel Disahkan",
+    "syncing_card_team": "Menyegerakkan Pasukan dan Kad Sekai...",
     "label": {
       "update_left": "Bilangan kemas kini digunakan {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "Buka Profil",
@@ -70,19 +77,13 @@
       "sekai_user_word": "Pengenalan",
       "sekai_user_music_not_found": "Catatan muzik pengguna tidak dijumpai."
     },
-    "upload_avatar_error": "Gagal memuat naik avatar!",
-    "upload_avatar": "Muat Naik Avatar",
-    "username": "Nama Pengguna",
-    "nickname": "Nama Paparan",
-    "role": "Peranan",
-    "email": "E-mel",
-    "button": {
-      "show_email": "Tunjukkan",
-      "update_sekai_profile": "Kemas Kini Profil Sekai",
-      "bind_sekai_id": "Sambung",
-      "verify_sekai_id": "Sahkan"
+    "event": {
+      "current_record_info": "Catatan terakhir:",
+      "current_record_point": "Mata acara:",
+      "current_record_rank": "Kedudukan acara:",
+      "current_record_time": "Masa catatan:",
+      "current_name": "Acara semasa:"
     },
-    "email_confirmed": "E-mel Disahkan",
     "sekai_id_delete_confirm": {
       "title": "Pengesahan nyahpaut ID Sekai",
       "content1": "Adakah anda ingin menyahpaut ID Sekai ini? Kesemua data spt. sejarah catatan acara akan hilang!"

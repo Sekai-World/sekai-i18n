@@ -1,5 +1,11 @@
 {
   "advertisement": "Advertisement",
+  "information": "Information",
+  "event": "Event",
+  "gacha": "Gacha",
+  "music": "Music",
+  "campaign": "Campaign",
+  "bug": "Bug",
   "character": "Character",
   "all": "All",
   "rarity": "Rarity",
@@ -25,9 +31,6 @@
   "home": "Home",
   "translation": "Translation",
   "card": "Card",
-  "music": "Music",
-  "gacha": "Gacha",
-  "event": "Event",
   "stamp": "Sticker",
   "comic": "Comic",
   "mission": {
@@ -54,7 +57,6 @@
     "title": "Function List"
   },
   "community": "Community",
-  "information": "Information",
   "tools": "Tools",
   "user": "User",
   "betaIndicator": "This function is in beta. Reporting bugs is welcomed.",
@@ -82,8 +84,6 @@
   "challengeLive": "Challenge Live",
   "endAt": "Available Until",
   "show": "Show",
-  "campaign": "Campaign",
-  "bug": "Bug",
   "level": "Level",
   "description": "Description",
   "profile": "Profile",

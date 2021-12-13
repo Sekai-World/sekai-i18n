@@ -47,13 +47,20 @@
         }
       }
     },
-    "event": {
-      "current_record_info": "Last record:",
-      "current_record_point": "Event points:",
-      "current_record_rank": "Event ranking:",
-      "current_record_time": "Record time:",
-      "current_name": "Current event:"
+    "upload_avatar_error": "Failed to upload avatar!",
+    "upload_avatar": "Upload Avatar",
+    "username": "Username",
+    "nickname": "Display Name",
+    "role": "Role",
+    "email": "Email",
+    "button": {
+      "show_email": "Show",
+      "update_sekai_profile": "Update Sekai Profile",
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Verify"
     },
+    "email_confirmed": "Email Confirmed",
+    "syncing_card_team": "Syncing Sekai Cards and Teams...",
     "label": {
       "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "Open Profile",
@@ -70,20 +77,13 @@
       "sekai_user_word": "Introduction",
       "sekai_user_music_not_found": "User music record not found."
     },
-    "upload_avatar_error": "Failed to upload avatar!",
-    "upload_avatar": "Upload Avatar",
-    "username": "Username",
-    "nickname": "Display Name",
-    "role": "Role",
-    "email": "Email",
-    "button": {
-      "show_email": "Show",
-      "update_sekai_profile": "Update Sekai Profile",
-      "bind_sekai_id": "Bind",
-      "verify_sekai_id": "Verify"
+    "event": {
+      "current_record_info": "Last record:",
+      "current_record_point": "Event points:",
+      "current_record_rank": "Event ranking:",
+      "current_record_time": "Record time:",
+      "current_name": "Current event:"
     },
-    "email_confirmed": "Email Confirmed",
-    "syncing_card_team": "",
     "sekai_id_delete_confirm": {
       "title": "Unlink Sekai ID confirmation",
       "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"

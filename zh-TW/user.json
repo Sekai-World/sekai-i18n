@@ -47,13 +47,20 @@
         }
       }
     },
-    "event": {
-      "current_record_info": "上一條記錄：",
-      "current_record_point": "活動pt：",
-      "current_record_rank": "活動排名：",
-      "current_record_time": "記錄時間：",
-      "current_name": "當前活動："
+    "upload_avatar_error": "無法上傳頭貼！",
+    "upload_avatar": "上傳頭貼",
+    "username": "使用者名稱",
+    "nickname": "顯示使用者名稱",
+    "role": "角色",
+    "email": "電子信箱",
+    "button": {
+      "show_email": "顯示",
+      "update_sekai_profile": "更新遊戲個人資料",
+      "bind_sekai_id": "綁定",
+      "verify_sekai_id": "驗證"
     },
+    "email_confirmed": "已確認電子信箱",
+    "syncing_card_team": "同步Sekai卡片和團隊......",
     "label": {
       "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "打開個人檔案",
@@ -70,19 +77,13 @@
       "sekai_user_word": "個人簡介",
       "sekai_user_music_not_found": "找不到對應的樂曲紀錄。"
     },
-    "upload_avatar_error": "無法上傳頭貼！",
-    "upload_avatar": "上傳頭貼",
-    "username": "使用者名稱",
-    "nickname": "顯示使用者名稱",
-    "role": "角色",
-    "email": "電子信箱",
-    "button": {
-      "show_email": "顯示",
-      "update_sekai_profile": "更新遊戲個人資料",
-      "bind_sekai_id": "綁定",
-      "verify_sekai_id": "驗證"
+    "event": {
+      "current_record_info": "上一條記錄：",
+      "current_record_point": "活動pt：",
+      "current_record_rank": "活動排名：",
+      "current_record_time": "記錄時間：",
+      "current_name": "當前活動："
     },
-    "email_confirmed": "已確認電子信箱",
     "sekai_id_delete_confirm": {
       "title": "確認解除Sekai ID綁定",
       "content1": "是否確認要解除這個Sekai ID的綁定？將遺失包含歷史活動紀錄在內的所有資料！"

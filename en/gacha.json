@@ -21,10 +21,13 @@
   "gacha_behaviors": "Gacha Draw Options",
   "gacha_simulator": "Gacha Simulator",
   "simulator": {
+    "reset": "Reset",
     "total": "Total",
-    "cost": "Cost",
+    "jewel": "Jewel",
+    "ticket": "Gacha Ticket",
     "count": "Count",
-    "percentage": "Percentage"
+    "percentage": "Percentage",
+    "cost": "Cost"
   },
   "behavior": {
     "normal": "Normal",
