@@ -5,7 +5,8 @@
     "charaStory": "角色劇情",
     "cardStory": "卡片劇情",
     "areaTalk": "區域對話",
-    "liveTalk": "虛擬演唱會對話"
+    "liveTalk": "虛擬演唱會對話",
+    "special": "特別故事"
   },
   "snippet": {
     "FullScreenText": "全螢幕文字",
