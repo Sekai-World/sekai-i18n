@@ -21,10 +21,13 @@
   "gacha_behaviors": "가챠 뽑기 옵션",
   "gacha_simulator": "가챠 시뮬레이터",
   "simulator": {
+    "reset": "새로고침",
     "total": "전체",
-    "cost": "비용",
+    "jewel": "쥬얼",
+    "ticket": "가챠 티켓",
     "count": "당첨 매수",
-    "percentage": "비율"
+    "percentage": "비율",
+    "cost": "비용"
   },
   "behavior": {
     "normal": "통상",
