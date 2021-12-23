@@ -23,7 +23,7 @@
   "new_year_countdown": "",
   "happy_new_year": "🎊Feliz Ano Novo!🎉",
   "detect": {
-    "warning": "A executar em modo de compatibilidade. Poderás ter problemas de performance. Considera atualizar o seu navegador ou versão do IOS/macOS. <br> Mais info: <l> Posso usar o formato de imagem WebP? </l>",
+    "warning": "A executar em modo de compatibilidade. Poderás ter problemas de performance. Considera atualizar o seu browser ou versão do IOS/macOS. <br> Mais info: <l> Posso usar o formato de imagem WebP? </l>",
     "failed": "Infelizmente não consegues carregar maior parte das imagens. Atualiza o teu browser ou a tua versão do IOS/macOS.<br> Mais info: <l> Posso usar o formato de imagem WebP?</l>",
     "success": "Parabéns! O teu navegador parece moderno. É possível carregar imagens mais rapidamente e salvar banda larga."
   },
