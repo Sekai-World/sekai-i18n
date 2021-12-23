@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Por hora",
+    "eventPointPerPlay": "Pontos de evento por partida",
+    "playClount": "Número total de partidas",
+    "playTime": "Tempo de jogo total",
+    "useBoost": "Total de bebidas de energia consumidas",
+    "totalPoint": "Pontos totais do evento"
+  },
+  "eventData": {
+    "label": "Dados do evento"
+  },
+  "eventMode": {
+    "existed": "Existente",
+    "custom": "Customizar"
+  },
+  "gameData": {
+    "energyDrink": "Custo de impulso",
+    "eventBonusRate": "Percentagem de bónus do evento (%)",
+    "teamAvgPower": "Poder total médio",
+    "currentPoint": "Pontos atuais",
+    "targetPoint": "Pontos a atingir",
+    "label": "Dados do jogo",
+    "desc": "Preenche com dados do jogo para efetuar os cálculos",
+    "remainingTime": "Horas restantes do evento"
+  },
+  "songSelect": {
+    "label": "Selecionar canção",
+    "select": {
+      "difficulty": "Dificuldade",
+      "song": "Canção"
+    },
+    "desc": "Seleciona uma canção para analisar."
+  },
+  "songMode": {
+    "label": "Selecionar canção",
+    "all_songs": "Comparar canções",
+    "only_one": "Canção específica"
+  },
+  "assumption": "Suposição: Tudo perfeito, todos têm a mesma equipa no multijogador, sem uso de bebidas de energia bónus ganhas ao subir de nível."
+}
