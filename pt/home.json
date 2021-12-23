@@ -1,0 +1,44 @@
+{
+  "game-news": {
+    "action": "Ação",
+    "show-from": "Mostrar desde",
+    "title-column": "Título",
+    "show-until": "Mostrar até",
+    "title": "Notícias do jogo"
+  },
+  "update": "Links Relacionados",
+  "alert_contributor": {
+    "title": "Obrigado aos nossos contribuidores de desenvolvimento!"
+  },
+  "alert_translate": {
+    "title": "Obrigado aos tradutores!"
+  },
+  "versionInfo": {
+    "caption": "Informações sobre as versões",
+    "gameClientVer": "Versão do cliente do jogo",
+    "dataVer": "Versão dos dados",
+    "assetVer": "Versão dos recursos",
+    "multiPlayerVer": "Versão do multijogador"
+  },
+  "new_year_countdown": "",
+  "happy_new_year": "🎊Feliz Ano Novo!🎉",
+  "detect": {
+    "warning": "A executar em modo de compatibilidade. Poderás ter problemas de performance. Considera atualizar o seu navegador ou versão do IOS/macOS. <br> Mais info: <l> Posso usar o formato de imagem WebP? </l>",
+    "failed": "Infelizmente não consegues carregar maior parte das imagens. Atualiza o teu browser ou a tua versão do IOS/macOS.<br> Mais info: <l> Posso usar o formato de imagem WebP?</l>",
+    "success": "Parabéns! O teu navegador parece moderno. É possível carregar imagens mais rapidamente e salvar banda larga."
+  },
+  "directLink": {
+    "caption": "Atalhos",
+    "contribList": "Contribuidores"
+  },
+  "alert1": {
+    "translation": "Traduções",
+    "development": "Desenvolvimento",
+    "title": "Ajuda necessária!",
+    "see_contrib_list": "Ver lista de contribuição",
+    "contact": "Contacta-me",
+    "join-discord": "Entra no servidor de Discord"
+  },
+  "changelog": "Lista de alterações",
+  "alert_settings": "Usa <s /> no canto superior direito para mudar a língua, ajustar a luminosidade e mais."
+}
