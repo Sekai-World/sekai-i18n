@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "动作",
+    "show-from": "开始日期",
+    "title-column": "标题",
+    "show-until": "结束日期",
+    "title": "游戏通知"
+  },
+  "update": "相关链接",
   "alert_contributor": {
     "title": "感谢为开发贡献力量的你们！"
   },
@@ -12,13 +20,7 @@
     "assetVer": "资产版本",
     "multiPlayerVer": "多人Live版本"
   },
-  "game-news": {
-    "action": "动作",
-    "show-from": "开始日期",
-    "title-column": "标题",
-    "show-until": "结束日期",
-    "title": "游戏通知"
-  },
+  "new_year_countdown": "新年倒计时",
   "happy_new_year": "🎊新年快乐！🎉",
   "detect": {
     "warning": "在兼容模式下运行，你可能会遭遇性能问题。请升级您的浏览器或iOS/macOS系统版本。 <br> 更多信息： <l>Can I Use - WebP image format</l>",
@@ -38,6 +40,5 @@
     "join-discord": "加入Discord服务器"
   },
   "changelog": "更新日志",
-  "update": "相关链接",
   "alert_settings": "使用右上角的 <s /> 切换语言和亮度模式。"
 }
