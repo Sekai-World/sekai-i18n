@@ -20,7 +20,7 @@
     "assetVer": "Asset Version",
     "multiPlayerVer": "Multiplayer Version"
   },
-  "new_year_countdown": "",
+  "new_year_countdown": "Count down to new year",
   "happy_new_year": "🎊Happy New Year!🎉",
   "detect": {
     "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
