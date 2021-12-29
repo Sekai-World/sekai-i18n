@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "Tindakan",
+    "show-from": "Tunjuk Mulai",
+    "title-column": "Tajuk",
+    "show-until": "Tunjuk Sehingga",
+    "title": "Berita Permainan"
+  },
+  "update": "Pautan Berkaitan",
   "alert_contributor": {
     "title": "Terima kasih penyumbang pembangunan kami!"
   },
@@ -12,13 +20,7 @@
     "assetVer": "Versi Aset ",
     "multiPlayerVer": "Versi Multipemain "
   },
-  "game-news": {
-    "action": "Tindakan",
-    "show-from": "Tunjuk Mulai",
-    "title-column": "Tajuk",
-    "show-until": "Tunjuk Sehingga",
-    "title": "Berita Permainan"
-  },
+  "new_year_countdown": "Kira detik ke tahun baharu",
   "happy_new_year": "🎊Selamat Tahun Baharu!🎉",
   "detect": {
     "warning": "Dijalankan dalam mod keserasian, anda mungkin mengalami isu prestasi. Cuba naik taraf pelayar anda atau versi iOS/macOS anda. <br> Maklumat lanjut: <l>Can I Use - WebP image format</l>",
@@ -38,6 +40,5 @@
     "join-discord": "Sertai Pelayan Discord"
   },
   "changelog": "Log Perubahan",
-  "update": "Pautan Berkaitan",
   "alert_settings": "Gunakan <s /> di bucu kanan atas untuk menukar bahasa, mengubah mod kecerahan dan lain-lain."
 }
