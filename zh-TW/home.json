@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "跳至樂曲頁面",
+    "show-from": "開始日期",
+    "title-column": "標題",
+    "show-until": "結束日期",
+    "title": "遊戲通知"
+  },
+  "update": "實用網站",
   "alert_contributor": {
     "title": "感謝為開發貢獻力量的你們！"
   },
@@ -12,13 +20,7 @@
     "assetVer": "Asset 版本",
     "multiPlayerVer": "協力Live版本"
   },
-  "game-news": {
-    "action": "跳至樂曲頁面",
-    "show-from": "開始日期",
-    "title-column": "標題",
-    "show-until": "結束日期",
-    "title": "遊戲通知"
-  },
+  "new_year_countdown": "跨年倒數",
   "happy_new_year": "🎊新年快樂！🎉",
   "detect": {
     "warning": "在兼容模式中運行可能會導致卡頓問題，建議你考慮更新瀏覽器或iOS/macOS版本。 <br>更多資訊：<l>Can I Use - WebP image format</l>",
@@ -38,6 +40,5 @@
     "join-discord": "加入Discord伺服器"
   },
   "changelog": "更新日誌",
-  "update": "實用網站",
   "alert_settings": "使用右上角的 <s /> 來切換語言、亮度模式及其他選項。"
 }
