@@ -21,10 +21,13 @@
   "gacha_behaviors": "ガチャを引くのに必要なアイテム",
   "gacha_simulator": "ガチャシミュレーター",
   "simulator": {
+    "reset": "リセット",
     "total": "引いた回数",
-    "cost": "かかる費用",
+    "jewel": "ジュエル",
+    "ticket": "ガチャチケット",
     "count": "引いたキャラの数",
-    "percentage": "確率"
+    "percentage": "確率",
+    "cost": "かかる費用"
   },
   "behavior": {
     "normal": "単発",
