@@ -79,6 +79,6 @@
     "cheerful_carnival": "歡樂嘉年華"
   },
   "distributionEndAt": "排名獎勵結束發放時間",
-  "aggregateAt": "活動pt合計時間",
+  "aggregateAt": "活動pt結算時間",
   "alreadyPast": "活動已經過"
 }
