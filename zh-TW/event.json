@@ -26,7 +26,7 @@
   "closeAt": "結束時間",
   "endAt": "活動頁面關閉時間",
   "rankingAnnounceAt": "排名公布時間",
-  "distributionStartAt": "排名報酬開始發放日期",
+  "distributionStartAt": "排名獎勵發放時間",
   "rankingReward": {
     "start": "由",
     "end": "到"
