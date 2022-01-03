@@ -1,0 +1,58 @@
+{
+  "difficulty": "Obtížnost",
+  "actualPlaybackTime": "Čas Přehrávání",
+  "downloadFlacNoTrim": "Stažený FLAC soubor bude obsahovat tichou část na začátku.",
+  "vocal": "Zpěv",
+  "alert[0]": "Prvních 9 sekund písničky nemá zvuk. To NENÍ chyba",
+  "vocalTab": {
+    "title[0]": "Krátká verze",
+    "title[1]": "Dlouhá verze",
+    "title[2]": "Hudební video"
+  },
+  "fileFormat": {
+    "caption": "Formát souboru",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Přeskočit ticho na začátku",
+  "tag": "Štítek",
+  "tag_plural": "Štítky",
+  "category": "Kategorie",
+  "category_plural": "Kategorie",
+  "arranger": "Aranžer",
+  "composer": "Skladatel",
+  "lyricist": "Textař",
+  "danceMember": "Taneční člen",
+  "danceMember_plural": "Taneční Členové",
+  "vocal_plural": "Zpěv",
+  "vocalType": "Typ Zpěvu",
+  "achievement": "Ocenění",
+  "scoreRankAchievement": {
+    "title": "Rank Skore",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "difficulty_plural": "Obtížnosti",
+  "chartCredit": "Obrázek chartu je upravený podle Erikovi (pjsek.ai) verze.",
+  "noteCount": "Počet not",
+  "comboRewards": "Odměny za kombo",
+  "chartImage": "Chart",
+  "baseScore": "Základní hodnocení skore",
+  "feverScore": "Fever hodnocení skore",
+  "eventRate": "Eventové hodnocení skore",
+  "clear_status": "Odehrany status",
+  "hi_score": "Nejvyšší skore",
+  "mvp_count": "Počet MVP",
+  "super_star_count": "Počet Super Star",
+  "dancerCount": "Počet tanečníků",
+  "combo": "Kombo",
+  "preview": "Náhled",
+  "categoryType": {
+    "mv": "3D MV",
+    "mv_2d": "2D MV",
+    "original": "Originální MV",
+    "image": "Stálý obrázek"
+  }
+}
