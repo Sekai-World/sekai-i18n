@@ -21,10 +21,13 @@
   "gacha_behaviors": "Opsi Draw Gacha",
   "gacha_simulator": "Simulator Gacha",
   "simulator": {
+    "reset": "Atur Ulang",
     "total": "Total",
-    "cost": "Biaya",
+    "jewel": "Permata",
+    "ticket": "Tiket Gacha",
     "count": "Jumlah",
-    "percentage": "Persentase"
+    "percentage": "Persentase",
+    "cost": "Biaya"
   },
   "behavior": {
     "normal": "Normal",
