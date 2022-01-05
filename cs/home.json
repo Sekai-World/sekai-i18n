@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "Akce",
+    "show-from": "Ukázat od",
+    "title-column": "Titul",
+    "show-until": "Ukázat od",
+    "title": "Hení novinky"
+  },
+  "update": "Související odkazy",
   "alert_contributor": {
     "title": "Děkujeme naším prispěvatelům!"
   },
@@ -12,13 +20,7 @@
     "assetVer": "Verze Asset",
     "multiPlayerVer": "Multiplayer verze"
   },
-  "game-news": {
-    "action": "Akce",
-    "show-from": "Ukázat od",
-    "title-column": "Titul",
-    "show-until": "Ukázat od",
-    "title": "Hení novinky"
-  },
+  "new_year_countdown": "Odpočet do nového roku",
   "happy_new_year": "🎊Šťastný nový rok🎉",
   "detect": {
     "warning": "Spuštěno v kompatibilním modu, možná máte problémy s výkonem. Zvažte upgradování vašeho prohlížeče nebo vašeho iOS/macOS verze.<br> Více informací: <l> Můžu použít WebP formát</l>",
@@ -38,6 +40,5 @@
     "join-discord": "Přidejte se k Discord serveru"
   },
   "changelog": "List změn",
-  "update": "Související odkazy",
   "alert_settings": "Použijte <s /> na pravám horním rohu pro změnění jazyku, přehození jasu a víc."
 }
