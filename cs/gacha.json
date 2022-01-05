@@ -21,10 +21,13 @@
   "gacha_behaviors": "Gacha Draw možnosti",
   "gacha_simulator": "Gacha Simulator",
   "simulator": {
+    "reset": "Restart",
     "total": "Celkem",
-    "cost": "Cena",
+    "jewel": "Drahokam",
+    "ticket": "Gacha Tiket",
     "count": "Počet",
-    "percentage": "Procento"
+    "percentage": "Procento",
+    "cost": "Cena"
   },
   "behavior": {
     "normal": "Normální",
