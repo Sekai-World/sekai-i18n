@@ -1,15 +1,40 @@
 {
   "tab": {
+    "title": {
+      "banner_logo": "Баннер и Лого"
+    },
+    "title[3]": "Задний фон",
+    "title[4]": "Главное изображение",
     "title[0]": "Описание",
     "title[1]": "Анотация",
-    "title[2]": "Симулятор",
-    "title[3]": "Задний фон",
-    "title[4]": "Главное изображение"
+    "title[2]": "Симулятор"
   },
+  "ceil_item": "Гача печати",
+  "summary": "Краткое описание",
+  "description": "Описание",
+  "gacha_rate": "Шансы выпадения",
   "normalRate": "Обычный шанс",
   "guaranteedRate": "Гарантированный шанс",
+  "gacha_cards": "Карты гачи",
   "pickupMember": "Шанс на карты",
   "pickupMember_plural": "Доступные участники",
+  "gacha_behaviors": "Опции гачи",
+  "gacha_simulator": "Симулятор гачи",
+  "simulator": {
+    "reset": "Сброс",
+    "total": "Всего",
+    "jewel": "Кристаллы",
+    "ticket": "Билеты гачи",
+    "count": "Счётчик",
+    "percentage": "Шанс",
+    "cost": "Цена"
+  },
+  "behavior": {
+    "normal": "Обычный",
+    "over_rarity_3_once": "Гарантированная (3*)",
+    "once_a_day": "Раз в день",
+    "over_rarity_4_once": "Гарантированная (4*)"
+  },
   "gachaType": {
     "ceil": "Перманент",
     "normal": "Перманент"
