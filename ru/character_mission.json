@@ -1,0 +1,11 @@
+{
+  "play_live": "｢Использовать {{- name}}｣ как лидера команды {{count}} раз",
+  "waiting_room": "Иметь {{count}} дубликатов карт ｢{{- name}}｣",
+  "collect_costume_3d": "Получить {{count}} костюмов для ｢{{- name}}｣ через гачу, магазин или увеличение мастер ранга карты",
+  "collect_stamp": "Купить {{count}} штампов ｢{{- name}}｣",
+  "read_area_talk": "Прочитать {{count}} диалогов на области с ｢{{- name}}｣",
+  "skill_level_up": "Повысить скилл ｢{{- name}}｣ {{count}} раз",
+  "master_rank": "Повысить мастер ранг карточки ｢{{- name}}｣ {{count}} раз",
+  "read_card_episode_first": "Прочитать 1-ю историю карты ｢{{- name}}｣ {{count}} раз",
+  "read_card_episode_second": "Прочитать 2-ю историю карты ｢{{- name}}｣ {{count}} раз"
+}
