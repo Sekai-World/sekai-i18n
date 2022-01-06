@@ -1,21 +1,24 @@
 {
+  "skillName": "Название навыка",
+  "cardLevel": "Уровень карты",
+  "skillLevel": "Уровень навыка",
+  "trained": "После",
+  "sideStory1Unlocked": "Побочная история 1 открыта",
+  "sideStory2Unlocked": "Побочная история 2 открыта",
   "tab": {
     "title[0]": "Нормальное",
     "title[1]": "Нормальное без фона",
     "title[2]": "Тренированное",
     "title[3]": "Тренированное без фона"
   },
-  "skillLevel": "Уровень навыка",
-  "skillName": "Название навыка",
+  "gachaPhrase": "Фраза",
   "skillEffect": "Эффект навыка",
   "stats": "Статы",
-  "cardLevel": "Уровень карты",
   "normal": "Тренинг",
-  "trained": "После",
   "sideStory": "Побочная история",
-  "sideStory1Unlocked": "Побочная история 1 открыта",
-  "sideStory2Unlocked": "Побочная история 2 открыта",
   "sideStory_plural": "Побочные истории",
+  "rarity": "Редкость",
   "power": "Сила",
+  "apply_event_filter": "Применить ивент-бонус",
   "skill": "Навык"
 }
