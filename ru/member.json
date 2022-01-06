@@ -12,6 +12,7 @@
     "male": "Мужской",
     "secret": "Секрет"
   },
+  "scenario": "Истории",
   "introduction": "Описание",
   "colorCode": "Основной цвет",
   "skinColorCode": "Цвет кожи",
