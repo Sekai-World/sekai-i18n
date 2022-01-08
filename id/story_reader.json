@@ -5,7 +5,8 @@
     "charaStory": "Cerita Karakter",
     "cardStory": "Cerita Kartu",
     "areaTalk": "Dialog Map",
-    "liveTalk": "Dialog Live"
+    "liveTalk": "Dialog Live",
+    "special": "Cerita Khusus"
   },
   "snippet": {
     "FullScreenText": "Teks Layar Penuh",
