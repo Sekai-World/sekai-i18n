@@ -1,10 +1,4 @@
 {
-  "alert_contributor": {
-    "title": "Terima kasih kepada kontributor pengembangan kami!"
-  },
-  "alert_translate": {
-    "title": "Terima kasih kepada para penerjemah!"
-  },
   "game-news": {
     "action": "Tindakan",
     "show-from": "Lihat dari",
@@ -12,8 +6,22 @@
     "show-until": "Lihat Hingga",
     "title": "Berita Permainan"
   },
+  "update": "Tautan Terkait",
+  "alert_contributor": {
+    "title": "Terima kasih kepada kontributor pengembangan kami!"
+  },
+  "alert_translate": {
+    "title": "Terima kasih kepada para penerjemah!"
+  },
+  "versionInfo": {
+    "caption": "Informasi Versi",
+    "gameClientVer": "Versi Klien Game",
+    "dataVer": "Versi Data",
+    "assetVer": "Versi Aset",
+    "multiPlayerVer": "Versi Multipemain"
+  },
+  "new_year_countdown": "Hitung mundur ke tahun baru",
   "happy_new_year": "🎊Selamat Tahun Baru!🎉",
-  "alert_settings": "Gunakan <s /> di pojok kanan atas untuk mengubah bahasa, beralih mode kecerahan, dan lainnya.",
   "detect": {
     "warning": "Berjalan dalam mode kompatibilitas, Anda mungkin mengalami masalah pada kinerja. Pertimbangkan untuk meningkatkan browser atau versi iOS/macOS Anda. Info selengkapnya: <l>Dapatkah saya menggunakan - format gambar WebP</l>",
     "failed": "Sayangnya, Anda tidak dapat memuat sebagian besar gambar. Tingkatkan versi browser atau iOS/macOS Anda. Solusi kompatibilitas akan segera tersedia.<br> Info selengkapnya: <l>Dapatkah Saya Menggunakan - format gambar WebP</l>",
@@ -31,5 +39,6 @@
     "contact": "Hubungi Saya",
     "join-discord": "Gabung Server Discord"
   },
-  "update": "Tautan Terkait"
+  "changelog": "Catatan Perubahan",
+  "alert_settings": "Gunakan <s /> di pojok kanan atas untuk mengubah bahasa, beralih mode kecerahan, dan lainnya."
 }
