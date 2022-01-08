@@ -1,7 +1,7 @@
 {
   "difficulty": "Tingkat Kesulitan",
   "actualPlaybackTime": "Waktu Pemutaran Aktual",
-  "downloadFlacNoTrim": "Berkas FLAC yang terunduh akan memiliki awalan yang bisu.",
+  "downloadFlacNoTrim": "Berkas FLAC yang terunduh tidak memiliki suara diawal.",
   "vocal": "Vokal",
   "alert[0]": "<b>Sembilan detik</b> pertama dari setiap lagu tidak bersuara. Ini BUKAN bug.",
   "vocalTab": {
