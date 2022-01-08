@@ -1,4 +1,10 @@
 {
+  "skillName": "Nama Skill",
+  "cardLevel": "Level Kartu",
+  "skillLevel": "Level Skill",
+  "trained": "Trained",
+  "sideStory1Unlocked": "Cerita Spesial 1 Terbuka",
+  "sideStory2Unlocked": "Cerita Spesial 2 Terbuka",
   "tab": {
     "title[0]": "Gambar normal",
     "title[1]": "Gambar potongan normal",
@@ -6,18 +12,12 @@
     "title[3]": "Gambar potongan setelah training"
   },
   "gachaPhrase": "Dialog Gacha",
-  "skillLevel": "Level Skill",
-  "skillName": "Nama Skill",
   "skillEffect": "Efek Skill",
   "stats": "Statistik",
-  "cardLevel": "Level Kartu",
   "normal": "Normal",
-  "trained": "Trained",
   "sideStory": "Cerita Spesial",
-  "sideStory1Unlocked": "Cerita Spesial 1 Terbuka",
-  "sideStory2Unlocked": "Cerita Spesial 2 Terbuka",
   "sideStory_plural": "Cerita Spesial",
-  "rarity": "Rarity",
+  "rarity": "Kelangkaan",
   "power": "Kekuatan",
   "apply_event_filter": "Terapkan Bonus Event",
   "skill": "Skill"
