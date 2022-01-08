@@ -61,7 +61,7 @@
   "rankingTable": {
     "head": {
       "userProfile": "Pengguna",
-      "score": "Point",
+      "score": "Nilai",
       "speed_per_hour": "Rata-rata Kecepatan (/jam)",
       "prediction": "Prediksi"
     }
