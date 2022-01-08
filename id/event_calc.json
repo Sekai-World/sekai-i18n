@@ -4,7 +4,7 @@
     "eventPointPerPlay": "Point Event Sekali Main",
     "playClount": "Total Jumlah Permainan",
     "playTime": "Total Waktu Permainan",
-    "useBoost": "Total Boost yang Dikonsumsi",
+    "useBoost": "Total Energi yang Dikonsumsi",
     "totalPoint": "Total Point Event"
   },
   "eventData": {
@@ -17,20 +17,20 @@
   "gameData": {
     "energyDrink": "Biaya Boost",
     "eventBonusRate": "Rate Bonus Event (%)",
+    "teamAvgPower": "Power Total Rata-Rata",
     "currentPoint": "Point Saat Ini",
     "targetPoint": "Target Point",
-    "teamAvgPower": "Power Total Rata-Rata",
     "label": "Data Game",
     "desc": "Isi data dari game untuk diperhitungkan",
     "remainingTime": "Sisa Waktu Event"
   },
   "songSelect": {
     "label": "Pilih Lagu",
-    "desc": "Pilih lagu untuk dianalisis.",
     "select": {
       "difficulty": "Tingkat kesulitan",
       "song": "Lagu"
-    }
+    },
+    "desc": "Pilih lagu untuk dianalisis."
   },
   "songMode": {
     "label": "Pilih Lagu",
