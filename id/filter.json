@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "Peningkatan Skor",
-    "judgment_up": "Keadaan dan Peningkatan Skor",
-    "life_recovery": "Pemulihan Nyawa & Peningkatan Skor",
-    "perfect_score_up": "Peningkatan Skor ketika PERFECT"
-  },
   "character": {
     "caption": "Karakter"
   },
@@ -37,5 +31,12 @@
     "caption": "Bahasa",
     "source": "Bahasa sumber",
     "target": "Bahasa Target"
+  },
+  "skill": {
+    "score_up": "Peningkatan Skor",
+    "judgment_up": "Keadaan dan Peningkatan Skor",
+    "life_recovery": "Pemulihan Nyawa & Peningkatan Skor",
+    "perfect_score_up": "Peningkatan Skor ketika PERFECT",
+    "life_score_up": "Kondisi hidup dengan Skor Tambahan"
   }
 }
