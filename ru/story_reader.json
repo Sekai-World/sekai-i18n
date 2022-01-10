@@ -1,23 +1,12 @@
 {
-  "selectLabel": {
-    "storyType": "Тип истории",
-    "unitName": "Название юнита",
-    "unitStoryChapter": "Глава",
-    "unitStoryEpisode": "Эпизод",
-    "eventName": "Название ивента",
-    "eventStoryEpisode": "Эпизод",
-    "charaName": "Имя персонажа",
-    "cardName": "Название карты",
-    "cardStoryEpisode": "Эпизод"
-  },
   "selectValue": {
     "eventStory": "Истории ивентов",
     "unitStory": "Истории юнитов",
     "charaStory": "Истории персонажей",
-    "cardStory": "Истории карт"
-  },
-  "buttonLabel": {
-    "showEpisode": "Загрузить эпизод истории"
+    "cardStory": "Истории карт",
+    "areaTalk": "Диалоги локаций",
+    "liveTalk": "Live Talk",
+    "special": "Особые истории"
   },
   "snippet": {
     "FullScreenText": "Полноэкранный текст",
@@ -29,5 +18,19 @@
     "BGM": "Фоновая музыка",
     "SE": "Звуковой эффект",
     "NoSound": "Без звука"
+  },
+  "selectLabel": {
+    "storyType": "Тип истории",
+    "unitName": "Название юнита",
+    "unitStoryChapter": "Глава",
+    "unitStoryEpisode": "Эпизод",
+    "eventName": "Название ивента",
+    "eventStoryEpisode": "Эпизод",
+    "charaName": "Имя персонажа",
+    "cardName": "Название карты",
+    "cardStoryEpisode": "Эпизод"
+  },
+  "buttonLabel": {
+    "showEpisode": "Загрузить эпизод истории"
   }
 }
