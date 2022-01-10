@@ -7,10 +7,36 @@
     "ascending": "По возрастанию",
     "descending": "По убыванию"
   },
+  "honorType": {
+    "caption": "Тип титула",
+    "group_only_once": "Показать один в каждой группе"
+  },
+  "not_set": "Не выбрано",
   "missionType": {
     "caption": "Тип миссии"
   },
   "music_tag": {
     "caption": "Тег песни"
+  },
+  "music_mv": {
+    "caption": "Категория"
+  },
+  "not-selected": "Не выбрано",
+  "stampType": {
+    "caption": "Вид штампа",
+    "text": "Только текст",
+    "illustration": "Картинка"
+  },
+  "language": {
+    "caption": "Язык",
+    "source": "Исходный язык",
+    "target": "Язык перевода"
+  },
+  "skill": {
+    "score_up": "Увеличение очков",
+    "judgment_up": "Замена и Увеличение очков",
+    "life_recovery": "Восстановление и Увеличение очков",
+    "perfect_score_up": "Увеличение очков для PERFECT",
+    "life_score_up": "Увеличение очков в зависимости от жизни"
   }
 }
