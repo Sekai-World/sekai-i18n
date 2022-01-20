@@ -90,7 +90,7 @@
   "profile": "プロフィール",
   "character_plural": "キャラクター",
   "detectionFailedPrompt": "地域を特定するのに失敗しました、ネットワークを確認してください",
-  "serverRegionSelect": "リージョン",
+  "serverRegionSelect": "地域",
   "serverRegion": {
     "jp": "日本語版",
     "tw": "繁体字版",
