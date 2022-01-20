@@ -111,8 +111,8 @@
     },
     "sekai_id": "SekaiユーザーID",
     "email_confirmed_status": {
-      "true": "yes",
-      "false": "no"
+      "true": "はい",
+      "false": "いいえ"
     }
   }
 }
