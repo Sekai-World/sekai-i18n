@@ -107,7 +107,7 @@
   "miscs": "その他",
   "spoilerContent": "ネタバレを扱っている内容",
   "currentRegion": "現在探知された地域",
-  "regionTooltip": "これはCDNサーバーの地域を決めます",
+  "regionTooltip": "これはCDNサーバーエリアを決めます",
   "modify": "調整・変更",
   "login": "ログイン",
   "reset_password": "パスワードをリセットする",
