@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "アクション",
+    "show-from": "公開開始時間",
+    "title-column": "タイトル",
+    "show-until": "公開終了時間",
+    "title": "ゲームニュース"
+  },
+  "update": "関連サイト",
   "alert_contributor": {
     "title": "開発協力者の皆様、ありがとうございます！"
   },
@@ -12,13 +20,7 @@
     "assetVer": "アセットバージョン",
     "multiPlayerVer": "マルチプレイヤーバージョン"
   },
-  "game-news": {
-    "action": "アクション",
-    "show-from": "公開開始時間",
-    "title-column": "タイトル",
-    "show-until": "公開終了時間",
-    "title": "ゲームニュース"
-  },
+  "new_year_countdown": "新年までのカウントダウン",
   "happy_new_year": "🎊新年あけましておめでとう🎉",
   "detect": {
     "warning": "互換モードで実行すると、パフォーマンスの問題が発生する可能性があります。 ブラウザまたはiOS / macOSバージョンのアップデートを検討してください。<br>詳細:<l>WebPという画像形式を使用できますか？</l>",
@@ -38,6 +40,5 @@
     "join-discord": "Discordに参加"
   },
   "changelog": "変更ログ",
-  "update": "関連サイト",
   "alert_settings": "右上の<s />から言語や画面の明るさなどを変更できます。"
 }
