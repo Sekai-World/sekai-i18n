@@ -1,36 +1,14 @@
 {
   "profile": {
     "title": {
-      "user_event": "Sekaiイベントデータ",
-      "user_deck": "現在のSekaiチーム",
-      "sekai_profile": "Sekaiプロフィール",
-      "sekai_cards_teams": "Sekaiカードとチーム",
-      "card_list": "Sekaiカード",
-      "import_card": "Sekaiカードをインポートする",
+      "user_deck": "現在のセカイチーム",
+      "user_event": "セカイイベントデータ",
+      "card_list": "セカイカード",
+      "import_card": "セカイカードをインポートする",
       "manage_teams": "チーム管理",
-      "user_statistics": "Sekai統計"
-    },
-    "event": {
-      "current_record_info": "前回の記録",
-      "current_record_point": "イベントポイント:",
-      "current_record_rank": "イベントのランキング",
-      "current_record_time": "記録時間",
-      "current_name": "現在のイベント:"
-    },
-    "label": {
-      "update_left": "使用された更新の数： {{ used }} / {{ allowed }}",
-      "sekai_id_not_verified": "未検証",
-      "sekai_user_id": "SekaiユーザーID",
-      "sekai_id_verify_token": "称号",
-      "sekai_user_name": "名前",
-      "sekai_user_rank": "ランク",
-      "sekai_user_word": "紹介文",
-      "sekai_id_verify": "確認",
-      "sekai_id_verify_step_1_title": "プロフィールを開く",
-      "sekai_id_verify_step_1_subtitle": "右上のボタンから\"メニュー\" (1) を開き、\"称号 & プロフィール\" (2) のボタンを押してください",
-      "sekai_id_verify_step_2_title": "称号を書き込んで保存",
-      "sekai_id_verify_step_2_subtitle": "確認トークン{{verify_token}}をテキストボックスに書き込み（1）、「戻る」ボタン（2）をタップして保存します。 その後、「確認」ボタンをタップします。",
-      "sekai_user_music_not_found": "ユーザーの楽曲記録が見つかりません。"
+      "sekai_profile": "セカイプロフィール",
+      "sekai_cards_teams": "セカイカードとチーム",
+      "user_statistics": "統計"
     },
     "import_card": {
       "table": {
@@ -78,14 +56,46 @@
     "button": {
       "show_email": "表示",
       "update_sekai_profile": "Sekaiプロフィールを更新",
-      "bind_sekai_id": "bind",
+      "bind_sekai_id": "連携",
       "verify_sekai_id": "確認"
     },
     "email_confirmed": "メールアドレスが確認されました",
+    "syncing_card_team": "Sekaiカードとチームを同期しています…",
+    "label": {
+      "update_left": "使用された更新の数： {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "プロフィールを開く",
+      "sekai_id_verify_step_1_subtitle": "右上のボタンから\"メニュー\" (1) を開き、\"称号 & プロフィール\" (2) のボタンを押してください",
+      "sekai_id_verify_step_2_title": "称号を書き込んで保存",
+      "sekai_id_verify_step_2_subtitle": "確認トークン{{verify_token}}をテキストボックスに書き込み（1）、「戻る」ボタン（2）をタップして保存します。 その後、「確認」ボタンをタップします。",
+      "sekai_id_verify": "確認",
+      "sekai_id_not_verified": "未検証",
+      "sekai_user_id": "SekaiユーザーID",
+      "unlink_sekai_id": "Sekai IDのリンクを解除",
+      "sekai_id_verify_token": "称号",
+      "sekai_user_name": "名前",
+      "sekai_user_rank": "ランク",
+      "sekai_user_word": "紹介文",
+      "sekai_user_music_not_found": "ユーザーの楽曲記録が見つかりません。"
+    },
+    "event": {
+      "current_record_info": "前回の記録",
+      "current_record_point": "イベントポイント:",
+      "current_record_rank": "イベントのランキング",
+      "current_record_time": "記録時間",
+      "current_name": "現在のイベント:"
+    },
+    "sekai_id_delete_confirm": {
+      "title": "セカイIDの確認リンクを解除する",
+      "content1": "このセカイIDのリンクを解除してもよろしいですか？\nすべてのデータ（例えばイベント記録履歴など）が失われます！"
+    },
+    "sekai_id_transfer": {
+      "title": "移行するSekai ID",
+      "content1": "指定されたSekai IDは、すでに他のユーザーに使われています。もし以前のユーザー名を覚えている場合は下のテキストボックスに入力できます。\n以前のユーザー名を忘れてしまった場合は、Twitterの@SekaiViewerにDMを送ることで、手動で引き継ぎを行うことができます。"
+    },
     "error": {
-      "sekai_id_malformed": "Sekai IDは16桁の数字で、友達のコードと同じです。",
-      "sekai_id_already_bind": "Sekai IDはすでに別のユーザーにバインドされています。",
-      "sekai_id_verify_failed": "所有権の確認に失敗しました。プロファイルパネルを残して保存しましたか？"
+      "sekai_id_verify_failed": "所有権の確認に失敗しました。プロファイルパネルを残して保存しましたか？",
+      "sekai_id_malformed": "Sekai IDは16桁以上の数字であり、ユーザー名ではありません。",
+      "sekai_id_already_bind": "Sekai IDはすでに別のユーザーにバインドされています。"
     },
     "card_list": {
       "submit_success": "カード情報を更新しました。",
