@@ -2,7 +2,7 @@
   "result": {
     "perHour": "Pro Stunde",
     "eventPointPerPlay": "Event Punkte pro Runde",
-    "playClount": "Gesamtzahl der Spiele",
+    "playClount": "Runden",
     "playTime": "Gesamtzahl der Spielzeit",
     "useBoost": "Gesamtzahl der verbrauchten Boosts",
     "totalPoint": "Gesamtzahl der Event Punkte"
