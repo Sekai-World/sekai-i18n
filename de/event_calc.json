@@ -25,7 +25,7 @@
     "remainingTime": "Event verbleibende Stunden"
   },
   "songSelect": {
-    "label": "Lied Auswahl",
+    "label": "Song Auswahl",
     "select": {
       "difficulty": "Schwierigkeitsgrad",
       "song": "Lied"
