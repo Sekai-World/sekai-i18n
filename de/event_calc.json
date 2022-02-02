@@ -30,7 +30,7 @@
       "difficulty": "Schwierigkeitsgrad",
       "song": "Song"
     },
-    "desc": "Wähle ein Lied zum analysieren aus."
+    "desc": "Wähle ein Song zum analysieren aus."
   },
   "songMode": {
     "label": "Lied Auswahl",
