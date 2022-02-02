@@ -28,7 +28,7 @@
     "label": "Song Auswahl",
     "select": {
       "difficulty": "Schwierigkeitsgrad",
-      "song": "Lied"
+      "song": "Song"
     },
     "desc": "Wähle ein Lied zum analysieren aus."
   },
