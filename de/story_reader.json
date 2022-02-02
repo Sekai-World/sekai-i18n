@@ -1,0 +1,36 @@
+{
+  "selectValue": {
+    "eventStory": "Event-Storys",
+    "unitStory": "Gruppen-Storys",
+    "charaStory": "Charakter-Storys",
+    "cardStory": "Karten-Storys",
+    "areaTalk": "Landkarten-Gespräche",
+    "liveTalk": "Liveshow-Gespräche",
+    "special": "Spezielle Storys"
+  },
+  "snippet": {
+    "FullScreenText": "Vollbildschirm-Text",
+    "Telop": "Untertitel",
+    "ChangeBackground": "Änderung des Hintergrunds",
+    "ShowBackground": "Zeige Hintergrundbild",
+    "Movie": "Film",
+    "ShowMovie": "Film abspielen",
+    "BGM": "Hintergrundmusik",
+    "SE": "Soundeffekt",
+    "NoSound": "Kein Sound"
+  },
+  "selectLabel": {
+    "storyType": "Art von Story",
+    "unitName": "Gruppenname",
+    "unitStoryChapter": "Kapitel",
+    "unitStoryEpisode": "Episode",
+    "eventName": "Name des Events",
+    "eventStoryEpisode": "Episode",
+    "charaName": "Charaktername",
+    "cardName": "Name der Karte",
+    "cardStoryEpisode": "Episode"
+  },
+  "buttonLabel": {
+    "showEpisode": "Lade Episode der Story"
+  }
+}
