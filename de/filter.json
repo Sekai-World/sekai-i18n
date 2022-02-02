@@ -1,10 +1,42 @@
 {
   "character": {
-    "caption": ""
+    "caption": "Charakter"
   },
   "sort": {
-    "caption": "",
-    "ascending": "",
-    "descending": ""
+    "caption": "Sortieren",
+    "ascending": "Älteste zu neueste",
+    "descending": "Neueste zu älteste"
+  },
+  "honorType": {
+    "caption": "Titel-Art",
+    "group_only_once": "Zeige nur einen aus jeder Gruppe"
+  },
+  "not_set": "Nicht ausgewählt",
+  "missionType": {
+    "caption": "Missions-Art"
+  },
+  "music_tag": {
+    "caption": "Gruppe"
+  },
+  "music_mv": {
+    "caption": "MV-Art"
+  },
+  "not-selected": "Nicht ausgewählt",
+  "stampType": {
+    "caption": "Sticker-Art",
+    "text": "Nur Text",
+    "illustration": "Mit Illustration"
+  },
+  "language": {
+    "caption": "Sprache",
+    "source": "Quellensprache",
+    "target": "Zielsprache"
+  },
+  "skill": {
+    "score_up": "Punkte-Boost",
+    "judgment_up": "Zeitfenster- & Punkte-Boost",
+    "life_recovery": "Heilung & Punkte-Boost",
+    "perfect_score_up": "Punkte-Boost wenn PERFEKT",
+    "life_score_up": "Punkte-Boost mit Lebens-Bedingung"
   }
 }
