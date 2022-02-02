@@ -1,27 +1,31 @@
 {
   "tab": {
-    "title[0]": "",
-    "title[1]": "",
-    "title[2]": ""
+    "title[0]": "Charakter",
+    "title[1]": "Namens-Beschriftung (horizontal)",
+    "title[2]": "Namens-Beschriftung (vertikal)"
   },
-  "name": "",
-  "hiragana": "",
+  "name": "Name",
+  "hiragana": "Furigana",
   "gender": {
-    "caption": ""
+    "caption": "Geschlecht",
+    "female": "Weiblich",
+    "male": "Männlich",
+    "secret": "Geheim"
   },
-  "colorCode": "",
-  "skinColorCode": "",
-  "skinShadowColorCode1": "",
-  "skinShadowColorCode2": "",
-  "height": "",
-  "birthday": "",
-  "characterVoice": "",
-  "school": "",
-  "schoolYear": "",
-  "hobby": "",
-  "specialSkill": "",
-  "favoriteFood": "",
-  "hatedFood": "",
-  "weak": "",
-  "introduction": ""
+  "scenario": "Story",
+  "introduction": "Vorstellung",
+  "colorCode": "Image-Farbe",
+  "skinColorCode": "Hautfarbe",
+  "skinShadowColorCode1": "Haut-Schatten-Farbe 1",
+  "skinShadowColorCode2": "Haut-Schatten-Farbe 2",
+  "height": "Größe",
+  "birthday": "Geburtstag",
+  "characterVoice": "Synchronsprecher/in",
+  "school": "Schule",
+  "schoolYear": "Klasse",
+  "hobby": "Hobby",
+  "specialSkill": "Spezialität",
+  "favoriteFood": "Lieblingsessen",
+  "hatedFood": "Unbeliebtes Essen",
+  "weak": "Schwäche"
 }
