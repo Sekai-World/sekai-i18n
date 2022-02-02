@@ -33,7 +33,7 @@
     "desc": "Wähle ein Song zum analysieren aus."
   },
   "songMode": {
-    "label": "Lied Auswahl",
+    "label": "Song Auswahl",
     "all_songs": "Vergleiche Lieder",
     "only_one": "Bestimmtes Lied"
   },
