@@ -35,7 +35,7 @@
   "songMode": {
     "label": "Song Auswahl",
     "all_songs": "Vergleiche Songs",
-    "only_one": "Bestimmtes Lied"
+    "only_one": "Bestimmtes Songs"
   },
   "assumption": "Annahme: Alles Perfekt, alle im Multiplayer haben das selbe Team, kein Level Up boost Bonus."
 }
