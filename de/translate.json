@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Quelle",
+      "target": "Ziel"
+    },
+    "source_lang": "Quellensprache",
+    "announcement": {
+      "source_title": "Titel der Quelle",
+      "source_desc": "Quellenbeschreibung",
+      "target_title": "Titel des Ziels",
+      "target_desc": "Zielbeschreibung"
+    },
+    "target_lang": "Zielsprache",
+    "button": {
+      "copy_source": "Kopiere Quellen-Strings"
+    },
+    "target_contributors": "Helfer",
+    "submit-status": {
+      "success": "Erfolg",
+      "failed": "Fehlschlag"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Kopiere Quellen-Strings",
+        "text": "Du wirst alle Quellen-Strings in den Zielbereich kopieren, alles, was nicht in den Zielbereich eingefügt wurde, wird verloren gehen.",
+        "confirm": "Bestätigen",
+        "cancel": "Abbrechen"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Als In Arbeit markieren",
+    "mark_finished": "Als Fertig markieren",
+    "continue_translate": "Arbeit fortsetzen",
+    "start_translate": "Mit übersetzen beginnen"
+  },
+  "status": {
+    "finished": "Fertig",
+    "inprogress": "In Arbeit"
+  },
+  "error": {
+    "lang_mismatch": "Sprachen stimmen nicht überein."
+  },
+  "title": {
+    "my_works": "Bereits existierende Werke",
+    "available_contents": "Verfügbare Inhalte"
+  }
+}
