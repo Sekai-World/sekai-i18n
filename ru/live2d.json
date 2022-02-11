@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Загрузка метаданных...",
+    "model_texture": "Загрузка текстур...",
+    "model_moc3": "Загрузка схемы...",
+    "model_physics": "Загрузка физики...",
+    "motion_metadata": "Загрузка движений...",
+    "display_model": "Подготовка к отображению..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Генерация метаданных",
+    "download_texture": "Загрузка текстур",
+    "download_moc3": "Загрузка схемы",
+    "download_physics": "Загрузка физики",
+    "download_motions": "Скачать движения и эмоции {{dlcount}}/{{total}}",
+    "generate_zip": "Создание zip архива"
+  },
+  "select": {
+    "model": "Моделька",
+    "motions": "Движения",
+    "expressions": "Эмоции"
+  },
+  "tooltip": {
+    "download": "Скачать",
+    "fullscreen": "Полный экран",
+    "shot": "Сохранить скриншот",
+    "stop_record": "Конец записи",
+    "start_record": "Начать запись"
+  }
+}
