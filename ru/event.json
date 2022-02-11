@@ -8,21 +8,77 @@
   },
   "remainingTime": "Оставшееся время",
   "progress": "Прогресс",
+  "title": {
+    "boost": "Бонус",
+    "cheerful_carnival": "Cheerful Carnival",
+    "timepoint": "Время проведения",
+    "rankingRewards": "Награды за рейтинг"
+  },
   "boostAttribute": "Бонус-атрибут",
   "boostCharacters": "Бонус-персонажи",
   "maxBoost": "Макс. бонус (Оба бонуса)",
+  "boostSpecificCards": "Карты с дополнительным бонусом",
+  "boostCards": "Бонус-карты",
+  "eventCards": "Карты ивента",
+  "cheerful_carnival_midterm_1": "Результаты первого матча",
+  "cheerful_carnival_midterm_2": "Результаты второго матча",
   "startAt": "Начало ивента",
   "closeAt": "Конец ивента",
   "endAt": "Закрывается в",
   "rankingAnnounceAt": "Присваивание ранга в",
   "distributionStartAt": "Вручение наград с",
-  "distributionEndAt": "Вручение наград до",
+  "rankingReward": {
+    "start": "С",
+    "end": "По"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Название ивента",
+      "rankings": "Рейтинг"
+    },
+    "button": {
+      "curr_event": "Текущий ивент",
+      "graph": "Сгенерировать график",
+      "random-palette": "Рандомизировать"
+    },
+    "pred_at": "Прогноз рассчитан на",
+    "show_all_rank": "Показать весь рейтинг",
+    "time_travel_enabled": "Перемещение",
+    "tooltip": {
+      "get_prediction": "Прогноз доступен только после 24 часов после начала ивента."
+    },
+    "checkbox": {
+      "get_prediction": "Сгенерировать прогноз"
+    },
+    "title": {
+      "data_graph": "График очков ивента",
+      "average_speed": "Средняя скорость"
+    }
+  },
   "ranking": "Рейтинг",
   "realtime": "В реальном времени",
   "nextfetch": "Следующие обновление",
-  "aggregateAt": "Подсчёт очков",
-  "alreadyPast": "Уже прошло",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Пользователь",
+      "score": "Очки",
+      "speed_per_hour": "Ср. скорость (ч)",
+      "prediction": "Прогноз"
+    }
+  },
+  "no_enough_data": "Недостаточно данных",
+  "speedTable": {
+    "head": {
+      "all_time": "Всё время",
+      "last_24h": "Последние 24 часа",
+      "last_1h": "Последний час"
+    }
+  },
   "type": {
-    "marathon": "Марафон"
-  }
+    "marathon": "Марафон",
+    "cheerful_carnival": "Cheerful Carnival"
+  },
+  "distributionEndAt": "Вручение наград до",
+  "aggregateAt": "Подсчёт очков",
+  "alreadyPast": "Уже прошло"
 }
