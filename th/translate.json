@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "แหล่งที่มา",
+      "target": "เป้าหมาย"
+    },
+    "source_lang": "ภาษาต้นฉบับ",
+    "announcement": {
+      "source_title": "หัวข้อต้นฉบับ",
+      "source_desc": "คำอธิบายต้นฉบับ",
+      "target_title": "หัวข้อในภาษาเป้าหมาย",
+      "target_desc": "คำอธิบายในภาษาเป้าหมาย"
+    },
+    "target_lang": "ภาษาเป้าหมาย",
+    "button": {
+      "copy_source": "คัดลอก String มาจากแหล่งที่มา"
+    },
+    "target_contributors": "ผู้ช่วยเหลือ",
+    "submit-status": {
+      "success": "สำเร็จ",
+      "failed": "ล้มเหลว"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "คัดลอก String มาจากแหล่งที่มา",
+        "text": "คุณจะทำการคัดลอก String จากแหล่งที่มา มาใส่ที่ภาษาเป้าหมาย; งานทั้งหมดที่ยังไม่ได้ทำการส่งจะหายไป",
+        "confirm": "ยืนยัน",
+        "cancel": "ยกเลิก"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "ทำเครื่องหมายว่ากำลังทำอยู่",
+    "mark_finished": "ทำเครื่องหมายว่าเสร็จแล้ว",
+    "continue_translate": "ทำงานต่อไป",
+    "start_translate": "เริ่มทำการแปล"
+  },
+  "status": {
+    "finished": "เสร็จสิ้น",
+    "inprogress": "ระหว่างการทำ"
+  },
+  "error": {
+    "lang_mismatch": "ภาษาไม่ตรงกัน"
+  },
+  "title": {
+    "my_works": "งานที่มีอยู่แล้ว",
+    "available_contents": "เนื้อหาที่เข้าถึงได้"
+  }
+}
