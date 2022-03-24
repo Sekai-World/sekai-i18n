@@ -1,0 +1,15 @@
+{
+  "page_title": "ฉายา",
+  "honor_group": "กลุ่มของหัวข้อ",
+  "rarity": {
+    "low": "ต่ำ",
+    "middle": "กลาง",
+    "high": "สูง",
+    "highest": "สูงที่สุด"
+  },
+  "type": {
+    "character": "ตัวละคร",
+    "achievement": "รางวัลความสำเร็จ",
+    "event": "กิจกรรม"
+  }
+}
