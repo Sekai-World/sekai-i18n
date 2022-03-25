@@ -1,0 +1,17 @@
+{
+  "send": "Gửi",
+  "write": "Soạn",
+  "no_comment_yet": "Không có nhận xét.",
+  "report-abuse": {
+    "title": "Báo cáo nhận xét",
+    "description": "Báo cáo nhận xét này nếu nó khiến bạn khó chịu.",
+    "reason": {
+      "label": "Lý do báo cáo",
+      "other": "Khác",
+      "bad_words": "Ngôn từ tục tĩu",
+      "discrimination": "Phân biệt đối xử"
+    },
+    "content": "Lời nhắn của bạn",
+    "success": "Cảm ơn bạn đã báo cáo, chúng tôi sẽ nhanh chóng xem qua."
+  }
+}
