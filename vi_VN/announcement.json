@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Có lỗi phát sinh khi tìm kiếm dữ liệu.",
+  "category": "Thể loại",
+  "no_entry": "Trống",
+  "published_at": "Đăng tải vào:",
+  "translators": "Phiên dịch viên",
+  "title": "Tựa đề",
+  "language": "Ngôn ngữ",
+  "author": "Tác giả",
+  "co-authors": "Đồng tác giả",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Khác",
+    "game_update": "Bản cập nhật game",
+    "maintenance": "Bảo trì",
+    "bug": "Lỗi"
+  }
+}
