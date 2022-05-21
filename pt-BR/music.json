@@ -50,9 +50,9 @@
   "combo": "Combo Máximo",
   "preview": "Preview",
   "categoryType": {
-    "mv": "Clipe 3D",
+    "mv": "3DMV",
     "mv_2d": "2DMV",
-    "original": "Vídeo Original",
+    "original": "MV Original",
     "image": "Imagem Estática"
   }
 }
