@@ -1,0 +1,17 @@
+{
+  "send": "Enviar",
+  "write": "Escrever",
+  "no_comment_yet": "Não há comentários.",
+  "report-abuse": {
+    "title": "Denunciar Comentário",
+    "description": "Denuncie esse comentário caso ache que ele não lhe faz confortável.",
+    "reason": {
+      "label": "Motivo da Denúncia",
+      "other": "Outros",
+      "bad_words": "Palavrões",
+      "discrimination": "Discriminação"
+    },
+    "content": "Sua mensagem",
+    "success": "Agradecemos sua denúncia, ela será revisada em breve."
+  }
+}
