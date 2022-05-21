@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Carregando metadata do modelo...",
+    "model_texture": "Carregando texturas do modelo...",
+    "model_moc3": "Carregando esqueleto do modelo...",
+    "model_physics": "Carregando físca do modelo...",
+    "motion_metadata": "Carregando movimentos do modelo...",
+    "display_model": "Carregando exibição do modelo..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Gerar metadata",
+    "download_texture": "Baixar textura",
+    "download_moc3": "Baixar esqueleto",
+    "download_physics": "Baixar física",
+    "download_motions": "Baixar movimentos e expressões {{dlcount}}/{{total}}",
+    "generate_zip": "Gerar arquivo zip"
+  },
+  "select": {
+    "model": "Modelo",
+    "motions": "Movimentos",
+    "expressions": "Expressões"
+  },
+  "tooltip": {
+    "download": "Baixar",
+    "fullscreen": "Alternar para Modo Tela Cheia",
+    "shot": "Salvar imagem",
+    "stop_record": "Parar gravação",
+    "start_record": "Começar gravação"
+  }
+}
