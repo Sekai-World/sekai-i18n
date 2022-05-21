@@ -1,21 +1,26 @@
 {
+  "skillName": "Nome da Habilidade",
+  "cardLevel": "Nível da Card",
+  "skillLevel": "Nível de Habilidade",
+  "trained": "Evolução",
+  "sideStory1Unlocked": "Side-Story 1 Liberada",
+  "sideStory2Unlocked": "Side-Story 2 Liberada",
   "tab": {
     "title[0]": "Imagem normal",
     "title[1]": "Imagem transparente",
     "title[2]": "Imagem após o Treinamento",
     "title[3]": "imagem transparente após o Treinamento"
   },
-  "skillLevel": "Nível de Habilidade",
-  "skillName": "Nome da Habilidade",
+  "gachaPhrase": "Frase do Gacha",
   "skillEffect": "Efeito da Habilidade",
+  "masterRank": "Master Rank",
+  "masterRankLevel": "Nível do Master Rank",
   "stats": "Status",
-  "cardLevel": "Nível da Card",
   "normal": "Normal",
-  "trained": "Treinada(Evoluída)",
   "sideStory": "Side-Story",
-  "sideStory1Unlocked": "Side-Story 1 Liberada",
-  "sideStory2Unlocked": "Side-Story 2 Liberada",
   "sideStory_plural": "Side Stories",
-  "power": "Status(Poder)",
+  "rarity": "Raridade ",
+  "power": "Poder",
+  "apply_event_filter": "Bônus aplicável de evento ",
   "skill": "Habilidade"
 }
