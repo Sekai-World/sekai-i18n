@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Por Hora",
+    "eventPointPerPlay": "Pontos de Evento Por Vez Jogada",
+    "playClount": "Total Vezes Jogadas",
+    "playTime": "Total de Tempo Jogado",
+    "useBoost": "Total de Bonus Drinks Usados",
+    "totalPoint": "Total de Pontos de Evento"
+  },
+  "eventData": {
+    "label": "Dados do Evento"
+  },
+  "eventMode": {
+    "existed": "Existente",
+    "custom": "Customizar"
+  },
+  "gameData": {
+    "energyDrink": "Custo de bônus",
+    "eventBonusRate": "Porcentagem de bônus do evento (%)",
+    "teamAvgPower": "Média de Poder Total",
+    "currentPoint": "Pontuação atual",
+    "targetPoint": "Pontuação objetiva",
+    "label": "Dados do jogo",
+    "desc": "Preencha com os dados do jogo para poder efetuar os cálculos",
+    "remainingTime": "Horas de duração do evento"
+  },
+  "songSelect": {
+    "label": "Seleção de musica",
+    "select": {
+      "difficulty": "Dificuldade",
+      "song": "Música"
+    },
+    "desc": "Escolha uma música para análise."
+  },
+  "songMode": {
+    "label": "Escolher Música",
+    "all_songs": "Comparar Músicas",
+    "only_one": "Música Especifica"
+  },
+  "assumption": "Suposição: All Perfect, Todos tem o mesmo time no multiplayer, sem uso de energias vindas de subir de nível."
+}
