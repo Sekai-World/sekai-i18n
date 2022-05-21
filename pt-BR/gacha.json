@@ -21,10 +21,13 @@
   "gacha_behaviors": "Item necessário para roll do Gacha",
   "gacha_simulator": "Simulador de Gacha",
   "simulator": {
+    "reset": "Resetar",
     "total": "Total de rolls",
-    "cost": "Custo",
+    "jewel": "Fragmentos de Sentimento",
+    "ticket": "Ticket de Gacha",
     "count": "Número de personagens obtidos",
-    "percentage": "Probabilidade"
+    "percentage": "Probabilidade",
+    "cost": "Custo"
   },
   "behavior": {
     "normal": "Roll x1",
