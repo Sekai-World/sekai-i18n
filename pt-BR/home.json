@@ -1,10 +1,4 @@
 {
-  "alert_contributor": {
-    "title": "Obrigado aos nossos colaboradores de desenvolvimento!"
-  },
-  "alert_translate": {
-    "title": "Obrigado aos tradutores!"
-  },
   "game-news": {
     "action": "Ação",
     "show-from": "Datas dos Shows",
@@ -12,20 +6,39 @@
     "show-until": "Duração do show",
     "title": "Notícias do jogo"
   },
-  "alert0": "Sekai Viewer agora está em Open Beta!",
-  "alert_settings": "Use <s /> no canto superior direito para mudar o idioma, mudar o brilho e mais.",
-  "alert1": {
-    "title": "Ajuda necessária!",
-    "translation": "Traduções",
-    "development": "Desenvolvimento",
-    "see_contrib_list": "Veja a lista de contribuidores",
-    "contact": "Me contate",
-    "join-discord": "Entre no nosso servidor do Discord"
+  "update": "Links Relacionados",
+  "alert_contributor": {
+    "title": "Obrigado aos nossos colaboradores de desenvolvimento!"
   },
+  "alert_translate": {
+    "title": "Obrigado aos tradutores!"
+  },
+  "versionInfo": {
+    "caption": "Informação da Versão",
+    "gameClientVer": "Versão do Client do Jogo",
+    "dataVer": "Versão dos Dados",
+    "assetVer": "Versão Do Recursos",
+    "multiPlayerVer": "Versão do Multiplayer"
+  },
+  "happy_new_year": "🎊Feliz Ano Novo!🎉",
+  "new_year_countdown": "Contagem Regressiva para o Ano Novo",
   "detect": {
     "warning": "Executando no modo de compatibilidade, você pode ter problemas de desempenho. Considere atualizar seu navegador ou sua versão iOS / macOS. <br> Mais informações: <l>Posso usar - formato de imagem WebP</l>",
     "failed": "Infelizmente, você não consegue carregar a maioria das imagens. Atualize seu navegador ou sua versão iOS / macOS. A solução de compatibilidade estará disponível em breve.<br>  Mais informações:<l> Posso usar - formato de imagem WebP </l>",
     "success": "Parabéns! Seu navegador parece moderno, você vai conseguir carregar as imagens mais rápido e economizar dados."
   },
-  "update": "Links Relacionados"
+  "directLink": {
+    "caption": "Atalhos",
+    "contribList": "Contribuidores"
+  },
+  "alert1": {
+    "translation": "Traduções",
+    "development": "Desenvolvimento",
+    "title": "Ajuda necessária!",
+    "see_contrib_list": "Veja a lista de contribuidores",
+    "contact": "Me contate",
+    "join-discord": "Entre no nosso servidor do Discord"
+  },
+  "changelog": "Log de Mudanças",
+  "alert_settings": "Use <s /> no canto superior direito para mudar o idioma, mudar o brilho e mais."
 }
