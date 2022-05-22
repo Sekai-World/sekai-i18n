@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "Não foi possível salvar o time. Se isto acontecer frequentemente, pode ser um bug."
+  },
+  "save_team_succeed": "Dados do time salvos com sucesso",
+  "button": {
+    "calc_total_power": "Ver Poder Total"
+  },
+  "auto_calc_bonus": "Usar perfil do Sekai",
+  "use_sekai_card_state": "Usar Dados das Cards Salvas do Sekai",
+  "saveTeamDialog": {
+    "title": "Salvar Time",
+    "desc": "Salvar novo time ou substituir um time existente."
+  },
+  "storage_location": {
+    "label": "Local de Armazenamento",
+    "local": "Local",
+    "cloud": "Nuvem"
+  },
+  "storage_space": "Espaço no Armazenamento",
+  "noTeams": "Não há times salvos.",
+  "saveNewEntry": "Salvar novo time",
+  "loadTeamDialog": {
+    "title": "Carregar Time",
+    "desc": "Carregar Time a partir dos times salvos "
+  }
+}
