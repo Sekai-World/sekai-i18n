@@ -1,0 +1,36 @@
+{
+  "selectValue": {
+    "eventStory": "Histórias de Evento",
+    "unitStory": "Histórias de Unit",
+    "charaStory": "Histórias de Personagem",
+    "cardStory": "Histórias de Card",
+    "areaTalk": "Mapa de Diálogos",
+    "liveTalk": "Diálogo de Live",
+    "special": "Histórias Especiais"
+  },
+  "snippet": {
+    "FullScreenText": "Texto em Tela Cheia",
+    "Telop": "Legenda",
+    "ChangeBackground": "Mudança de Plano de Fundo",
+    "ShowBackground": "Mostrar Imagem de Plano de Fundo",
+    "Movie": "Vídeo",
+    "ShowMovie": "Reproduzir Vídeo",
+    "BGM": "Música de Fundo",
+    "SE": "Efeito Sonoro",
+    "NoSound": "Sem som"
+  },
+  "selectLabel": {
+    "storyType": "Tipo de história",
+    "unitName": "Nome da Unit",
+    "unitStoryChapter": "Capítulo",
+    "unitStoryEpisode": "Episódio",
+    "eventName": "Nome do Evento",
+    "eventStoryEpisode": "Episódio",
+    "charaName": "Nome do Personagem",
+    "cardName": "Nome da Card",
+    "cardStoryEpisode": "Episódio"
+  },
+  "buttonLabel": {
+    "showEpisode": "Carregar Episódio da História"
+  }
+}
