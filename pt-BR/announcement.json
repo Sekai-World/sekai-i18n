@@ -1,11 +1,11 @@
 {
+  "fetch_error": "Um erro ocorreu ao coletar os dados.",
   "category": "Categorias",
+  "no_entry": "Sem entradas.",
   "published_at": "Publicações",
   "translators": "Tradutores",
-  "fetch_error": "Um erro ocorreu ao coletar os dados.",
-  "no_entry": "Sem entradas.",
   "title": "Título",
-  "language": "Língua",
+  "language": "Idioma",
   "author": "Autor ",
   "co-authors": "Sub-Autores",
   "categoryName": {
