@@ -1,0 +1,24 @@
+{
+  "live_characters": "Personagens",
+  "rewards": "Recompensas",
+  "title": {
+    "schedules": "Horários",
+    "setlist": "Cenário"
+  },
+  "schedule": {
+    "start": "Início",
+    "end": "Fim"
+  },
+  "mc": {
+    "character_unspawn": "Personagem sai de cena"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Iniciante",
+    "cheerful_carnival": "Festival Animado"
+  },
+  "step": {
+    "mc": "Apresentadores",
+    "music": "Música da Live"
+  }
+}
