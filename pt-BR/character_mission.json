@@ -1,0 +1,11 @@
+{
+  "play_live": "Colocar ｢{{- name}}｣ como líder do time {{count}} vez/vezes.",
+  "waiting_room": "Obter cards duplicadas de ｢{{- name}}｣ na sala de espera {{count}} vez/vezes.",
+  "collect_costume_3d": "Conseguir {{count}} figurino(s) para ｢{{- name}}｣ na Loja de Roupas ou aumentando o nível do Master Rank.",
+  "collect_stamp": "Obter figurinhas de ｢{{- name}}｣ {{count}} vez/vezes.",
+  "read_area_talk": "Ler diálogos de área envolvendo ｢{{- name}}｣ {{count}} vez/vezes.",
+  "skill_level_up": "Aumentar o nível de Habilidade/Skill de ｢{{- name}}｣ {{count}} vez/vezes.",
+  "master_rank": "Aumentar o nível do Master Rank de ｢{{- name}}｣ {{count}} vez/vezes",
+  "read_card_episode_first": "Ler a primeira parte de uma side story/história paralela de ｢{{- name}}｣ {{count}} vez/vezes.",
+  "read_card_episode_second": "Ler a segunda parte de uma side story/história paralela de ｢{{- name}}｣ {{count}} vez/vezes."
+}
