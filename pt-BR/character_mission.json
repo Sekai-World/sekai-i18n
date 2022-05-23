@@ -7,5 +7,5 @@
   "skill_level_up": "Aumentar o nível de Habilidade/Skill de ｢{{- name}}｣ {{count}} vez/vezes.",
   "master_rank": "Aumentar o nível do Master Rank de ｢{{- name}}｣ {{count}} vez/vezes",
   "read_card_episode_first": "Ler a primeira parte de uma história de card de ｢{{- name}}｣ {{count}} vez/vezes.",
-  "read_card_episode_second": "Ler a segunda parte de uma side story/história paralela de ｢{{- name}}｣ {{count}} vez/vezes."
+  "read_card_episode_second": "Ler a segunda parte de uma história de card de ｢{{- name}}｣ {{count}} vez/vezes."
 }
