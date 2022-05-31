@@ -7,7 +7,6 @@
     "calc_total_power": "Get Total Power"
   },
   "auto_calc_bonus": "Use Sekai Profile",
-  "use_sekai_card_state": "Use Saved Sekai Cards State",
   "saveTeamDialog": {
     "title": "Save Team",
     "desc": "Save new team entry or replace existing team entry."
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "Load Team",
     "desc": "Load team from saved team entries."
-  }
+  },
+  "use_sekai_card_state": "Use Saved Sekai Cards State"
 }

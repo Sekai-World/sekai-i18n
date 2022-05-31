@@ -1,10 +1,10 @@
 {
-  "skillName": "Skill Name",
   "cardLevel": "Card Level",
   "skillLevel": "Skill Level",
   "trained": "Trained",
   "sideStory1Unlocked": "Side Story 1 Unlocked",
   "sideStory2Unlocked": "Side Story 2 Unlocked",
+  "skillName": "Skill Name",
   "tab": {
     "title[0]": "Normal image",
     "title[1]": "Normal trim image",
