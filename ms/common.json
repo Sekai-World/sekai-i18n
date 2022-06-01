@@ -6,11 +6,6 @@
   "music": "Muzik",
   "campaign": "Kempen",
   "bug": "Pepijat",
-  "character": "Watak",
-  "all": "Semua",
-  "rarity": "Kejarangan",
-  "attribute": "Atribut",
-  "search": "Cari",
   "replace": "Ganti",
   "delete": "Padam",
   "load": "Muatkan",
@@ -25,6 +20,11 @@
     "second": "Saat"
   },
   "ongoing_event": "Acara Berlangsung",
+  "character": "Watak",
+  "all": "Semua",
+  "rarity": "Kejarangan",
+  "attribute": "Atribut",
+  "search": "Cari",
   "spoiler": "Belum Terbit",
   "about": "Perihalan",
   "comment": "Ulasan",
@@ -95,7 +95,8 @@
   "serverRegion": {
     "jp": "Bahasa Jepun",
     "tw": "Bahasa Cina Tradisional",
-    "en": "Bahasa Inggeris (Luar Asia)"
+    "en": "Bahasa Inggeris (Luar Asia)",
+    "kr": "Bahasa Korea"
   },
   "language": "Bahasa",
   "darkmode": "Mod Kecerahan",
