@@ -1,10 +1,4 @@
 {
-  "alert_contributor": {
-    "title": "개발에 참여해주신 컨트리뷰터 여러분 감사합니다!"
-  },
-  "alert_translate": {
-    "title": "번역자 여러분들께 감사드립니다!"
-  },
   "game-news": {
     "action": "보기",
     "show-from": "시작일",
@@ -12,8 +6,21 @@
     "show-until": "마감일",
     "title": "공지사항"
   },
-  "happy_new_year": "🎊Happy New Year!🎉",
-  "alert_settings": "언어, 밝기 모드 등 각종 설정을 변경하려면 오른쪽 위에 있는 <s /> 버튼을 누르세요.",
+  "update": "관련 사이트",
+  "alert_contributor": {
+    "title": "개발에 참여해주신 컨트리뷰터 여러분 감사합니다!"
+  },
+  "alert_translate": {
+    "title": "번역자 여러분들께 감사드립니다!"
+  },
+  "versionInfo": {
+    "caption": "버전 정보",
+    "gameClientVer": "게임 클라이언트 버전",
+    "dataVer": "데이터 버전",
+    "assetVer": "에셋 버전",
+    "multiPlayerVer": "멀티플레이 버전"
+  },
+  "disclaimer": "이 웹사이트는 자료를 소유하지 않습니다. 모든 권리는 Sega, Colorful Palette, Crypton을 포함한 자료들의 정당한 소유자에게 있습니다. 이 웹사이트는 오직 연구 목적으로만 만들어진 팬메이드 데이터베이스이며, Sega 또는 Colorful Palette와 공식적인 관계가 없습니다.",
   "detect": {
     "warning": "호환성 모드에서 실행하는 경우, 성능 저하가 있을 수 있습니다. 브라우저나 iOS/macOS 버전 업그레이드를 고려해 주십시오. <br>더 많은 정보는 : <l>WebP 이미지 형식을 사용할 수 있나요?</l>",
     "failed": "유감스럽게도 당신은 대부분의 이미지를 볼 수 없습니다. 인터넷 브라우저나 iOS/macOS 버전을 업그레이드 해 주십시오. 호환성 대책은 곧 마련될 것입니다. <br>더 많은 정보는 이쪽 : <l>WebP 이미지 확장자 사용 가능 여부</l>",
@@ -31,5 +38,8 @@
     "contact": "문의",
     "join-discord": "디스코드 서버 참여"
   },
-  "update": "관련 사이트"
+  "changelog": "변경 사항",
+  "happy_new_year": "🎊Happy New Year!🎉",
+  "new_year_countdown": "새해까지 남은 일 수",
+  "alert_settings": "언어, 밝기 모드 등 각종 설정을 변경하려면 오른쪽 위에 있는 <s /> 버튼을 누르세요."
 }
