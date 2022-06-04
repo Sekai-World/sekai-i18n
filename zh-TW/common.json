@@ -6,11 +6,6 @@
   "music": "樂曲",
   "campaign": "紀念活動",
   "bug": "問題",
-  "character": "角色",
-  "all": "全部",
-  "rarity": "稀有度",
-  "attribute": "屬性",
-  "search": "搜尋",
   "replace": "取代",
   "delete": "刪除",
   "load": "載入",
@@ -25,6 +20,11 @@
     "second": "秒"
   },
   "ongoing_event": "正在舉行的活動",
+  "character": "角色",
+  "all": "全部",
+  "rarity": "稀有度",
+  "attribute": "屬性",
+  "search": "搜尋",
   "spoiler": "劇透",
   "about": "關於",
   "comment": "留言",
@@ -95,7 +95,8 @@
   "serverRegion": {
     "jp": "日服",
     "tw": "繁體中文服",
-    "en": "英文服（國際服）"
+    "en": "英文服（國際服）",
+    "kr": "韓服"
   },
   "language": "語言",
   "darkmode": "顯示主題",
