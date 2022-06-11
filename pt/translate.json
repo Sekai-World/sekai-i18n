@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Fonte",
+      "target": "Tradução"
+    },
+    "source_lang": "Língua da fonte",
+    "announcement": {
+      "source_title": "Título da fonte",
+      "source_desc": "Descrição da fonte",
+      "target_title": "Título do tradução",
+      "target_desc": "Descrição da tradução"
+    },
+    "target_lang": "Língua-alvo",
+    "button": {
+      "copy_source": "Copiar frases da fontes"
+    },
+    "target_contributors": "Contribuidores",
+    "submit-status": {
+      "success": "Sucesso",
+      "failed": "Falha"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Copiar frases da fontes",
+        "text": "Irás copiar todas as frases da fonte para a área de tradução. Todo o trabalho não submetido nesta não será salvo.",
+        "confirm": "Confirmar",
+        "cancel": "Cancelar"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Marcado como Em progresso",
+    "mark_finished": "Marcado como Acabado",
+    "continue_translate": "Continuar trabalho",
+    "start_translate": "Começar a traduzir"
+  },
+  "status": {
+    "finished": "Acabado",
+    "inprogress": "Em progresso"
+  },
+  "error": {
+    "lang_mismatch": "Incompatibilidade de linguagem."
+  },
+  "title": {
+    "my_works": "Trabalhos existentes",
+    "available_contents": "Conteúdos disponíveis"
+  }
+}
