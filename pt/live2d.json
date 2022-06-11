@@ -22,7 +22,7 @@
   },
   "tooltip": {
     "download": "Descarregar",
-    "fullscreen": "Habilitar ecrã inteiro",
+    "fullscreen": "Ativar/desativar ecrã inteiro",
     "shot": "Guardar imagem",
     "stop_record": "Parar gravação",
     "start_record": "Iniciar gravação"
