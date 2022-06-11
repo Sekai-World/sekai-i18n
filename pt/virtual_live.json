@@ -6,7 +6,7 @@
     "setlist": "Cenário"
   },
   "schedule": {
-    "start": "Ínicio",
+    "start": "Início",
     "end": "Fim"
   },
   "mc": {
@@ -14,7 +14,8 @@
   },
   "type": {
     "normal": "Normal",
-    "beginner": "Iniciante"
+    "beginner": "Iniciante",
+    "cheerful_carnival": "Cheerful Carnival (Carnaval animado)"
   },
   "step": {
     "mc": "Personagem Principal",
