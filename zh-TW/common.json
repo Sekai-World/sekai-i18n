@@ -109,7 +109,7 @@
   "miscs": "其他",
   "spoilerContent": "劇透內容",
   "currentRegion": "目前偵測到的地區",
-  "regionTooltip": "將偵測你的 CDN 伺服器地區",
+  "regionTooltip": "將偵測你的CDN伺服器地區",
   "modify": "修改",
   "login": "登入",
   "reset_password": "重設密碼",
