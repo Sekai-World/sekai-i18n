@@ -1,5 +1,5 @@
 {
-  "play_live": "以「{{- name}}」為隊長進行{{count}}次Live",
+  "play_live": "以「{{- name}}」為隊長進行{{count}}次Live。",
   "waiting_room": "在等候室迎接｢{{- name}}｣角色{{count}}次。",
   "collect_costume_3d": "透過服裝商店、轉蛋、提升突破等級等獲得{{count}}件｢{{- name}}｣的虛擬演唱會服裝。",
   "collect_stamp": "獲得{{count}}個｢{{- name}}｣的貼圖。",
