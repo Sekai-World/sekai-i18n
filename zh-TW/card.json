@@ -1,10 +1,10 @@
 {
-  "skillName": "技能名稱",
   "cardLevel": "卡片等級",
   "skillLevel": "技能等級",
   "trained": "特訓後",
   "sideStory1Unlocked": "已解鎖卡片故事前篇",
   "sideStory2Unlocked": "已解鎖卡片故事後篇",
+  "skillName": "技能名稱",
   "tab": {
     "title[0]": "特訓前圖片",
     "title[1]": "特訓前角色圖",
@@ -13,7 +13,7 @@
   },
   "gachaPhrase": "轉蛋短語",
   "skillEffect": "技能效果",
-  "masterRank": "專精",
+  "masterRank": "突破等級",
   "masterRankLevel": "專精等級",
   "stats": "能力值",
   "normal": "特訓前",
