@@ -15,7 +15,7 @@
   },
   "versionInfo": {
     "caption": "版本資訊",
-    "gameClientVer": "遊戲玩家端版本",
+    "gameClientVer": "遊戲客戶端版本",
     "dataVer": "數據版本",
     "assetVer": "Asset 版本",
     "multiPlayerVer": "協力Live版本"
