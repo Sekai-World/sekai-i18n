@@ -9,7 +9,7 @@
   "eventDetail": "{{- name}} | 活動 | Sekai Viewer",
   "eventList": "活動列表 | Sekai Viewer",
   "eventTracker": "活動排名追蹤器 | Sekai Viewer",
-  "eventCalc": "活動企劃 | Sekai Viewer",
+  "eventCalc": "活動pt計算 | Sekai Viewer",
   "gachaDetail": "{{- name}} | 轉蛋 | Sekai Viewer",
   "gachaList": "轉蛋列表 | Sekai Viewer",
   "home": "首頁 | Sekai Viewer",
