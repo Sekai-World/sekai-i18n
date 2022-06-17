@@ -44,7 +44,7 @@
   "character_rank": "｢{{charaName}}｣的角色等級達到{{num}}級後提升隊伍編成數",
   "inherit_complete": "資料繼承完成",
   "event_point": "活動P達到{{point}}",
-  "event_story_1000016": "閱讀「被囚鎖的扯線木偶」 的結局故事",
+  "event_story_1000016": "閱讀「被囚鎖的扯線木偶」 的結局",
   "event_story": "閱讀「{{eventName}}」 的結局故事",
   "virtual_live_participation": "參與虛擬演唱會",
   "character_live_usage_leader": "以「{{charaName}}」為隊長進行{{times}}次演出",
