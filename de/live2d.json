@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Lade Modell-Metadaten...",
+    "model_texture": "Lade Modell-Texturen...",
+    "model_moc3": "Lade Modell-Skelett...",
+    "model_physics": "Lade Modell-Physiken...",
+    "motion_metadata": "Lade Modell-Bewegungen...",
+    "display_model": "Bereite Modellansicht vor..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generiere Metadaten",
+    "download_texture": "Texturen herunterladen",
+    "download_moc3": "Skelett herunterladen",
+    "download_physics": "Physiken herunterladen",
+    "download_motions": "Herunterladen von Bewegungen und Ausdrücken {{dlcount}}/{{total}}",
+    "generate_zip": "Generiere zip-Datei"
+  },
+  "select": {
+    "model": "Modell",
+    "motions": "Animationen",
+    "expressions": "Gesichtsausdrücke"
+  },
+  "tooltip": {
+    "download": "Herunterladen",
+    "fullscreen": "Vollbildschirm",
+    "shot": "Bild speichern",
+    "stop_record": "Aufnahme beenden",
+    "start_record": "Aufnahme starten"
+  }
+}
