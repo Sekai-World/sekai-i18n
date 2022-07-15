@@ -1,10 +1,10 @@
 {
-  "skillName": "Nama Skill",
   "cardLevel": "Level Kartu",
   "skillLevel": "Level Skill",
   "trained": "Trained",
   "sideStory1Unlocked": "Cerita Spesial 1 Terbuka",
   "sideStory2Unlocked": "Cerita Spesial 2 Terbuka",
+  "skillName": "Nama Skill",
   "tab": {
     "title[0]": "Gambar normal",
     "title[1]": "Gambar potongan normal",
@@ -13,6 +13,8 @@
   },
   "gachaPhrase": "Dialog Gacha",
   "skillEffect": "Efek Skill",
+  "masterRank": "Rank Master",
+  "masterRankLevel": "Level Rank Master",
   "stats": "Statistik",
   "normal": "Normal",
   "sideStory": "Cerita Spesial",
