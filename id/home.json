@@ -20,8 +20,7 @@
     "assetVer": "Versi Aset",
     "multiPlayerVer": "Versi Multipemain"
   },
-  "new_year_countdown": "Hitung mundur ke tahun baru",
-  "happy_new_year": "🎊Selamat Tahun Baru!🎉",
+  "disclaimer": "Website ini tidak memiliki material, semua kredit kembali kepada pemiliknya, termasuk tapi tidak terbatas ke Sega, Colorful Palette dan  Crypton. Website ini adalah database buatan fan dan hanya digunakan untuk kebutuhan penelitian, dan tidak punya relasi resmi dengan Sega atau Colorful Palette.",
   "detect": {
     "warning": "Berjalan dalam mode kompatibilitas, Anda mungkin mengalami masalah pada kinerja. Pertimbangkan untuk meningkatkan browser atau versi iOS/macOS Anda. Info selengkapnya: <l>Dapatkah saya menggunakan - format gambar WebP</l>",
     "failed": "Sayangnya, Anda tidak dapat memuat sebagian besar gambar. Tingkatkan versi browser atau iOS/macOS Anda. Solusi kompatibilitas akan segera tersedia.<br> Info selengkapnya: <l>Dapatkah Saya Menggunakan - format gambar WebP</l>",
@@ -40,5 +39,7 @@
     "join-discord": "Gabung Server Discord"
   },
   "changelog": "Catatan Perubahan",
+  "happy_new_year": "🎊Selamat Tahun Baru!🎉",
+  "new_year_countdown": "Hitung mundur ke tahun baru",
   "alert_settings": "Gunakan <s /> di pojok kanan atas untuk mengubah bahasa, beralih mode kecerahan, dan lainnya."
 }
