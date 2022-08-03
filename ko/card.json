@@ -1,10 +1,10 @@
 {
-  "skillName": "스킬 이름",
   "cardLevel": "카드 레벨",
   "skillLevel": "스킬 레벨",
   "trained": "특훈 후",
   "sideStory1Unlocked": "사이드 스토리 1편 해금됨",
   "sideStory2Unlocked": "사이드 스토리 2편 해금됨",
+  "skillName": "스킬 이름",
   "tab": {
     "title[0]": "특훈 전 이미지",
     "title[1]": "특훈 전 스탠딩 이미지",
@@ -19,8 +19,8 @@
   "normal": "특훈 전",
   "sideStory": "사이드 스토리",
   "sideStory_plural": "사이드 스토리들",
-  "rarity": "레어도",
-  "power": "총합력",
+  "rarity": "희귀도",
+  "power": "종합 능력치",
   "apply_event_filter": "이벤트 보너스 적용",
   "skill": "스킬"
 }
