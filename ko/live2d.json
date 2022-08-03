@@ -13,7 +13,7 @@
     "download_moc3": "뼈대 다운로드",
     "download_physics": "물리정보 다운로드",
     "download_motions": "모션 및 표정 다운로드  {{dlcount}}/{{total}}",
-    "generate_zip": "Zip파일 생성"
+    "generate_zip": "ZIP 파일 생성"
   },
   "select": {
     "model": "모델",
