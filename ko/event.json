@@ -24,7 +24,7 @@
   "cheerful_carnival_midterm_2": "두 번째 중간 결과",
   "startAt": "이벤트 개시일시",
   "closeAt": "이벤트 종료일시",
-  "endAt": "이벤트 접속가능 시한",
+  "endAt": "이벤트 접속 가능 시한",
   "rankingAnnounceAt": "순위 발표",
   "distributionStartAt": "보상 지급 개시",
   "rankingReward": {
