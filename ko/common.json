@@ -64,7 +64,7 @@
   "id": "번호",
   "title": "제목",
   "unit": "유닛",
-  "support_unit": "서포트 유닛",
+  "support_unit": "서브 유닛",
   "startAt": "개방 개시 시간",
   "thumb": "섬네일",
   "skill": "스킬",
