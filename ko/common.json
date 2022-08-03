@@ -15,7 +15,7 @@
   "loading": "로딩중...",
   "countdown": {
     "day": "일",
-    "hour": "시",
+    "hour": "시간",
     "minute": "분",
     "second": "초"
   },
@@ -41,7 +41,7 @@
     "normal": "일반",
     "beginner": "초심자"
   },
-  "virtualLive": "버츄얼 라이브",
+  "virtualLive": "버추얼 라이브",
   "assetViewer": "에셋 뷰어",
   "musicMeta": "악곡 정보",
   "musicRecommend": "악곡 추천",
