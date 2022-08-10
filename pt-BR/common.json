@@ -6,11 +6,6 @@
   "music": "Música",
   "campaign": "Campanha",
   "bug": "Bug",
-  "character": "Personagem",
-  "all": "Todos os Personagens",
-  "rarity": "Raridade",
-  "attribute": "Atributo",
-  "search": "Procurar",
   "replace": "Substituir",
   "delete": "Deletar",
   "load": "Carregar",
@@ -25,6 +20,11 @@
     "second": "Segundos"
   },
   "ongoing_event": "Evento em Andamento",
+  "character": "Personagem",
+  "all": "Todos os Personagens",
+  "rarity": "Raridade",
+  "attribute": "Atributo",
+  "search": "Procurar",
   "spoiler": "Spoiler",
   "about": "Sobre",
   "comment": "Comentários",
@@ -95,7 +95,8 @@
   "serverRegion": {
     "jp": "Japonês",
     "tw": "Chinês Tradicional",
-    "en": "Inglês (Global)"
+    "en": "Inglês (Global)",
+    "kr": "Coreano"
   },
   "language": "Idioma",
   "darkmode": "Brilho da Tela",
