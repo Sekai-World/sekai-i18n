@@ -6,5 +6,37 @@
     "caption": "Ordenar",
     "ascending": "Crescente",
     "descending": "Decrescente"
+  },
+  "honorType": {
+    "caption": "Tipo do Título",
+    "group_only_once": "Só mostrar um por cada grupo"
+  },
+  "not_set": "Sem Especificação",
+  "missionType": {
+    "caption": "Tipo de Missão"
+  },
+  "music_tag": {
+    "caption": "Tag da música"
+  },
+  "music_mv": {
+    "caption": "Tipo de MV"
+  },
+  "not-selected": "Não selecionado",
+  "stampType": {
+    "caption": "Tipo de Figurinha",
+    "text": "Apenas texto",
+    "illustration": "Com Ilustração"
+  },
+  "language": {
+    "caption": "Idioma",
+    "source": "Idioma de origem",
+    "target": "Idioma de destino"
+  },
+  "skill": {
+    "score_up": "Bônus na Pontuação",
+    "judgment_up": "Acréscimo de Julgamento e Pontuação",
+    "life_recovery": "Bônus na Pontuação e Recuperação de Vida",
+    "perfect_score_up": "Bônus na Pontuação em notas PERFECT",
+    "life_score_up": "Bônus na Pontuação dependendo da vida"
   }
 }
