@@ -8,21 +8,77 @@
   },
   "remainingTime": "Tempo Restante",
   "progress": "Progresso",
+  "title": {
+    "boost": "Bônus",
+    "cheerful_carnival": "Festival Animado",
+    "timepoint": "Bônus de tempo",
+    "rankingRewards": "Recompensas de classificação"
+  },
   "boostAttribute": "Atributo bônus",
   "boostCharacters": "Personagens de impulso",
   "maxBoost": "Impulso Máximo (Todos os Personagens)",
+  "boostSpecificCards": "Cards com Bônus Especial",
+  "boostCards": "Bônus de cartas ",
+  "eventCards": "Cartas do evento",
+  "cheerful_carnival_midterm_1": "1° Anúncio de Resultado",
+  "cheerful_carnival_midterm_2": "2° Anúncio de Resultado",
   "startAt": "O evento começa às",
-  "endAt": "Entrada de evento disponível até",
   "closeAt": "O evento fecha às",
+  "endAt": "Entrada de evento disponível até",
   "rankingAnnounceAt": "Anunciamento do Rank em",
   "distributionStartAt": "Distribuição de recompensa de",
-  "distributionEndAt": "Distribuição de Recompensas até",
+  "rankingReward": {
+    "start": "De",
+    "end": "Até"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nome do Evento",
+      "rankings": "Ranques"
+    },
+    "button": {
+      "curr_event": "Evento Atual",
+      "graph": "Buscar gráfico",
+      "random-palette": "Paleta aleatória"
+    },
+    "pred_at": "Previsão calculada às",
+    "show_all_rank": "Mostrar todo os ranques",
+    "time_travel_enabled": "Viajem no tempo",
+    "tooltip": {
+      "get_prediction": "Previsão disponível somente após 24 horas depois do início do evento."
+    },
+    "checkbox": {
+      "get_prediction": "Buscar previsão"
+    },
+    "title": {
+      "data_graph": "Gráfico de Pontos do Evento",
+      "average_speed": "Velocidade Média"
+    }
+  },
   "ranking": "Ranking",
-  "realtime": "Tempo real em",
+  "realtime": "Dados em tempo real em",
   "nextfetch": "próxima busca",
-  "aggregateAt": "Ponto de tempo agregado",
-  "alreadyPast": "Progresso",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuário",
+      "score": "Ponto(s)",
+      "speed_per_hour": "Velocidade média (por hora)",
+      "prediction": "Previsão"
+    }
+  },
+  "no_enough_data": "Dados insuficientes",
+  "speedTable": {
+    "head": {
+      "all_time": "Tempo todo (por hora)",
+      "last_24h": "Últimas 24 horas (por hora)",
+      "last_1h": "Última 1 hora (por hora)"
+    }
+  },
   "type": {
-    "marathon": "Maratona"
-  }
+    "marathon": "Maratona",
+    "cheerful_carnival": "Cheerful Carnival (Carnaval Animado)"
+  },
+  "distributionEndAt": "Distribuição de Recompensas até",
+  "aggregateAt": "Ponto de tempo agregado",
+  "alreadyPast": "Progresso"
 }
