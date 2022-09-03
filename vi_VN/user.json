@@ -25,7 +25,7 @@
       "submit_success": "Thẻ đã được lưu hoặc đã được cập nhật.",
       "submit_error": "Lưu thẻ thất bại.",
       "import_button": "Nhập",
-      "enable_ocr_tooltip": "Nếu chọn, hãy tải ảnh chụp kho thẻ phân theo Level (レベル) của bạn. \nCông cụ Tesseract sẽ tự nhận dạng cấp độ thẻ và master rank. Quá trình này hơi lâu. \nẢnh sau huấn luyện được xuất từ thẻ, hãy chắc chắn bạn chọn đúng thẻ.",
+      "enable_ocr_tooltip": "Nếu chọn, hãy tải ảnh chụp kho thẻ phân theo Level (レベル) của bạn. \nCông cụ Tesseract sẽ tự nhận dạng cấp độ thẻ và master rank. Quá trình này hơi lâu. \nẢnh sau khi nâng cấp được xuất từ thẻ, hãy chắc chắn bạn chọn đúng thẻ.",
       "enable_ocr": "Nhận dạng dữ liệu thẻ",
       "wrong_result": "Thẻ sai?",
       "help": {
