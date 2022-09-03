@@ -1,0 +1,45 @@
+{
+  "game-news": {
+    "action": "Hành động",
+    "show-from": "Hiển thị từ",
+    "title-column": "Tựa đề",
+    "show-until": "Hiển thị đến",
+    "title": "Thông báo game"
+  },
+  "update": "Link liên quan",
+  "alert_contributor": {
+    "title": "Cảm ơn đến những thành viên tham gia phát triển!"
+  },
+  "alert_translate": {
+    "title": "Cảm ơn các phiên dịch viên!"
+  },
+  "versionInfo": {
+    "caption": "Phiên bản Info",
+    "gameClientVer": "Phiên bản Game Client",
+    "dataVer": "Phiên bản Dữ liệu",
+    "assetVer": "Phiên bản Tài nguyên",
+    "multiPlayerVer": "Phiên bản Multiplayer"
+  },
+  "disclaimer": "Trang web này không sở hữu tất cả dữ liệu, dữ liệu thuộc vể tác giả của nó, bao gồm nhưng không giới hạn ở Sega, Colorful Palette đến Crypton. Đây là một trang web của người hâm mộ lập ra với mục đích phục vụ nghiên cứu, không dính dáng đến Sega hay Colorful Palette,",
+  "detect": {
+    "warning": "Đang chạy trong chế độ tương thích, bạn có thể gặp lỗi hiệu suất. Hãy cân nhắc nâng cấp trình duyệt trên phiên bản iOS/macOS của bạn. <br> Thông tin thêm: <l>Tôi có thể dùng định dạng ảnh WebP không</l>",
+    "failed": "Rất tiêc, bạn không thể tải hầu hết ảnh. Hãy nâng cấp trifnh duyệt trên phiên bản OS/macOS của bạn. Một giải pháp tương thích sẽ sớm được xuất bản.<br> Thông tin thêm: <l>Tôi có thể dùng định dạng ảnh WebP không</l>",
+    "success": "Chúc mừng! Trình duyệt của bạn có vẻ tân tiến, bạn có thể tải ảnh nhanh hơn và tiết kiệm băng thông."
+  },
+  "directLink": {
+    "caption": "Lối tắt",
+    "contribList": "Thành viên đóng góp"
+  },
+  "alert1": {
+    "translation": "Dịch thuật",
+    "development": "Phát triển",
+    "title": "Cần giúp!",
+    "see_contrib_list": "Xem danh sách người đóng góp",
+    "contact": "Liên hệ tôi",
+    "join-discord": "Gia nhập server Discord"
+  },
+  "changelog": "Lịch sử thay đổi",
+  "happy_new_year": "🎊Chúc mừng năm mới!🎉",
+  "new_year_countdown": "Đếm ngược năm mới",
+  "alert_settings": "Dùng <s /> ở phía góc phải phía trên để chỉnh ngôn ngữ, độ sáng và nhiều nữa."
+}
