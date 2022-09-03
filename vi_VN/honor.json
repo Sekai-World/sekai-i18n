@@ -1,0 +1,15 @@
+{
+  "page_title": "Danh hiệu",
+  "honor_group": "Danh hiệu nhóm",
+  "rarity": {
+    "low": "Thấp",
+    "middle": "Trung bình",
+    "high": "Cao",
+    "highest": "Rất cao"
+  },
+  "type": {
+    "character": "Nhân vật",
+    "achievement": "Thành tích",
+    "event": "Sự kiện"
+  }
+}
