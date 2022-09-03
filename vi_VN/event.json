@@ -9,13 +9,13 @@
   "remainingTime": "Thời gian còn lại",
   "progress": "Tiến Độ",
   "title": {
-    "boost": "Tăng",
+    "boost": "Cộng đồn",
     "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Thời gian",
     "rankingRewards": "Phần thưởng xếp hạng"
   },
   "boostAttribute": "Tăng thuộc tính",
-  "boostCharacters": "Tăng nhân vật",
+  "boostCharacters": "Nhân vật cộng đồn",
   "maxBoost": "Tối đa cộng đồn (nếu cả hai khớp)",
   "boostSpecificCards": "Thẻ tăng đặc biệt",
   "boostCards": "Thẻ tăng",
