@@ -1,0 +1,36 @@
+{
+  "selectValue": {
+    "eventStory": "Câu chuyện sự kiện",
+    "unitStory": "Câu chuyện nhóm",
+    "charaStory": "Câu chuyện nhân vật",
+    "cardStory": "Câu chuyện thẻ",
+    "areaTalk": "Map Talk",
+    "liveTalk": "Live Talk",
+    "special": "Câu chuyện đặc biệt"
+  },
+  "snippet": {
+    "FullScreenText": "Văn bản toàn màn hình",
+    "Telop": "Chú thích",
+    "ChangeBackground": "Ảnh nền thay đổi",
+    "ShowBackground": "Hiện ảnh nền",
+    "Movie": "Hoạt ảnh",
+    "ShowMovie": "Chạy hoạt ảnh",
+    "BGM": "Nhạc nền",
+    "SE": "Hiệu ứng âm thanh",
+    "NoSound": "Không có âm thanh"
+  },
+  "selectLabel": {
+    "storyType": "Loại câu chuyện",
+    "unitName": "Tên nhóm",
+    "unitStoryChapter": "Chương",
+    "unitStoryEpisode": "Phần",
+    "eventName": "Tên sự kiện",
+    "eventStoryEpisode": "Phần",
+    "charaName": "Tên nhân vật",
+    "cardName": "Tên thẻ",
+    "cardStoryEpisode": "Phần"
+  },
+  "buttonLabel": {
+    "showEpisode": "Tải phần câu chuyện"
+  }
+}
