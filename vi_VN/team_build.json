@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "Lưu nhóm thất bại. Nếu điều này hay xảy ra, đó có thể là lỗi."
+  },
+  "save_team_succeed": "Dữ liệu nhóm lưu thành công",
+  "button": {
+    "calc_total_power": "Lấy tổng năng lực"
+  },
+  "auto_calc_bonus": "Dùng hồ sơ Sekai",
+  "saveTeamDialog": {
+    "title": "Lưu nhóm",
+    "desc": "Lưu dữ liệu nhóm với hoặc thay một dữ liệu hiện có."
+  },
+  "storage_location": {
+    "label": "Khu vực lưu trữ",
+    "local": "Local",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Giới hạn lưu trữ",
+  "noTeams": "Không có dữ liệu nhóm nào.",
+  "saveNewEntry": "Lưu dữ liệu nhóm mới",
+  "loadTeamDialog": {
+    "title": "Tải nhóm",
+    "desc": "Tải nhóm từ nhóm đã lưu."
+  },
+  "use_sekai_card_state": "Dùng thẻ Sekai đã lưu"
+}
