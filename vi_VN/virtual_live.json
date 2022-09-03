@@ -1,0 +1,24 @@
+{
+  "live_characters": "Nhân vật",
+  "rewards": "Phần thưởng",
+  "title": {
+    "schedules": "Lịch diễn",
+    "setlist": "Phân cảnh"
+  },
+  "schedule": {
+    "start": "Bắt đàu",
+    "end": "Kết thúc"
+  },
+  "mc": {
+    "character_unspawn": "Nhân vật biến mất"
+  },
+  "type": {
+    "normal": "Thông thường",
+    "beginner": "Người mới",
+    "cheerful_carnival": "Cheerful Carnival"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}
