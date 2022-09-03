@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Đang tải dữ liệu mô hình...",
+    "model_texture": "Đang tải vân bề mặt mô hình...",
+    "model_moc3": "Đang tải khung mô hình...",
+    "model_physics": "Đang tải vật lý của mô hình...",
+    "motion_metadata": "Đang tải chuyển động mô hình...",
+    "display_model": "Chuẩn bị hiển thị mô hình..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Tạo metadata",
+    "download_texture": "Tải xuống vân bề mặt",
+    "download_moc3": "Tải xuống khung",
+    "download_physics": "Tải xuống vật lý",
+    "download_motions": "Đang tải chuyển động và biểu cảm {{dlcount}}/{{total}}",
+    "generate_zip": "Tạo file zip"
+  },
+  "select": {
+    "model": "Mô hình",
+    "motions": "Chuyển động",
+    "expressions": "Biểu cảm"
+  },
+  "tooltip": {
+    "download": "Tải xuống",
+    "fullscreen": "Toàn màn hình",
+    "shot": "Lưu ảnh",
+    "stop_record": "Dừng ghi hình",
+    "start_record": "Bắt đầu ghi hình"
+  }
+}
