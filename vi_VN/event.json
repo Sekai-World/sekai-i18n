@@ -1,0 +1,84 @@
+{
+  "alreadyEnded": "Sự kiện đã kết thúc",
+  "notStarted": "Chưa bắt đầu",
+  "tab": {
+    "title[0]": "Ảnh bìa & logo",
+    "title[1]": "Ảnh nền",
+    "title[2]": "Nhân vật"
+  },
+  "remainingTime": "Thời gian còn lại",
+  "progress": "Tiến Độ",
+  "title": {
+    "boost": "Tăng",
+    "cheerful_carnival": "Cheerful Carnival",
+    "timepoint": "Thời gian",
+    "rankingRewards": "Phần thưởng xếp hạng"
+  },
+  "boostAttribute": "Tăng thuộc tính",
+  "boostCharacters": "Tăng nhân vật",
+  "maxBoost": "Tăng tối đa (cả hai đều khớp)",
+  "boostSpecificCards": "Thẻ tăng đặc biệt",
+  "boostCards": "Thẻ tăng",
+  "eventCards": "Thẻ sự kiện",
+  "cheerful_carnival_midterm_1": "Kết quả kỳ giữa đầu tiên",
+  "cheerful_carnival_midterm_2": "Kết quả kỳ giữa thứ hai",
+  "startAt": "Sự kiện bắt đầu lúc",
+  "closeAt": "Sự kiện kết thúc vào",
+  "endAt": "Dữ liệu sự kiện khả dụng đến",
+  "rankingAnnounceAt": "Mở kết quả xếp hạng",
+  "distributionStartAt": "Phân phát giải thưởng từ",
+  "rankingReward": {
+    "start": "Từ",
+    "end": "Đến"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Tên sự kiện",
+      "rankings": "Xếp hạng"
+    },
+    "button": {
+      "curr_event": "Sự kiện hiện tại",
+      "graph": "Biểu đồ nạp",
+      "random-palette": "Bảng màu ngẫu nhiên"
+    },
+    "pred_at": "Tính toán dự đoán lúc",
+    "show_all_rank": "Hiển thị mọi xếp hạng",
+    "time_travel_enabled": "Xem lịch sử dữ liệu",
+    "tooltip": {
+      "get_prediction": "Dự đoán chỉ khả dụng sau 24 giờ từ thời điểm sự kiện bắt đầu."
+    },
+    "checkbox": {
+      "get_prediction": "Dự đoán lần nạp"
+    },
+    "title": {
+      "data_graph": "Biểu đồ điểm sự kiện",
+      "average_speed": "Tốc độ trung bình"
+    }
+  },
+  "ranking": "Xếp hạng",
+  "realtime": "Cập nhật lúc",
+  "nextfetch": "Nạp dữ liệu trong",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Người chơi",
+      "score": "Điểm",
+      "speed_per_hour": "Tốc độ tr. bình (/h)",
+      "prediction": "Dự đoán"
+    }
+  },
+  "no_enough_data": "Không đủ dữ liệu.",
+  "speedTable": {
+    "head": {
+      "all_time": "Mọi lúc (mỗi giờ)",
+      "last_24h": "24 giờ qua (mỗi giờ)",
+      "last_1h": "1 giờ qua (mỗi giờ)"
+    }
+  },
+  "type": {
+    "marathon": "Marathon",
+    "cheerful_carnival": "Cheerful Carnival"
+  },
+  "distributionEndAt": "Phân phát giải thưởng đến",
+  "aggregateAt": "Tổng điểm",
+  "alreadyPast": "Đã qua"
+}
