@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Mỗi giờ",
+    "eventPointPerPlay": "Điểm sự kiện mỗi lần chơi",
+    "playClount": "Tổng số lần chơi",
+    "playTime": "Tổng thời gian chơi",
+    "useBoost": "Tổng bình tăng lực tiêu thụ",
+    "totalPoint": "Tổng điểm sự kiện"
+  },
+  "eventData": {
+    "label": "Dữ liệu sự kiện"
+  },
+  "eventMode": {
+    "existed": "Hiện có",
+    "custom": "Tùy chỉnh"
+  },
+  "gameData": {
+    "energyDrink": "Số bình tiêu thụ",
+    "eventBonusRate": "Tỷ lệ cộng đồn điểm sự kiện (%)",
+    "teamAvgPower": "Tổng năng lực trung bình",
+    "currentPoint": "Điểm hiện tại",
+    "targetPoint": "Điểm mục tiêu",
+    "label": "Dữ liệu game",
+    "desc": "Hãy nhập dữ liệu từ game để tính toán",
+    "remainingTime": "Thời gian còn lại của sự kiện"
+  },
+  "songSelect": {
+    "label": "Chọn bài hát",
+    "select": {
+      "difficulty": "Độ khó",
+      "song": "Bài hát"
+    },
+    "desc": "Chọn bài hát để phân tích"
+  },
+  "songMode": {
+    "label": "Chọn bài hát",
+    "all_songs": "So sánh bài hát",
+    "only_one": "Chọn một bài"
+  },
+  "assumption": "Uớc tính: all perfect, người chơi trong multiplayer có cùng nhóm với bạn, không có vật phẩm cộng dồn."
+}
