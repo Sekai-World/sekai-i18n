@@ -1,0 +1,42 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Ảnh bìa & Logo"
+    },
+    "title[3]": "Ảnh nền",
+    "title[4]": "Ảnh đặc trưng",
+    "title[0]": "Miêu tả",
+    "title[1]": "Tổng quan",
+    "title[2]": "Gỉả lập"
+  },
+  "ceil_item": "Đổi vật phẩm",
+  "summary": "Tổng quan",
+  "description": "Miêu tả",
+  "gacha_rate": "Tỷ lệ gacha",
+  "normalRate": "Tỉ lệ quay thông thường",
+  "guaranteedRate": "Tỷ lệ quay ưu tiên",
+  "gacha_cards": "Thẻ Gacha",
+  "pickupMember": "Thành viên tuyển chọn",
+  "pickupMember_plural": "Thành viên tuyển chọn",
+  "gacha_behaviors": "Lựa chọn quay gacha",
+  "gacha_simulator": "Giả lập Gacha",
+  "simulator": {
+    "reset": "Đặt lại",
+    "total": "Tổng",
+    "jewel": "Đá quý",
+    "ticket": "Vé Gacha",
+    "count": "Số lần ra",
+    "percentage": "Phần trăm",
+    "cost": "Chi phí"
+  },
+  "behavior": {
+    "normal": "Thông thường",
+    "over_rarity_3_once": "Ưu tiên (3*)",
+    "once_a_day": "Mỗi ngày một lần",
+    "over_rarity_4_once": "Ưu tiên (4*)"
+  },
+  "gachaType": {
+    "ceil": "Dài hạn",
+    "normal": "Thông thường"
+  }
+}
