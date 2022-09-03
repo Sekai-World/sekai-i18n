@@ -40,7 +40,7 @@
       "high": "Điểm cao nhất"
     }
   },
-  "assumption": "Uớc tính: all perfect, bonus sự kiện 0%, dùng 0 bình tăng lực, multiplayer đều có nhóm giống nhau.",
+  "assumption": "Uớc tính: all perfect, bonus sự kiện 0%, dùng 0 bình tăng lực, người chơi trong multiplayer cùng nhóm với bạn.",
   "saveTeamDialog": {
     "title": "Lưu nhóm",
     "desc": "Lưu mã nhóm và tải lại sau."
