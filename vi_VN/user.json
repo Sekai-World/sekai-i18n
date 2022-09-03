@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Team Sekai hiện tại",
+      "user_event": "Dữ liệu sự kiện Sekai",
+      "card_list": "Thẻ Sekai",
+      "import_card": "Nhập thẻ Sekai",
+      "manage_teams": "Sắp xếp Team",
+      "sekai_profile": "Hồ sơ Sekai",
+      "sekai_cards_teams": "Thẻ và Team Sekai",
+      "user_statistics": "Chỉ số Sekai"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Master Rank",
+          "cropped_image": "Nguồn",
+          "best_match": "Khớp",
+          "card_states": "Chỉ số thẻ",
+          "other_possible_result": "Độ khớp khác",
+          "card_power": "Năng lực",
+          "card_training_status": "Đã nâng cấp"
+        }
+      },
+      "submit_success": "Thẻ đã được lưu hoặc đã được cập nhật.",
+      "submit_error": "Lưu thẻ thất bại.",
+      "import_button": "Nhập",
+      "enable_ocr_tooltip": "Nếu chọn, hãy tải ảnh chụp kho thẻ phân theo Level (レベル) của bạn. \nCông cụ Tesseract sẽ tự nhận dạng cấp độ thẻ và master rank. Quá trình này hơi lâu. \nẢnh sau huấn luyện được xuất từ thẻ, hãy chắc chắn bạn chọn đúng thẻ.",
+      "enable_ocr": "Nhận dạng dữ liệu thẻ",
+      "wrong_result": "Thẻ sai?",
+      "help": {
+        "step1": {
+          "title": "Bước 1: Chụp ảnh màn hình",
+          "subtitle": "Bước 1: Chụp ảnh màn hình kho thẻ của bạn, hãy chắc chắn là \"Lv.XX\" được hiển thị thay vì điểm năng lực (những con số)."
+        },
+        "step2": {
+          "title": "Bước 2: Tải lên ảnh chụp",
+          "subtitle": "1. Nhấp và chọn ảnh vừa chụp.\n2. OCR (Tesseract) sẽ tự nhận dạng cấp độ thẻ và master rank."
+        },
+        "step3": {
+          "title": "Bước 3: Xác nhận kết quả",
+          "subtitle": "1. Ảnh thẻ được xuất từ ảnh chụp.\n2. Chỗ này hiện ảnh nhận dạng từ ảnh thẻ kèm tỷ lệ khớp.\n3. Các câu chuyện phụ mặc định là mở khóa, nếu trong game chưa mở thì tắt đi.\n4. Gửi và lưu thẻ được nhận dạng.\n5. Nếu một thẻ bị nhận dạng sai, nhấp vào nó để thay đổi."
+        },
+        "step4": {
+          "title": "Thêm: Chỉnh sửa kết quả",
+          "subtitle": "Hộp này hiển thị khi bạn nhấp vào ảnh nhận dạng của thẻ (hình vuông đỏ với số 5 bên bước 3).\n1. Hiển thị ảnh nhận dạng khác có khả năng khớp.\n2. Nếu không muốn thẻ này, bạn có thể xóa nó."
+        }
+      }
+    },
+    "upload_avatar_error": "Cập nhật avatar thất bại!",
+    "upload_avatar": "Thay đổi Avatar",
+    "username": "Tên người dùng",
+    "nickname": "Tên hiển thị",
+    "role": "Vai trò",
+    "email": "Email",
+    "button": {
+      "show_email": "Hiện",
+      "update_sekai_profile": "Cập nhật hồ sơ Sekai",
+      "bind_sekai_id": "Liên kết",
+      "verify_sekai_id": "Xác minh"
+    },
+    "email_confirmed": "Đã xác minh Email",
+    "syncing_card_team": "Đang đồng bộ Thẻ Sekai và Nhóm...",
+    "label": {
+      "update_left": "Số lần cập nhật:  {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "Mở hồ sơ",
+      "sekai_id_verify_step_1_subtitle": "Nhấp vào nút \"Menu\" (1) ở phía trên góc phải và nhấp nút \"称号 & プロフィール\" (2) ",
+      "sekai_id_verify_step_2_title": "Viết token và lưu",
+      "sekai_id_verify_step_2_subtitle": "Viết token xác minh {{verify_token}}  của bạn vào hộp văn bản (1), rồi nhấp nút \"Back\" (2) để lưu. Sau đó, nhấp vào nút \"XÁC MINH\".",
+      "sekai_id_verify": "Xác minh",
+      "sekai_id_not_verified": "Chưa xác minh",
+      "sekai_user_id": "ID người dùng Sekai",
+      "unlink_sekai_id": "Gỡ liên kết ID Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Tên",
+      "sekai_user_rank": "Cấp",
+      "sekai_user_word": "Lời giới thiệu",
+      "sekai_user_music_not_found": "Không tìm thấy dữ liệu người dùng."
+    },
+    "event": {
+      "current_record_info": "Lần ghi nhận trước:",
+      "current_record_point": "Điểm sự kiện:",
+      "current_record_rank": "Xếp hạng sự kiện:",
+      "current_record_time": "Thời gian ghi nhận:",
+      "current_name": "Sự kiện hiện tại:"
+    },
+    "sekai_id_delete_confirm": {
+      "title": "Xác nhận gỡ liên kết ID Sekai",
+      "content1": "Bạn có muốn gỡ ID Sekai này? Mọi dữ liệu như lịch sử sự kiện sẽ mất!"
+    },
+    "sekai_id_transfer": {
+      "title": "Chuyển ID Sekai",
+      "content1": "ID Sekai này đã được liên kết bởi người dùng khác, nếu bạn nhớ tên người dùng trước của mình, hãy nhập nó dưới đây. Nếu bạn không nhớ, bạn có thể liên lạc  @SekaiViewer trên twitter để thực hiện chuyển đổi thủ công."
+    },
+    "error": {
+      "sekai_id_verify_failed": "Xác minh quyền sở hữu thất bại, bạn đã thoát bảng hồ sơ chưa? ",
+      "sekai_id_malformed": "ID Sekai có 16 số hoặc hơn. không dùng tên người dùng của bạn",
+      "sekai_id_already_bind": "ID Sekai đã được liên kết đến người dùng khác."
+    },
+    "card_list": {
+      "submit_success": "Chỉ số thẻ đã được cập nhật.",
+      "submit_error": "Cập nhật chỉ số thẻ thất bại.",
+      "button": {
+        "add_card": "Thêm thẻ"
+      }
+    },
+    "statistics": {
+      "clear_count": "Số lần hoàn thành",
+      "full_combo_count": "Số lần Full Combo",
+      "all_perfect_count": "Số lần All Perfect"
+    },
+    "sekai_id": "ID người dùng Sekai",
+    "email_confirmed_status": {
+      "true": "Có",
+      "false": "Chưa"
+    }
+  }
+}
