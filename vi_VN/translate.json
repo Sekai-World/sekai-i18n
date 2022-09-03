@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Source",
+      "target": "Mục tiêu"
+    },
+    "source_lang": "Source Language",
+    "announcement": {
+      "source_title": "Source Title",
+      "source_desc": "Miêu tả",
+      "target_title": "Tựa đề mục tiêu",
+      "target_desc": "Miêu tả mục tiêu"
+    },
+    "target_lang": "Ngôn ngữ mục tiêu",
+    "button": {
+      "copy_source": "Sao chép source string"
+    },
+    "target_contributors": "Thành viên đóng góp",
+    "submit-status": {
+      "success": "Thành công",
+      "failed": "Thất bại"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Sao chép source string",
+        "text": "Bạn sẽ sao chép mọi source string đến chỗ dịch, tất cả sửa đổi chưa lưu trong chỗ dịch sẽ bị mất.",
+        "confirm": "Xác nhận",
+        "cancel": "Hủy"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Đánh dấu là đang sửa",
+    "mark_finished": "Đánh dấu là hoàn thành",
+    "continue_translate": "Tiếp tục chỉnh sửa",
+    "start_translate": "Bắt đầu phiên dịch"
+  },
+  "status": {
+    "finished": "Hoàn thành",
+    "inprogress": "Đang sửa"
+  },
+  "error": {
+    "lang_mismatch": "Ngôn ngữ không hợp lệ."
+  },
+  "title": {
+    "my_works": "Bản dịch hiện có",
+    "available_contents": "Nội dung hiện có"
+  }
+}
