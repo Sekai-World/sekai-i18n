@@ -16,7 +16,7 @@
   },
   "boostAttribute": "Tăng thuộc tính",
   "boostCharacters": "Tăng nhân vật",
-  "maxBoost": "Tăng tối đa (cả hai đều khớp)",
+  "maxBoost": "Tối đa cộng đồn (nếu cả hai khớp)",
   "boostSpecificCards": "Thẻ tăng đặc biệt",
   "boostCards": "Thẻ tăng",
   "eventCards": "Thẻ sự kiện",
