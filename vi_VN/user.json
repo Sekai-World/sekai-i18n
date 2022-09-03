@@ -90,7 +90,7 @@
     },
     "sekai_id_transfer": {
       "title": "Chuyển ID Sekai",
-      "content1": "ID Sekai này đã được liên kết bởi người dùng khác, nếu bạn nhớ tên người dùng trước của mình, hãy nhập nó dưới đây. Nếu bạn không nhớ, bạn có thể liên lạc  @SekaiViewer trên twitter để thực hiện chuyển đổi thủ công."
+      "content1": "ID Sekai này đã được liên kết bởi người dùng khác, nếu bạn nhớ tên người dùng trước của mình, hãy nhập nó dưới đây. Nếu bạn không nhớ, bạn có thể liên lạc @SekaiViewer trên twitter để thực hiện chuyển đổi thủ công."
     },
     "error": {
       "sekai_id_verify_failed": "Xác minh quyền sở hữu thất bại, bạn đã thoát bảng hồ sơ chưa? ",
