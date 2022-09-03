@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Nhân vật"
+  },
+  "sort": {
+    "caption": "Phân loại",
+    "ascending": "Tăng dần",
+    "descending": "Giảm đần"
+  },
+  "honorType": {
+    "caption": "Loại danh hiệu",
+    "group_only_once": "Chỉ hiển thị một cái trong từng nhóm"
+  },
+  "not_set": "Chưa được đặt",
+  "missionType": {
+    "caption": "Loại nhiệm vụ"
+  },
+  "music_tag": {
+    "caption": "Tag bài hát"
+  },
+  "music_mv": {
+    "caption": "Loại MV"
+  },
+  "not-selected": "Chưa chọn",
+  "stampType": {
+    "caption": "Loại tem",
+    "text": "Chỉ văn bản",
+    "illustration": "Với hình minh họa"
+  },
+  "language": {
+    "caption": "Ngôn ngữ",
+    "source": "Ngôn ngữ gốc",
+    "target": "Chọn ngôn ngữ"
+  },
+  "skill": {
+    "score_up": "Điểm cộng dồn",
+    "judgment_up": "Phán xét & Điểm cộng dồn",
+    "life_recovery": "Hồi máu & Điểm cộng dồn",
+    "perfect_score_up": "Điểm cộng dồn khi PERFECT",
+    "life_score_up": "Điểm cộng dồn theo lượng máu"
+  }
+}
