@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Nhân vật",
+    "title[1]": "Nhãn tên (dọc)",
+    "title[2]": "Nhãn tên (ngang)"
+  },
+  "name": "Họ tên",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Giới tính",
+    "female": "Nữ",
+    "male": "Nam",
+    "secret": "Bí mật"
+  },
+  "scenario": "Câu chuyện",
+  "introduction": "Giới thiệu",
+  "colorCode": "Màu ảnh",
+  "skinColorCode": "Màu da",
+  "skinShadowColorCode1": "Màu bóng da 1",
+  "skinShadowColorCode2": "Màu bóng da 2",
+  "height": "Chiều cao",
+  "birthday": "Sinh nhật",
+  "characterVoice": "Diễn viên lồng tiếng",
+  "school": "Trường học",
+  "schoolYear": "Lớp",
+  "hobby": "Sở thích",
+  "specialSkill": "Chuyên môn",
+  "favoriteFood": "Thích món",
+  "hatedFood": "Ghét món",
+  "weak": "Điểm yếu"
+}
