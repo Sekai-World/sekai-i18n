@@ -1,0 +1,57 @@
+{
+  "buildTeam": {
+    "cardMaxError": "Đã có đủ thẻ.",
+    "addCard": "Thêm thẻ",
+    "saveTeam": "Lưu nhóm",
+    "loadTeam": "Tải nhóm",
+    "clearTeam": "Xóa nhóm",
+    "teamPower": "Năng lực nhóm",
+    "label": "Xây dựng nhóm",
+    "desc": "Xây dựng nhóm cho Đề xuất nhạc",
+    "duplicatedCardError": "Không thể chọn thẻ trùng cho nhóm.",
+    "loadTeamError": "Hãy kiểm tra đầu vào.",
+    "teamTextCopied": "Văn bản nhóm lưu vào bộ nhớ đệm",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "Thêm thẻ",
+    "selectChara": "Nhân vật",
+    "selectRarity": "Độ hiếm"
+  },
+  "result": {
+    "musicName": "Tên bài hát",
+    "label": "Kết quả",
+    "desc": "Một bước nữa là bạn xong."
+  },
+  "getResult": "Nhận kết quả",
+  "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
+    "label": "Chọn chế độ",
+    "desc": "Chọn chế độ chơi",
+    "score": "Điểm",
+    "event_point": "Điểm sự kiện",
+    "play_count": "Mỗi lần chơi",
+    "per_hour": "Mỗi giờ"
+  },
+  "table": {
+    "column": {
+      "low": "Điểm thấp nhất",
+      "high": "Điểm cao nhất"
+    }
+  },
+  "assumption": "Uớc tính: all perfect, bonus sự kiện 0%, dùng 0 bình tăng lực, multiplayer đều có nhóm giống nhau.",
+  "saveTeamDialog": {
+    "title": "Lưu nhóm",
+    "desc": "Lưu mã nhóm và tải lại sau."
+  },
+  "teamCode": "Mã nhóm",
+  "loadTeamDialog": {
+    "title": "Tải nhóm",
+    "desc": "Dán mã nhóm vừa lưu và tải nó."
+  },
+  "songSelect": {
+    "label": "Chọn bài hát",
+    "desc": "Chọn một bài hoặc hơn để phân tích. Để trống để cho tất cả bài được phân tích."
+  }
+}
