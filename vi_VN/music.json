@@ -1,0 +1,58 @@
+{
+  "difficulty": "Độ khó",
+  "actualPlaybackTime": "Thời lượng phát thực tế",
+  "downloadFlacNoTrim": "Tải file FLAC sẽ bao gồm đoạn im lặng mở đầu.",
+  "vocal": "Giọng",
+  "alert[0]": " <b>Chín giây</b> đầu tiên ở mỗi bài hát không có tiếng. Đây KHÔNG phải là lỗi.",
+  "vocalTab": {
+    "title[0]": "Bản ngắn",
+    "title[1]": "Bản dài",
+    "title[2]": "Video âm nhạc"
+  },
+  "fileFormat": {
+    "caption": "Định dạng File",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Bỏ qua đoạn im lặng ở đầu",
+  "tag": "Tag",
+  "tag_plural": "Tag",
+  "category": "Thể loại",
+  "category_plural": "Thể loại",
+  "arranger": "Người cải biên",
+  "composer": "Giọng ca",
+  "lyricist": "Người viết lời",
+  "danceMember": "Vũ công",
+  "danceMember_plural": "Vũ công",
+  "vocal_plural": "Giọng ca",
+  "vocalType": "Loại giọng",
+  "achievement": "Thành tích",
+  "scoreRankAchievement": {
+    "title": "Xếp hạng điểm",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "difficulty_plural": "Độ khó",
+  "chartCredit": "Ảnh biểu đồ nhập từ trang pjsek.ai của Erik.",
+  "noteCount": "Số nốt",
+  "comboRewards": "Phần thưởng Combo",
+  "chartImage": "Biểu đồ",
+  "baseScore": "Tỷ lệ điểm cơ bản",
+  "feverScore": "Tỷ lệ điểm Fever",
+  "eventRate": "Tỷ lệ điểm sự kiện",
+  "clear_status": "Tình trạng hoàn thành",
+  "hi_score": "Điểm cao nhất",
+  "mvp_count": "Số lần MVP",
+  "super_star_count": "Số lần Super Star",
+  "dancerCount": "Số vũ công",
+  "combo": "Combo",
+  "preview": "Xem trước",
+  "categoryType": {
+    "mv": "MV 3D",
+    "mv_2d": "MV 2D",
+    "original": "MV gốc",
+    "image": "Ảnh tĩnh"
+  }
+}
