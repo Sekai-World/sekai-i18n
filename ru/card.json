@@ -1,10 +1,10 @@
 {
-  "skillName": "Название навыка",
   "cardLevel": "Уровень карты",
   "skillLevel": "Уровень навыка",
   "trained": "После",
   "sideStory1Unlocked": "Побочная история 1 открыта",
   "sideStory2Unlocked": "Побочная история 2 открыта",
+  "skillName": "Название навыка",
   "tab": {
     "title[0]": "Нормальное",
     "title[1]": "Нормальное без фона",
@@ -13,6 +13,8 @@
   },
   "gachaPhrase": "Фраза",
   "skillEffect": "Эффект навыка",
+  "masterRank": "Ранг мастерства",
+  "masterRankLevel": "Уровень ранга мастерства",
   "stats": "Статы",
   "normal": "Тренинг",
   "sideStory": "Побочная история",
