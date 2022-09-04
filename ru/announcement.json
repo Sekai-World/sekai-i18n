@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Произошла ошибка при получении данных.",
+  "category": "Категория",
+  "no_entry": "Без входа",
+  "published_at": "Опубликовано на",
+  "translators": "Переводчики",
+  "title": "Заголовок",
+  "language": "Язык",
+  "author": "Автор",
+  "co-authors": "Со-авторы",
+  "categoryName": {
+    "website": "Веб-сайт",
+    "normal": "Другое",
+    "game_update": "Игровые обновления",
+    "maintenance": "Тех. обслуживание",
+    "bug": "Баг"
+  }
+}
