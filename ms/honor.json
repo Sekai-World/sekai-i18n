@@ -10,6 +10,7 @@
   "type": {
     "character": "Watak",
     "achievement": "Pencapaian",
-    "event": "Acara"
+    "event": "Acara",
+    "rank_match": "Perlawanan Kedudukan"
   }
 }
