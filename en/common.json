@@ -88,6 +88,7 @@
   "show": "Show",
   "level": "Level",
   "description": "Description",
+  "sequence": "Sequence",
   "profile": "Profile",
   "character_plural": "Characters",
   "detectionFailedPrompt": "Failed to determine your region, please check your network",
