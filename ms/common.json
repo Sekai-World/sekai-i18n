@@ -88,6 +88,7 @@
   "show": "Tunjukkan",
   "level": "Tahap",
   "description": "Keterangan",
+  "sequence": "Jujukan",
   "profile": "Profil",
   "character_plural": "Watak",
   "detectionFailedPrompt": "Gagal mengenal pasti kawasan anda, sila periksa rangkaian anda",
