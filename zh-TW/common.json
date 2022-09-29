@@ -88,6 +88,7 @@
   "show": "顯示",
   "level": "等級",
   "description": "描述",
+  "sequence": "排序",
   "profile": "角色資料",
   "character_plural": "角色",
   "detectionFailedPrompt": "偵測所在地區時發生錯誤，請檢查你的網路連線",
