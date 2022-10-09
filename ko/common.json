@@ -88,6 +88,7 @@
   "show": "보기",
   "level": "레벨",
   "description": "설명",
+  "sequence": "순서",
   "profile": "프로필",
   "character_plural": "캐릭터",
   "detectionFailedPrompt": "지역을 확인하지 못했습니다. 네트워크 상태를 확인해주세요.",
