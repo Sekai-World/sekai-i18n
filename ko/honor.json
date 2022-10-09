@@ -9,7 +9,8 @@
   },
   "type": {
     "character": "캐릭터",
-    "achievement": "도전과제(업적)",
-    "event": "이벤트"
+    "achievement": "업적",
+    "event": "이벤트",
+    "rank_match": "랭크 매치"
   }
 }
