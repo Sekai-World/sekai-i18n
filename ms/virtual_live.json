@@ -15,7 +15,8 @@
   "type": {
     "normal": "Biasa",
     "beginner": "Pemain Baru",
-    "cheerful_carnival": "Karnival Penuh Riang"
+    "cheerful_carnival": "Karnival Penuh Riang",
+    "streaming": "Penstriman"
   },
   "step": {
     "mc": "Pengacaraan Majlis",
