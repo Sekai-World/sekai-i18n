@@ -51,7 +51,18 @@
   "eventTracker": "Penjejak Acara",
   "eventAnalyzer": "Penganalisis Acara",
   "settings": {
-    "title": "Tetapan"
+    "title": "Tetapan",
+    "interfaceLanguage": "Bahasa Antara Muka",
+    "gameContent": "Kandungan Permainan",
+    "gameContentRegion": "Kawasan Kandungan Permainan",
+    "gameContentTranslationSource": {
+      "title": "Sumber Terjemahan Kandungan Permainan",
+      "official": "Rasmi",
+      "community": "Komuniti"
+    },
+    "gameContentTranslationLanguage": "Bahasa Komuniti Terjemahan Kandungan Permainan",
+    "gameContentTranslationLanguageFollowInterface": "Ikut Bahasa Antara Muka",
+    "gameContentTranslationRegion": "Kawasan Rasmi Terjemahan Kandungan Permainan"
   },
   "support": "Sokongan",
   "toolbar": {
@@ -92,15 +103,13 @@
   "profile": "Profil",
   "character_plural": "Watak",
   "detectionFailedPrompt": "Gagal mengenal pasti kawasan anda, sila periksa rangkaian anda",
-  "serverRegionSelect": "Kawasan Pelayan",
+  "language": "Bahasa",
   "serverRegion": {
     "jp": "Bahasa Jepun",
     "tw": "Bahasa Cina Tradisional",
     "en": "Bahasa Inggeris (Luar Asia)",
     "kr": "Bahasa Korea"
   },
-  "language": "Bahasa",
-  "darkmode": "Mod Kecerahan",
   "contentTranslationMode": {
     "title": "Mod Paparan Kandungan Permainan",
     "original": "Asal",
@@ -108,6 +117,7 @@
     "both": "Tunjukkan Kedua-duanya"
   },
   "miscs": "Aneka",
+  "darkmode": "Mod Kecerahan",
   "spoilerContent": "Kandungan Belum Terbit",
   "currentRegion": "Kawasan Dikesan Semasa",
   "regionTooltip": "Ini akan menentukan kawasan pelayan CDN anda",
@@ -121,6 +131,7 @@
   "close": "Tutup",
   "area_item": "Item Kawasan",
   "signup": "Daftar",
+  "serverRegionSelect": "Kawasan Pelayan",
   "detect": {
     "button": "Kesan",
     "checking": "Memeriksa...",
