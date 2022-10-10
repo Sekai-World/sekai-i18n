@@ -51,7 +51,18 @@
   "eventTracker": "Event Tracker",
   "eventAnalyzer": "Event Analyzer",
   "settings": {
-    "title": "Settings"
+    "title": "Settings",
+    "interfaceLanguage": "Interface Language",
+    "gameContent": "Game Content",
+    "gameContentRegion": "Game Content Region",
+    "gameContentTranslationSource": {
+      "title": "Game Content Translation Source",
+      "official": "Official",
+      "community": "Community"
+    },
+    "gameContentTranslationLanguage": "Game Content Translation Community Language",
+    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Support",
   "toolbar": {
@@ -92,15 +103,13 @@
   "profile": "Profile",
   "character_plural": "Characters",
   "detectionFailedPrompt": "Failed to determine your region, please check your network",
-  "serverRegionSelect": "Server Region",
+  "language": "Language",
   "serverRegion": {
     "jp": "Japanese",
     "tw": "Traditional Chinese",
     "en": "English (Global)",
     "kr": "Korean"
   },
-  "language": "Language",
-  "darkmode": "Brightness Mode",
   "contentTranslationMode": {
     "title": "Game Content Display Mode",
     "original": "Original",
@@ -108,6 +117,7 @@
     "both": "Show Both"
   },
   "miscs": "Miscellaneous",
+  "darkmode": "Brightness Mode",
   "spoilerContent": "Spoiler Content",
   "currentRegion": "Current Detected Region",
   "regionTooltip": "This will determine your CDN server region",
@@ -121,6 +131,7 @@
   "close": "Close",
   "area_item": "Area Item",
   "signup": "Sign Up",
+  "serverRegionSelect": "Server Region",
   "detect": {
     "button": "Detect",
     "checking": "Checking...",
