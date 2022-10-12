@@ -5,11 +5,12 @@
     "low": "Thấp",
     "middle": "Trung bình",
     "high": "Cao",
-    "highest": "Rất cao"
+    "highest": "Cao nhất"
   },
   "type": {
     "character": "Nhân vật",
     "achievement": "Thành tích",
-    "event": "Sự kiện"
+    "event": "Sự kiện",
+    "rank_match": "Xếp hạng"
   }
 }
