@@ -15,7 +15,8 @@
   "type": {
     "normal": "Thông thường",
     "beginner": "Người mới",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "streaming": "Phát sóng"
   },
   "step": {
     "mc": "MC",
