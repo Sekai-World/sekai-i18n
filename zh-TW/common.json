@@ -51,7 +51,18 @@
   "eventTracker": "活動排名追蹤",
   "eventAnalyzer": "活動分數分析",
   "settings": {
-    "title": "設定"
+    "title": "設定",
+    "interfaceLanguage": "介面語言",
+    "gameContent": "遊戲內容",
+    "gameContentRegion": "遊戲內容地區",
+    "gameContentTranslationSource": {
+      "title": "遊戲內容翻譯來源",
+      "official": "官方",
+      "community": "社群"
+    },
+    "gameContentTranslationLanguage": "遊戲內容翻譯社群語言",
+    "gameContentTranslationLanguageFollowInterface": "跟隨介面語言",
+    "gameContentTranslationRegion": "遊戲內容翻譯官方地區"
   },
   "support": "支援",
   "toolbar": {
@@ -92,15 +103,13 @@
   "profile": "角色資料",
   "character_plural": "角色",
   "detectionFailedPrompt": "偵測所在地區時發生錯誤，請檢查你的網路連線",
-  "serverRegionSelect": "伺服器地區",
+  "language": "語言",
   "serverRegion": {
     "jp": "日服",
     "tw": "繁體中文服",
     "en": "英文服（國際服）",
     "kr": "韓服"
   },
-  "language": "語言",
-  "darkmode": "顯示主題",
   "contentTranslationMode": {
     "title": "遊戲內容顯示模式",
     "original": "原始",
@@ -108,6 +117,7 @@
     "both": "皆顯示"
   },
   "miscs": "其他",
+  "darkmode": "顯示主題",
   "spoilerContent": "劇透內容",
   "currentRegion": "目前偵測到的地區",
   "regionTooltip": "將偵測你的CDN伺服器地區",
@@ -121,6 +131,7 @@
   "close": "關閉",
   "area_item": "區域道具",
   "signup": "註冊",
+  "serverRegionSelect": "伺服器地區",
   "detect": {
     "button": "偵測",
     "checking": "檢查中",
