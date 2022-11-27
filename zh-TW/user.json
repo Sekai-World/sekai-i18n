@@ -27,7 +27,7 @@
       "import_button": "匯入",
       "enable_ocr_tooltip": "請上傳根據等級排列的卡片列表截圖，系統會使用Tesseract去辨認卡片等級及突破等級，而這個步驟需要一點時間。\n特訓與否以卡片縮圖作判斷，請確保使用正確的卡片縮圖。",
       "enable_ocr": "辨認卡片數值",
-      "wrong_result": "辨認到錯誤的卡片？",
+      "wrong_result": "辨識成錯誤的卡片？",
       "help": {
         "step1": {
           "title": "步驟1：截圖",
