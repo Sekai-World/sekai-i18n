@@ -90,7 +90,7 @@
     },
     "sekai_id_transfer": {
       "title": "轉移Sekai ID",
-      "content1": "此Sekai ID已經綁定其他使用者，如果你確認要進行並記得之前綁定過的使用者名稱，請在下面的文字框裡輸入該使用者名稱以完成轉移。如果你忘記了，請在Twitter上搜尋@SekaiViewer 並私訊以完成手動轉移。"
+      "content1": "此Sekai ID已經綁定其他使用者，若您確認要進行並記得之前綁定過的使用者名稱，請在下面的文字框裡輸入該使用者名稱以完成轉移。若您忘記使用者名稱，請在Twitter上搜尋@SekaiViewer 並私訊以完成手動轉移。"
     },
     "error": {
       "sekai_id_verify_failed": "無法驗證所有者，您是否忘記了離開資料界面以保存？",
