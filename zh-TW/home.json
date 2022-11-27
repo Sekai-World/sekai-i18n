@@ -25,7 +25,7 @@
   "disclaimer": "本網站不擁有遊戲內任何素材的版權，一切版權皆歸於其合法擁有者，包括但不限於Sega、Colorful Palette和Crypton。本網站為粉絲自架的非官方資料庫，僅供研究目的使用，與Sega、Colorful Palette或Crypton無任何商業關係或往來。",
   "detect": {
     "warning": "在兼容模式中運行可能會導致卡頓問題，建議你考慮更新瀏覽器或iOS/macOS版本。 <br>更多資訊：<l>Can I Use - WebP image format</l>",
-    "failed": "非常不幸地，你無法讀取大多數的圖片。請更新你的瀏覽器或iOS/macOS的版本。補償方案即將上線。<br>更多資訊：<l>Can I Use - WebP image format</l>",
+    "failed": "您的瀏覽器似乎無法讀取大多數的圖片。請更新瀏覽器或iOS/macOS的版本。解決相容性問題的版本即將上線。<br>更多資訊：<l>Can I Use - WebP image format</l>",
     "success": "恭喜！您的瀏覽器是最新版本，您可以更快地載入圖片並節省流量。"
   },
   "directLink": {
