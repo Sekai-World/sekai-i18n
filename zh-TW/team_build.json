@@ -7,14 +7,13 @@
     "calc_total_power": "獲取綜合力數據"
   },
   "auto_calc_bonus": "使用遊戲個人檔案",
-  "use_sekai_card_state": "使用已儲存的遊戲卡牌狀態",
   "saveTeamDialog": {
     "title": "儲存隊伍",
     "desc": "儲存新的隊伍或替換現有的隊伍。"
   },
   "storage_location": {
     "label": "儲存位置",
-    "local": "本地",
+    "local": "本機",
     "cloud": "雲端"
   },
   "storage_space": "儲存空間",
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "載入隊伍",
     "desc": "載入已儲存的隊伍。"
-  }
+  },
+  "use_sekai_card_state": "使用已儲存的遊戲卡牌狀態"
 }
