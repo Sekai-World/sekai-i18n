@@ -94,7 +94,7 @@
     },
     "error": {
       "sekai_id_verify_failed": "無法驗證所有者，您是否忘記了離開資料界面以保存？",
-      "sekai_id_malformed": "Sekai ID是一個16位的數字字串，並非你的使用者名稱",
+      "sekai_id_malformed": "Sekai ID是一個16位的數字字串，並非使用者名稱",
       "sekai_id_already_bind": "遊戲ID已經綁定另一位使用者。"
     },
     "card_list": {
