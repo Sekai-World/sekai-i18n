@@ -35,7 +35,7 @@
         },
         "step2": {
           "title": "步驟2：上傳截圖",
-          "subtitle": "1：點擊及選取你的截圖；\n2：利用實驗性OCR功能（Tesseract）辨認卡片等級及突破等級。"
+          "subtitle": "1：點擊及選取截圖；\n2：利用實驗性OCR功能（Tesseract）辨識卡片等級及突破等級。"
         },
         "step3": {
           "title": "步驟3：確認結果",
