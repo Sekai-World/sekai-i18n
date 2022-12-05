@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Источник",
+      "target": "Цель"
+    },
+    "source_lang": "Исходный язык",
+    "announcement": {
+      "source_title": "Исходное название",
+      "source_desc": "Исходное описание",
+      "target_title": "Название цели",
+      "target_desc": "Описание цели"
+    },
+    "target_lang": "Целевой язык",
+    "button": {
+      "copy_source": "Копировать исходные строки"
+    },
+    "target_contributors": "Участники",
+    "submit-status": {
+      "success": "Успех",
+      "failed": "Провалено"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Копировать исходные строки",
+        "text": "Вы скопируете все исходные строки в целевую область, вся неподтвержденная работа в целевой области будет потеряна.",
+        "confirm": "Подтвердить",
+        "cancel": "Отменить"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Отметить как В процессе",
+    "mark_finished": "Отметить как Завершено",
+    "continue_translate": "Продолжить работу",
+    "start_translate": "Начать перевод"
+  },
+  "status": {
+    "finished": "Завершено",
+    "inprogress": "В процессе"
+  },
+  "error": {
+    "lang_mismatch": "Языковое несоответствие"
+  },
+  "title": {
+    "my_works": "Существующие работы",
+    "available_contents": "Доступное содержимое"
+  }
+}
