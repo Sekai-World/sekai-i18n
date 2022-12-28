@@ -51,7 +51,18 @@
   "eventTracker": "Rastreador de Eventos",
   "eventAnalyzer": "Analisador de Eventos",
   "settings": {
-    "title": "Opções"
+    "title": "Opções",
+    "interfaceLanguage": "Linguagem da interface",
+    "gameContent": "Conteúdo do jogo",
+    "gameContentRegion": "Região do conteúdo do jogo",
+    "gameContentTranslationSource": {
+      "title": "Origem da tradução do conteúdo do jogo",
+      "official": "Oficial",
+      "community": "Comunidade"
+    },
+    "gameContentTranslationLanguage": "Origem da tradução do conteúdo do jogo",
+    "gameContentTranslationLanguageFollowInterface": "Seguir interface da linguagem",
+    "gameContentTranslationRegion": "Região oficial da tradução do conteúdo do jogo"
   },
   "support": "Suporte",
   "toolbar": {
@@ -88,18 +99,17 @@
   "show": "Show",
   "level": "Nível",
   "description": "Descrição",
+  "sequence": "Sequência ",
   "profile": "Perfil",
   "character_plural": "Personagens",
   "detectionFailedPrompt": "Não foi possível identificar sua região, por favor cheque sua conexão",
-  "serverRegionSelect": "Região do Server",
+  "language": "Idioma",
   "serverRegion": {
     "jp": "Japonês",
     "tw": "Chinês Tradicional",
     "en": "Inglês (Global)",
     "kr": "Coreano"
   },
-  "language": "Idioma",
-  "darkmode": "Brilho da Tela",
   "contentTranslationMode": {
     "title": "Modo de exibição de conteúdo do jogo",
     "original": "Original",
@@ -107,6 +117,7 @@
     "both": "Mostrar Ambos"
   },
   "miscs": "Diversos",
+  "darkmode": "Brilho da Tela",
   "spoilerContent": "Conteúdo com Spoiler",
   "currentRegion": "Região Atual Detectada",
   "regionTooltip": "Isso vai determinar a região do CDN do seu servidor",
@@ -120,6 +131,7 @@
   "close": "Fechar",
   "area_item": "Item de Área",
   "signup": "Cadastrar-se",
+  "serverRegionSelect": "Região do Server",
   "detect": {
     "button": "Encontrar",
     "checking": "Checando...",
