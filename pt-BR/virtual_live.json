@@ -15,7 +15,8 @@
   "type": {
     "normal": "Normal",
     "beginner": "Iniciante",
-    "cheerful_carnival": "Festival Animado"
+    "cheerful_carnival": "Festival Animado",
+    "streaming": "Transmissão"
   },
   "step": {
     "mc": "Apresentadores",
