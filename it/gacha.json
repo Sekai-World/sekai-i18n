@@ -21,10 +21,13 @@
   "gacha_behaviors": "Opzioni per il pescaggio nel gacha",
   "gacha_simulator": "Simulatore gacha",
   "simulator": {
+    "reset": "Reset",
     "total": "Totale",
-    "cost": "Costo",
+    "jewel": "Gioielli",
+    "ticket": "Biglietto Gacha",
     "count": "Conteggio",
-    "percentage": "Percentuale"
+    "percentage": "Percentuale",
+    "cost": "Costo"
   },
   "behavior": {
     "normal": "Normale",
