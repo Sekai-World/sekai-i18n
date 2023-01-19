@@ -1,4 +1,7 @@
 {
+  "difficulty": "Difficoltà",
+  "actualPlaybackTime": "Tempo di ascolto",
+  "downloadFlacNoTrim": "Scaricato File FLAC conterrà la parte silenziata all'inizio.",
   "vocal": "Vocalist",
   "alert[0]": "I primi <b>nove secondi</b> di ogni canzone non hanno suono. NON è un errore.",
   "vocalTab": {
@@ -6,23 +9,23 @@
     "title[1]": "Versione lunga",
     "title[2]": "Video musicale"
   },
+  "fileFormat": {
+    "caption": "Formatto File",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
   "skipBeginningSilence": "Salta il silenzio iniziale",
   "tag": "Tag",
   "tag_plural": "Tags",
   "category": "Categoria",
   "category_plural": "Categorie",
-  "actualPlaybackTime": "Tempo di ascolto",
   "arranger": "Arrangiamenti",
   "composer": "Compositore",
   "lyricist": "Testi",
   "danceMember": "Membro danzante",
   "danceMember_plural": "Membri danzanti",
-  "dancerCount": "Conteggio ballerini",
   "vocal_plural": "Cantanti",
   "vocalType": "Versione canzone",
-  "difficulty": "Difficoltà",
-  "difficulty_plural": "Difficoltà",
-  "noteCount": "Conteggio note",
   "achievement": "Risultati",
   "scoreRankAchievement": {
     "title": "Punteggio rank",
@@ -31,6 +34,19 @@
     "rankA": "Rank A",
     "rankS": "Rank S"
   },
+  "difficulty_plural": "Difficoltà",
+  "chartCredit": "Immagine della Mappa è modificata dalla versione di Erik's (pjsekai.ai).",
+  "noteCount": "Conteggio note",
+  "comboRewards": "Ricompense Combo",
+  "chartImage": "Mappa",
+  "baseScore": "Rato Punteggio Base",
+  "feverScore": "Rato Punteggio Fever",
+  "eventRate": "Rato Punti Evento",
+  "clear_status": "Statuto Fatto",
+  "hi_score": "Punteggio record",
+  "mvp_count": "Conteggio MVP",
+  "super_star_count": "Conteggio Super Star",
+  "dancerCount": "Conteggio ballerini",
   "combo": "Combo",
   "preview": "Anteprima",
   "categoryType": {
