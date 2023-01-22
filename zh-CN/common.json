@@ -51,7 +51,18 @@
   "eventTracker": "活动跟踪器",
   "eventAnalyzer": "活动分析器",
   "settings": {
-    "title": "设置"
+    "title": "设置",
+    "interfaceLanguage": "界面语言",
+    "gameContent": "游戏内容",
+    "gameContentRegion": "游戏内容区域",
+    "gameContentTranslationSource": {
+      "title": "游戏内容翻译来源",
+      "official": "官方",
+      "community": "社区"
+    },
+    "gameContentTranslationLanguage": "游戏内容翻译社区语言",
+    "gameContentTranslationLanguageFollowInterface": "跟随界面语言",
+    "gameContentTranslationRegion": "游戏内容官方翻译部分"
   },
   "support": "支持",
   "toolbar": {
@@ -88,18 +99,17 @@
   "show": "显示",
   "level": "等级",
   "description": "描述",
+  "sequence": "排序",
   "profile": "角色资料",
   "character_plural": "角色",
   "detectionFailedPrompt": "无法确定你的地区，请检查你的网络链接",
-  "serverRegionSelect": "服务器地区",
+  "language": "语言",
   "serverRegion": {
     "jp": "日服",
     "tw": "繁体字服",
     "en": "英文服（全球服）",
     "kr": "韩文服"
   },
-  "language": "语言",
-  "darkmode": "显示主题",
   "contentTranslationMode": {
     "title": "游戏内容显示模式",
     "original": "原始文字",
@@ -107,6 +117,7 @@
     "both": "两者皆显示"
   },
   "miscs": "杂项",
+  "darkmode": "显示主题",
   "spoilerContent": "剧透内容",
   "currentRegion": "探测到的当前区域",
   "regionTooltip": "这会决定你的CDN服务器地区",
@@ -120,6 +131,7 @@
   "close": "关闭",
   "area_item": "区域道具",
   "signup": "注册",
+  "serverRegionSelect": "服务器地区",
   "detect": {
     "button": "探测",
     "checking": "检查中",
