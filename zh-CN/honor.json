@@ -10,6 +10,7 @@
   "type": {
     "character": "角色",
     "achievement": "成就",
-    "event": "活动"
+    "event": "活动",
+    "rank_match": "排位对战"
   }
 }
