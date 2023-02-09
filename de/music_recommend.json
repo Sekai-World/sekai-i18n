@@ -1,0 +1,57 @@
+{
+  "buildTeam": {
+    "cardMaxError": "Es wurden bereits genug Karten ausgewählt.",
+    "addCard": "Karte hinzufügen",
+    "saveTeam": "Team speichern",
+    "loadTeam": "Team laden",
+    "clearTeam": "Team löschen",
+    "teamPower": "Team-Power",
+    "label": "Team erstellen",
+    "desc": "Erstelle dein Team für Song-Empfehler",
+    "duplicatedCardError": "Doppelte Karten können nicht in das selbe Team hinzugefügt werden.",
+    "loadTeamError": "Überprüfe deine Eingabe.",
+    "teamTextCopied": "Team-Text wurde in die Zwischenablage kopiert. ",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "Karte hinzufügen",
+    "selectChara": "Charakter",
+    "selectRarity": "Seltenheit"
+  },
+  "result": {
+    "musicName": "Musiktitel",
+    "label": "Ergebnis",
+    "desc": "Noch einen Schritt und es ist fertig."
+  },
+  "getResult": "Ergebnis bekommen",
+  "modeSelect": {
+    "solo": "Solo",
+    "multi": "Mehrspieler",
+    "label": "Modus auswählen",
+    "desc": "Empfohlener Arbeitsmodus wählen.",
+    "score": "Punkte",
+    "event_point": "Event-Punkte",
+    "play_count": "Pro Runde",
+    "per_hour": "Pro Stunde"
+  },
+  "table": {
+    "column": {
+      "low": "niedrigste Punktanzahl",
+      "high": "höchste Punktanzahl"
+    }
+  },
+  "assumption": "Annahme: Alles perfekt, Event-Bonus 0%, 0 Energiegetränke in Verwendung, alle Mehrspieler haben das gleiche Team",
+  "saveTeamDialog": {
+    "title": "Team speichern",
+    "desc": "Team-Code speichern und später lade."
+  },
+  "teamCode": "Team-Code",
+  "loadTeamDialog": {
+    "title": "Team laden",
+    "desc": "Gespeicherten Team-Code einfügen und laden"
+  },
+  "songSelect": {
+    "label": "Songauswahl",
+    "desc": "Wählen Sie einen oder mehrere Songs zum Analysieren. Lassen SIe es unausgefüllt, um alle Songs zu analysieren. "
+  }
+}
