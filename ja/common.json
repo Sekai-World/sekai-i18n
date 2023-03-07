@@ -51,7 +51,18 @@
   "eventTracker": "イベントトラッカー",
   "eventAnalyzer": "イベントアナライザー",
   "settings": {
-    "title": "設定"
+    "title": "設定",
+    "interfaceLanguage": "インターフェース言語",
+    "gameContent": "ゲームコンテンツ",
+    "gameContentRegion": "ゲームコンテンツ地域",
+    "gameContentTranslationSource": {
+      "title": "ゲームコンテンツの翻訳ソース",
+      "official": "公式",
+      "community": "コミュニティ"
+    },
+    "gameContentTranslationLanguage": "ゲームコンテンツ翻訳コミュニティ言語",
+    "gameContentTranslationLanguageFollowInterface": "フォローインターフェース言語",
+    "gameContentTranslationRegion": "ゲームコンテンツ翻訳公式地域"
   },
   "support": "サポート",
   "toolbar": {
@@ -88,18 +99,17 @@
   "show": "表示",
   "level": "レベル",
   "description": "説明",
+  "sequence": "シーケンス",
   "profile": "プロフィール",
   "character_plural": "キャラクター",
   "detectionFailedPrompt": "地域を特定するのに失敗しました、ネットワークを確認してください",
-  "serverRegionSelect": "サーバーエリア",
+  "language": "言語",
   "serverRegion": {
     "jp": "日本語版",
     "tw": "繁体字版",
     "en": "英語(グローバル版)",
     "kr": "韓国語版"
   },
-  "language": "言語",
-  "darkmode": "画面の明るさ",
   "contentTranslationMode": {
     "title": "ゲームコンテンツ表示モード",
     "original": "オリジナル",
@@ -107,6 +117,7 @@
     "both": "両方表示"
   },
   "miscs": "その他",
+  "darkmode": "画面の明るさ",
   "spoilerContent": "ネタバレを扱っている内容",
   "currentRegion": "現在探知された地域",
   "regionTooltip": "これはCDNサーバーエリアを決めます",
@@ -120,6 +131,7 @@
   "close": "閉じる",
   "area_item": "エリアアイテム",
   "signup": "登録",
+  "serverRegionSelect": "サーバーエリア",
   "detect": {
     "button": "検知",
     "checking": "確認しています...",
