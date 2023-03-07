@@ -15,7 +15,8 @@
   "type": {
     "normal": "通常",
     "beginner": "スタートダッシュ",
-    "cheerful_carnival": "チアフルカーニバル"
+    "cheerful_carnival": "チアフルカーニバル",
+    "streaming": "ストリーミング"
   },
   "step": {
     "mc": "キャスト",
