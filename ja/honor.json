@@ -10,6 +10,7 @@
   "type": {
     "character": "キャラクター",
     "achievement": "アチーブメント",
-    "event": "イベント"
+    "event": "イベント",
+    "rank_match": "ランクマッチ"
   }
 }
