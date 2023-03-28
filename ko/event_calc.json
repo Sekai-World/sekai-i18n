@@ -12,25 +12,25 @@
   },
   "eventMode": {
     "existed": "기존 이벤트",
-    "custom": "커스터마이즈"
+    "custom": "맞춤설정"
   },
   "gameData": {
     "energyDrink": "전지 소모량",
     "eventBonusRate": "이벤트 보너스율(%)",
+    "teamAvgPower": "평균 종합력",
     "currentPoint": "현재 포인트",
     "targetPoint": "목표 포인트",
-    "teamAvgPower": "평균 종합력",
     "label": "게임 데이터",
     "desc": "계산을 위해 게임에서 데이터를 입력해주세요",
     "remainingTime": "이벤트 잔여시간"
   },
   "songSelect": {
     "label": "곡 선택",
-    "desc": "분석을 위해 곡을 선택해주세요.",
     "select": {
       "difficulty": "난이도",
       "song": "곡"
-    }
+    },
+    "desc": "분석을 위해 곡을 선택해주세요."
   },
   "songMode": {
     "label": "곡 선택",
