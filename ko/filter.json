@@ -24,7 +24,7 @@
   "not-selected": "선택되지 않음",
   "stampType": {
     "caption": "스탬프 유형",
-    "text": "텍스트만",
+    "text": "텍스트 전용",
     "illustration": "일러스트도 같이"
   },
   "language": {
