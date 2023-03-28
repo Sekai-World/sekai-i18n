@@ -31,7 +31,7 @@
   },
   "button": {
     "mark_unfinished": "진행중으로 표시",
-    "mark_finished": "종료됨으로 표시",
+    "mark_finished": "완료로 표시",
     "continue_translate": "작업 계속",
     "start_translate": "번역 시작"
   },
