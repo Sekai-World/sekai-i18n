@@ -61,7 +61,7 @@
   "nextfetch": "다음 갱신",
   "rankingTable": {
     "head": {
-      "userProfile": "유저",
+      "userProfile": "사용자",
       "score": "포인트",
       "speed_per_hour": "평균 속도(/시간)",
       "prediction": "예측"
