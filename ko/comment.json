@@ -8,7 +8,7 @@
     "reason": {
       "label": "신고 사유",
       "other": "기타",
-      "bad_words": "불쾌한 언어 사용",
+      "bad_words": "욕설 사용",
       "discrimination": "차별 행위"
     },
     "content": "내 메시지",
