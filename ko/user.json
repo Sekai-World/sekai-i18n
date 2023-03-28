@@ -94,7 +94,7 @@
     },
     "error": {
       "sekai_id_verify_failed": "소유권 인증에 실패했습니다. 프로필 패널을 저장하기 위해 창을 닫았나요?",
-      "sekai_id_malformed": "세카이 ID는 16자 이상의 정수이며, 당신의 유저명이 아닙니다.",
+      "sekai_id_malformed": "세카이 ID는 16자 이상의 숫자이며, 사용자 이름이 아닙니다.",
       "sekai_id_already_bind": "이미 다른 사용자가 사용중인 Sekai ID 입니다."
     },
     "card_list": {
