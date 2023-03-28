@@ -14,7 +14,7 @@
     "mp3": "MP3",
     "flac": "FLAC"
   },
-  "skipBeginningSilence": "시작 무음 구간 스킵하기",
+  "skipBeginningSilence": "시작 무음 구간 건너뛰기",
   "tag": "태그",
   "tag_plural": "태그",
   "category": "카테고리",
