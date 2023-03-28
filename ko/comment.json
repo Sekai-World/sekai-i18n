@@ -4,7 +4,7 @@
   "no_comment_yet": "댓글이 없습니다.",
   "report-abuse": {
     "title": "댓글 신고하기",
-    "description": "이 댓글이 당신을 불쾌하게 만든다면 신고해 주세요.",
+    "description": "해당 댓글이 불쾌하시다면 신고해 주세요.",
     "reason": {
       "label": "신고 사유",
       "other": "기타",
