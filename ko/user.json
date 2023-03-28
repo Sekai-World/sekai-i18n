@@ -49,7 +49,7 @@
     },
     "upload_avatar_error": "프로필사진 업로드에 실패했습니다",
     "upload_avatar": "프로필사진 업로드",
-    "username": "ID",
+    "username": "사용자 이름",
     "nickname": "닉네임",
     "role": "역할",
     "email": "E-mail",
