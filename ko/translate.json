@@ -15,7 +15,11 @@
     "button": {
       "copy_source": "소스 문자열 복사"
     },
-    "target_contributors": "기여자들",
+    "target_contributors": "기여자",
+    "submit-status": {
+      "success": "성공",
+      "failed": "실패"
+    },
     "dialog": {
       "copy_source": {
         "title": "소스 문자열 복사",
@@ -23,10 +27,6 @@
         "confirm": "확인",
         "cancel": "취소"
       }
-    },
-    "submit-status": {
-      "success": "성공",
-      "failed": "실패"
     }
   },
   "button": {
