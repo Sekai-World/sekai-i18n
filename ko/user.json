@@ -62,7 +62,7 @@
     "email_confirmed": "확인된 E-mail",
     "syncing_card_team": "세카이 카드와 편성 연동하기..",
     "label": {
-      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "update_left": "사용된 업데이트 수: {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "프로필 열기",
       "sekai_id_verify_step_1_subtitle": "우상단의 \"Menu\" (1) 버튼을 누른 후, \"称号 & プロフィール\" (2) 버튼을 누릅니다.",
       "sekai_id_verify_step_2_title": "토큰을 적고 저장합니다.",
