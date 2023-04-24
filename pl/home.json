@@ -1,10 +1,4 @@
 {
-  "alert_contributor": {
-    "title": "Podziękowania dla naszych deweloperów!"
-  },
-  "alert_translate": {
-    "title": "Podziękowania dla naszych tłumaczy!"
-  },
   "game-news": {
     "action": "Akcja",
     "show-from": "Pokaż od",
@@ -12,8 +6,23 @@
     "show-until": "Pokaż do",
     "title": "Wiadomości z gry"
   },
-  "happy_new_year": "🎊Szczęśliwego Nowego Roku!🎉",
-  "alert_settings": "Użyj <s /> w górnym prawym rogu, aby zmienić język, przełączyć tryb jasności i więcej.",
+  "update": "Związane Linki",
+  "alert_contributor": {
+    "title": "Podziękowania dla naszych deweloperów!"
+  },
+  "alert_translate": {
+    "title": "Podziękowania dla naszych tłumaczy!"
+  },
+  "versionInfo": {
+    "caption": "Informacje o Wersji",
+    "gameClientVer": "Wersja Klienta Gry",
+    "dataVer": "Wersja Danych",
+    "assetVer": "Wersja Asset'ów",
+    "multiPlayerVer": "Wersja Wieloosobowa"
+  },
+  "happy_2_year_anniversary": "Szczęśliwej 2 Rocznicy",
+  "2_year_anniversary_countdown": "Odliczanie do 2 Rocznicy",
+  "disclaimer": "Ta strona nie jest właścicielem materiałów, cała zasługa trafia do prawowitego właściciela, w tym, ale nie tylko Sega, Colorful Palette i Crypton. Ta strona to fanowski zbiór danych tylko dla celów badawczych, nie ma żadnych powiązań z Sega lub Colorful Palette.",
   "detect": {
     "warning": "Działając w trybie zgodności, możesz mieć problem z wydajnością. Rozważ zaaktualizowanie swojej przeglądarki lub wersji iOS/macOS. <br> Więcej informacji: <l>Czy Mogę Użyć - Formatu Obrazu WebP</l>",
     "failed": "Niestety, nie możesz zobaczyć większości zdjęć. Uaktualnij swoją przeglądarkę lub wersję iOS/macOS. Rozwiązanie dotyczące kompatybilności będzie wkrótce dostępne. <br> Więcej informacji: <l>Czy mogę użyć - formatu obrazu WebP</l>",
@@ -31,5 +40,8 @@
     "contact": "Skontaktuj się ze mną",
     "join-discord": "Dołącz do serwera Discord"
   },
-  "update": "Związane Linki"
+  "changelog": "Dziennik Zmian",
+  "happy_new_year": "🎊Szczęśliwego Nowego Roku!🎉",
+  "new_year_countdown": "Odliczanie do nowego roku",
+  "alert_settings": "Użyj <s /> w górnym prawym rogu, aby zmienić język, przełączyć tryb jasności i więcej."
 }
