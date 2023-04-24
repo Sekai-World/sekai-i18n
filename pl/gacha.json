@@ -21,10 +21,13 @@
   "gacha_behaviors": "Opcje losowania Gacha",
   "gacha_simulator": "Symulator Gacha",
   "simulator": {
+    "reset": "Zresetuj",
     "total": "Łącznie",
-    "cost": "Koszt",
+    "jewel": "Klejnot",
+    "ticket": "Bilet Gacha",
     "count": "Ilość",
-    "percentage": "W procentach"
+    "percentage": "W procentach",
+    "cost": "Koszt"
   },
   "behavior": {
     "normal": "Normalnie",
