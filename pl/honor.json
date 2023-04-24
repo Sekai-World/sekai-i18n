@@ -10,6 +10,7 @@
   "type": {
     "character": "Postać",
     "achievement": "Osiągnięcie",
-    "event": "Wydarzenie"
+    "event": "Wydarzenie",
+    "rank_match": "Gra Rankingowa"
   }
 }
