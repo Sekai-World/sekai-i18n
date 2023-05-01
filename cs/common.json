@@ -6,11 +6,6 @@
   "music": "Hudba",
   "campaign": "Akce",
   "bug": "Chyba",
-  "character": "Postava",
-  "all": "Všechno",
-  "rarity": "Rarita",
-  "attribute": "Atribut",
-  "search": "Hledat",
   "replace": "Nahradit",
   "delete": "Smazat",
   "load": "Načíst",
@@ -25,6 +20,11 @@
     "second": "Sekundy"
   },
   "ongoing_event": "Probíhající Event",
+  "character": "Postava",
+  "all": "Všechno",
+  "rarity": "Rarita",
+  "attribute": "Atribut",
+  "search": "Hledat",
   "spoiler": "Spoiler",
   "about": "O nás",
   "comment": "Komentáře",
@@ -51,7 +51,18 @@
   "eventTracker": "Stopovat Event",
   "eventAnalyzer": "Analyzátor Eventu",
   "settings": {
-    "title": "Nastavení"
+    "title": "Nastavení",
+    "interfaceLanguage": "Jazyk Rozhrání",
+    "gameContent": "Obsah Hry",
+    "gameContentRegion": "Oblast Herního Obsahu",
+    "gameContentTranslationSource": {
+      "title": "Zdroj Překladu Herního Obsahu",
+      "official": "Officiální",
+      "community": "Komunita"
+    },
+    "gameContentTranslationLanguage": "Překlad Herního Obsahu Jazyk Komunity",
+    "gameContentTranslationLanguageFollowInterface": "Sledovat Rozhraný Jazyk",
+    "gameContentTranslationRegion": "Oficiální Region Překlad Herního Obsahu"
   },
   "support": "Podpora",
   "toolbar": {
@@ -68,13 +79,14 @@
   "startAt": "K dispozici od",
   "thumb": "Náhled",
   "skill": "Skill",
+  "cost": "Cena",
+  "rewards": "Odměny",
   "performance": "Výkon",
   "technique": "Technika",
   "stamina": "Výdrž",
   "power": "Síla",
   "releaseCondition": "Podmínka k uvolnění",
   "releaseCosts": "Cena uvolnění",
-  "rewards": "Odměny",
   "apply": "Aplikovat",
   "reset": "Resetovat",
   "submit": "Předložit",
@@ -87,17 +99,17 @@
   "show": "Ukázat",
   "level": "Level",
   "description": "Popis",
+  "sequence": "Sekvence",
   "profile": "Profil",
   "character_plural": "Postavy",
   "detectionFailedPrompt": "Selhalo určení regionu, prosím zkontrolujte připojení",
-  "serverRegionSelect": "Region Serveru",
+  "language": "Jazyk",
   "serverRegion": {
     "jp": "Japonština",
     "tw": "Tradiční Čínština",
-    "en": "Angličtina (Globální)"
+    "en": "Angličtina (Globální)",
+    "kr": "Korejsky"
   },
-  "language": "Jazyk",
-  "darkmode": "Režim jasu",
   "contentTranslationMode": {
     "title": "Režim zobrazení herního kontentu",
     "original": "Originál",
@@ -105,6 +117,7 @@
     "both": "Ukázat Oboje"
   },
   "miscs": "Různé",
+  "darkmode": "Režim jasu",
   "spoilerContent": "Vyspoilovat Kontent",
   "currentRegion": "Právě zjištěný region",
   "regionTooltip": "Tohle určí váš CDN server regionu",
@@ -118,6 +131,7 @@
   "close": "Zavřít",
   "area_item": "Area Item",
   "signup": "Zaregistrovat se",
+  "serverRegionSelect": "Region Serveru",
   "detect": {
     "button": "Zjistit",
     "checking": "Kontroluji...",
