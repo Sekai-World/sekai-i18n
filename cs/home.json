@@ -20,8 +20,9 @@
     "assetVer": "Verze Asset",
     "multiPlayerVer": "Multiplayer verze"
   },
-  "new_year_countdown": "Odpočet do nového roku",
-  "happy_new_year": "🎊Šťastný nový rok🎉",
+  "happy_2_year_anniversary": "Šťastné 2 Výročí!",
+  "2_year_anniversary_countdown": "Odpočítávání do 2 výročí",
+  "disclaimer": "Tato webová stránka nevlastní materiály, všechny zásluhy patří jejímu právoplatnému vlastníkovi, včetně, ale bez omezení na Sega, Colorful Palette a Crypton. Tato webová stránka je fanouškovskou databází pouze pro výzkumné účely, nemá žádný oficiální vztah k Sega nebo Colorful Palette.",
   "detect": {
     "warning": "Spuštěno v kompatibilním modu, možná máte problémy s výkonem. Zvažte upgradování vašeho prohlížeče nebo vašeho iOS/macOS verze.<br> Více informací: <l> Můžu použít WebP formát</l>",
     "failed": "Božel, nemůžete načíst vetšinu obrázků. Vylepšte váš prohlížeč nebo vaše iOS/macOS verzi.  Řešení problému s kompabilitou brzy vyjde <br> Více info:<l> Můžu použít WebP formát",
@@ -40,5 +41,7 @@
     "join-discord": "Přidejte se k Discord serveru"
   },
   "changelog": "List změn",
+  "happy_new_year": "🎊Šťastný nový rok🎉",
+  "new_year_countdown": "Odpočet do nového roku",
   "alert_settings": "Použijte <s /> na pravám horním rohu pro změnění jazyku, přehození jasu a víc."
 }
