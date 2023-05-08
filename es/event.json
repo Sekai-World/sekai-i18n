@@ -8,9 +8,10 @@
   },
   "remainingTime": "Tiempo restante",
   "progress": "Progreso",
+  "newlyWrittenSong": "Nueva canción",
   "title": {
     "boost": "Aumento",
-    "cheerful_carnival": "Cheerful Carnival",
+    "cheerful_carnival": "Carnaval Alegre",
     "timepoint": "Puntos de Tiempo",
     "rankingRewards": "Premios de Ranking"
   },
@@ -79,6 +80,6 @@
     "cheerful_carnival": "Cheerful Carnival"
   },
   "distributionEndAt": "Distribución de recompensas hasta",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past"
+  "aggregateAt": "Punto de Tiempo Agregado",
+  "alreadyPast": "El evento ya pasó"
 }
