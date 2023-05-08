@@ -20,8 +20,9 @@
     "assetVer": "Versión de Asset",
     "multiPlayerVer": "Versión de Multiplayer"
   },
-  "new_year_countdown": "Cuenta atrás para el año nuevo",
-  "happy_new_year": "🎊¡Feliz Año Nuevo!🎉",
+  "happy_2_year_anniversary": "¡Feliz 2º aniversario!",
+  "2_year_anniversary_countdown": "Cuenta atrás para el 2º Aniversario",
+  "disclaimer": "Este sitio web no es propietario de los materiales, todos los derechos están reservados a sus legítimos autores, entre los que se incluyen Sega, Colorful Palette y Crypton. Este sitio web es una base de datos hecha por fans solo para fines de investigación, no tiene ninguna relación oficial con Sega o Colorful Palette.",
   "detect": {
     "warning": "Ejecutando en modo compatibilidad, puede que sufras problemas de rendimiento. Considera actualizar tu navegador o tu versión de iOS/macOS. <br> Más información: <l>Puedo utilizar - formato de imagen WebP</l>",
     "failed": "Desgraciadamente, tu navegador no puede cargar la mayor parte de las imágenes. Actualízalo, o bien actualiza tu versión de iOS/macOS. Pronto pondremos solución a los problemas de compatibilidad. <br> Más información: <l> Utilizar - formato de imagen WebP</l>",
@@ -40,5 +41,7 @@
     "join-discord": "Únete al servidor de Discord"
   },
   "changelog": "Registro de cambios",
+  "happy_new_year": "🎊¡Feliz Año Nuevo!🎉",
+  "new_year_countdown": "Cuenta atrás para el año nuevo",
   "alert_settings": "Utiliza <s /> de la esquina superior derecha para cambiar el idioma, el modo de brillo y más."
 }
