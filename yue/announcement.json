@@ -1,0 +1,18 @@
+{
+  "fetch_error": "攞數據時發生咗錯誤。",
+  "category": "類別",
+  "no_entry": "冇公告",
+  "published_at": "發佈喺",
+  "translators": "翻譯員",
+  "title": "標題",
+  "language": "語言",
+  "author": "作者",
+  "co-authors": "合著者",
+  "categoryName": {
+    "website": "網站",
+    "normal": "其他",
+    "game_update": "遊戲更新",
+    "maintenance": "維護",
+    "bug": "問題"
+  }
+}
