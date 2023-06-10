@@ -12,7 +12,7 @@
   "update": "업데이트",
   "update-available": "새로운 버전을 사용할 수 있습니다.",
   "announcement": "공지사항",
-  "loading": "로딩중...",
+  "loading": "로드 중...",
   "countdown": {
     "day": "일",
     "hour": "시간",
@@ -39,34 +39,45 @@
     "honor": "칭호",
     "livepass": "라이브",
     "normal": "일반",
-    "beginner": "초심자"
+    "beginner": "초보자"
   },
   "virtualLive": "버추얼 라이브",
   "assetViewer": "에셋 뷰어",
   "musicMeta": "악곡 정보",
   "musicRecommend": "악곡 추천",
   "eventCalc": "이벤트 계획표",
-  "storyReader": "스토리 뷰어",
+  "storyReader": "스토리 읽기",
   "text": "텍스트만",
   "eventTracker": "이벤트 추적기",
   "eventAnalyzer": "이벤트 분석기",
   "settings": {
-    "title": "설정"
+    "title": "설정",
+    "interfaceLanguage": "인터페이스 언어",
+    "gameContent": "게임 콘텐츠",
+    "gameContentRegion": "게임 콘텐츠 지역",
+    "gameContentTranslationSource": {
+      "title": "게임 콘텐츠 번역 원문",
+      "official": "공식",
+      "community": "커뮤니티"
+    },
+    "gameContentTranslationLanguage": "게임 콘텐츠 번역 커뮤니티 언어",
+    "gameContentTranslationLanguageFollowInterface": "인터페이스 언어에 맞추기",
+    "gameContentTranslationRegion": "게임 콘텐츠 번역 공식 지역"
   },
   "support": "지원",
   "toolbar": {
-    "title": "메뉴"
+    "title": "기능 목록"
   },
   "community": "커뮤니티",
   "tools": "도구",
-  "user": "유저",
+  "user": "사용자",
   "betaIndicator": "이 기능은 베타입니다. 버그를 발견한다면 알려주세요.",
   "id": "번호",
   "title": "제목",
   "unit": "유닛",
   "support_unit": "서브 유닛",
   "startAt": "개방 개시 시간",
-  "thumb": "섬네일",
+  "thumb": "쌈네일",
   "skill": "스킬",
   "cost": "비용",
   "rewards": "보상",
@@ -78,7 +89,7 @@
   "releaseCosts": "소모 재화",
   "apply": "적용",
   "reset": "초기화",
-  "submit": "확인",
+  "submit": "제출",
   "mode": "모드",
   "type": "타입",
   "back": "뒤로 가기",
@@ -92,25 +103,24 @@
   "profile": "프로필",
   "character_plural": "캐릭터",
   "detectionFailedPrompt": "지역을 확인하지 못했습니다. 네트워크 상태를 확인해주세요.",
-  "serverRegionSelect": "서버 위치",
+  "language": "언어",
   "serverRegion": {
     "jp": "일본어",
     "tw": "중국어 번체",
-    "en": "영어 (글로벌)",
+    "en": "영어(글로벌)",
     "kr": "한국어"
   },
-  "language": "언어",
-  "darkmode": "밝기 모드",
   "contentTranslationMode": {
     "title": "게임 콘텐츠 표시 방식",
     "original": "원문",
     "translated": "번역 (가능 시)",
-    "both": "모두 표시"
+    "both": "둘 다 표시"
   },
   "miscs": "기타",
-  "spoilerContent": "스포일러 컨텐츠",
+  "darkmode": "밝기 모드",
+  "spoilerContent": "스포일러 콘텐츠",
   "currentRegion": "현재 확인된 지역",
-  "regionTooltip": "당신의 CDN 서버 지역을 결정합니다",
+  "regionTooltip": "이를 통해 CDN 서버 지역을 결정합니다",
   "modify": "수정",
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
@@ -119,8 +129,9 @@
   "save": "저장",
   "help": "도움말",
   "close": "닫기",
-  "area_item": "에리어 아이템",
+  "area_item": "에어리어 아이템",
   "signup": "회원가입",
+  "serverRegionSelect": "서버 위치",
   "detect": {
     "button": "인식",
     "checking": "확인 중...",
