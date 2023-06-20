@@ -36,8 +36,6 @@
   "アイテムマイスター": "アイテムマイスター",
   "みんな大好き": "みんな大好き",
   "完璧主義": "完璧主義",
-  "皆伝": "皆伝",
-  "真・皆伝": "真・皆伝",
   "安全第一": "安全第一",
   "ネバーギブアップ": "ネバーギブアップ",
   "腱鞘炎": "腱鞘炎",
@@ -211,6 +209,7 @@
   "HAPPY BIRTHDAY 彰人 2022.11.12": "HAPPY BIRTHDAY 彰人 2022.11.12",
   "HAPPY BIRTHDAY 冬弥 2023.5.25": "HAPPY BIRTHDAY 冬弥 2023.5.25",
   "HAPPY BIRTHDAY 司 2023.5.17": "HAPPY BIRTHDAY 司 2023.5.17",
+  "HAPPY BIRTHDAY 類 2023.6.24": "HAPPY BIRTHDAY 類 2023.6.24",
   "HAPPY BIRTHDAY 奏 2023.2.10": "HAPPY BIRTHDAY 奏 2023.2.10",
   "HAPPY BIRTHDAY まふゆ 2023.1.27": "HAPPY BIRTHDAY まふゆ 2023.1.27",
   "HAPPY BIRTHDAY 絵名 2023.4.30": "HAPPY BIRTHDAY 絵名 2023.4.30",
@@ -250,5 +249,13 @@
   "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 準優勝": "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 準優勝",
   "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 3位": "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 3位",
   "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 4位": "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 4位",
-  "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 出場": "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 出場"
+  "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 出場": "プロジェクトセカイ Championship 2023 Spring ストリーマー部門 出場",
+  "ライブマスター 初級": "ライブマスター 初級",
+  "ライブマスター 中級": "ライブマスター 中級",
+  "ライブマスター 上級": "ライブマスター 上級",
+  "ライブマスター 達人": "ライブマスター 達人",
+  "ライブマスター 皆伝": "ライブマスター 皆伝",
+  "ライブマスター 真・皆伝": "ライブマスター 真・皆伝",
+  "ずっと昔からいる": "ずっと昔からいる",
+  "遥か昔からいる": "遥か昔からいる"
 }
