@@ -1,0 +1,18 @@
+{
+  "fetch_error": "אירעה שגיאה בעת שליפת הנתונים.",
+  "category": "קטגוריה",
+  "no_entry": "אין נתונים.",
+  "published_at": "פורסם ב-",
+  "translators": "מתרגמים",
+  "title": "כותרת",
+  "language": "שפה",
+  "author": "מחבר",
+  "co-authors": "מחבר שותף",
+  "categoryName": {
+    "website": "אתר",
+    "normal": "אחר",
+    "game_update": "עדכון משחק",
+    "maintenance": "אחזקה",
+    "bug": "באג"
+  }
+}
