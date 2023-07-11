@@ -52,7 +52,7 @@
     "username": "사용자 이름",
     "nickname": "닉네임",
     "role": "역할",
-    "email": "E-mail",
+    "email": "이메일",
     "button": {
       "show_email": "보기",
       "update_sekai_profile": "세카이 프로필 업데이트",
