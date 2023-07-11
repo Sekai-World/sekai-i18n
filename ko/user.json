@@ -59,7 +59,7 @@
       "bind_sekai_id": "연결",
       "verify_sekai_id": "인증"
     },
-    "email_confirmed": "확인된 E-mail",
+    "email_confirmed": "이메일 확인됨",
     "syncing_card_team": "세카이 카드와 편성 연동하기..",
     "label": {
       "update_left": "사용된 업데이트 수: {{ used }} / {{ allowed }}",
