@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Personaj",
+    "title[1]": "Etichetă cu Numele (orizontală)",
+    "title[2]": "Etichetă cu Numele (verticală)"
+  },
+  "name": "Nume",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Gen",
+    "female": "Femeie",
+    "male": "Bărbat",
+    "secret": "Secret"
+  },
+  "scenario": "Poveste",
+  "introduction": "Introducere",
+  "colorCode": "Culoarea Imaginii",
+  "skinColorCode": "Culoarea Pielii",
+  "skinShadowColorCode1": "Culoarea Umbrei Pielii 1",
+  "skinShadowColorCode2": "Culoarea Umbrei Pielii 2",
+  "height": "Înălţime",
+  "birthday": "Zi de Naştere",
+  "characterVoice": "Actor Voce",
+  "school": "Şcoală",
+  "schoolYear": "Clasă",
+  "hobby": "Hobby",
+  "specialSkill": "Specialitate",
+  "favoriteFood": "Mâncare Favorită",
+  "hatedFood": "Mâncare Detestată",
+  "weak": "Slăbiciune"
+}
