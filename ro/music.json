@@ -1,0 +1,58 @@
+{
+  "difficulty": "Dificultate",
+  "actualPlaybackTime": "Timpul de redare",
+  "downloadFlacNoTrim": "Fişierul FLAC instalat va conţine partea silenţioasă de la început.",
+  "vocal": "Voce",
+  "alert[0]": "Primele <b>nouă secunde</b> din fiecare melodie nu au sonor. NU este o eroare.",
+  "vocalTab": {
+    "title[0]": "Versiune scurtă",
+    "title[1]": "Versiune lungă",
+    "title[2]": "Clip muzical"
+  },
+  "fileFormat": {
+    "caption": "Formatul fişierului",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Sari peste începutul silenţios",
+  "tag": "Etichetă",
+  "tag_plural": "Etichete",
+  "category": "Categorie",
+  "category_plural": "Categorii",
+  "arranger": "Aranjare",
+  "composer": "Compoziţie",
+  "lyricist": "Versuri",
+  "danceMember": "Dansator",
+  "danceMember_plural": "Dansatori",
+  "vocal_plural": "Voce",
+  "vocalType": "Tip de voce",
+  "achievement": "Realizări",
+  "scoreRankAchievement": {
+    "title": "Rangul scorului",
+    "rankC": "Rang C",
+    "rankB": "Rang B",
+    "rankA": "Rang A",
+    "rankS": "Rang S"
+  },
+  "difficulty_plural": "Dificultăţi",
+  "chartCredit": "Imaginea graficului este modificată din versiunea lui Erik (pjsek.ai).",
+  "noteCount": "Numărul notelor",
+  "comboRewards": "Recompensele combo-ului",
+  "chartImage": "Grafic",
+  "baseScore": "Rata scorului de bază",
+  "feverScore": "Rata scorului Fever",
+  "eventRate": "Rata punctelor de eveniment",
+  "clear_status": "Stare",
+  "hi_score": "Cel mai bun scor",
+  "mvp_count": "Număr de MVP",
+  "super_star_count": "Număr de Super Star",
+  "dancerCount": "Număr de dansatori",
+  "combo": "Combos",
+  "preview": "Previzualizare",
+  "categoryType": {
+    "mv": "3D MV",
+    "mv_2d": "2D MV",
+    "original": "MV original",
+    "image": "Imagine statică"
+  }
+}
