@@ -1,0 +1,85 @@
+{
+  "alreadyEnded": "Evenimentul s-a terminat",
+  "notStarted": "Neînceput",
+  "tab": {
+    "title[0]": "Banner şi logo",
+    "title[1]": "Fundal",
+    "title[2]": "Personaj"
+  },
+  "remainingTime": "Timp rămas",
+  "progress": "Progres",
+  "newlyWrittenSong": "Melodie nou scrisă",
+  "title": {
+    "boost": "Amplificatori",
+    "cheerful_carnival": "Carnaval vesel",
+    "timepoint": "Puncte de timp",
+    "rankingRewards": "Recompensele clasamentului"
+  },
+  "boostAttribute": "Atributul amplificat",
+  "boostCharacters": "Personaje amplificate",
+  "maxBoost": "Amplificator maxim (când amândouă se potrivesc)",
+  "boostSpecificCards": "Cărţi speciale amplificate",
+  "boostCards": "Cărţi amplificate",
+  "eventCards": "Cărţile evenimentului",
+  "cheerful_carnival_midterm_1": "Primul raport intermediar",
+  "cheerful_carnival_midterm_2": "Al doilea raport intermediar",
+  "startAt": "Evenimentul începe la",
+  "closeAt": "Evenimentul se încheie la",
+  "endAt": "Disponibil până la",
+  "rankingAnnounceAt": "Clasamentul anunţat la",
+  "distributionStartAt": "Distribuţia recompenselor",
+  "rankingReward": {
+    "start": "De la",
+    "end": "La"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Numele evenimentului",
+      "rankings": "Ranguri"
+    },
+    "button": {
+      "curr_event": "Evenimentul actual",
+      "graph": "Graficul căutat",
+      "random-palette": "Paletă aleatorie"
+    },
+    "pred_at": "Predicţie calculată la",
+    "show_all_rank": "Arată toate rangurile",
+    "time_travel_enabled": "Călătorie în timp",
+    "tooltip": {
+      "get_prediction": "Predicţia este valabilă 24 de ore după începutul evenimentului."
+    },
+    "checkbox": {
+      "get_prediction": "Preluarea predicţiei"
+    },
+    "title": {
+      "data_graph": "Graficul punctelor evenimentului",
+      "average_speed": "Viteză medie"
+    }
+  },
+  "ranking": "Rang",
+  "realtime": "Date în timp real la",
+  "nextfetch": "Următoarele date",
+  "rankingTable": {
+    "head": {
+      "userProfile": "User",
+      "score": "Punct(e)",
+      "speed_per_hour": "Viteză medie (/h)",
+      "prediction": "Predicţie"
+    }
+  },
+  "no_enough_data": "Fără date destule.",
+  "speedTable": {
+    "head": {
+      "all_time": "Tot timpul (pe oră)",
+      "last_24h": "Ultimele 24 ore (pe oră)",
+      "last_1h": "Ultima oră (pe oră)"
+    }
+  },
+  "type": {
+    "marathon": "Maraton",
+    "cheerful_carnival": "Carnaval vesel"
+  },
+  "distributionEndAt": "Distribuţia recompenselor până la",
+  "aggregateAt": "Finalul evenimentului",
+  "alreadyPast": "Deja trecut"
+}
