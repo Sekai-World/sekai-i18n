@@ -1,0 +1,16 @@
+{
+  "page_title": "Titlu",
+  "honor_group": "Titlul grupului",
+  "rarity": {
+    "low": "Redus",
+    "middle": "Mediu",
+    "high": "Ridicat",
+    "highest": "Cea mai ridicată"
+  },
+  "type": {
+    "character": "Personaj",
+    "achievement": "Realizare",
+    "event": "Eveniment",
+    "rank_match": "Meci de rang"
+  }
+}
