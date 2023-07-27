@@ -1,0 +1,18 @@
+{
+  "fetch_error": "A apărut o eroare în timpul preluării datelor.",
+  "category": "Categorie",
+  "no_entry": "Fără înregistrări.",
+  "published_at": "Publicat la",
+  "translators": "Traducători",
+  "title": "Titlu",
+  "language": "Limbă",
+  "author": "Autor",
+  "co-authors": "Coautori",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Altceva",
+    "game_update": "Actualizarea jocului",
+    "maintenance": "Mentenanţă",
+    "bug": "Eroare"
+  }
+}
