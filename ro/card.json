@@ -1,0 +1,26 @@
+{
+  "cardLevel": "Nivelul cărţii",
+  "skillLevel": "Nivelul abilităţii",
+  "trained": "Antrenată",
+  "sideStory1Unlocked": "Povestea secundară 1 deblocată",
+  "sideStory2Unlocked": "Povestea secundară 2 deblocată",
+  "skillName": "Numele abilităţii",
+  "tab": {
+    "title[0]": "Imagine normală",
+    "title[1]": "Imagine normală decupată",
+    "title[2]": "Imagine după antrenare",
+    "title[3]": "Imagine decupată după antrenare"
+  },
+  "gachaPhrase": "Frază gacha",
+  "skillEffect": "Efectul abilităţii",
+  "masterRank": "Măiestria",
+  "masterRankLevel": "Nivelul măiestriei",
+  "stats": "Statistici",
+  "normal": "Normal",
+  "sideStory": "Poveste secundară",
+  "sideStory_plural": "Poveşti secundare",
+  "rarity": "Raritate",
+  "power": "Putere",
+  "apply_event_filter": "Aplică amplificatorii evenimentului",
+  "skill": "Abilitate"
+}
