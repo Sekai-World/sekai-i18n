@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Pe oră",
+    "eventPointPerPlay": "Puncte de eveniment pe rundă",
+    "playClount": "Numărul total de runde",
+    "playTime": "Timpul total de jucat",
+    "useBoost": "Totalul de amplificatori folosiţi",
+    "totalPoint": "Punctele de eveniment totale"
+  },
+  "eventData": {
+    "label": "Datele evenimentului"
+  },
+  "eventMode": {
+    "existed": "Existent",
+    "custom": "Personalizează"
+  },
+  "gameData": {
+    "energyDrink": "Costul amplificatorilor",
+    "eventBonusRate": "Rata bonus (%)",
+    "teamAvgPower": "Puterea medie a echipelor",
+    "currentPoint": "Punctajul total",
+    "targetPoint": "Punctajul aspirat",
+    "label": "Datele jocului",
+    "desc": "Completează datele din joc pentru calcul",
+    "remainingTime": "Orele rămase din eveniment"
+  },
+  "songSelect": {
+    "label": "Selectează melodia",
+    "select": {
+      "difficulty": "Dificultate",
+      "song": "Melodie"
+    },
+    "desc": "Selectează melodia pentru analizare."
+  },
+  "songMode": {
+    "label": "Selectează melodia",
+    "all_songs": "Compară melodii",
+    "only_one": "Ţintind una"
+  },
+  "assumption": "Asumând: toate PERFECT, toţi jucătorii au aceeaşi echipă, fără amplificatori bonus din creşterea nivelului."
+}
