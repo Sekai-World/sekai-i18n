@@ -1,0 +1,17 @@
+{
+  "send": "Trimite",
+  "write": "Compune",
+  "no_comment_yet": "Fără comentarii",
+  "report-abuse": {
+    "title": "Semnalează comentariul",
+    "description": "Semnalează acest comentariu în cazul în care consideri că te face incomfortabil.",
+    "reason": {
+      "label": "Menţionează motivul",
+      "other": "Altceva",
+      "bad_words": "Cuvinte vulgare",
+      "discrimination": "Descriminare"
+    },
+    "content": "Mesajul tău",
+    "success": "Îţi mulţumim pentru semnalare, o vom evalua cât de curând posibil."
+  }
+}
