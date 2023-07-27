@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Personaj"
+  },
+  "sort": {
+    "caption": "Sortează",
+    "ascending": "Crescător",
+    "descending": "Descrescător"
+  },
+  "honorType": {
+    "caption": "Tipul titlului",
+    "group_only_once": "Doar un show în fiecare grup"
+  },
+  "not_set": "Nesetat",
+  "missionType": {
+    "caption": "Tipul misiunii"
+  },
+  "music_tag": {
+    "caption": "Eticheta melodiei"
+  },
+  "music_mv": {
+    "caption": "Tipul MV"
+  },
+  "not-selected": "Neselectat",
+  "stampType": {
+    "caption": "Tipul abţibildului",
+    "text": "Doar text",
+    "illustration": "Cu ilustraţie"
+  },
+  "language": {
+    "caption": "Limba",
+    "source": "Limba sursei",
+    "target": "Limba ţintită"
+  },
+  "skill": {
+    "score_up": "Creșterea scorului",
+    "judgment_up": "Perfect lock şi creşterea scorului",
+    "life_recovery": "Recuperarea vieţii si creşterea scorului",
+    "perfect_score_up": "Creşterea scorului pe timp de PERFECT",
+    "life_score_up": "Creşterea scorului cu condiţie de nivelul vieţii"
+  }
+}
