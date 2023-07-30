@@ -1,0 +1,26 @@
+{
+  "cardLevel": "Nivel",
+  "skillLevel": "Nivel de la habilidad",
+  "trained": "Entrenada",
+  "sideStory1Unlocked": "Historia paralela 1 desbloqueada",
+  "sideStory2Unlocked": "Historia paralela 2 desbloqueada",
+  "skillName": "Nombre de la habilidad",
+  "tab": {
+    "title[0]": "Imagen normal",
+    "title[1]": "Imagen normal recortada",
+    "title[2]": "Imagen después de emtrenar",
+    "title[3]": "Imagen después de emtrenar recortada"
+  },
+  "gachaPhrase": "Frase del gacha",
+  "skillEffect": "Efecto de la habilidad ",
+  "masterRank": "Maestría",
+  "masterRankLevel": "Nivel de maestría",
+  "stats": "Estadísticas",
+  "normal": "Normal",
+  "sideStory": "Historia paralela",
+  "sideStory_plural": "Historias paralelas",
+  "rarity": "Rareza",
+  "power": "Poder",
+  "apply_event_filter": "Aplicar bonus de evento",
+  "skill": "Habilidad"
+}
