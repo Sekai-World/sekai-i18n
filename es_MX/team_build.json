@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "Error al guardar el equipo. Si esto pasa seguido, puede tratarese de un bug."
+  },
+  "save_team_succeed": "Equipo guardado cin éxito.",
+  "button": {
+    "calc_total_power": "Obtener poder total."
+  },
+  "auto_calc_bonus": "Usar el perfil de Sekai.",
+  "saveTeamDialog": {
+    "title": "Guardar el equipo.",
+    "desc": "Guatdar una nueva entrsda o remplazar la existente."
+  },
+  "storage_location": {
+    "label": "Localización de almacenamiento.",
+    "local": "Local",
+    "cloud": "Nube."
+  },
+  "storage_space": "Espacio de almacenamiento",
+  "noTeams": "No hay entradas guardadas",
+  "saveNewEntry": "Guardar una nueva entrada",
+  "loadTeamDialog": {
+    "title": "Cargar equipo",
+    "desc": "Cargar un equipo de los equipos guardados"
+  },
+  "use_sekai_card_state": "Utilizar cartas guardadas"
+}
