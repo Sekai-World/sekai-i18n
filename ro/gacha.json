@@ -36,7 +36,7 @@
     "over_rarity_4_once": "Garantat (4*)"
   },
   "gachaType": {
-    "ceil": "Schimb valutar",
+    "ceil": "Plafon",
     "normal": "Normal"
   }
 }
