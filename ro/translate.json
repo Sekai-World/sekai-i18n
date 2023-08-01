@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Sursă",
+      "target": "Ţintă"
+    },
+    "source_lang": "Limba sursei",
+    "announcement": {
+      "source_title": "Titlul sursei",
+      "source_desc": "Descrierea sursei",
+      "target_title": "Titlul ţintă",
+      "target_desc": "Descrierea ţintă"
+    },
+    "target_lang": "Limba ţintă",
+    "button": {
+      "copy_source": "Copiază șirurile sursă"
+    },
+    "target_contributors": "Colaboratori",
+    "submit-status": {
+      "success": "Succes",
+      "failed": "Eşuat"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Copiază șirurile sursă",
+        "text": "Vei copia toate șirurile sursă din zona țintă, toate lucrările nesalvate din zona țintă se vor pierde.",
+        "confirm": "Confirmă",
+        "cancel": "Anulează"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Marchează ca În Lucru",
+    "mark_finished": "Marchează ca Terminat",
+    "continue_translate": "Continuă lucrul",
+    "start_translate": "Începe traducerea"
+  },
+  "status": {
+    "finished": "Terminat",
+    "inprogress": "În progres"
+  },
+  "error": {
+    "lang_mismatch": "Limbă nepotrivită."
+  },
+  "title": {
+    "my_works": "Lucrări deja existente",
+    "available_contents": "Conţinuturi valabile"
+  }
+}
