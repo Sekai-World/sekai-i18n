@@ -1,0 +1,42 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Banner şi logo"
+    },
+    "title[3]": "Fundal",
+    "title[4]": "Imagine caracteristică",
+    "title[0]": "Descriere",
+    "title[1]": "Rezumat",
+    "title[2]": "Simulator"
+  },
+  "ceil_item": "Articol de schimb",
+  "summary": "Rezumat",
+  "description": "Descriere",
+  "gacha_rate": "Ratele gacha",
+  "normalRate": "Rata normală",
+  "guaranteedRate": "Rata garantată",
+  "gacha_cards": "Cărţile gacha",
+  "pickupMember": "Membru de onoare",
+  "pickupMember_plural": "Membri de onoare",
+  "gacha_behaviors": "Opţiuni de extragere gacha",
+  "gacha_simulator": "Simulator de gacha",
+  "simulator": {
+    "reset": "Resetează",
+    "total": "Total",
+    "jewel": "Bijuterie",
+    "ticket": "Tichet gacha",
+    "count": "Număr",
+    "percentage": "Procentaj",
+    "cost": "Cost"
+  },
+  "behavior": {
+    "normal": "Normal",
+    "over_rarity_3_once": "Garantat (3*)",
+    "once_a_day": "O dată pe zi",
+    "over_rarity_4_once": "Garantat (4*)"
+  },
+  "gachaType": {
+    "ceil": "Schimb valutar",
+    "normal": "Normal"
+  }
+}
