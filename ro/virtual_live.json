@@ -1,0 +1,25 @@
+{
+  "live_characters": "Personaje",
+  "rewards": "Recompense",
+  "title": {
+    "schedules": "Oraruri",
+    "setlist": "Scenariu"
+  },
+  "schedule": {
+    "start": "Început",
+    "end": "Sfârşit"
+  },
+  "mc": {
+    "character_unspawn": "Personajele părăsesc scena"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Începător",
+    "cheerful_carnival": "Carnaval vesel",
+    "streaming": "Streaming"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Muzica pe scenă"
+  }
+}
