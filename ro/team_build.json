@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "S-a eşuat salvarea echipei. Dacă se întâmplă prea des, ar putea fi o eroare persistentă."
+  },
+  "save_team_succeed": "Datele echipei s-au salvat cu succes.",
+  "button": {
+    "calc_total_power": "Calculează puterea totală"
+  },
+  "auto_calc_bonus": "Foloseşte profilul Sekai",
+  "saveTeamDialog": {
+    "title": "Salveză echipa",
+    "desc": "Salvează intrarea echipei noi sau înlocuieşte o intrare existentă."
+  },
+  "storage_location": {
+    "label": "Locaţia de stocare",
+    "local": "Local",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Spaţiu de stocare",
+  "noTeams": "Nicio intrare de echipă salvată.",
+  "saveNewEntry": "Salvează intrare nouă de echipă",
+  "loadTeamDialog": {
+    "title": "Încarcă echipă",
+    "desc": "Încarcă echipă din intrările salvate."
+  },
+  "use_sekai_card_state": "Foloseşte cărţi salvate Sekai"
+}
