@@ -1,0 +1,30 @@
+{
+  "load_progress": {
+    "model_metadata": "Se încarcă metadatele modelului...",
+    "model_texture": "Se încarcă texturele modelului...",
+    "model_moc3": "Se încarcă scheletul modelului...",
+    "model_physics": "Se încarcă fizionomia modelului...",
+    "motion_metadata": "Se încarcă mişcările modelului...",
+    "display_model": "Se pregăteşte afişarea modelului..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generează metadate",
+    "download_texture": "Descarcă textura",
+    "download_moc3": "Descarcă scheletul",
+    "download_physics": "Descarcă fizionomia",
+    "download_motions": "Descarcă mişcările si expresiile {{dlcount}}/{{total}}",
+    "generate_zip": "Generează fişier zip"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Mişcări",
+    "expressions": "Expresii"
+  },
+  "tooltip": {
+    "download": "Descarcă",
+    "fullscreen": "Comutare pe tot ecranul",
+    "shot": "Salvează imaginea",
+    "stop_record": "Opreşte înregistrarea",
+    "start_record": "Începe înregistrarea"
+  }
+}
