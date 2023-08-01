@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Acţiune",
+    "show-from": "Arată de la",
+    "title-column": "Titlu",
+    "show-until": "Arată până la",
+    "title": "Ştirile jocului"
+  },
+  "update": "Link-uri aferente",
+  "alert_contributor": {
+    "title": "Mulţumim colaboratorilor noştri de dezvoltare!"
+  },
+  "alert_translate": {
+    "title": "Mulţumim traducătorilor!"
+  },
+  "versionInfo": {
+    "caption": "Informaţii despre versiune",
+    "gameClientVer": "Versiunea clientului jocului",
+    "dataVer": "Versiunea datelor",
+    "assetVer": "Versiunea activelor",
+    "multiPlayerVer": "Versiunea multiplayer"
+  },
+  "happy_2_year_anniversary": "A doua aniversare fericită!",
+  "2_year_anniversary_countdown": "Numărătoare inversă până la a doua aniversare",
+  "disclaimer": "Acest website nu deţine materialele, toate creditele mergând la proprietarii de drept, ce include şi nu se limitează la: Sega, Colorful Palette şi Crypton. Acest site este o bază de date creată de fani cu scopuri de cercetare, neavând nicio relaţie oficială cu Sega sau Colorful Palette.",
+  "detect": {
+    "warning": "Eşti în modul de compatibilitate, este posibil să întâmpini probleme de performanţă. Consideră actualizarea navigatorului sau versiunea iOS/macOS. <br>Mai multe informaţii: <l>Pot folosi - format imagine WebP </l>",
+    "failed": "Din păcate, nu poţi încărca majoritatea imaginilor. Actualizează-ţi navigatorul sau versiunea iOS/macOS. Soluţia de compatibilitate va fi live în curând. <br>Mai multe informaţii: <l>Pot folosi - format imagine WebP </l>",
+    "success": "Felicitări! Navigatorul tău pare modern, poţi încărca imaginile mai rapid şi să economiseşti lăţime de bandă."
+  },
+  "directLink": {
+    "caption": "Scurtături",
+    "contribList": "Colaboratori"
+  },
+  "alert1": {
+    "translation": "Traduceri",
+    "development": "Dezvoltare",
+    "title": "Este nevoie de ajutor!",
+    "see_contrib_list": "Vezi lista colaboratorilor",
+    "contact": "Contactează-mă",
+    "join-discord": "Alătură-te serverului de Discord"
+  },
+  "changelog": "Jurnal de modificări",
+  "happy_new_year": "🎊An nou fericit!🎉",
+  "new_year_countdown": "Numărătoare inversă până la anul nou",
+  "alert_settings": "Foloseşte <s /> în colţul de sus dreapta pentru a schimba limba, schimbarea modului de luminozitate si altele. "
+}
