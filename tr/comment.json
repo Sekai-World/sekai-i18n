@@ -1,0 +1,17 @@
+{
+  "send": "Gönder",
+  "write": "Oluştur",
+  "no_comment_yet": "Henüz Yorum Yok.",
+  "report-abuse": {
+    "title": "Yorumu Bildir",
+    "description": "Bu yorumu, sizi rahatsız ettiğini düşünüyorsanız bildirin.",
+    "reason": {
+      "label": "Bildirme Nedeni",
+      "other": "Başka",
+      "bad_words": "Kötü Sözler",
+      "discrimination": "Ayrımcılık"
+    },
+    "content": "Eklemek İstediğiniz Notunuz",
+    "success": "Bildiriminiz için teşekkür ederiz, kısa bir zamanda bunu gözden geçireceğiz."
+  }
+}
