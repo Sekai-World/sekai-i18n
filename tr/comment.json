@@ -7,7 +7,7 @@
     "description": "Bu yorumu, sizi rahatsız ettiğini düşünüyorsanız bildirin.",
     "reason": {
       "label": "Bildirme Nedeni",
-      "other": "Başka",
+      "other": "Diğer",
       "bad_words": "Kötü Sözler",
       "discrimination": "Ayrımcılık"
     },
