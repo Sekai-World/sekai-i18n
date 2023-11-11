@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Під час отримання даних сталася помилка.",
+  "category": "Категорія",
+  "no_entry": "Немає записів",
+  "published_at": "Опубліковано",
+  "translators": "Перекладачі",
+  "title": "Заголовок",
+  "language": "Мова",
+  "author": "Автор",
+  "co-authors": "Співавтори",
+  "categoryName": {
+    "website": "Вебсайт",
+    "normal": "Інше",
+    "game_update": "Оновлення гри",
+    "maintenance": "Обслуговування",
+    "bug": "Баг"
+  }
+}
