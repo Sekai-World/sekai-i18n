@@ -1,0 +1,42 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "לוגו & באנר"
+    },
+    "title[3]": "רקע",
+    "title[4]": "תמונה ראשית",
+    "title[0]": "תיאור",
+    "title[1]": "תקציר",
+    "title[2]": "סימולטור"
+  },
+  "ceil_item": "פריט החלפה",
+  "summary": "סיכום",
+  "description": "תיאור",
+  "gacha_rate": "אחוזי גאצ'ה ",
+  "normalRate": "אחוזי הגרלות נורמלים",
+  "guaranteedRate": "אחוזי הגרלות מובטחים",
+  "gacha_cards": "קלפי גאצ'ה ",
+  "pickupMember": "לבחור בן אדם",
+  "pickupMember_plural": "לבחור בני אדם",
+  "gacha_behaviors": "אפשרויות הגרלת גאצ'ה ",
+  "gacha_simulator": "סימולטור גאצ'ה",
+  "simulator": {
+    "reset": "איפוס",
+    "total": "סך הכל",
+    "jewel": "אבן חן",
+    "ticket": "כרטיס גאצ'ה",
+    "count": "לספור",
+    "percentage": "אחוזים",
+    "cost": "מחיר"
+  },
+  "behavior": {
+    "normal": "נורמלי",
+    "over_rarity_3_once": "מובטח (3*)",
+    "once_a_day": "פעם ביום",
+    "over_rarity_4_once": "מובטח (4*)"
+  },
+  "gachaType": {
+    "ceil": "תקרה",
+    "normal": "נורמלי"
+  }
+}
