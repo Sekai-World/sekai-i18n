@@ -1,0 +1,26 @@
+{
+  "cardLevel": "רמת הקלף",
+  "skillLevel": "רמת יכולת",
+  "trained": "מאומן",
+  "sideStory1Unlocked": "סיפור משני 1 נפתח",
+  "sideStory2Unlocked": "סיפור משני 2 נפתח",
+  "skillName": "שם יכולת",
+  "tab": {
+    "title[0]": "תמונה רגילה",
+    "title[1]": "תמונה מטופחת רגילה",
+    "title[2]": "תמונה אחרי אימון",
+    "title[3]": "תמונה מטופחת אחרי אימון"
+  },
+  "gachaPhrase": "משפט גאצ'ה",
+  "skillEffect": "השפעת יכולת ",
+  "masterRank": "דרגת מאסטר",
+  "masterRankLevel": "רמת דרגת מאסטר ",
+  "stats": "סטטיסטיקות",
+  "normal": "נורמלי",
+  "sideStory": "סיפור משני",
+  "sideStory_plural": "סיפורים משניים",
+  "rarity": "נדירות",
+  "power": "כוח",
+  "apply_event_filter": "להשתמש באיבנט בונוס",
+  "skill": "יכולת"
+}
