@@ -1,0 +1,17 @@
+{
+  "send": "לשלוח",
+  "write": "להלחין",
+  "no_comment_yet": "אין תגובה.",
+  "report-abuse": {
+    "title": "דיווח תגובה",
+    "description": "דווח אם התגובה גורמת לך אי נוחות.",
+    "reason": {
+      "label": "סיבת דיווח",
+      "other": "אחר",
+      "bad_words": "מילים רעות",
+      "discrimination": "אפליה"
+    },
+    "content": "ההודעה שלך",
+    "success": "תודה על הדיווח, אנחנו נבדוק בקרוב."
+  }
+}
