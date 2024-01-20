@@ -77,7 +77,8 @@
   },
   "type": {
     "marathon": "Marathon",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
