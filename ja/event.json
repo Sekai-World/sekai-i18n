@@ -77,7 +77,8 @@
   },
   "type": {
     "marathon": "マラソン",
-    "cheerful_carnival": "チアフルカーニバル"
+    "cheerful_carnival": "チアフルカーニバル",
+    "world_bloom": "ワールドリンク"
   },
   "distributionEndAt": "報酬受け取り期限",
   "aggregateAt": "集計開始時間",
