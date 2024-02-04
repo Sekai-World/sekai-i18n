@@ -12,7 +12,7 @@
   "unit_rank_3": "MORE MORE JUMP！的组合等级达到{{rank}}",
   "unit_rank_4": "Vivid BAD SQUAD的组合等级达到{{rank}}",
   "unit_rank_2": "Wonderlands×Showtime的组合等级达到{{rank}}",
-  "unit_rank_6": "25时，在Nightcord的组合等级达到{{rank}}",
+  "unit_rank_6": "25时，在Night Code的组合等级达到{{rank}}",
   "unit_rank_1": "虚拟歌手的组合等级达到{{rank}}",
   "card_level": "在前编解锁的状态下角色等级必须达到{{level}}。",
   "music_difficulty_better_play": "以7个以内的GOOD以下判定通关EXPERT",
@@ -33,10 +33,10 @@
   "unit_story_20004": "阅读Wonderlands×Showtime的主线故事第4话",
   "unit_story_20014": "阅读Wonderlands×Showtime的主线故事第14话",
   "unit_story_20020": "阅读Wonderlands×Showtime的主线故事第20话",
-  "unit_story_60001": "阅读25时，在Nightcord。的主线故事第1话",
-  "unit_story_60007": "阅读25时，在Nightcord。的主线故事第7话",
-  "unit_story_60014": "阅读25时，在Nightcord。的主线故事第14话",
-  "unit_story_60020": "阅读25时，在Nightcord。的主线故事第20话",
+  "unit_story_60001": "阅读25时，在Night Code。的主线故事第1话",
+  "unit_story_60007": "阅读25时，在Night Code。的主线故事第7话",
+  "unit_story_60014": "阅读25时，在Night Code。的主线故事第14话",
+  "unit_story_60020": "阅读25时，在Night Code。的主线故事第20话",
   "unit_story_7": "阅读虚拟歌手的主线故事“教室的SEKAI篇”第4话",
   "unit_story_11": "阅读虚拟歌手的主线故事“舞台的SEKAI篇”第4话",
   "master_rank": "获得「[{{cardPrefix}}] {{cardCharaName}}」",
@@ -48,5 +48,5 @@
   "event_story": "阅读「{{eventName}}」的结局故事",
   "virtual_live_participation": "参加虚拟LIVE",
   "character_live_usage_leader": "将「{{charaName}}」作为领队完成{{times}}次演出",
-  "challenge_live_character_force_release": "挑战演出强制解放"
+  "challenge_live_character_force_release": "挑战演出强制解锁"
 }
