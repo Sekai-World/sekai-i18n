@@ -77,7 +77,8 @@
   },
   "type": {
     "marathon": "마라톤",
-    "cheerful_carnival": "치어풀 카니발"
+    "cheerful_carnival": "치어풀 카니발",
+    "world_bloom": "월드 링크"
   },
   "distributionEndAt": "보상 지급 종료",
   "aggregateAt": "집계 개시",
