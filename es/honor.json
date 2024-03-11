@@ -10,6 +10,7 @@
   "type": {
     "character": "Personaje",
     "achievement": "Logro",
-    "event": "Evento"
+    "event": "Evento",
+    "rank_match": "Partida Clasificatoria"
   }
 }
