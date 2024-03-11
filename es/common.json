@@ -5,12 +5,7 @@
   "gacha": "Gacha",
   "music": "Música",
   "campaign": "Campaña",
-  "bug": "Bug",
-  "character": "Personaje",
-  "all": "Todo",
-  "rarity": "Rareza",
-  "attribute": "Atributo",
-  "search": "Buscar",
+  "bug": "Errores",
   "replace": "Reemplazar",
   "delete": "Borrar",
   "load": "Cargar",
@@ -25,6 +20,11 @@
     "second": "Segundos"
   },
   "ongoing_event": "Evento actual",
+  "character": "Personaje",
+  "all": "Todo",
+  "rarity": "Rareza",
+  "attribute": "Atributo",
+  "search": "Buscar",
   "spoiler": "Spoiler",
   "about": "Información",
   "comment": "Comentarios",
@@ -32,7 +32,7 @@
   "song wishlist": "canciones deseadas",
   "translation": "Traducción",
   "card": "Carta",
-  "stamp": "Sticker",
+  "stamp": "Sellos",
   "comic": "Cómic",
   "mission": {
     "main": "Misión",
@@ -51,9 +51,20 @@
   "eventTracker": "Seguimiento del evento",
   "eventAnalyzer": "Analizador del Evento",
   "settings": {
-    "title": "Configuración"
+    "title": "Configuración",
+    "interfaceLanguage": "Idioma de interfaz ",
+    "gameContent": "Contenido del Juego",
+    "gameContentRegion": "Región de Contenido del Juego",
+    "gameContentTranslationSource": {
+      "title": "Fuente de la traducción del contenido del juego",
+      "official": "Oficial",
+      "community": "Comunidad"
+    },
+    "gameContentTranslationLanguage": "Idioma de la comunidad de traductores del contenido del juego",
+    "gameContentTranslationLanguageFollowInterface": "Seguir el Lenguaje de la Interfaz",
+    "gameContentTranslationRegion": "Región oficial de la traducción de contenido del juego"
   },
-  "support": "Support",
+  "support": "Apoyo",
   "toolbar": {
     "title": "Lista de Funciones"
   },
@@ -88,17 +99,17 @@
   "show": "Mostrar",
   "level": "Nivel",
   "description": "Descripción",
+  "sequence": "Secuencia",
   "profile": "Perfil",
   "character_plural": "Personajes",
   "detectionFailedPrompt": "No se ha podido determinar su región, por favor, compruebe su red",
-  "serverRegionSelect": "Region del server",
+  "language": "Idioma",
   "serverRegion": {
     "jp": "Japonés ",
     "tw": "Chino tradicional",
-    "en": "Ingles (Global)"
+    "en": "Ingles (Global)",
+    "kr": "Coreano"
   },
-  "language": "Idioma",
-  "darkmode": "Modo de brillo",
   "contentTranslationMode": {
     "title": "Modo de Visualización de Contenido del Juego",
     "original": "Original",
@@ -106,6 +117,7 @@
     "both": "Mostrar ambos"
   },
   "miscs": "Varios",
+  "darkmode": "Modo de brillo",
   "spoilerContent": "Contenido con Spoilers",
   "currentRegion": "Región actual detectada",
   "regionTooltip": "Esto determinará la región de su servidor CDN",
@@ -119,6 +131,7 @@
   "close": "Cerrar",
   "area_item": "Objeto de área",
   "signup": "Registrarse",
+  "serverRegionSelect": "Region del server",
   "detect": {
     "button": "Detectar",
     "checking": "Comprobando...",
