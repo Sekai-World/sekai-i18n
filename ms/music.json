@@ -7,7 +7,8 @@
   "vocalTab": {
     "title[0]": "Versi pendek",
     "title[1]": "Versi panjang",
-    "title[2]": "Video muzik"
+    "title[2]": "Video muzik",
+    "original_video": "Video asal"
   },
   "fileFormat": {
     "caption": "Format Fail",
