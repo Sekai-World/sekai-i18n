@@ -77,7 +77,8 @@
   },
   "type": {
     "marathon": "Марафон",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "Связь с Миром"
   },
   "distributionEndAt": "Вручение наград до",
   "aggregateAt": "Подсчёт очков",
