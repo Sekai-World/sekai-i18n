@@ -11,6 +11,7 @@
     "character": "Character",
     "achievement": "Achievement",
     "event": "Event",
-    "rank_match": "Rank Match"
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event"
   }
 }
