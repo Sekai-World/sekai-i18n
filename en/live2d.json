@@ -25,6 +25,7 @@
     "fullscreen": "Toggle fullscreen",
     "shot": "Save image",
     "stop_record": "Stop recording",
-    "start_record": "Start recording"
+    "start_record": "Start recording",
+    "reset": "Reload model"
   }
 }
