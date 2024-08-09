@@ -11,6 +11,7 @@
     "character": "Charakter",
     "achievement": "Errungenschaft",
     "event": "Event",
-    "rank_match": "Ranglisten-Spiel"
+    "rank_match": "Ranglisten-Spiel",
+    "limitevent": "Limitiertes Event"
   }
 }
