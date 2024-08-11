@@ -27,7 +27,7 @@
     "ticket": "ガチャチケット",
     "count": "引いたキャラの数",
     "percentage": "確率",
-    "cost": "かかる費用"
+    "cost": "費用"
   },
   "behavior": {
     "normal": "単発",
