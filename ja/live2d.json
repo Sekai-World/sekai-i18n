@@ -25,6 +25,7 @@
     "fullscreen": "フルスクリーンにする",
     "shot": "画像を保存する",
     "stop_record": "録画終了",
-    "start_record": "録画開始"
+    "start_record": "録画開始",
+    "reset": "モデルを再読み込み"
   }
 }
