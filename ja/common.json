@@ -120,7 +120,7 @@
   "darkmode": "画面の明るさ",
   "spoilerContent": "ネタバレを扱っている内容",
   "currentRegion": "現在探知された地域",
-  "regionTooltip": "これはCDNサーバーエリアを決めます",
+  "regionTooltip": "これにより、CDNサーバーが決定されます",
   "modify": "調整・変更",
   "login": "ログイン",
   "reset_password": "パスワードをリセットする",
