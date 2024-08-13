@@ -15,7 +15,8 @@
   "type": {
     "normal": "Обычный",
     "beginner": "Для новичков",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "streaming": "Стриминг"
   },
   "step": {
     "mc": "Сценарий",
