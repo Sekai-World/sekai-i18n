@@ -1,6 +1,6 @@
 {
-  "page_title": "Названия",
-  "honor_group": " Названия групп",
+  "page_title": "Титулы",
+  "honor_group": "Титулы групп",
   "rarity": {
     "low": "Низко",
     "middle": "Нормально",
@@ -11,6 +11,7 @@
     "character": " Персонаж",
     "achievement": "Достижение",
     "event": "Событие",
-    "rank_match": "Ранговый поединок"
+    "rank_match": "Ранговый матч",
+    "limitevent": "Временное событие"
   }
 }
