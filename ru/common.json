@@ -51,7 +51,18 @@
   "eventTracker": "Трекер ивентов",
   "eventAnalyzer": "Анализ ивентов",
   "settings": {
-    "title": "Настройки"
+    "title": "Настройки",
+    "interfaceLanguage": "Язык интерфейса",
+    "gameContent": "Игровой контент",
+    "gameContentRegion": "Регион игрового контента",
+    "gameContentTranslationSource": {
+      "title": "Источник перевода игрового контента",
+      "official": "Официальное",
+      "community": "Сообщество"
+    },
+    "gameContentTranslationLanguage": "Язык сообщества по переводу игрового контента",
+    "gameContentTranslationLanguageFollowInterface": "Отслеживать Язык Интерфейса",
+    "gameContentTranslationRegion": "Официальный регион трансляции игрового контента"
   },
   "support": "Поддержка",
   "toolbar": {
@@ -92,15 +103,13 @@
   "profile": "Профиль",
   "character_plural": "Персонажи",
   "detectionFailedPrompt": "Не удалось определить ваш регион, проверьте подключение к интернету",
-  "serverRegionSelect": "Сервер игры",
+  "language": "Язык",
   "serverRegion": {
     "jp": "Japanese",
     "tw": "Traditional Chinese",
     "en": "English (Global)",
     "kr": "Корейский"
   },
-  "language": "Язык",
-  "darkmode": "Режим яркости",
   "contentTranslationMode": {
     "title": "Режим отображения игрового контента",
     "original": "Оригинал",
@@ -108,6 +117,7 @@
     "both": "Показывать оба"
   },
   "miscs": "Разное",
+  "darkmode": "Режим яркости",
   "spoilerContent": "Спойлеры",
   "currentRegion": "Ваш регион",
   "regionTooltip": "Определяет ваш регион",
@@ -121,6 +131,7 @@
   "close": "Закрыть",
   "area_item": "Предметы области",
   "signup": "Регистрация",
+  "serverRegionSelect": "Сервер игры",
   "detect": {
     "button": "Определить",
     "checking": "Проверка...",
