@@ -27,5 +27,6 @@
   "specialSkill": "Specialty",
   "favoriteFood": "Favorite Food",
   "hatedFood": "Disliked Food",
-  "weak": "Weakness"
+  "weak": "Weakness",
+  "availableWords": "Available Words"
 }

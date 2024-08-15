@@ -142,5 +142,10 @@
   "icon": "Icon",
   "copyToClipboard": "Copy to Clipboard",
   "scoreCalculator": "Score Calculator",
-  "member": "Character"
+  "member": "Character",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  }
 }
