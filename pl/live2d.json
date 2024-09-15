@@ -25,6 +25,7 @@
     "fullscreen": "Przełącz na tryb pełnoekranowy",
     "shot": "Zapisz zdjęcie",
     "stop_record": "Zatrzymaj nagrywanie",
-    "start_record": "Rozpocznij nagrywanie"
+    "start_record": "Rozpocznij nagrywanie",
+    "reset": "Przeładuj Model"
   }
 }
