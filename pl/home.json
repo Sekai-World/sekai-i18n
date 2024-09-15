@@ -20,8 +20,8 @@
     "assetVer": "Wersja Asset'ów",
     "multiPlayerVer": "Wersja Wieloosobowa"
   },
-  "happy_2_year_anniversary": "Szczęśliwej 2 Rocznicy",
-  "2_year_anniversary_countdown": "Odliczanie do 2 Rocznicy",
+  "happy_anniversary": "Szczęśliwej {{year}} Rocznicy!",
+  "anniversary_countdown": "Odliczanie do {{year}} Rocznicy!",
   "disclaimer": "Ta strona nie jest właścicielem materiałów, cała zasługa trafia do prawowitego właściciela, w tym, ale nie tylko Sega, Colorful Palette i Crypton. Ta strona to fanowski zbiór danych tylko dla celów badawczych, nie ma żadnych powiązań z Sega lub Colorful Palette.",
   "detect": {
     "warning": "Działając w trybie zgodności, możesz mieć problem z wydajnością. Rozważ zaaktualizowanie swojej przeglądarki lub wersji iOS/macOS. <br> Więcej informacji: <l>Czy Mogę Użyć - Formatu Obrazu WebP</l>",
