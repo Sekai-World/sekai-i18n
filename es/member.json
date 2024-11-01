@@ -27,5 +27,6 @@
   "specialSkill": "Especialidad",
   "favoriteFood": "Comida favorita",
   "hatedFood": "Comida que le disgusta",
-  "weak": "Debilidad"
+  "weak": "Debilidad",
+  "availableWords": "Palabras Disponibles"
 }
