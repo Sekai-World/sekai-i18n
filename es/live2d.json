@@ -25,6 +25,7 @@
     "fullscreen": "Cambiar a pantalla completa",
     "shot": "Guardar imagen",
     "stop_record": "Para de grabar",
-    "start_record": "Empieza a grabar"
+    "start_record": "Empieza a grabar",
+    "reset": "Recargar modelo"
   }
 }
