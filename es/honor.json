@@ -11,6 +11,7 @@
     "character": "Personaje",
     "achievement": "Logro",
     "event": "Evento",
-    "rank_match": "Partida Clasificatoria"
+    "rank_match": "Partida Clasificatoria",
+    "limitevent": "Evento Limitado"
   }
 }
