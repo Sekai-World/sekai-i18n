@@ -108,7 +108,8 @@
     "jp": "Japanese",
     "tw": "Traditional Chinese",
     "en": "English (Global)",
-    "kr": "Korean"
+    "kr": "Korean",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Game Content Display Mode",
