@@ -120,6 +120,7 @@
   "miscs": "Miscellaneous",
   "darkmode": "Brightness Mode",
   "spoilerContent": "Spoiler Content",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Current Detected Region",
   "regionTooltip": "This will determine your CDN server region",
   "modify": "Modify",
