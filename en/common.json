@@ -149,5 +149,8 @@
   "honor": {
     "bonds": "Kizuna",
     "others": "Others"
-  }
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory"
 }
