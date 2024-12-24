@@ -25,6 +25,7 @@
     "fullscreen": "切换全屏",
     "shot": "保存图片",
     "stop_record": "停止录像",
-    "start_record": "开始录像"
+    "start_record": "开始录像",
+    "reset": "重新加载模型"
   }
 }
