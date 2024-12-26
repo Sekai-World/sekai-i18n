@@ -20,7 +20,7 @@
     "assetVer": "Versión de Asset",
     "multiPlayerVer": "Versión Multijugador"
   },
-  "happy_anniversary": "¡Feliz {{año}} aniversario!",
+  "happy_anniversary": "¡Feliz {{year}} aniversario!",
   "anniversary_countdown": "Cuenta atrás para el {{año}} aniversario",
   "disclaimer": "Este sitio no es propietario de los materiales, todos los créditos van hacia sus respectivos dueños, incluyendo pero no limitándose a Sega, Colorful Palette y Crypton. El sitio web es una base de datos hecha por fans exclusivamente con fines investigativos, no tiene ninguna relación oficial con Sega o Colorful Palette.",
   "detect": {
