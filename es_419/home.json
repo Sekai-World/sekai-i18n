@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Acción",
+    "show-from": "Mostrar desde",
+    "title-column": "Título",
+    "show-until": "Mostrar hasta",
+    "title": "Noticias del juego"
+  },
+  "update": "Links relacionados",
+  "alert_contributor": {
+    "title": "¡Gracias a nuestros colaboradores de desarrollo!"
+  },
+  "alert_translate": {
+    "title": "¡Gracias a los traductores!"
+  },
+  "versionInfo": {
+    "caption": "Información de la versión",
+    "gameClientVer": "Versión del Cliente del Juego",
+    "dataVer": "Versión de Datos",
+    "assetVer": "Versión de Asset",
+    "multiPlayerVer": "Versión Multijugador"
+  },
+  "happy_anniversary": "¡Feliz {{año}} aniversario!",
+  "anniversary_countdown": "Cuenta atrás para el {{año}} aniversario",
+  "disclaimer": "Este sitio no es propietario de los materiales, todos los créditos van hacia sus respectivos dueños, incluyendo pero no limitándose a Sega, Colorful Palette y Crypton. El sitio web es una base de datos hecha por fans exclusivamente con fines investigativos, no tiene ninguna relación oficial con Sega o Colorful Palette.",
+  "detect": {
+    "warning": "Ejecutando en modo compatibilidad, puede que sufras problemas de rendimiento. Considera actualizar tu navegador o tu versión de iOS/macOS. <br> Más información: <l>Puedo utilizar - formato de imagen WebP</l>",
+    "failed": "Desafortunadamente, tu navegador no puede cargar la mayor parte de las imágenes. Actualízalo, o bien actualiza tu versión de iOS/macOS. Pronto pondremos solución a los problemas de compatibilidad. <br> Más información: <l> Utilizar - formato de imagen WebP</l>",
+    "success": "¡Felicidades! Tu navegador parece ser moderno, puedes cargar imágenes rápidamente y ahorrar banda ancha."
+  },
+  "directLink": {
+    "caption": "Atajos",
+    "contribList": "Colaboradores"
+  },
+  "alert1": {
+    "translation": "Traducciones",
+    "development": "Desarrollo",
+    "title": "¡Se necesita ayuda!",
+    "see_contrib_list": "Ver la lista de colaboradores",
+    "contact": "Contáctame",
+    "join-discord": "Únete al servidor de Discord"
+  },
+  "changelog": "Registro de cambios",
+  "happy_new_year": "🎊Feliz Año Nuevo!🎉",
+  "new_year_countdown": "Cuenta atrás hasta el año nuevo",
+  "alert_settings": "Utiliza <s /> en la esquina superior derecha para cambiar el idioma, el modo de brillo y más."
+}
