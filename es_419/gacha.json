@@ -1,0 +1,44 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Banner y Logo"
+    },
+    "title[3]": "Fondo",
+    "title[4]": "Imagen destacada",
+    "title[0]": "Descripción",
+    "title[1]": "Resumen",
+    "title[2]": "Simulador"
+  },
+  "ceil_item": "Item de Intercambio",
+  "summary": "Resumen",
+  "description": "Descripción",
+  "gacha_rate": "Tasa de Aparición del Gacha",
+  "normalRate": "Probabilidades de una tirada normal",
+  "guaranteedRate": "Probabilidades de una tirada garantizada",
+  "gacha_cards": "Cartas del Gacha",
+  "pickupMember": "Carta Destacada",
+  "pickupMember_plural": "Cartas Destacadas",
+  "gacha_behaviors": "Opciones para Tirar en el Gacha",
+  "gacha_simulator": "Simulador de Gacha",
+  "simulator": {
+    "reset": "Reiniciar",
+    "total": "Total",
+    "jewel": "Cristales",
+    "ticket": "Ticket de Gacha",
+    "count": "Conteo",
+    "percentage": "Porcentaje",
+    "cost": "Costo"
+  },
+  "behavior": {
+    "free": "Gratis",
+    "normal": "Normal",
+    "over_rarity_3_once": "Garantizado (3*)",
+    "once_a_day": "Uno al día",
+    "over_rarity_4_once": "Garantizado (4*)",
+    "colorful_pass": "Pase Colorful"
+  },
+  "gachaType": {
+    "ceil": "Ceiling",
+    "normal": "Normal"
+  }
+}
