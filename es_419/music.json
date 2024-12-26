@@ -1,0 +1,59 @@
+{
+  "difficulty": "Dificultad",
+  "actualPlaybackTime": "Tiempo real de reproducción",
+  "downloadFlacNoTrim": "El archivo FLAC descargado contendrá la parte silenciada inicial",
+  "vocal": "Voz",
+  "alert[0]": "Los primeros <b>nueve segundos</b> de cada canción no tienen sonido. Esto NO es un error. ",
+  "vocalTab": {
+    "title[0]": "Versión corta",
+    "title[1]": "Versión larga",
+    "title[2]": "Vídeo musical",
+    "original_video": "Video Original"
+  },
+  "fileFormat": {
+    "caption": "Formato de archivo",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Saltar silencio inicial",
+  "tag": "Etiqueta",
+  "tag_plural": "Etiquetas",
+  "category": "Categoría",
+  "category_plural": "Categorías",
+  "arranger": "Arreglista",
+  "composer": "Compositor",
+  "lyricist": "Letrista",
+  "danceMember": "Miembro de baile",
+  "danceMember_plural": "Miembros de baile",
+  "vocal_plural": "Voces",
+  "vocalType": "Tipo de voz",
+  "achievement": "Logros",
+  "scoreRankAchievement": {
+    "title": "Rango de Puntaje",
+    "rankC": "Rango C",
+    "rankB": "Rango B",
+    "rankA": "Rango A",
+    "rankS": "Rango S"
+  },
+  "difficulty_plural": "Dificultades",
+  "chartCredit": "La imagen del Chart se ha modificado de la versión de pjsekai.moe",
+  "noteCount": "Número de notas",
+  "comboRewards": "Recompensas por Combo",
+  "chartImage": "Chart",
+  "baseScore": "Tasa de Puntaje",
+  "feverScore": "Tasa de Puntaje con Fever",
+  "eventRate": "Tase de Puntaje de Evento",
+  "clear_status": "Status para proceder",
+  "hi_score": "Puntaje Record",
+  "mvp_count": "Conteo de MVP",
+  "super_star_count": "Conteo de Super Star",
+  "dancerCount": "Cantidad de bailarines",
+  "combo": "Combos",
+  "preview": "Vista previa",
+  "categoryType": {
+    "mv": "3D MV",
+    "mv_2d": "2D MV",
+    "original": "MV Original",
+    "image": "Imagen estática"
+  }
+}
