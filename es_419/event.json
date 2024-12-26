@@ -1,0 +1,86 @@
+{
+  "alreadyEnded": "El evento ha terminado",
+  "notStarted": "No ha empezado",
+  "tab": {
+    "title[0]": "Banner y logo",
+    "title[1]": "Fondo",
+    "title[2]": "Personaje"
+  },
+  "remainingTime": "Tiempo restante",
+  "progress": "Progreso",
+  "newlyWrittenSong": "Nueva canción escrita",
+  "title": {
+    "boost": "Bonus",
+    "cheerful_carnival": "Cheerful Carnival",
+    "timepoint": "Puntos de Tiempo",
+    "rankingRewards": "Recompensas de Ranking"
+  },
+  "boostAttribute": "Atributo de Bonus",
+  "boostCharacters": "Personajes con Bonus",
+  "maxBoost": "Máximo Bonus (Ambos corresponden) ",
+  "boostSpecificCards": "Cartas con Bonus especial",
+  "boostCards": "Cartas con Bonus",
+  "eventCards": "Cartas de Evento",
+  "cheerful_carnival_midterm_1": "Informe de primer tiempo",
+  "cheerful_carnival_midterm_2": "Informe de Segundo tiempo",
+  "startAt": "El evento comienza a las",
+  "closeAt": "El evento cierra a las",
+  "endAt": "Se puede entrar al evento hasta",
+  "rankingAnnounceAt": "Anuncios de Ranking a las",
+  "distributionStartAt": "Distribución de las recompensas desde",
+  "rankingReward": {
+    "start": "Desde",
+    "end": "Para"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nombre del evento",
+      "rankings": "Rankings"
+    },
+    "button": {
+      "curr_event": "Evento Actual",
+      "graph": "Mostrar grafico",
+      "random-palette": "Paleta Aleatoria"
+    },
+    "pred_at": "Predicción calculada a las",
+    "show_all_rank": "Mostrar todos los rankings",
+    "time_travel_enabled": "Viajar en el tiempo",
+    "tooltip": {
+      "get_prediction": "Predicción solo está disponible después de 24 horas de cuando se empieza el evento"
+    },
+    "checkbox": {
+      "get_prediction": "Predicción de la búsqueda"
+    },
+    "title": {
+      "data_graph": "Gráfica de Puntos de Evento",
+      "average_speed": "Velocidad promedio"
+    }
+  },
+  "ranking": "Ranking",
+  "realtime": "Datos en tiempo real en",
+  "nextfetch": "Siguiente busqueda",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuario",
+      "score": "Punto(s)",
+      "speed_per_hour": "Velocidad promedio (/h)",
+      "prediction": "Preducción"
+    }
+  },
+  "no_enough_data": "Datos insuficientes.",
+  "speedTable": {
+    "head": {
+      "all_time": "Histórico (por hora)",
+      "last_24h": "Últimas 24 horas (por hora)",
+      "last_1h": "Última hora (por hora)"
+    }
+  },
+  "type": {
+    "marathon": "Maratón",
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "Distribución de recompensas hasta",
+  "aggregateAt": "Punto de Tiempo Agregado",
+  "alreadyPast": "El evento ya pasó"
+}
