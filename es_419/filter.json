@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Personaje"
+  },
+  "sort": {
+    "caption": "Ordenar",
+    "ascending": "Ascendente",
+    "descending": "Descendente"
+  },
+  "honorType": {
+    "caption": "Tipo de título",
+    "group_only_once": "Muestra solo uno en cada grupo"
+  },
+  "not_set": "No establecido",
+  "missionType": {
+    "caption": "Tipo de Misión"
+  },
+  "music_tag": {
+    "caption": "Etiqueta de la canción"
+  },
+  "music_mv": {
+    "caption": "Tipo de MV"
+  },
+  "not-selected": "No Seleccionado",
+  "stampType": {
+    "caption": "Tipo de Estampilla",
+    "text": "Solo texto",
+    "illustration": "Con ilustración"
+  },
+  "language": {
+    "caption": "Idioma",
+    "source": "Lenguaje original",
+    "target": "Idioma objetivo"
+  },
+  "skill": {
+    "score_up": "Puntaje Bonus",
+    "judgment_up": "Aumento de juicio y puntuación",
+    "life_recovery": "Aumento de vida y Bonus de puntaje",
+    "perfect_score_up": "Puntaje Bonus cuando la nota es PERFECTA",
+    "life_score_up": "Bonus de puntaje con condición de vida"
+  }
+}
