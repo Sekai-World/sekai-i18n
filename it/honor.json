@@ -10,6 +10,8 @@
   "type": {
     "character": "Personaggio",
     "achievement": "Obbiettivo",
-    "event": "Evento"
+    "event": "Evento",
+    "rank_match": "Partita competitiva",
+    "limitevent": "Evento limitato"
   }
 }
