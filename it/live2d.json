@@ -25,6 +25,7 @@
     "fullscreen": "Attiva modalità schermo intero",
     "shot": "Salva immagine",
     "stop_record": "Ferma registrazione",
-    "start_record": "Avvia registrazione"
+    "start_record": "Avvia registrazione",
+    "reset": "Ricarica modello"
   }
 }
