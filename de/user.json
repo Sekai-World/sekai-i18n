@@ -86,7 +86,7 @@
     },
     "sekai_id_delete_confirm": {
       "title": "Sekai ID-Bestätigung entkoppeln",
-      "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
+      "content1": "Bist du dir sicher, diese Sekai ID zu entkoppeln? Alle Daten wie die Historie von Events gehen verloren!"
     },
     "sekai_id_transfer": {
       "title": "Sekai ID übertragen",
