@@ -1,9 +1,9 @@
 {
+  "fetch_error": "データ取得中にエラーが発生しました。",
   "category": "カテゴリー",
+  "no_entry": "エントリはありません。",
   "published_at": "公開日時",
   "translators": "翻訳者",
-  "fetch_error": "データ取得中にエラーが発生しました。",
-  "no_entry": "エントリはありません。",
   "title": "タイトル",
   "language": "言語",
   "author": "作成者",
