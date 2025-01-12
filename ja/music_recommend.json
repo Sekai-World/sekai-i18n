@@ -1,22 +1,29 @@
 {
-  "result": {
-    "musicName": "楽曲名",
-    "label": "結果",
-    "desc": "たった一つの操作で完了です。"
-  },
-  "getResult": "結果を表示",
   "buildTeam": {
-    "label": "チーム編成",
-    "desc": "リザルト計算機に使用するチームを編成できます。",
-    "duplicatedCardError": "同じカードは追加できません。",
     "cardMaxError": "これ以上追加できません。",
     "addCard": "カードを追加",
     "saveTeam": "編成を保存",
     "loadTeam": "編成を読み込む",
     "clearTeam": "リセット",
     "teamPower": "総合力",
+    "label": "チーム編成",
+    "desc": "リザルト計算機に使用するチームを編成できます。",
+    "duplicatedCardError": "同じカードは追加できません。",
     "loadTeamError": "値が間違っています。",
-    "teamTextCopied": "編成をクリップボードにコピーしました。"},
+    "teamTextCopied": "編成をクリップボードにコピーしました。",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "カードを追加",
+    "selectChara": "キャラクター",
+    "selectRarity": "レア度"
+  },
+  "result": {
+    "musicName": "楽曲名",
+    "label": "結果",
+    "desc": "たった一つの操作で完了です。"
+  },
+  "getResult": "結果を表示",
   "modeSelect": {
     "solo": "ひとりでライブ",
     "multi": "みんなでライブ",
@@ -34,11 +41,6 @@
     }
   },
   "assumption": "前提：ALL PERFECT、イベントボーナス0%、ライブPを0個使用、仲間は全員同じチームを使用",
-  "addCardDialog": {
-    "title": "カードを追加",
-    "selectChara": "キャラクター",
-    "selectRarity": "レア度"
-  },
   "saveTeamDialog": {
     "title": "編成を保存",
     "desc": "編成のコードを保存して、後で使用できます。"
