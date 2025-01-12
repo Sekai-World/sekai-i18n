@@ -1,4 +1,12 @@
 {
+  "game-news": {
+    "action": "Aktion",
+    "show-from": "Zeige von",
+    "title-column": "Überschrift",
+    "show-until": "Zeige bis",
+    "title": "Neuigkeiten"
+  },
+  "update": "Verwandte Links",
   "alert_contributor": {
     "title": "Vielen Dank an unsere Entwicklungshelfer!"
   },
@@ -6,21 +14,15 @@
     "title": "Vielen Dank an die Übersetzer!"
   },
   "versionInfo": {
-    "caption": "Versions Info",
+    "caption": "Versions-Info",
     "gameClientVer": "Spieleclient Version",
     "dataVer": "Daten Version",
     "assetVer": "Asset Version",
     "multiPlayerVer": "Multiplayer Version"
   },
-  "game-news": {
-    "action": "Aktion",
-    "show-from": "Erscheinung seit",
-    "title-column": "Überschrift",
-    "show-until": "Erscheinung bis",
-    "title": "Neuigkeiten"
-  },
-  "new_year_countdown": "",
-  "happy_new_year": "🎊Frohes Neues Jahr!🎉",
+  "happy_anniversary": "Happy {{year}} Anniversary!",
+  "anniversary_countdown": "Countdown zum {{year}}. Jubiläum",
+  "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
   "detect": {
     "warning": "Läuft in Kompatibilitätsmodus, du könntest Stabilitätseinbuße haben. Ziehen Sie ein Upgrade Ihres Browsers oder iOS/macOS in Betracht.<br>Mehr Infos: <l>Kann ich benutzen - WebP Bild Format</l>",
     "failed": "Leider kannst du nicht alle Bilder laden. Upgrade deine Browser oder iOS/macOS Version. Eine Kompatibilitätslösung wird bald verfügbar sein.<br> Mehr Infos: <l>Can I Use - WebP Bild Format</l>",
@@ -39,6 +41,7 @@
     "join-discord": "Trete dem Discord Server bei."
   },
   "changelog": "Änderungsprotokoll",
-  "update": "Verwandte Links",
+  "happy_new_year": "🎊Frohes Neues Jahr!🎉",
+  "new_year_countdown": "Countdown zum Neujahr",
   "alert_settings": "Benutze<s />in der rechten oberen Ecke um die Sprache, Helligkeit und mehr zu ändern."
 }
