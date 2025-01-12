@@ -1,10 +1,10 @@
 {
-  "skillName": "Nombre de la habilidad",
   "cardLevel": "Nivel de carta",
   "skillLevel": "Nivel de habilidad",
   "trained": "Entrenada",
   "sideStory1Unlocked": "Historia secundaria 1 Desbloqueada",
   "sideStory2Unlocked": "Historia secundaria 2 Desbloqueada",
+  "skillName": "Nombre de la habilidad",
   "tab": {
     "title[0]": "Imagen normal",
     "title[1]": "Imagen normal recortada",
