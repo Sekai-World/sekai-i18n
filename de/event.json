@@ -70,7 +70,7 @@
   "no_enough_data": "Nicht genügend Info.",
   "speedTable": {
     "head": {
-      "all_time": "All time (per hour)",
+      "all_time": "Gesamtzeit (pro Stunde)",
       "last_24h": "Letzte 24 Stunden (pro Stunde)",
       "last_1h": "Letzte Stunde (pro Stunde)"
     }
