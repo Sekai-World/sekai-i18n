@@ -16,6 +16,10 @@
       "copy_source": "Salin String Sumber"
     },
     "target_contributors": "Kontributor",
+    "submit-status": {
+      "success": "Sukses",
+      "failed": "Gagal"
+    },
     "dialog": {
       "copy_source": {
         "title": "Salin String Sumber",
@@ -23,10 +27,6 @@
         "confirm": "Konfirmasi",
         "cancel": "Batal"
       }
-    },
-    "submit-status": {
-      "success": "Sukses",
-      "failed": "Gagal"
     }
   },
   "button": {
