@@ -63,7 +63,7 @@
     "head": {
       "userProfile": "Nutzer",
       "score": "Punkt(e)",
-      "speed_per_hour": "Avg. Speed (/h)",
+      "speed_per_hour": "Ø Geschwindigkeit (pro Stunde)",
       "prediction": "Prognose"
     }
   },
