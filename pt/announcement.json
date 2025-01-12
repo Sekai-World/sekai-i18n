@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Ocorreu um erro ao obter informações.",
   "category": "Categoria",
+  "no_entry": "Sem entradas.",
   "published_at": "Publicado em",
   "translators": "Tradutores",
-  "fetch_error": "Ocorreu um erro ao obter informações.",
-  "no_entry": "Sem entradas.",
   "title": "Título",
   "language": "Língua",
   "author": "Autor",
