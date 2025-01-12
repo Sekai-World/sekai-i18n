@@ -99,7 +99,7 @@
     },
     "card_list": {
       "submit_success": "Card states are updated.",
-      "submit_error": "Failed to update card states.",
+      "submit_error": "Fehler beim Aktualisieren der Karteninformationen",
       "button": {
         "add_card": "Karte Hinzufügen"
       }
