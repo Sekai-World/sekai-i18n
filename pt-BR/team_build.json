@@ -7,7 +7,6 @@
     "calc_total_power": "Ver Poder Total"
   },
   "auto_calc_bonus": "Usar perfil do Sekai",
-  "use_sekai_card_state": "Usar Dados das Cards Salvas do Sekai",
   "saveTeamDialog": {
     "title": "Salvar Time",
     "desc": "Salvar novo time ou substituir um time existente."
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "Carregar Time",
     "desc": "Carregar Time a partir dos times salvos "
-  }
+  },
+  "use_sekai_card_state": "Usar Dados das Cards Salvas do Sekai"
 }
