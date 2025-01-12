@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Terjadi kesalahan saat mengambil data.",
   "category": "Kategori",
+  "no_entry": "Tidak ada entri.",
   "published_at": "Diterbitkan Pada",
   "translators": "Penerjemah",
-  "fetch_error": "Terjadi kesalahan saat mengambil data.",
-  "no_entry": "Tidak ada entri.",
   "title": "Judul",
   "language": "Bahasa",
   "author": "Penulis",
