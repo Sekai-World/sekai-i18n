@@ -1,10 +1,10 @@
 {
-  "skillName": "Nome da Habilidade",
   "cardLevel": "Nível da Card",
   "skillLevel": "Nível de Habilidade",
   "trained": "Evolução",
   "sideStory1Unlocked": "Side Story 1 Liberada",
   "sideStory2Unlocked": "Side Story 2 Liberada",
+  "skillName": "Nome da Habilidade",
   "tab": {
     "title[0]": "Imagem normal",
     "title[1]": "Imagem transparente",
