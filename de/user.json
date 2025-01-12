@@ -89,7 +89,7 @@
       "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
     },
     "sekai_id_transfer": {
-      "title": "Transfer Sekai ID",
+      "title": "Sekai ID übertragen",
       "content1": "As the given Sekai ID is already bound to another user, if you do it on purpose and remembers the username of previous user account, you may enter it in textbox below. If you forget the previous username, you can DM @SekaiViewer on twitter for a manual transfer."
     },
     "error": {
