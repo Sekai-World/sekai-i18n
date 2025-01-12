@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Wystąpił błąd podczas pobierania danych.",
   "category": "Kategoria",
+  "no_entry": "Brak wpisów.",
   "published_at": "Opublikowano",
   "translators": "Tłumacze",
-  "fetch_error": "Wystąpił błąd podczas pobierania danych.",
-  "no_entry": "Brak wpisów.",
   "title": "Tytuł",
   "language": "Język",
   "author": "Autor",
