@@ -98,8 +98,8 @@
       "sekai_id_already_bind": "Die Sekai ID ist schon mit einen anderen Benutzer gebunden."
     },
     "card_list": {
-      "submit_success": "Card states are updated.",
-      "submit_error": "Fehler beim Aktualisieren der Karteninformationen",
+      "submit_success": "Karteninformationen aktualisiert.",
+      "submit_error": "Fehler beim Aktualisieren der Karteninformationen.",
       "button": {
         "add_card": "Karte Hinzufügen"
       }
