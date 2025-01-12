@@ -7,7 +7,6 @@
     "calc_total_power": "Uzyskaj całkowitą moc"
   },
   "auto_calc_bonus": "Użyj profilu Sekai",
-  "use_sekai_card_state": "Użyj stanu zapisanych kart Sekai",
   "saveTeamDialog": {
     "title": "Zapisz zespół",
     "desc": "Zapisz wpis nowego zespołu lub zastąp istniejący już wpis zespołu."
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "Wczytaj zespół",
     "desc": "Wczytaj zespół z zapisanych wpisów zespołu."
-  }
+  },
+  "use_sekai_card_state": "Użyj stanu zapisanych kart Sekai"
 }
