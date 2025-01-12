@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Berlakunya ralat ketika mendapatkan data.",
   "category": "Kategori",
+  "no_entry": "Tiada masukan.",
   "published_at": "Diterbitkan Pada",
   "translators": "Penterjemah",
-  "fetch_error": "Berlakunya ralat ketika mendapatkan data.",
-  "no_entry": "Tiada masukan.",
   "title": "Tajuk",
   "language": "Bahasa",
   "author": "Pengarang",
