@@ -16,6 +16,10 @@
       "copy_source": "拷贝源字符串"
     },
     "target_contributors": "贡献者",
+    "submit-status": {
+      "success": "成功",
+      "failed": "失败"
+    },
     "dialog": {
       "copy_source": {
         "title": "拷贝源字符串",
@@ -23,10 +27,6 @@
         "confirm": "确认",
         "cancel": "取消"
       }
-    },
-    "submit-status": {
-      "success": "成功",
-      "failed": "失败"
     }
   },
   "button": {
