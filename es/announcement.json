@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Error en la búsqueda de datos",
   "category": "Categoría",
+  "no_entry": "Sin entradas",
   "published_at": "Publicado el",
   "translators": "Traductores",
-  "fetch_error": "Error en la búsqueda de datos",
-  "no_entry": "Sin entradas",
   "title": "Título",
   "language": "Idioma",
   "author": "Autor",
