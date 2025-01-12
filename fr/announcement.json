@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Une erreur s'est produite lors de la récupération des données.",
   "category": "Catégorie",
+  "no_entry": "Aucune saisie.",
   "published_at": "Publié le",
   "translators": "Traducteurs",
-  "fetch_error": "Une erreur s'est produite lors de la récupération des données.",
-  "no_entry": "Aucune saisie.",
   "title": "Titre",
   "language": "Langue",
   "author": "Auteur",
