@@ -85,7 +85,7 @@
       "current_name": "Derzeitiges Event:"
     },
     "sekai_id_delete_confirm": {
-      "title": "Unlink Sekai ID confirmation",
+      "title": "Sekai ID-Bestätigung entkoppeln",
       "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
     },
     "sekai_id_transfer": {
