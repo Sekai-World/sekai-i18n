@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Sekai Derzeitiges Team",
+      "user_event": "Sekai Event-Daten",
+      "card_list": "Sekai Karten",
+      "import_card": "Importiere Sekai Karten",
+      "manage_teams": "Teams organisieren",
+      "sekai_profile": "Sekai Profil",
+      "sekai_cards_teams": "Sekai Karten & Teams",
+      "user_statistics": "Sekai Statistiken"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Meisterrang",
+          "cropped_image": "Quelle",
+          "best_match": "Matched",
+          "card_states": "Karten-Zustände",
+          "other_possible_result": "Andere Treffer",
+          "card_power": "Stärke",
+          "card_training_status": "Trainiert"
+        }
+      },
+      "submit_success": "Karten wurden gespeichert und/oder aktualisiert.",
+      "submit_error": "Fehler beim Speichern der Karten.",
+      "import_button": "Importieren",
+      "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Level (レベル).\nIt uses Tesseract to recognize card level and master rank. This process will take some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
+      "enable_ocr": "Karten-Daten erkennen",
+      "wrong_result": "Unerwartete Karte?",
+      "help": {
+        "step1": {
+          "title": "Schritt 1: Mache einen Screenshot",
+          "subtitle": "Mache einen Screenshot von deiner Box, stelle sicher, dass \"Lv.XX\" anstatt Kraft (nur Nummern) angezeigt wird."
+        },
+        "step2": {
+          "title": "Schritt 2: Lade deinen Screenshot hoch",
+          "subtitle": "1: Klicker und wähle deinen Screenshot.\n2: Erkenne Kartenlevel und Meisterrang mit Hilfe von OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Schritt 3: Bestätige das Ergebnis",
+          "subtitle": "1: Card thumbnail cropped from your screenshot.\n2: Best matched card thumbnail with similarity in percentage.\n3: Side story are assumed as all unlocked, remeber to switch it off if not unlocked.\n4: Submit and save recognized cards.\n5: If the card is wrongly recognized, click it to replace."
+        },
+        "step4": {
+          "title": "Appendix: Modify the Result",
+          "subtitle": "This dialog is shown if you clicked the matched card thumbnail (red square with number 5 in step 3).\n1: Showing other possible matches for this card.\n2: If you don't want this card, you can remove it from the list."
+        }
+      }
+    },
+    "upload_avatar_error": "Fehler beim Hochladen des Avatars!",
+    "upload_avatar": "Avatar Hochladen",
+    "username": "Nutzername",
+    "nickname": "Anzeigename",
+    "role": "Rolle",
+    "email": "E-Mail-Adresse",
+    "button": {
+      "show_email": "Zeigen",
+      "update_sekai_profile": "Sekai-Profil Aktualisieren",
+      "bind_sekai_id": "Verbinden",
+      "verify_sekai_id": "Verifizieren"
+    },
+    "email_confirmed": "E-Mail-Adresse Bestätigt",
+    "syncing_card_team": "Synchronisiere Sekai Karten und Teams...",
+    "label": {
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "Profil Öffnen",
+      "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
+      "sekai_id_verify_step_2_title": "Write token and save",
+      "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button.",
+      "sekai_id_verify": "Verifizieren",
+      "sekai_id_not_verified": "Nicht Verifiziert",
+      "sekai_user_id": "Sekai Nutzer ID",
+      "unlink_sekai_id": "Sekai ID Trennen",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Name",
+      "sekai_user_rank": "Rang",
+      "sekai_user_word": "Vorstellung",
+      "sekai_user_music_not_found": "User music record not found."
+    },
+    "event": {
+      "current_record_info": "Letzte Aufnahme:",
+      "current_record_point": "Event-Punkte:",
+      "current_record_rank": "Event-Platzierung:",
+      "current_record_time": "Aufnahmezeitpunkt:",
+      "current_name": "Derzeitiges Event:"
+    },
+    "sekai_id_delete_confirm": {
+      "title": "Unlink Sekai ID confirmation",
+      "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
+    },
+    "sekai_id_transfer": {
+      "title": "Transfer Sekai ID",
+      "content1": "As the given Sekai ID is already bound to another user, if you do it on purpose and remembers the username of previous user account, you may enter it in textbox below. If you forget the previous username, you can DM @SekaiViewer on twitter for a manual transfer."
+    },
+    "error": {
+      "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?",
+      "sekai_id_malformed": "Die Sekai ID ist die Nummer mit 16 oder mehr Zeichen, nicht dein Benutzername.",
+      "sekai_id_already_bind": "Die Sekai ID ist schon mit einen anderen Benutzer gebunden."
+    },
+    "card_list": {
+      "submit_success": "Card states are updated.",
+      "submit_error": "Failed to update card states.",
+      "button": {
+        "add_card": "Karte Hinzufügen"
+      }
+    },
+    "statistics": {
+      "clear_count": "Clear Count",
+      "full_combo_count": "Anzahl Full Combo",
+      "all_perfect_count": "All Perfect Count"
+    },
+    "sekai_id": "Sekai Nutzer ID",
+    "email_confirmed_status": {
+      "true": "Ja",
+      "false": "Nein"
+    }
+  }
+}
