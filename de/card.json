@@ -1,10 +1,10 @@
 {
-  "skillName": "Skill Name",
   "cardLevel": "Karten Level",
   "skillLevel": "Skill Level",
   "trained": "Trainiert",
   "sideStory1Unlocked": "Nebengeschichte 1 Freigeschaltet",
   "sideStory2Unlocked": "Nebengeschichte 2 Freigeschaltet",
+  "skillName": "Skill Name",
   "tab": {
     "title[0]": "Vor Training",
     "title[1]": "Vor Training (getrimmt)",
@@ -13,6 +13,8 @@
   },
   "gachaPhrase": "Gacha Spruch",
   "skillEffect": "Skill Effekt",
+  "masterRank": "Meisterrang",
+  "masterRankLevel": "Meisterrang Level",
   "stats": "Statistik",
   "normal": "Normal",
   "sideStory": "Nebengeschichte",
