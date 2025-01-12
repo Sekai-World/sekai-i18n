@@ -105,7 +105,7 @@
       }
     },
     "statistics": {
-      "clear_count": "Clear Count",
+      "clear_count": "Anzahl \"Clear\"",
       "full_combo_count": "Anzahl \"Full Combo\"",
       "all_perfect_count": "Anzahl \"All Perfect\""
     },
