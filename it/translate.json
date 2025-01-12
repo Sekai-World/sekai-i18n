@@ -16,6 +16,10 @@
       "copy_source": "Copia stringhe originali"
     },
     "target_contributors": "Collaboratori",
+    "submit-status": {
+      "success": "Successo",
+      "failed": "Errore"
+    },
     "dialog": {
       "copy_source": {
         "title": "Copia stringhe originali",
@@ -23,10 +27,6 @@
         "confirm": "Conferma",
         "cancel": "Cancella"
       }
-    },
-    "submit-status": {
-      "success": "Successo",
-      "failed": "Errore"
     }
   },
   "button": {
