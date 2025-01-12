@@ -1,10 +1,10 @@
 {
-  "skillName": "ชื่อสกิล",
   "cardLevel": "เลเวลการ์ด",
   "skillLevel": "เลเวลสกิล",
   "trained": "อัปเกรดแล้ว",
   "sideStory1Unlocked": "ปลดเนื้อเรื่องการ์ด 1",
   "sideStory2Unlocked": "ปลดเนื้อเรื่องการ์ด 2",
+  "skillName": "ชื่อสกิล",
   "tab": {
     "title[0]": "ภาพก่อนอัปเกรด",
     "title[1]": "ภาพพื้นใสก่อนปลดอาร์ต",
