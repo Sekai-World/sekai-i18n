@@ -7,7 +7,6 @@
     "calc_total_power": "Dapatkan Kekuatan Penuh"
   },
   "auto_calc_bonus": "Gunakan Profil Sekai",
-  "use_sekai_card_state": "Gunakan Status Kartu Sekai yang Tersimpan",
   "saveTeamDialog": {
     "title": "Simpan Tim",
     "desc": "Simpan entri tim baru atau ganti entri tim yang sudah ada."
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "Muat Tim",
     "desc": "Muat tim dari entri tim yang disimpan."
-  }
+  },
+  "use_sekai_card_state": "Gunakan Status Kartu Sekai yang Tersimpan"
 }
