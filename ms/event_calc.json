@@ -17,20 +17,20 @@
   "gameData": {
     "energyDrink": "Kos Penggalak",
     "eventBonusRate": "Kadar Bonus Acara (%)",
+    "teamAvgPower": "Jumlah Kuasa Purata",
     "currentPoint": "Mata Semasa",
     "targetPoint": "Mata Sasaran",
-    "teamAvgPower": "Jumlah Kuasa Purata",
     "label": "Data Permainan",
     "desc": "Isikan data daripada permainan untuk pengiraan",
     "remainingTime": "Baki Masa Acara"
   },
   "songSelect": {
     "label": "Pilih Lagu",
-    "desc": "Pilih lagu untuk dianalisa.",
     "select": {
       "difficulty": "Kesukaran",
       "song": "Lagu"
-    }
+    },
+    "desc": "Pilih lagu untuk dianalisa."
   },
   "songMode": {
     "label": "Pemilihan Lagu",
