@@ -16,6 +16,10 @@
       "copy_source": "Salin Rentetan Sumber"
     },
     "target_contributors": "Penyumbang",
+    "submit-status": {
+      "success": "Berjaya",
+      "failed": "Gagal"
+    },
     "dialog": {
       "copy_source": {
         "title": "Salin Rentetan Sumber",
@@ -23,10 +27,6 @@
         "confirm": "Sahkan",
         "cancel": "Batal"
       }
-    },
-    "submit-status": {
-      "success": "Berjaya",
-      "failed": "Gagal"
     }
   },
   "button": {
