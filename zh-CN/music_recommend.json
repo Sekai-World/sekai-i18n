@@ -1,22 +1,29 @@
 {
-  "result": {
-    "musicName": "乐曲名称",
-    "label": "结果",
-    "desc": "再来一步就完成了！"
-  },
-  "getResult": "获取结果",
   "buildTeam": {
-    "label": "组建队伍",
-    "desc": "为歌曲推荐器组建你的队伍。",
-    "duplicatedCardError": "不能在一个队伍添加重复的卡。",
     "cardMaxError": "队伍内卡片已满。",
     "addCard": "添加卡片",
     "saveTeam": "保存队伍",
     "loadTeam": "载入队伍",
     "clearTeam": "清除队伍",
     "teamPower": "队伍综合力",
+    "label": "组建队伍",
+    "desc": "为歌曲推荐器组建你的队伍。",
+    "duplicatedCardError": "不能在一个队伍添加重复的卡。",
     "loadTeamError": "检查你的输入。",
-    "teamTextCopied": "队伍代码已拷贝到剪贴板。"},
+    "teamTextCopied": "队伍代码已拷贝到剪贴板。",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "添加卡片",
+    "selectChara": "角色",
+    "selectRarity": "稀有度"
+  },
+  "result": {
+    "musicName": "乐曲名称",
+    "label": "结果",
+    "desc": "再来一步就完成了！"
+  },
+  "getResult": "获取结果",
   "modeSelect": {
     "solo": "单人模式",
     "multi": "协力模式",
@@ -34,11 +41,6 @@
     }
   },
   "assumption": "假设条件：All Perfect，活动加成0%，不使用能量饮料加成，多人模式所有人队伍综合力都一样。",
-  "addCardDialog": {
-    "title": "添加卡片",
-    "selectChara": "角色",
-    "selectRarity": "稀有度"
-  },
   "saveTeamDialog": {
     "title": "保存队伍",
     "desc": "保存队伍代码并且稍后重新加载它。"
