@@ -16,6 +16,10 @@
       "copy_source": "Copiar cadena de origen"
     },
     "target_contributors": "Colaboradores",
+    "submit-status": {
+      "success": "Éxito",
+      "failed": "Fallido"
+    },
     "dialog": {
       "copy_source": {
         "title": "Copiar cadenas de origen",
@@ -23,10 +27,6 @@
         "confirm": "Confirmar",
         "cancel": "Cancelar"
       }
-    },
-    "submit-status": {
-      "success": "Éxito",
-      "failed": "Fallido"
     }
   },
   "button": {
