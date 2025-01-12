@@ -16,6 +16,10 @@
       "copy_source": "ソース文字列をコピー"
     },
     "target_contributors": "コントリビューター",
+    "submit-status": {
+      "success": "成功",
+      "failed": "失敗"
+    },
     "dialog": {
       "copy_source": {
         "title": "ソース文字列をコピー",
@@ -23,10 +27,6 @@
         "confirm": "確認",
         "cancel": "キャンセル"
       }
-    },
-    "submit-status": {
-      "success": "成功",
-      "failed": "失敗"
     }
   },
   "button": {
