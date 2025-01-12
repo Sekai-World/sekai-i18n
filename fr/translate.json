@@ -16,6 +16,10 @@
       "copy_source": "Copier les chaînes sources"
     },
     "target_contributors": "Contributeurs",
+    "submit-status": {
+      "success": "Succès",
+      "failed": "Échec"
+    },
     "dialog": {
       "copy_source": {
         "title": "Copier les chaînes sources",
@@ -23,10 +27,6 @@
         "confirm": "Confirmer",
         "cancel": "Annuler"
       }
-    },
-    "submit-status": {
-      "success": "Succès",
-      "failed": "Échec"
     }
   },
   "button": {
