@@ -1,22 +1,86 @@
 {
-  "alreadyEnded": "",
-  "notStarted": "",
+  "alreadyEnded": "Event wurde beendet",
+  "notStarted": "Noch nicht gestartet",
   "tab": {
-    "title[0]": "",
-    "title[1]": "",
-    "title[2]": ""
+    "title[0]": "Banner & Logo",
+    "title[1]": "Hintergrund",
+    "title[2]": "Charakter"
   },
-  "remainingTime": "",
-  "progress": "",
-  "boostAttribute": "",
-  "boostCharacters": "",
-  "maxBoost": "",
-  "aggregateAt": "",
-  "rankingAnnounceAt": "",
-  "distributionStartAt": "",
-  "distributionEndAt": "",
-  "ranking": "",
-  "realtime": "",
-  "nextfetch": "",
-  "alreadyPast": ""
+  "remainingTime": "Verbleibende Zeit",
+  "progress": "Fortschritt",
+  "newlyWrittenSong": "Neu geschriebenes Lied",
+  "title": {
+    "boost": "Bonus",
+    "cheerful_carnival": "Cheerful Carnival",
+    "timepoint": "Zeit Punkte",
+    "rankingRewards": "Ranglisten-Belohnungen"
+  },
+  "boostAttribute": "Boost Attribute",
+  "boostCharacters": "Boost Charaters",
+  "maxBoost": "Max Boost (Both Matched)",
+  "boostSpecificCards": "Boost Special Cards",
+  "boostCards": "Boost Cards",
+  "eventCards": "Event-Karten",
+  "cheerful_carnival_midterm_1": "First Midterm Report",
+  "cheerful_carnival_midterm_2": "Second Midterm Report",
+  "startAt": "Event beginnt am",
+  "closeAt": "Event ended am",
+  "endAt": "Event-Einträge verfügbar bis",
+  "rankingAnnounceAt": "Ergebnisse werden angekündigt am",
+  "distributionStartAt": "Belohnungen können eingesammelt werden ab",
+  "rankingReward": {
+    "start": "Von",
+    "end": "Bis"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Event-Name",
+      "rankings": "Rangliste"
+    },
+    "button": {
+      "curr_event": "Derzeitiges Event",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "Show all rankings",
+    "time_travel_enabled": "Zeitreise",
+    "tooltip": {
+      "get_prediction": "Prognose erst ab 24 Stunden nach Start des Events verfügbar."
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "title": {
+      "data_graph": "Event Point Graph",
+      "average_speed": "Durchschnittliche Geschwindigkeit"
+    }
+  },
+  "ranking": "Ranking",
+  "realtime": "Real time data at",
+  "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Nutzer",
+      "score": "Punkt(e)",
+      "speed_per_hour": "Avg. Speed (/h)",
+      "prediction": "Prognose"
+    }
+  },
+  "no_enough_data": "Nicht genügend Info.",
+  "speedTable": {
+    "head": {
+      "all_time": "All time (per hour)",
+      "last_24h": "Letzte 24 Stunden (pro Stunde)",
+      "last_1h": "Letzte Stunde (pro Stunde)"
+    }
+  },
+  "type": {
+    "marathon": "Marathon",
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "Reward Distribution Until",
+  "aggregateAt": "Aggregate Timepoint",
+  "alreadyPast": "Bereits vergangen"
 }
