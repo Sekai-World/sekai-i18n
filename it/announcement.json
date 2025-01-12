@@ -1,9 +1,9 @@
 {
+  "fetch_error": "Errore durante il recupero dei dati",
   "category": "Categoria",
+  "no_entry": "Nessuna voce.",
   "published_at": "Pubblicato il",
   "translators": "Traduttori",
-  "fetch_error": "Errore durante il recupero dei dati",
-  "no_entry": "Nessuna voce.",
   "title": "Titolo",
   "language": "Lingua",
   "author": "Autore",
