@@ -62,7 +62,7 @@
     "email_confirmed": "E-Mail-Adresse Bestätigt",
     "syncing_card_team": "Synchronisiere Sekai Karten und Teams...",
     "label": {
-      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "update_left": "Aktualisierungen verwendet: {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "Profil Öffnen",
       "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
       "sekai_id_verify_step_2_title": "Write token and save",
