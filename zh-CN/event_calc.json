@@ -17,20 +17,20 @@
   "gameData": {
     "energyDrink": "加成消耗",
     "eventBonusRate": "活动分数奖励百分比",
+    "teamAvgPower": "平均综合力",
     "currentPoint": "当前点数",
     "targetPoint": "目标点数",
-    "teamAvgPower": "平均综合力",
     "label": "游戏数据",
     "desc": "填写用于计算的游戏内数据",
     "remainingTime": "活动剩余时数"
   },
   "songSelect": {
     "label": "歌曲选择",
-    "desc": "选择歌曲以分析",
     "select": {
       "difficulty": "难度",
       "song": "歌曲"
-    }
+    },
+    "desc": "选择歌曲以分析"
   },
   "songMode": {
     "label": "歌曲选择",
