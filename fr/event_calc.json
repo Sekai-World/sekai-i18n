@@ -17,20 +17,20 @@
   "gameData": {
     "energyDrink": "Coût du boost",
     "eventBonusRate": "Taux bonus d'événement (%)",
+    "teamAvgPower": "Puissance totale moyenne",
     "currentPoint": "Points actuels",
     "targetPoint": "Objectif de points",
-    "teamAvgPower": "Puissance totale moyenne",
     "label": "Données de jeu",
     "desc": "Complétez les données du jeu pour le calcul",
     "remainingTime": "Heures restantes de l'événement"
   },
   "songSelect": {
     "label": "Choix de la chanson",
-    "desc": "Sélectionnez la chanson à analyser.",
     "select": {
       "difficulty": "Difficulté",
       "song": "Chanson"
-    }
+    },
+    "desc": "Sélectionnez la chanson à analyser."
   },
   "songMode": {
     "label": "Choix de la chanson",
