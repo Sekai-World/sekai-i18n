@@ -1,22 +1,29 @@
 {
-  "result": {
-    "musicName": "Nazwa piosenki",
-    "label": "Wynik",
-    "desc": "Jeszcze jeden krok i gotowe."
-  },
-  "getResult": "Uzyskaj wynik",
   "buildTeam": {
-    "label": "Zbuduj zespół",
-    "desc": "Zbuduj swój zespół dla Rekomendatora Piosenek",
-    "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
     "cardMaxError": "Jest już wystarczająco dużo kart.",
     "addCard": "Dodaj kartę",
     "saveTeam": "Zapisz zespół",
     "loadTeam": "Wczytaj zespół",
     "clearTeam": "Wyczyść zespół",
     "teamPower": "Siła zespołu",
+    "label": "Zbuduj zespół",
+    "desc": "Zbuduj swój zespół dla Rekomendatora Piosenek",
+    "duplicatedCardError": "Nie możesz dodać tej samej karty do jednego zespołu.",
     "loadTeamError": "Sprawdź dane wejściowe.",
-    "teamTextCopied": "Tekst zespołu skopiowany do schowka."},
+    "teamTextCopied": "Tekst zespołu skopiowany do schowka.",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "Dodaj kartę",
+    "selectChara": "Osoba",
+    "selectRarity": "Rzadkość"
+  },
+  "result": {
+    "musicName": "Nazwa piosenki",
+    "label": "Wynik",
+    "desc": "Jeszcze jeden krok i gotowe."
+  },
+  "getResult": "Uzyskaj wynik",
   "modeSelect": {
     "solo": "Solo",
     "multi": "Multiplayer",
@@ -34,11 +41,6 @@
     }
   },
   "assumption": "Założenie: wszystko \"PERFECT\", bonus event'u 0%, brak zużytych napojów z energią, wszyscy gracze multiplayer mają tę samą drużynę.",
-  "addCardDialog": {
-    "title": "Dodaj kartę",
-    "selectChara": "Osoba",
-    "selectRarity": "Rzadkość"
-  },
   "saveTeamDialog": {
     "title": "Zapisz zespół",
     "desc": "Zapisz kod zespołu, aby załadować go później."
