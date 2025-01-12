@@ -1,10 +1,10 @@
 {
-  "skillName": "Nama Kemahiran",
   "cardLevel": "Tahap Kad",
   "skillLevel": "Tahap Kemahiran",
   "trained": "Dilatih",
   "sideStory1Unlocked": "Cerita Sampingan 1 Dibuka",
   "sideStory2Unlocked": "Cerita Sampingan 2 Dibuka",
+  "skillName": "Nama Kemahiran",
   "tab": {
     "title[0]": "Imej biasa",
     "title[1]": "Imej perapi biasa",
