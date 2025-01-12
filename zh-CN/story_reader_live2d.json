@@ -1,0 +1,18 @@
+{
+  "load_button": {
+    "ready": "点击以加载",
+    "loading": "载入中……",
+    "loaded": "已载入"
+  },
+  "progress": {
+    "load_model_data": "载入模型数据……",
+    "load_media": "载入声音……",
+    "load_model_assets": "载入素材……",
+    "load_model_motion": "载入动作文件……",
+    "load_model_to_canvas": "渲染到画布……",
+    "get_resource_url": "计算资源总量……",
+    "get_scenario_data": "载入故事数据……"
+  },
+  "toggle_full_screen": "切换全屏",
+  "auto_play": "自动播放"
+}
