@@ -16,6 +16,10 @@
       "copy_source": "Kopiuj tekst źródłowy"
     },
     "target_contributors": "Współtwórcy",
+    "submit-status": {
+      "success": "Sukces",
+      "failed": "Niepowodzenie"
+    },
     "dialog": {
       "copy_source": {
         "title": "Kopiuj tekst źródłowy",
@@ -23,10 +27,6 @@
         "confirm": "Potwierdź",
         "cancel": "Anuluj"
       }
-    },
-    "submit-status": {
-      "success": "Sukces",
-      "failed": "Niepowodzenie"
     }
   },
   "button": {
