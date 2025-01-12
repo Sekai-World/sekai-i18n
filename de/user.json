@@ -75,7 +75,7 @@
       "sekai_user_name": "Name",
       "sekai_user_rank": "Rang",
       "sekai_user_word": "Vorstellung",
-      "sekai_user_music_not_found": "User music record not found."
+      "sekai_user_music_not_found": "Musikdaten des Spielers nicht gefunden."
     },
     "event": {
       "current_record_info": "Letzte Aufnahme:",
