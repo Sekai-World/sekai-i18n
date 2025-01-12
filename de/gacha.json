@@ -1,13 +1,44 @@
 {
   "tab": {
-    "title[0]": "",
-    "title[1]": "",
-    "title[2]": "",
-    "title[3]": "",
-    "title[4]": ""
+    "title": {
+      "banner_logo": "Banner & Logo"
+    },
+    "title[3]": "Hintergrund",
+    "title[4]": "Feature Image",
+    "title[0]": "Beschreibung",
+    "title[1]": "Zusammenfassung",
+    "title[2]": "Simulator"
   },
-  "normalRate": "",
-  "guaranteedRate": "",
-  "pickupMember": "",
-  "pickupMember_plural": ""
+  "ceil_item": "Exchange Item",
+  "summary": "Zusammenfassung",
+  "description": "Beschreibung",
+  "gacha_rate": "Gacha-Raten",
+  "normalRate": "Normale Roll-Rate",
+  "guaranteedRate": "Garantierte Roll-Rate",
+  "gacha_cards": "Gacha-Karten",
+  "pickupMember": "Pick-up Member",
+  "pickupMember_plural": "Pick-up Members",
+  "gacha_behaviors": "Gacha Draw Options",
+  "gacha_simulator": "Gacha-Simulator",
+  "simulator": {
+    "reset": "Zurücksetzen",
+    "total": "Gesamtbetrag",
+    "jewel": "Krystalle",
+    "ticket": "Gacha-Ticket",
+    "count": "Anzahl",
+    "percentage": "Raten",
+    "cost": "Kosten"
+  },
+  "behavior": {
+    "free": "Free",
+    "normal": "Normal",
+    "over_rarity_3_once": "Garantiert (3*)",
+    "once_a_day": "Einmal pro Tag",
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
+  },
+  "gachaType": {
+    "ceil": "Decke",
+    "normal": "Normal"
+  }
 }
