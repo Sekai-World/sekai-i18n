@@ -17,20 +17,20 @@
   "gameData": {
     "energyDrink": "需要的能量",
     "eventBonusRate": "活動pt獎勵(％)",
+    "teamAvgPower": "平均綜合力",
     "currentPoint": "目前活動pt",
     "targetPoint": "目標活動pt",
-    "teamAvgPower": "平均綜合力",
     "label": "遊戲數據",
     "desc": "填寫遊戲數據以進行計算",
     "remainingTime": "活動剩餘時間"
   },
   "songSelect": {
     "label": "選擇樂曲",
-    "desc": "請選擇要計算的樂曲。",
     "select": {
       "difficulty": "難度",
       "song": "樂曲"
-    }
+    },
+    "desc": "請選擇要計算的樂曲。"
   },
   "songMode": {
     "label": "選擇樂曲",
