@@ -7,7 +7,6 @@
     "calc_total_power": "Dapatkan Jumlah Kuasa"
   },
   "auto_calc_bonus": "Gunakan Profil Sekai",
-  "use_sekai_card_state": "Gunakan Keadaan Kad Sekai Disimpan",
   "saveTeamDialog": {
     "title": "Simpan Pasukan",
     "desc": "Simpan masukan pasukan baharu atau gantikan masukan pasukan sedia ada."
@@ -23,5 +22,6 @@
   "loadTeamDialog": {
     "title": "Muatkan Pasukan",
     "desc": "Muatkan pasukan dari masukan pasukan disimpan."
-  }
+  },
+  "use_sekai_card_state": "Gunakan Keadaan Kad Sekai Disimpan"
 }
