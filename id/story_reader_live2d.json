@@ -11,7 +11,7 @@
     "load_model_motion": "Loading motion data...",
     "load_model_to_canvas": "Drawing to canvas...",
     "get_resource_url": "Calculating resources...",
-    "get_scenario_data": "Loading scenario data..."
+    "get_scenario_data": "Memuat data skenario..."
   },
   "toggle_full_screen": "Toggle full screen",
   "auto_play": "Putar otomatis"
