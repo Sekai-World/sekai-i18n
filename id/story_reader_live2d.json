@@ -8,7 +8,7 @@
     "load_model_data": "Memuat data model...",
     "load_media": "Memuat media suara...",
     "load_model_assets": "Memuat aset...",
-    "load_model_motion": "Loading motion data...",
+    "load_model_motion": "Memuat data gerakan...",
     "load_model_to_canvas": "Drawing to canvas...",
     "get_resource_url": "Menghitung sumber daya...",
     "get_scenario_data": "Memuat data skenario..."
