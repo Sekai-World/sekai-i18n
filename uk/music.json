@@ -15,7 +15,7 @@
     "mp3": "MP3",
     "flac": "FLAC"
   },
-  "skipBeginningSilence": "Пропустити тишу спочатку",
+  "skipBeginningSilence": "Пропустити початкову частину без звуків",
   "tag": "Тег",
   "tag_plural": "Теги",
   "category": "Категорія",
