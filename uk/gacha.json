@@ -1,0 +1,44 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Баннер та логотип"
+    },
+    "title[3]": "Фон",
+    "title[4]": "Feature Image",
+    "title[0]": "Опис",
+    "title[1]": "Висновок",
+    "title[2]": "Симулятор"
+  },
+  "ceil_item": "Обмін речами",
+  "summary": "Висновок",
+  "description": "Опис",
+  "gacha_rate": "Gacha Rates",
+  "normalRate": "Normal Roll Rate",
+  "guaranteedRate": "Guaranteed Roll Rate",
+  "gacha_cards": "Gacha Cards",
+  "pickupMember": "Pick-up Member",
+  "pickupMember_plural": "Pick-up Members",
+  "gacha_behaviors": "Gacha Draw Options",
+  "gacha_simulator": "Gacha Simulator",
+  "simulator": {
+    "reset": "Скинути",
+    "total": "Всього",
+    "jewel": "Jewel",
+    "ticket": "Gacha Ticket",
+    "count": "Рахунок",
+    "percentage": "Шанс",
+    "cost": "Ціна"
+  },
+  "behavior": {
+    "free": "Free",
+    "normal": "Звичайний",
+    "over_rarity_3_once": "Гарантовано (3⭑)",
+    "once_a_day": "Один раз в день",
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
+  },
+  "gachaType": {
+    "ceil": "Ceiling",
+    "normal": "Звичайний"
+  }
+}
