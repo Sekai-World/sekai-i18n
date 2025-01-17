@@ -20,7 +20,7 @@
     "assetVer": "Версія ресурсів",
     "multiPlayerVer": "Версія мультиплеєра"
   },
-  "happy_anniversary": "Happy {{year}} Anniversary!",
+  "happy_anniversary": "Щасливої {{year}} річниці!",
   "anniversary_countdown": "Countdown to {{year}} Anniversary",
   "disclaimer": "Цей веб-сайт не володіє матеріалами, усі права належать його законному власнику, включаючи, але не обмежуючись, Sega, Colorful Palette та Crypton. Цей веб-сайт є фанатською базою даних лише для дослідницьких цілей і не має офіційного відношення до Sega чи Colorful Palette.",
   "detect": {
