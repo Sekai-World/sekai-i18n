@@ -21,7 +21,7 @@
     "multiPlayerVer": "Версія мультиплеєра"
   },
   "happy_anniversary": "Щасливої {{year}} річниці!",
-  "anniversary_countdown": "Countdown to {{year}} Anniversary",
+  "anniversary_countdown": "Відлік до {{year}} річниці",
   "disclaimer": "Цей веб-сайт не володіє матеріалами, усі права належать його законному власнику, включаючи, але не обмежуючись, Sega, Colorful Palette та Crypton. Цей веб-сайт є фанатською базою даних лише для дослідницьких цілей і не має офіційного відношення до Sega чи Colorful Palette.",
   "detect": {
     "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
