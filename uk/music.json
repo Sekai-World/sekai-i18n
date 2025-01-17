@@ -1,0 +1,59 @@
+{
+  "difficulty": "Складність",
+  "actualPlaybackTime": "Реальний час відтворення",
+  "downloadFlacNoTrim": "Завантажений FLAC-файл матиме початкову частину без звуків.",
+  "vocal": "Вокал",
+  "alert[0]": "Перші <b>дев’ять секунд</b> кожної пісні не мають звуків. Це НЕ помилка",
+  "vocalTab": {
+    "title[0]": "Коротка версія",
+    "title[1]": "Довга версія",
+    "title[2]": "Музичне відео",
+    "original_video": "Оригінальне музичне відео"
+  },
+  "fileFormat": {
+    "caption": "Формат файлу",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Пропустити тишу спочатку",
+  "tag": "Тег",
+  "tag_plural": "Теги",
+  "category": "Категорія",
+  "category_plural": "Категорії",
+  "arranger": "Аранжування",
+  "composer": "Композитор",
+  "lyricist": "Автор тексту",
+  "danceMember": "Dance Member",
+  "danceMember_plural": "Dance Members",
+  "vocal_plural": "Вокали",
+  "vocalType": "Vocal Type",
+  "achievement": "Achievements",
+  "scoreRankAchievement": {
+    "title": "Score Rank",
+    "rankC": "Ранг C",
+    "rankB": "Ранг B",
+    "rankA": "Ранг A",
+    "rankS": "Ранг S"
+  },
+  "difficulty_plural": "Складності",
+  "chartCredit": "Chart Image is modified from pjsekai.moe version.",
+  "noteCount": "Note Count",
+  "comboRewards": "Нагороди за комбо",
+  "chartImage": "Chart",
+  "baseScore": "Base Score Rate",
+  "feverScore": "Fever Score Rate",
+  "eventRate": "Event Point Rate",
+  "clear_status": "Clear Status",
+  "hi_score": "High Score",
+  "mvp_count": "MVP Count",
+  "super_star_count": "Super Star Count",
+  "dancerCount": "Dancer Count",
+  "combo": "Комбо",
+  "preview": "Preview",
+  "categoryType": {
+    "mv": "3D музичне відео",
+    "mv_2d": "2D музичне відео",
+    "original": "Оригінальне музичне відео",
+    "image": "Static Image"
+  }
+}
