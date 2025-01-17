@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Дія",
+    "show-from": "Показати з",
+    "title-column": "Заголовок",
+    "show-until": "Показати до",
+    "title": "Новини гри"
+  },
+  "update": "Пов'язанні посилання",
+  "alert_contributor": {
+    "title": "Дякуємо нашим учасникам розробки!"
+  },
+  "alert_translate": {
+    "title": "Дякуємо перекладачам!"
+  },
+  "versionInfo": {
+    "caption": "Інформація про версію",
+    "gameClientVer": "Версія клієнта гри",
+    "dataVer": "Версія данних",
+    "assetVer": "Версія ресурсів",
+    "multiPlayerVer": "Версія мультиплеєра"
+  },
+  "happy_anniversary": "Happy {{year}} Anniversary!",
+  "anniversary_countdown": "Countdown to {{year}} Anniversary",
+  "disclaimer": "Цей веб-сайт не володіє матеріалами, усі права належать його законному власнику, включаючи, але не обмежуючись, Sega, Colorful Palette та Crypton. Цей веб-сайт є фанатською базою даних лише для дослідницьких цілей і не має офіційного відношення до Sega чи Colorful Palette.",
+  "detect": {
+    "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
+    "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
+    "success": "Вітаю! Ваш браузер сучасний, ви можете швидше завантажувати зображення та економити трафік."
+  },
+  "directLink": {
+    "caption": "Ярлики",
+    "contribList": "Вкладники"
+  },
+  "alert1": {
+    "translation": "Переклади",
+    "development": "Розробка",
+    "title": "Потрібна допомога!",
+    "see_contrib_list": "Подивитись список вкладників",
+    "contact": "Написати мені",
+    "join-discord": "Зайти на Discord сервер"
+  },
+  "changelog": "Журнал змін",
+  "happy_new_year": "🎊З новим роком!🎉",
+  "new_year_countdown": "Відлік до нового року",
+  "alert_settings": "Використайте <s /> у правому верхньому куті щоб змінити мову, яскравість та інше."
+}
