@@ -14,5 +14,12 @@
     "get_scenario_data": "载入故事数据……"
   },
   "toggle_full_screen": "切换全屏",
-  "auto_play": "自动播放"
+  "auto_play": "自动播放",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Voice Volume",
+    "bgm_volume": "BGM Volume",
+    "text_animation": "Text Animation",
+    "heading": "设置"
+  }
 }
