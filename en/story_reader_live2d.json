@@ -14,5 +14,12 @@
     "get_scenario_data": "Loading scenario data..."
   },
   "toggle_full_screen": "Toggle full screen",
-  "auto_play": "Auto play"
+  "auto_play": "Auto play",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Voice Volume",
+    "bgm_volume": "BGM Volume",
+    "text_animation": "Text Animation",
+    "heading": "Settings"
+  }
 }
