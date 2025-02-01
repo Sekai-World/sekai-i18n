@@ -5,7 +5,8 @@
     "charaStory": "Histoires des personnages",
     "cardStory": "Histoires des cartes",
     "areaTalk": "Discussion sur la carte",
-    "liveTalk": "Discussion de concert"
+    "liveTalk": "Discussion de concert",
+    "specialStory": "Special Stories"
   },
   "snippet": {
     "FullScreenText": "Texte en plein écran",
