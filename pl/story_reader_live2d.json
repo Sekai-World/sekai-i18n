@@ -8,7 +8,7 @@
     "load_model_data": "Loading model data...",
     "load_media": "Ładowanie mediów dźwiękowych...",
     "load_model_assets": "Ładowanie zasobów...",
-    "load_model_motion": "Loading motion data...",
+    "load_model_motion": "Ładowanie danych ruchu...",
     "load_model_to_canvas": "Drawing to canvas...",
     "get_resource_url": "Obliczanie zasobów...",
     "get_scenario_data": "Loading scenario data..."
