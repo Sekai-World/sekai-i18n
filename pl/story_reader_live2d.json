@@ -6,7 +6,7 @@
   },
   "progress": {
     "load_model_data": "Loading model data...",
-    "load_media": "Loading voice media...",
+    "load_media": "Ładowanie mediów dźwiękowych...",
     "load_model_assets": "Ładowanie zasobów...",
     "load_model_motion": "Loading motion data...",
     "load_model_to_canvas": "Drawing to canvas...",
