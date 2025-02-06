@@ -1,0 +1,25 @@
+{
+  "load_button": {
+    "ready": "Kliknij, aby załadować",
+    "loading": "Ładowanie...",
+    "loaded": "Załadowano"
+  },
+  "progress": {
+    "load_model_data": "Loading model data...",
+    "load_media": "Loading voice media...",
+    "load_model_assets": "Ładowanie zasobów...",
+    "load_model_motion": "Loading motion data...",
+    "load_model_to_canvas": "Drawing to canvas...",
+    "get_resource_url": "Obliczanie zasobów...",
+    "get_scenario_data": "Loading scenario data..."
+  },
+  "toggle_full_screen": "Przełącz na tryb pełnoekranowy",
+  "auto_play": "Auto play",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Głośność Głosu",
+    "bgm_volume": "Głośność Muzyki w Tle",
+    "text_animation": "Text Animation",
+    "heading": "Ustawienia"
+  }
+}
