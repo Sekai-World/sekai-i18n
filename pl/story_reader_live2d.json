@@ -13,13 +13,18 @@
     "get_resource_url": "Obliczanie zasobów...",
     "get_scenario_data": "Loading scenario data..."
   },
-  "toggle_full_screen": "Przełącz na tryb pełnoekranowy",
+  "toggle_full_screen": "Full screen",
+  "toggle_page_full_screen": "Fit to page",
   "auto_play": "Auto play",
+  "hide_settings": "Hide settings",
+  "show_settings": "Show settings",
   "settings": {
     "se_volume": "SE Volume",
     "voice_volume": "Głośność Głosu",
     "bgm_volume": "Głośność Muzyki w Tle",
     "text_animation": "Animacja Tekstu",
+    "show_warning": "Show warning",
     "heading": "Ustawienia"
-  }
+  },
+  "story_ended": "Story ended"
 }
