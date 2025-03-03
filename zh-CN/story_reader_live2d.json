@@ -14,12 +14,17 @@
     "get_scenario_data": "载入故事数据……"
   },
   "toggle_full_screen": "切换全屏",
+  "toggle_page_full_screen": "适应页面",
   "auto_play": "自动播放",
+  "hide_settings": "隐藏设置",
+  "show_settings": "显示设置",
   "settings": {
-    "se_volume": "SE Volume",
-    "voice_volume": "Voice Volume",
-    "bgm_volume": "BGM Volume",
-    "text_animation": "Text Animation",
+    "se_volume": "音效音量",
+    "voice_volume": "对话音量",
+    "bgm_volume": "背景音乐音量",
+    "text_animation": "文字动画",
+    "show_warning": "显示警告",
     "heading": "设置"
-  }
+  },
+  "story_ended": "故事播放结束"
 }
