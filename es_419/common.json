@@ -152,5 +152,6 @@
   },
   "costume": "Traje",
   "hair": "Peinado",
-  "head": "Accesorio para la cabeza"
+  "head": "Accesorio para la cabeza",
+  "characterRank": "Character Rank"
 }
