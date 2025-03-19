@@ -108,7 +108,8 @@
     "jp": "Japoneză",
     "tw": "Chineză tradițională",
     "en": "Engleză (global)",
-    "kr": "Coreeană"
+    "kr": "Coreeană",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Modul de afişare a conţinuturilor jocului",
@@ -119,6 +120,7 @@
   "miscs": "Diverse",
   "darkmode": "Modul de luminozitate",
   "spoilerContent": "Conţinuturi cu spoilere",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Regiunea actuală detectată",
   "regionTooltip": "Asta-ţi va determina regiunea serverului CDN.",
   "modify": "Modifică",
@@ -142,5 +144,14 @@
   "icon": "Pictogramă",
   "copyToClipboard": "Copiază pe clipboard",
   "scoreCalculator": "Calculator de scor",
-  "member": "Personaj"
+  "member": "Personaj",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Character Rank"
 }
