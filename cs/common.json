@@ -108,7 +108,8 @@
     "jp": "Japonština",
     "tw": "Tradiční Čínština",
     "en": "Angličtina (Globální)",
-    "kr": "Korejsky"
+    "kr": "Korejsky",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Režim zobrazení herního kontentu",
@@ -119,6 +120,7 @@
   "miscs": "Různé",
   "darkmode": "Režim jasu",
   "spoilerContent": "Vyspoilovat Kontent",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Právě zjištěný region",
   "regionTooltip": "Tohle určí váš CDN server regionu",
   "modify": "Upravit",
@@ -142,5 +144,14 @@
   "icon": "Ikona",
   "copyToClipboard": "Kopírovat",
   "scoreCalculator": "Kalkulátor skore",
-  "member": "Postava"
+  "member": "Postava",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Rank postavy"
 }
