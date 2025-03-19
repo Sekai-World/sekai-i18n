@@ -1,0 +1,27 @@
+{
+  "cardLevel": "Kaartlevel",
+  "skillLevel": "Skilllevel",
+  "trained": "Getraind",
+  "sideStory1Unlocked": "Zijverhaal 1 ontgrendeld",
+  "sideStory2Unlocked": "Zijverhaal 2 ontgrendeld",
+  "skillName": "Skillnaam",
+  "tab": {
+    "title[0]": "Normale afbeelding",
+    "title[1]": "Normal trim image",
+    "title[2]": "After training image",
+    "title[3]": "After training trim image"
+  },
+  "gachaPhrase": "Gacha Phrase",
+  "skillEffect": "Skill Effect",
+  "masterRank": "Master Rank",
+  "masterRankLevel": "Master Rank Level",
+  "stats": "Stats",
+  "normal": "Normaal",
+  "sideStory": "Zijverhaal",
+  "sideStory_plural": "Zijverhalen",
+  "rarity": "Zeldzaamheid",
+  "power": "Kracht",
+  "apply_event_filter": "Apply Event Bonuses",
+  "skill": "Skill",
+  "unitCount": "Unit Count"
+}
