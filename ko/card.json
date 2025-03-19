@@ -22,5 +22,6 @@
   "rarity": "희귀도",
   "power": "종합 능력치",
   "apply_event_filter": "이벤트 보너스 적용",
-  "skill": "스킬"
+  "skill": "스킬",
+  "unitCount": "Unit Count"
 }
