@@ -51,7 +51,18 @@
   "eventTracker": "Seguidor de eventos",
   "eventAnalyzer": "Analisador de eventos",
   "settings": {
-    "title": "Definições"
+    "title": "Definições",
+    "interfaceLanguage": "Interface Language",
+    "gameContent": "Game Content",
+    "gameContentRegion": "Game Content Region",
+    "gameContentTranslationSource": {
+      "title": "Game Content Translation Source",
+      "official": "Official",
+      "community": "Comunidade"
+    },
+    "gameContentTranslationLanguage": "Game Content Translation Community Language",
+    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Suporte",
   "toolbar": {
@@ -88,18 +99,18 @@
   "show": "Mostrar",
   "level": "Nível",
   "description": "Descrição",
+  "sequence": "Sequence",
   "profile": "Perfil",
   "character_plural": "Personagens",
   "detectionFailedPrompt": "Falha ao determinar a tua região, por favor verifica a tua conexão",
-  "serverRegionSelect": "Região do servidor",
+  "language": "Língua",
   "serverRegion": {
     "jp": "Japonês",
     "tw": "Chinês tradicional",
     "en": "Inglês (Global)",
-    "kr": "Coreano"
+    "kr": "Coreano",
+    "cn": "Simplified Chinese"
   },
-  "language": "Língua",
-  "darkmode": "Modo de luminusidade",
   "contentTranslationMode": {
     "title": "Modo de apresentação do conteúdo do jogo",
     "original": "Original",
@@ -107,7 +118,9 @@
     "both": "Mostrar ambos"
   },
   "miscs": "Diversos",
+  "darkmode": "Modo de luminusidade",
   "spoilerContent": "Conteúdo spoiler",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Região atual detetada",
   "regionTooltip": "Isto irá determinar a região do servidor de conteúdos adequada para ti.",
   "modify": "Modificar",
@@ -120,6 +133,7 @@
   "close": "Fechar",
   "area_item": "Objectos de região",
   "signup": "Criar conta",
+  "serverRegionSelect": "Região do servidor",
   "detect": {
     "button": "Detetar",
     "checking": "A verificar...",
@@ -130,5 +144,14 @@
   "icon": "Ícone",
   "copyToClipboard": "Copiar para a Área de Transferência",
   "scoreCalculator": "Calculadora de pontuação",
-  "member": "Personagens"
+  "member": "Personagens",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Character Rank"
 }
