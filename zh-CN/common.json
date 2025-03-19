@@ -109,7 +109,7 @@
     "tw": "繁体字服",
     "en": "英文服（全球服）",
     "kr": "韩文服",
-    "cn": "简体字服"
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "游戏内容显示模式",
@@ -120,6 +120,7 @@
   "miscs": "杂项",
   "darkmode": "显示主题",
   "spoilerContent": "剧透内容",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "探测到的当前区域",
   "regionTooltip": "这会决定你的CDN服务器地区",
   "modify": "修改",
@@ -143,5 +144,14 @@
   "icon": "图标",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
-  "member": "成员"
+  "member": "成员",
+  "bondsRank": "牵绊等级",
+  "honor": {
+    "bonds": "牵绊",
+    "others": "Others"
+  },
+  "costume": "服装",
+  "hair": "发型",
+  "head": "Head Accessory",
+  "characterRank": "角色等级"
 }
