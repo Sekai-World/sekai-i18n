@@ -22,5 +22,6 @@
   "rarity": "Kejarangan",
   "power": "Kuasa",
   "apply_event_filter": "Gunakan Bonus Acara",
-  "skill": "Kemahiran"
+  "skill": "Kemahiran",
+  "unitCount": "Unit Count"
 }
