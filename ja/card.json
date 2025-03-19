@@ -22,5 +22,6 @@
   "rarity": "レアリティ",
   "power": "総合力",
   "apply_event_filter": "イベントボーナスを適用する",
-  "skill": "スキル"
+  "skill": "スキル",
+  "unitCount": "Unit Count"
 }
