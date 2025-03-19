@@ -108,7 +108,8 @@
     "jp": "Japonais",
     "tw": "Chinois traditionnel",
     "en": "Anglais (Global)",
-    "kr": "Coréen"
+    "kr": "Coréen",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Mode d'affichage du contenu du jeu",
@@ -119,6 +120,7 @@
   "miscs": "Divers",
   "darkmode": "Luminosité",
   "spoilerContent": "Contenu du spoiler",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Région actuellement détectée",
   "regionTooltip": "Ceci déterminera votre région de serveur CDN",
   "modify": "Modifier",
@@ -147,5 +149,9 @@
   "honor": {
     "bonds": "Kizuna",
     "others": "Autre"
-  }
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Rangs des personnages"
 }
