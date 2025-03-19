@@ -152,5 +152,6 @@
   },
   "costume": "Costume",
   "hair": "Hair Style",
-  "head": "Head Accessory"
+  "head": "Head Accessory",
+  "characterRank": "Character Rank"
 }
