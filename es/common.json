@@ -108,7 +108,8 @@
     "jp": "Japonés ",
     "tw": "Chino tradicional",
     "en": "Ingles (Global)",
-    "kr": "Coreano"
+    "kr": "Coreano",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Modo de Visualización de Contenido del Juego",
@@ -119,6 +120,7 @@
   "miscs": "Varios",
   "darkmode": "Modo de brillo",
   "spoilerContent": "Contenido con Spoilers",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Región actual detectada",
   "regionTooltip": "Esto determinará la región de su servidor CDN",
   "modify": "Modificar",
@@ -142,5 +144,14 @@
   "icon": "Ícono",
   "copyToClipboard": "Copiar al Portapapeles",
   "scoreCalculator": "Calculadora de puntaje",
-  "member": "Personaje"
+  "member": "Personaje",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Otros"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Rango de personaje"
 }
