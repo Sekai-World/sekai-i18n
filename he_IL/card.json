@@ -22,5 +22,6 @@
   "rarity": "נדירות",
   "power": "כוח",
   "apply_event_filter": "להשתמש באיבנט בונוס",
-  "skill": "יכולת"
+  "skill": "יכולת",
+  "unitCount": "Unit Count"
 }
