@@ -22,5 +22,6 @@
   "rarity": "ระดับความหายาก",
   "power": "ค่าพลังโดยรวม",
   "apply_event_filter": "เพิ่มโบนัสกิจกรรม",
-  "skill": "สกิล"
+  "skill": "สกิล",
+  "unitCount": "Unit Count"
 }
