@@ -51,7 +51,18 @@
   "eventTracker": "Pelacak Event",
   "eventAnalyzer": "Penganalisis Event",
   "settings": {
-    "title": "Pengaturan"
+    "title": "Pengaturan",
+    "interfaceLanguage": "Interface Language",
+    "gameContent": "Game Content",
+    "gameContentRegion": "Game Content Region",
+    "gameContentTranslationSource": {
+      "title": "Game Content Translation Source",
+      "official": "Official",
+      "community": "Komunitas"
+    },
+    "gameContentTranslationLanguage": "Game Content Translation Community Language",
+    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Dukungan",
   "toolbar": {
@@ -88,18 +99,18 @@
   "show": "Lihat",
   "level": "Level",
   "description": "Deskripsi",
+  "sequence": "Sequence",
   "profile": "Profil",
   "character_plural": "Karakter",
   "detectionFailedPrompt": "Gagal menentukan wilayah Anda, harap periksa kembali jaringan Anda. ",
-  "serverRegionSelect": "Wilayah Server",
+  "language": "Bahasa",
   "serverRegion": {
     "jp": "Jepang",
     "tw": "China Tradisional",
     "en": "Inggris (Global)",
-    "kr": "Korea"
+    "kr": "Korea",
+    "cn": "Simplified Chinese"
   },
-  "language": "Bahasa",
-  "darkmode": "Mode Kecerahan",
   "contentTranslationMode": {
     "title": "Mode Tampilan Konten Permainan",
     "original": "Original",
@@ -107,7 +118,9 @@
     "both": "Lihat Keduanya"
   },
   "miscs": "Lain-lain",
+  "darkmode": "Mode Kecerahan",
   "spoilerContent": "Konten Spoiler",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Wilayah yang terdeteksi saat ini",
   "regionTooltip": "Ini akan menentukan wilayah server Jaringan Pengiriman Konten Anda",
   "modify": "Modifikasi",
@@ -120,6 +133,7 @@
   "close": "Tutup",
   "area_item": "Area Item",
   "signup": "Daftar",
+  "serverRegionSelect": "Wilayah Server",
   "detect": {
     "button": "Deteksi",
     "checking": "Memeriksa...",
@@ -130,5 +144,14 @@
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
-  "member": "Karakter"
+  "member": "Karakter",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Rank Karakter"
 }
