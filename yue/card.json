@@ -1,0 +1,27 @@
+{
+  "cardLevel": "卡等級",
+  "skillLevel": "技能等級",
+  "trained": "特訓後",
+  "sideStory1Unlocked": "支線劇情 前篇 已解鎖",
+  "sideStory2Unlocked": "支線劇情 後篇 已解鎖",
+  "skillName": "技能名稱",
+  "tab": {
+    "title[0]": "特訓前卡面",
+    "title[1]": "特訓前裁剪卡面",
+    "title[2]": "特訓後卡面",
+    "title[3]": "特訓後裁剪卡面"
+  },
+  "gachaPhrase": "扭蛋短語",
+  "skillEffect": "技能效果",
+  "masterRank": "突破",
+  "masterRankLevel": "突破等級",
+  "stats": "綜合力",
+  "normal": "Normal",
+  "sideStory": "Side Story",
+  "sideStory_plural": "Side Stories",
+  "rarity": "Rarity",
+  "power": "Power",
+  "apply_event_filter": "Apply Event Bonuses",
+  "skill": "Skill",
+  "unitCount": "Unit Count"
+}
