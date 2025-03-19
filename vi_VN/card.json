@@ -22,5 +22,6 @@
   "rarity": "Độ hiếm",
   "power": "Năng lực",
   "apply_event_filter": "Cộng thêm vào điểm sự kiện",
-  "skill": "Kĩ năng"
+  "skill": "Kĩ năng",
+  "unitCount": "Unit Count"
 }
