@@ -22,5 +22,6 @@
   "rarity": "Редкость",
   "power": "Сила",
   "apply_event_filter": "Применить ивент-бонус",
-  "skill": "Навык"
+  "skill": "Навык",
+  "unitCount": "Unit Count"
 }
