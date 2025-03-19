@@ -152,5 +152,6 @@
   },
   "costume": "Kostium",
   "hair": "Fryzura",
-  "head": "Head Accessory"
+  "head": "Head Accessory",
+  "characterRank": "Ranga postaci"
 }
