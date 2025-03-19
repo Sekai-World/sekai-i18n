@@ -108,7 +108,8 @@
     "jp": "日本語版",
     "tw": "繁体字版",
     "en": "英語(グローバル版)",
-    "kr": "韓国語版"
+    "kr": "韓国語版",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "ゲームコンテンツ表示モード",
@@ -119,6 +120,7 @@
   "miscs": "その他",
   "darkmode": "画面の明るさ",
   "spoilerContent": "ネタバレを扱っている内容",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "現在探知された地域",
   "regionTooltip": "これにより、CDNサーバーが決定されます",
   "modify": "調整・変更",
@@ -142,5 +144,14 @@
   "icon": "アイコン",
   "copyToClipboard": "クリップボードにコピー",
   "scoreCalculator": "スコア計算",
-  "member": "キャラクター"
+  "member": "キャラクター",
+  "bondsRank": "キズナランク",
+  "honor": {
+    "bonds": "キズナ",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "キャラクターランク"
 }
