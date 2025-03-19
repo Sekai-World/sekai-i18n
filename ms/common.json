@@ -108,7 +108,8 @@
     "jp": "Bahasa Jepun",
     "tw": "Bahasa Cina Tradisional",
     "en": "Bahasa Inggeris (Luar Asia)",
-    "kr": "Bahasa Korea"
+    "kr": "Bahasa Korea",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Mod Paparan Kandungan Permainan",
@@ -119,6 +120,7 @@
   "miscs": "Aneka",
   "darkmode": "Mod Kecerahan",
   "spoilerContent": "Kandungan Belum Terbit",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Kawasan Dikesan Semasa",
   "regionTooltip": "Ini akan menentukan kawasan pelayan CDN anda",
   "modify": "Ubahsuai",
@@ -142,5 +144,14 @@
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan Keratan",
   "scoreCalculator": "Kalkulator Markah",
-  "member": "Watak"
+  "member": "Watak",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Kedudukan Watak"
 }
