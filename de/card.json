@@ -22,5 +22,6 @@
   "rarity": "Seltenheit",
   "power": "Stärke",
   "apply_event_filter": "Füge Event Bonus hinzu",
-  "skill": "Skill"
+  "skill": "Skill",
+  "unitCount": "Unit Count"
 }
