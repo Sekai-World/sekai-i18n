@@ -22,5 +22,6 @@
   "rarity": "Rzadkość",
   "power": "Moc",
   "apply_event_filter": "Zastosuj bonusy za wydarzenie",
-  "skill": "Umiejętność"
+  "skill": "Umiejętność",
+  "unitCount": "Unit Count"
 }
