@@ -22,5 +22,6 @@
   "rarity": "Vzácnost",
   "power": "Síla",
   "apply_event_filter": "Aplikovat bonusy eventu",
-  "skill": "Skill"
+  "skill": "Skill",
+  "unitCount": "Unit Count"
 }
