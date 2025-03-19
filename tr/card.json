@@ -1,0 +1,27 @@
+{
+  "cardLevel": "Kart Seviyesi",
+  "skillLevel": "Beceri Seviyesi",
+  "trained": "Eğitilmiş",
+  "sideStory1Unlocked": "1. Yan Hikaye Açılmış",
+  "sideStory2Unlocked": "2. Yan Hikaye Açılmış",
+  "skillName": "Beceri İsmi",
+  "tab": {
+    "title[0]": "Normal Resmi",
+    "title[1]": "Normal Kesilmiş Resmi",
+    "title[2]": "Eğitim Sonrası Resmi",
+    "title[3]": "Eğitim Sonrası Kesilmiş Resmi"
+  },
+  "gachaPhrase": "Gacha Sözü",
+  "skillEffect": "Beceri Etkisi",
+  "masterRank": "Master Rank",
+  "masterRankLevel": "Master Rank Level",
+  "stats": "İstatistikler",
+  "normal": "Normal",
+  "sideStory": "Yan Hikaye",
+  "sideStory_plural": "Yan Hikayeler",
+  "rarity": "Rarity",
+  "power": "Güç",
+  "apply_event_filter": "Apply Event Bonuses",
+  "skill": "Beceri",
+  "unitCount": "Unit Count"
+}
