@@ -22,5 +22,6 @@
   "rarity": "Raritate",
   "power": "Putere",
   "apply_event_filter": "Aplică amplificatorii evenimentului",
-  "skill": "Abilitate"
+  "skill": "Abilitate",
+  "unitCount": "Unit Count"
 }
