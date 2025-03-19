@@ -6,11 +6,6 @@
   "music": "เพลง",
   "campaign": "กิจกรรม",
   "bug": "ข้อผิดพลาด",
-  "character": "ตัวละคร",
-  "all": "ทั้งหมด",
-  "rarity": "ระดับความหายาก",
-  "attribute": "คุณสมบัติ",
-  "search": "ค้นหา",
   "replace": "แทนที่",
   "delete": "ลบ",
   "load": "โหลดข้อมูล",
@@ -25,6 +20,11 @@
     "second": "วินาที"
   },
   "ongoing_event": "อีเว้นต์ที่ดำเนินอยู่",
+  "character": "ตัวละคร",
+  "all": "ทั้งหมด",
+  "rarity": "ระดับความหายาก",
+  "attribute": "คุณสมบัติ",
+  "search": "ค้นหา",
   "spoiler": "Spoiler",
   "about": "เกี่ยวกับ",
   "comment": "ความคิดเห็น",
@@ -51,7 +51,18 @@
   "eventTracker": "ติดตามอีเว้นต์",
   "eventAnalyzer": "วิเคราะห์อีเว้นต์",
   "settings": {
-    "title": "ตั้งค่า"
+    "title": "ตั้งค่า",
+    "interfaceLanguage": "Interface Language",
+    "gameContent": "Game Content",
+    "gameContentRegion": "Game Content Region",
+    "gameContentTranslationSource": {
+      "title": "Game Content Translation Source",
+      "official": "Official",
+      "community": "ชุมชน"
+    },
+    "gameContentTranslationLanguage": "Game Content Translation Community Language",
+    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "สนับสนุนเรา",
   "toolbar": {
@@ -88,17 +99,18 @@
   "show": "การแสดง",
   "level": "เลเวล",
   "description": "คำอธิบาย",
+  "sequence": "Sequence",
   "profile": "ข้อมูลตัวละคร",
   "character_plural": "ตัวละคร",
   "detectionFailedPrompt": "ไม่สามารถค้นหาตำแหน่งของคุณได้ โปรดตรวจสอบการเชื่อมต่อของคุณ",
-  "serverRegionSelect": "ภูมิภาคของเซิฟเวอร์",
+  "language": "ภาษา",
   "serverRegion": {
     "jp": "ญี่ปุ่น",
     "tw": "จีน",
-    "en": "อังกฤษ (Global)"
+    "en": "อังกฤษ (Global)",
+    "kr": "Korean",
+    "cn": "Simplified Chinese"
   },
-  "language": "ภาษา",
-  "darkmode": "ปรับความสว่าง",
   "contentTranslationMode": {
     "title": "การแสดงผลภาษา",
     "original": "ดั้งเดิม",
@@ -106,7 +118,9 @@
     "both": "แสดงทั้งสองอย่าง"
   },
   "miscs": "อื่น ๆ",
+  "darkmode": "ปรับความสว่าง",
   "spoilerContent": "Spoiler Content",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "ภูมิภาคที่ตรวจพบ",
   "regionTooltip": "นี่จะกำหนดภูมิภาคของเซิฟเวอร์ CDN",
   "modify": "แก้ไข",
@@ -119,6 +133,7 @@
   "close": "ปิด",
   "area_item": "ไอเท็มในพื้นที่",
   "signup": "สมัคร",
+  "serverRegionSelect": "ภูมิภาคของเซิฟเวอร์",
   "detect": {
     "button": "ตรวจจับ",
     "checking": "กำลังตรวจสอบ...",
@@ -129,5 +144,14 @@
   "icon": "รูปไอคอน",
   "copyToClipboard": "คัดลอก",
   "scoreCalculator": "คำนวนคะแนน",
-  "member": "ตัวละคร"
+  "member": "ตัวละคร",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "แรงค์ตัวละคร"
 }
