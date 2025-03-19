@@ -23,5 +23,6 @@
   "power": "종합 능력치",
   "apply_event_filter": "이벤트 보너스 적용",
   "skill": "스킬",
-  "unitCount": "Unit Count"
+  "unitCount": "Unit Count",
+  "specialCutIn": "Special 3DMV Cut-In"
 }
