@@ -22,5 +22,6 @@
   "rarity": "Rareté",
   "power": "Pouvoir",
   "apply_event_filter": "Appliquer les bonus d'événements",
-  "skill": "Compétence"
+  "skill": "Compétence",
+  "unitCount": "Unit Count"
 }
