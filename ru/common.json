@@ -108,7 +108,8 @@
     "jp": "Japanese",
     "tw": "Traditional Chinese",
     "en": "English (Global)",
-    "kr": "Корейский"
+    "kr": "Корейский",
+    "cn": "Simplified Chinese"
   },
   "contentTranslationMode": {
     "title": "Режим отображения игрового контента",
@@ -119,6 +120,7 @@
   "miscs": "Разное",
   "darkmode": "Режим яркости",
   "spoilerContent": "Спойлеры",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Ваш регион",
   "regionTooltip": "Определяет ваш регион",
   "modify": "Изменить",
@@ -142,5 +144,14 @@
   "icon": "Баннер",
   "copyToClipboard": "Скопировать в буфер обмена",
   "scoreCalculator": "Калькулятор счёта",
-  "member": "Участники"
+  "member": "Участники",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Ранг персонажа"
 }
