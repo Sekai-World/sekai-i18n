@@ -51,7 +51,18 @@
   "eventTracker": "Theo dõi sự kiện",
   "eventAnalyzer": "Phân tích sự kiện",
   "settings": {
-    "title": "Cài đặt"
+    "title": "Cài đặt",
+    "interfaceLanguage": "Interface Language",
+    "gameContent": "Nội dung trò chơi",
+    "gameContentRegion": "Vùng nội dung trò chơi",
+    "gameContentTranslationSource": {
+      "title": "Nguồn dịch nội dung trò chơi",
+      "official": "Chính thức",
+      "community": "Cộng đồng"
+    },
+    "gameContentTranslationLanguage": "Game Content Translation Community Language",
+    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Hỗ trợ",
   "toolbar": {
@@ -88,18 +99,18 @@
   "show": "Hiển thị",
   "level": "Cấp độ",
   "description": "Miêu tả",
+  "sequence": "Sequence",
   "profile": "Hồ sơ",
   "character_plural": "Nhân vật",
   "detectionFailedPrompt": "Xác minh khu vực không thành công, vui lòng kiểm tra lại kết nối",
-  "serverRegionSelect": "Khu vực máy chủ",
+  "language": "Ngôn ngữ",
   "serverRegion": {
     "jp": "Tiếng Nhật",
     "tw": "Chữ Hán phồn thể",
     "en": "Tiếng Anh (Toàn cầu)",
-    "kr": "Tiếng Hàn"
+    "kr": "Tiếng Hàn",
+    "cn": "Simplified Chinese"
   },
-  "language": "Ngôn ngữ",
-  "darkmode": "Chế độ sáng",
   "contentTranslationMode": {
     "title": "Chế độ hiển thị nội dung game",
     "original": "Gốc",
@@ -107,7 +118,9 @@
     "both": "Hiển thị tất cả"
   },
   "miscs": "Khác",
+  "darkmode": "Chế độ sáng",
   "spoilerContent": "Nội dung tiết lộ trước",
+  "spoilerContentMosaicked": "Spoiler Mosaicked",
   "currentRegion": "Khu vực máy chủ",
   "regionTooltip": "Tính năng này sẽ dò khu vực máy chủ CDN của bạn",
   "modify": "Chỉnh sửa",
@@ -120,6 +133,7 @@
   "close": "Đóng",
   "area_item": "Vật phẩm khu vực",
   "signup": "Đăng nhập",
+  "serverRegionSelect": "Khu vực máy chủ",
   "detect": {
     "button": "Dò tìm",
     "checking": "Đang kiểm tra...",
@@ -130,5 +144,14 @@
   "icon": "Icon",
   "copyToClipboard": "Dán vào bộ nhớ đệm",
   "scoreCalculator": "Tính điểm số",
-  "member": "Nhân vật"
+  "member": "Nhân vật",
+  "bondsRank": "Kizuna Rank",
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
+  },
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
+  "characterRank": "Cấp độ nhân vật"
 }
