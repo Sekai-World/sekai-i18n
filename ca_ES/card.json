@@ -1,4 +1,10 @@
 {
+  "cardLevel": "Nivell de cart",
+  "skillLevel": "Nivell d'habilitat",
+  "trained": "Entrenada",
+  "sideStory1Unlocked": "1a part Història secundària desbloquetjada",
+  "sideStory2Unlocked": "2a part Història secundària desbloquetjada",
+  "skillName": "Nom de l'habilitat",
   "tab": {
     "title[0]": "Imatge normal",
     "title[1]": "Imatge normal retallada",
@@ -6,19 +12,16 @@
     "title[3]": "Imatge entrenada retallada"
   },
   "gachaPhrase": "Frase al Gacha",
-  "skillLevel": "Nivell d'habilitat",
-  "skillName": "Nom de l'habilitat",
   "skillEffect": "Efecte de l'habilitat",
+  "masterRank": "Rang mestre",
+  "masterRankLevel": "Master Rank Level",
   "stats": "Stats",
-  "cardLevel": "Nivell de cart",
   "normal": "Normal",
-  "trained": "Entrenada",
   "sideStory": "Història secundària",
-  "sideStory1Unlocked": "1a part Història secundària desbloquetjada",
-  "sideStory2Unlocked": "2a part Història secundària desbloquetjada",
   "sideStory_plural": "Històries secondaries",
   "rarity": "Raresa",
   "power": "Poder",
   "apply_event_filter": "Aplicar bonus d'esdeveniment",
-  "skill": "Habilitat"
+  "skill": "Habilitat",
+  "unitCount": "Unit Count"
 }
