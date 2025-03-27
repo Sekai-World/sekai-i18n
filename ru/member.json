@@ -27,5 +27,7 @@
   "specialSkill": "Талант",
   "favoriteFood": "Любимая еда",
   "hatedFood": "Нелюбимая еда",
-  "weak": "Слабость"
+  "weak": "Слабость",
+  "availableWords": "Доступные слова",
+  "gameData": "Игровые данные"
 }
