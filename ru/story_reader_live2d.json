@@ -21,7 +21,7 @@
   "settings": {
     "se_volume": "Громкость звуковых эффектов",
     "voice_volume": "Громкость голосов",
-    "bgm_volume": "BGM Volume",
+    "bgm_volume": "Громкость заднего фона",
     "text_animation": "Text Animation",
     "show_warning": "Show warning",
     "heading": "Настройки"
