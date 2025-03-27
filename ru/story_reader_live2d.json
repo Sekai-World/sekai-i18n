@@ -1,0 +1,30 @@
+{
+  "load_button": {
+    "ready": "Нажмите чтобы загрузить",
+    "loading": "Загрузка...",
+    "loaded": "Загружено"
+  },
+  "progress": {
+    "load_model_data": "Загружаем данные модели...",
+    "load_media": "Загружаем аудио данные...",
+    "load_model_assets": "Загружаем ресурсы...",
+    "load_model_motion": "Загружаем данные движений...",
+    "load_model_to_canvas": "Рисуем на полотно...",
+    "get_resource_url": "Вычисляем ресурсы...",
+    "get_scenario_data": "Загружаем данные сценария..."
+  },
+  "toggle_full_screen": "Full screen",
+  "toggle_page_full_screen": "Fit to page",
+  "auto_play": "Auto play",
+  "hide_settings": "Hide settings",
+  "show_settings": "Show settings",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Voice Volume",
+    "bgm_volume": "BGM Volume",
+    "text_animation": "Text Animation",
+    "show_warning": "Show warning",
+    "heading": "Настройки"
+  },
+  "story_ended": "Story ended"
+}
