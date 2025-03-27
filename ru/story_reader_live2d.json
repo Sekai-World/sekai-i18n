@@ -19,7 +19,7 @@
   "hide_settings": "Скрыть настройки",
   "show_settings": "Показать настройки",
   "settings": {
-    "se_volume": "SE Volume",
+    "se_volume": "Звук звуковых эффектов",
     "voice_volume": "Voice Volume",
     "bgm_volume": "BGM Volume",
     "text_animation": "Text Animation",
