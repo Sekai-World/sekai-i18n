@@ -11,7 +11,7 @@
   "newlyWrittenSong": "Neu geschriebenes Song",
   "title": {
     "boost": "Bonus",
-    "cheerful_carnival": "Cheerful Carnival",
+    "cheerful_carnival": " fröhlicher karneval",
     "timepoint": "Zeit Punkte",
     "rankingRewards": "Ranglisten-Belohnungen"
   },
@@ -77,7 +77,7 @@
   },
   "type": {
     "marathon": "Marathon",
-    "cheerful_carnival": "Cheerful Carnival",
+    "cheerful_carnival": " fröhlicher karneval",
     "world_bloom": "World Link"
   },
   "distributionEndAt": "Reward Distribution Until",
