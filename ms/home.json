@@ -20,8 +20,8 @@
     "assetVer": "Versi Aset ",
     "multiPlayerVer": "Versi Multipemain "
   },
-  "happy_2_year_anniversary": "Selamat Ulang Tahun ke-2!",
-  "2_year_anniversary_countdown": "Kira Detik ke Ulang Tahun ke-2",
+  "happy_anniversary": "Selamat Ulang Tahun ke-{{year}}",
+  "anniversary_countdown": "Countdown to {{year}} Anniversary",
   "disclaimer": "Laman sesawang ini tidak memiliki sebarang bahan, semua bahan dimiliki oleh empunya hak, termasuklah tetapi tidak terhad kepada Sega, Colorful Palette dan Crypton. Laman sesawang ini sebuah pangkalan data buatan peminat hanya untuk tujuan penyelidikan, dan tiada kaitan secara rasmi dengan Sega mahupun Colorful Palette.",
   "detect": {
     "warning": "Dijalankan dalam mod keserasian, anda mungkin mengalami isu prestasi. Cuba naik taraf pelayar anda atau versi iOS/macOS anda. <br> Maklumat lanjut: <l>Can I Use - WebP image format</l>",
