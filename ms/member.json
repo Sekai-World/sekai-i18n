@@ -27,5 +27,7 @@
   "specialSkill": "Kepakaran",
   "favoriteFood": "Makanan Kegemaran",
   "hatedFood": "Makanan Dibenci",
-  "weak": "Kelemahan"
+  "weak": "Kelemahan",
+  "availableWords": "Perkataan Tersedia",
+  "gameData": "Data Permainan"
 }
