@@ -25,6 +25,7 @@
     "fullscreen": "Togol skrin penuh",
     "shot": "Simpan imej",
     "stop_record": "Berhenti merakam",
-    "start_record": "Mula merakam"
+    "start_record": "Mula merakam",
+    "reset": "Muat semula model"
   }
 }
