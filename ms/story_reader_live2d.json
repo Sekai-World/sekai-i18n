@@ -1,0 +1,30 @@
+{
+  "load_button": {
+    "ready": "Klik untuk muatkan",
+    "loading": "Memuatkan...",
+    "loaded": "Dimuatkan"
+  },
+  "progress": {
+    "load_model_data": "Memuatkan data model...",
+    "load_media": "Memuatkan media suara...",
+    "load_model_assets": "Memuatkan aset...",
+    "load_model_motion": "Memuatkan data gerakan...",
+    "load_model_to_canvas": "Melukiskan ke kanvas...",
+    "get_resource_url": "Menghitungkan sumber...",
+    "get_scenario_data": "Memuatkan data senario..."
+  },
+  "toggle_full_screen": "Full screen",
+  "toggle_page_full_screen": "Fit to page",
+  "auto_play": "Auto play",
+  "hide_settings": "Hide settings",
+  "show_settings": "Show settings",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Voice Volume",
+    "bgm_volume": "BGM Volume",
+    "text_animation": "Text Animation",
+    "show_warning": "Show warning",
+    "heading": "Tetapan"
+  },
+  "story_ended": "Story ended"
+}
