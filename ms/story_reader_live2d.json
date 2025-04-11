@@ -21,7 +21,7 @@
   "settings": {
     "se_volume": "Kekuatan Kesan Bunyi",
     "voice_volume": "Kekuatan Suara",
-    "bgm_volume": "BGM Volume",
+    "bgm_volume": "Kekuatan Muzik Latar",
     "text_animation": "Text Animation",
     "show_warning": "Show warning",
     "heading": "Tetapan"
