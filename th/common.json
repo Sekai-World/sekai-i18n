@@ -52,7 +52,7 @@
   "eventAnalyzer": "วิเคราะห์อีเว้นต์",
   "settings": {
     "title": "ตั้งค่า",
-    "interfaceLanguage": "Interface Language",
+    "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
     "gameContent": "Game Content",
     "gameContentRegion": "Game Content Region",
     "gameContentTranslationSource": {
