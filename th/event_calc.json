@@ -34,7 +34,7 @@
   },
   "songMode": {
     "label": "เลือกเพลง",
-    "all_songs": "Compare songs",
+    "all_songs": "เปรียบเทียบเพลง",
     "only_one": "Targeting one"
   },
   "assumption": "สมมติฐาน: กด Perfect ทั้งหมด ผู้เล่นทั้งหมดใช้ทีมเดียวกัน ไม่มีการเพิ่มคะแนนโบนัส"
