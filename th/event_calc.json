@@ -1,27 +1,41 @@
 {
-  "songSelect": {
-    "label": "เลือกเพลง",
-    "desc": "เลือกเพลงสำหรับวิเคราะห์",
-    "select": {
-      "song": "เพลง",
-      "difficulty": "ความยาก"
-    }
-  },
-  "gameData": {
-    "label": "ข้อมูลเกม",
-    "desc": "ใส่ข้อมูลจากเกมเพื่อคำนวณ",
-    "energyDrink": "ค่าการเพิ่มคะแนน",
-    "currentPoint": "คะแนนปัจจุบัน",
-    "targetPoint": "คะแนนเป้าหมาย",
-    "remainingTime": "เวลาที่เหลืออยู่ของอีเว้นต์",
-    "eventBonusRate": "อัตราโบนัสอีเว้นต์ (%)"
-  },
-  "assumption": "สมมติฐาน: กด Perfect ทั้งหมด ผู้เล่นทั้งหมดใช้ทีมเดียวกัน ไม่มีการเพิ่มคะแนนโบนัส",
   "result": {
+    "perHour": "ต่อชั่วโมง",
     "eventPointPerPlay": "จำนวนแต้มอีเว้นต์ต่อการเล่นหนึ่งครั้ง",
     "playClount": "จำนวนครั้งที่เล่นทั้งหมด",
     "playTime": "เวลาที่เล่นทั้งหมด",
     "useBoost": "คะแนนที่เพิ่มทั้งหมด",
     "totalPoint": "คะแนนอีเว้นต์ทั้งหมด"
-  }
+  },
+  "eventData": {
+    "label": "Event Data"
+  },
+  "eventMode": {
+    "existed": "Existing",
+    "custom": "Customize"
+  },
+  "gameData": {
+    "energyDrink": "ค่าการเพิ่มคะแนน",
+    "eventBonusRate": "อัตราโบนัสอีเว้นต์ (%)",
+    "teamAvgPower": "Average Total Power",
+    "currentPoint": "คะแนนปัจจุบัน",
+    "targetPoint": "คะแนนเป้าหมาย",
+    "label": "ข้อมูลเกม",
+    "desc": "ใส่ข้อมูลจากเกมเพื่อคำนวณ",
+    "remainingTime": "เวลาที่เหลืออยู่ของอีเว้นต์"
+  },
+  "songSelect": {
+    "label": "เลือกเพลง",
+    "select": {
+      "difficulty": "ความยาก",
+      "song": "เพลง"
+    },
+    "desc": "เลือกเพลงสำหรับวิเคราะห์"
+  },
+  "songMode": {
+    "label": "เลือกเพลง",
+    "all_songs": "Compare songs",
+    "only_one": "Targeting one"
+  },
+  "assumption": "สมมติฐาน: กด Perfect ทั้งหมด ผู้เล่นทั้งหมดใช้ทีมเดียวกัน ไม่มีการเพิ่มคะแนนโบนัส"
 }
