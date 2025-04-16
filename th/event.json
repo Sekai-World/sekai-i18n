@@ -49,7 +49,7 @@
       "get_prediction": "การคาดการ์ณคะแนนจะปรากฎหลังจากอีกเวนท์เริ่ม 24 ชั่วโมง"
     },
     "checkbox": {
-      "get_prediction": "Fetch Prediction"
+      "get_prediction": "ดึงข้อมูลพยากรณ์"
     },
     "title": {
       "data_graph": "Event Point Graph",
