@@ -7,11 +7,12 @@
   "vocalTab": {
     "title[0]": "เวอร์ชันสั้น",
     "title[1]": "เวอร์ชันยาว",
-    "title[2]": "มิวสิกวีดีโอ"
+    "title[2]": "มิวสิกวีดีโอ",
+    "original_video": "Original video"
   },
   "fileFormat": {
     "caption": "รูปแบบของไฟล์",
-    "mp3": "เอ็มพีสาม",
+    "mp3": "MP3",
     "flac": "FLAC"
   },
   "skipBeginningSilence": "ข้ามช่วงไม่มีเสียง",
@@ -35,7 +36,7 @@
     "rankS": "Rank S"
   },
   "difficulty_plural": "ระดับความยาก",
-  "chartCredit": "แผนภาพดัดแปลงจากเวอร์ชั่นของ Erik's (pjsek.ai) ",
+  "chartCredit": "Chart Image is modified from pjsekai.moe version.",
   "noteCount": "จำนวนโน๊ตเพลง",
   "comboRewards": "รางวัลคอมโบ",
   "chartImage": "แผนภาพ",
