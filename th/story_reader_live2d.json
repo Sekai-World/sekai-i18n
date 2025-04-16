@@ -1,0 +1,30 @@
+{
+  "load_button": {
+    "ready": "คลิกเพื่อโหลด",
+    "loading": "กำลังประมวลผล...",
+    "loaded": "โหลดเสร็จสิ้น"
+  },
+  "progress": {
+    "load_model_data": "กำลังโหลดข้อมูลโมเดล...",
+    "load_media": "กำลังโหลดสื่อเสียง...",
+    "load_model_assets": "กำลังโหลดทรัพยากร...",
+    "load_model_motion": "กำลังโหลดข้อมูลการเคลื่อนไหว...",
+    "load_model_to_canvas": "กำลังวาดลงผืนผ้าใบ...",
+    "get_resource_url": "กำลังคำนวณทรัพยากร...",
+    "get_scenario_data": "กำลังโหลดข้อมูลสถานการณ์..."
+  },
+  "toggle_full_screen": "Full screen",
+  "toggle_page_full_screen": "Fit to page",
+  "auto_play": "Auto play",
+  "hide_settings": "Hide settings",
+  "show_settings": "Show settings",
+  "settings": {
+    "se_volume": "SE Volume",
+    "voice_volume": "Voice Volume",
+    "bgm_volume": "BGM Volume",
+    "text_animation": "Text Animation",
+    "show_warning": "Show warning",
+    "heading": "ตั้งค่า"
+  },
+  "story_ended": "Story ended"
+}
