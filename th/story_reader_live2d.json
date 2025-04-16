@@ -21,8 +21,8 @@
   "settings": {
     "se_volume": "ระดับเสียงเอฟเฟกต์",
     "voice_volume": "ระดับเสียงพากย์",
-    "bgm_volume": "BGM Volume",
-    "text_animation": "Text Animation",
+    "bgm_volume": "ระดับเสียงเพลงพื้นหลัง",
+    "text_animation": "แอนิเมชันข้อความ",
     "show_warning": "Show warning",
     "heading": "ตั้งค่า"
   },
