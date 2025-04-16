@@ -23,7 +23,7 @@
     "voice_volume": "ระดับเสียงพากย์",
     "bgm_volume": "ระดับเสียงเพลงพื้นหลัง",
     "text_animation": "แอนิเมชันข้อความ",
-    "show_warning": "Show warning",
+    "show_warning": "แสดงคำเตือน",
     "heading": "ตั้งค่า"
   },
   "story_ended": "Story ended"
