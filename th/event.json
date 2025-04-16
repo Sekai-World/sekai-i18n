@@ -52,7 +52,7 @@
       "get_prediction": "ดึงข้อมูลพยากรณ์"
     },
     "title": {
-      "data_graph": "Event Point Graph",
+      "data_graph": "กราฟจุดอีเว้นท์",
       "average_speed": "ความเร็วโดยเฉลี่ย"
     }
   },
