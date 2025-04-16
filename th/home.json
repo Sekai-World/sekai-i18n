@@ -21,7 +21,7 @@
     "multiPlayerVer": "เวอร์ชั่น Multiplayer"
   },
   "happy_anniversary": "สุขสันต์วันครบรอบปี {{year}}!",
-  "anniversary_countdown": "Countdown to {{year}} Anniversary",
+  "anniversary_countdown": "นับถอยหลังสู่วันครบรอบปี {{year}}",
   "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
   "detect": {
     "warning": "เบราว์เซอร์ของคุณมีปัญหาในด้านการทำงาน เราจะปรับการใช้งานแบบ compatibility mode โปรดอัพเดตเบราว์เซอร์หรือ iOS/macOS ของคุณ <br> ข้อมูลเพิ่มเติม: <l> ฉันสามารถใช้ฟอร์แมตภาพ WebP ได้ไหม</l>",
