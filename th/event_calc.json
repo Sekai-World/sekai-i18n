@@ -17,7 +17,7 @@
   "gameData": {
     "energyDrink": "ค่าการเพิ่มคะแนน",
     "eventBonusRate": "อัตราโบนัสอีเว้นต์ (%)",
-    "teamAvgPower": "Average Total Power",
+    "teamAvgPower": "พลังรวมเฉลี่ย",
     "currentPoint": "คะแนนปัจจุบัน",
     "targetPoint": "คะแนนเป้าหมาย",
     "label": "ข้อมูลเกม",
