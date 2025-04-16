@@ -39,7 +39,7 @@
     },
     "button": {
       "curr_event": "อีเวนต์ปัจจุบัน",
-      "graph": "Fetch Graph",
+      "graph": "ดึงกราฟ",
       "random-palette": "Randomize Palette"
     },
     "pred_at": "Prediction calculated at",
