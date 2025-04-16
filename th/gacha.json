@@ -24,13 +24,13 @@
     "reset": "รีเซ็ต",
     "total": "ทั้งหมด",
     "jewel": "เพชร",
-    "ticket": "Gacha Ticket",
+    "ticket": "ตั๋วกาชา",
     "count": "จำนวน",
     "percentage": "อัตราร้อยละ",
     "cost": "จำนวนเพชร"
   },
   "behavior": {
-    "free": "Free",
+    "free": "ฟรี",
     "normal": "ปกติ",
     "over_rarity_3_once": "Guaranteed (3⭑)",
     "once_a_day": "วันละหนึ่งครั้ง",
