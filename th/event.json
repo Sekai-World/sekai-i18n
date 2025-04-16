@@ -42,7 +42,7 @@
       "graph": "ดึงกราฟ",
       "random-palette": "จานสีแบบสุ่ม"
     },
-    "pred_at": "Prediction calculated at",
+    "pred_at": "การคำนวณพยากรณ์ที่",
     "show_all_rank": "แสดงอันดับทั้งหมด",
     "time_travel_enabled": "Time travel",
     "tooltip": {
