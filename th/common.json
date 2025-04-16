@@ -145,12 +145,12 @@
   "copyToClipboard": "คัดลอก",
   "scoreCalculator": "คำนวนคะแนน",
   "member": "ตัวละคร",
-  "bondsRank": "Kizuna Rank",
+  "bondsRank": "ระดับคิซึนะ",
   "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
+    "bonds": "คิซึนะ",
+    "others": "อื่น ๆ"
   },
-  "costume": "Costume",
+  "costume": "ชุดคอสตูม",
   "hair": "Hair Style",
   "head": "Head Accessory",
   "characterRank": "แรงค์ตัวละคร"
