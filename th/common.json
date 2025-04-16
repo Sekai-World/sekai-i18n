@@ -53,16 +53,16 @@
   "settings": {
     "title": "ตั้งค่า",
     "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
-    "gameContent": "Game Content",
-    "gameContentRegion": "Game Content Region",
+    "gameContent": "เนื้อหาในเกม",
+    "gameContentRegion": "ภูมิภาคของเนื้อหาในเกม",
     "gameContentTranslationSource": {
-      "title": "Game Content Translation Source",
-      "official": "Official",
+      "title": "แหล่งที่มาของการแปลเนื้อหาในเกม",
+      "official": "ออฟฟิเชียล",
       "community": "ชุมชน"
     },
-    "gameContentTranslationLanguage": "Game Content Translation Community Language",
-    "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region"
+    "gameContentTranslationLanguage": "ภาษาแปลเนื้อหาในเกมโดยชุมชน",
+    "gameContentTranslationLanguageFollowInterface": "ตรงกับภาษาของอินเทอร์เฟซ",
+    "gameContentTranslationRegion": "ภูมิภาคอย่างเป็นทางการของเนื้อหาแปล"
   },
   "support": "สนับสนุนเรา",
   "toolbar": {
@@ -99,7 +99,7 @@
   "show": "การแสดง",
   "level": "เลเวล",
   "description": "คำอธิบาย",
-  "sequence": "Sequence",
+  "sequence": "ลำดับ",
   "profile": "ข้อมูลตัวละคร",
   "character_plural": "ตัวละคร",
   "detectionFailedPrompt": "ไม่สามารถค้นหาตำแหน่งของคุณได้ โปรดตรวจสอบการเชื่อมต่อของคุณ",
@@ -108,8 +108,8 @@
     "jp": "ญี่ปุ่น",
     "tw": "จีน",
     "en": "อังกฤษ (Global)",
-    "kr": "Korean",
-    "cn": "Simplified Chinese"
+    "kr": "เกาหลี",
+    "cn": "จีนตัวย่อ"
   },
   "contentTranslationMode": {
     "title": "การแสดงผลภาษา",
@@ -120,7 +120,7 @@
   "miscs": "อื่น ๆ",
   "darkmode": "ปรับความสว่าง",
   "spoilerContent": "Spoiler Content",
-  "spoilerContentMosaicked": "Spoiler Mosaicked",
+  "spoilerContentMosaicked": "ซ่อนสปอยล์ด้วยภาพเบลอ",
   "currentRegion": "ภูมิภาคที่ตรวจพบ",
   "regionTooltip": "นี่จะกำหนดภูมิภาคของเซิฟเวอร์ CDN",
   "modify": "แก้ไข",
