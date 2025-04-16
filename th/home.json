@@ -22,7 +22,7 @@
   },
   "happy_anniversary": "สุขสันต์วันครบรอบปี {{year}}!",
   "anniversary_countdown": "นับถอยหลังสู่วันครบรอบปี {{year}}",
-  "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
+  "disclaimer": "เว็บไซต์นี้ไม่ได้เป็นเจ้าของเนื้อหาภายในแต่อย่างใด เครดิตทั้งหมดเป็นของเจ้าของลิขสิทธิ์ที่แท้จริง รวมถึงแต่ไม่จำกัดเพียง Sega, Colorful Palette และ Crypton เว็บไซต์นี้จัดทำขึ้นโดยแฟนคลับเพื่อวัตถุประสงค์ด้านการศึกษาและการอ้างอิงเท่านั้น โดยไม่มีความเกี่ยวข้องอย่างเป็นทางการกับ Sega หรือ Colorful Palette",
   "detect": {
     "warning": "เบราว์เซอร์ของคุณมีปัญหาในด้านการทำงาน เราจะปรับการใช้งานแบบ compatibility mode โปรดอัพเดตเบราว์เซอร์หรือ iOS/macOS ของคุณ <br> ข้อมูลเพิ่มเติม: <l> ฉันสามารถใช้ฟอร์แมตภาพ WebP ได้ไหม</l>",
     "failed": "น่าเสียตาย คุณไม่สามารถโหลดภาพส่วนใหญ่ได้ โปรดอัพเดตเบราว์เซอร์ หรือ iOS/macOS ของคุณ <br> ข้อมูลเพิ่มเติม: <l> ฉันสามารถใช้ ฟอร์แมตภาพ WebP ได้ไหม</l>",
