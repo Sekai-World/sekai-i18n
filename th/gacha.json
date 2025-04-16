@@ -21,16 +21,21 @@
   "gacha_behaviors": "ตัวเลือกการกดกาชา",
   "gacha_simulator": "เครื่องจำลองตู้กาชา",
   "simulator": {
+    "reset": "รีเซ็ต",
     "total": "ทั้งหมด",
-    "cost": "จำนวนเพชร",
+    "jewel": "เพชร",
+    "ticket": "Gacha Ticket",
     "count": "จำนวน",
-    "percentage": "อัตราร้อยละ"
+    "percentage": "อัตราร้อยละ",
+    "cost": "จำนวนเพชร"
   },
   "behavior": {
+    "free": "Free",
     "normal": "ปกติ",
-    "over_rarity_3_once": "การันตี (3*)",
+    "over_rarity_3_once": "Guaranteed (3⭑)",
     "once_a_day": "วันละหนึ่งครั้ง",
-    "over_rarity_4_once": "การันตี (4*)"
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
   },
   "gachaType": {
     "ceil": "ขีดสูงสุด",
