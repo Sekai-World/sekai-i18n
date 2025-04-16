@@ -44,7 +44,7 @@
     },
     "pred_at": "การคำนวณพยากรณ์ที่",
     "show_all_rank": "แสดงอันดับทั้งหมด",
-    "time_travel_enabled": "Time travel",
+    "time_travel_enabled": "เดินทางข้ามเวลา",
     "tooltip": {
       "get_prediction": "การคาดการ์ณคะแนนจะปรากฎหลังจากอีกเวนท์เริ่ม 24 ชั่วโมง"
     },
