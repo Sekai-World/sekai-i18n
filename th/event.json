@@ -2,27 +2,85 @@
   "alreadyEnded": "อีเวนต์ได้จบลงแล้ว",
   "notStarted": "อีเวนต์ยังไม่เริ่ม",
   "tab": {
-    "title[0]": "แบนเนอร์ และ โลโก้",
+    "title[0]": "แบนเนอร์ & โลโก้",
     "title[1]": "ภาพพื้นหลัง",
     "title[2]": "ตัวละคร"
   },
   "remainingTime": "เวลาที่เหลือสำหรับอีเวนต์",
   "progress": "ความคืบหน้า",
+  "newlyWrittenSong": "Newly Written Song",
+  "title": {
+    "boost": "บูส",
+    "cheerful_carnival": "เชียร์ฟูล คาร์นิวัล",
+    "timepoint": "ช่วงเวลา",
+    "rankingRewards": "รางวัลอันดับ"
+  },
   "boostAttribute": "คุณสมบัติที่เพิ่มคะแนน",
   "boostCharacters": "ตัวละครที่เพิ่มคะแนน",
   "maxBoost": "การ์ดที่เพิ่มคะแนนสูงสุด (ตรงทั้งคุณสมบัติและตัวละคร)",
-  "startAt": "อีเว้นต์เริ่มในตอน",
-  "closeAt": "อีเว้นต์จบในตอน",
+  "boostSpecificCards": "การ์ดเพิ่มคะแนนฉบับพิเศษ",
+  "boostCards": "การ์ดเพิ่มคะแนน",
+  "eventCards": "อีเวนต์การ์ด",
+  "cheerful_carnival_midterm_1": "ประกาศผลครั้งแรก",
+  "cheerful_carnival_midterm_2": "ประกาศผลครั้งที่สอง",
+  "startAt": "อีเวนต์เริ่มในตอน",
+  "closeAt": "อีเวนต์จบในตอน",
   "endAt": "หน้าอีเว้นต์เปิดถึงตอน",
   "rankingAnnounceAt": "ประกาศผลจัดอันดับ ณ เวลา",
   "distributionStartAt": "ส่งรางวัลให้ตั้งแต่เวลา",
-  "distributionEndAt": "ส่งรางวัลจนถึงเวลา",
+  "rankingReward": {
+    "start": "จาก",
+    "end": "ถึง"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "ชื่ออีเวนต์",
+      "rankings": "อันดับ"
+    },
+    "button": {
+      "curr_event": "อีเวนต์ปัจจุบัน",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "แสดงอันดับทั้งหมด",
+    "time_travel_enabled": "Time travel",
+    "tooltip": {
+      "get_prediction": "การคาดการ์ณคะแนนจะปรากฎหลังจากอีกเวนท์เริ่ม 24 ชั่วโมง"
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "title": {
+      "data_graph": "Event Point Graph",
+      "average_speed": "ความเร็วโดยเฉลี่ย"
+    }
+  },
   "ranking": "อันดับ",
-  "realtime": "อัพเดตตามเวลาจริง",
+  "realtime": "ข้อมูลล่าสุดเมื่อ",
   "nextfetch": "ครั้งหน้าที่อัพเดต",
-  "aggregateAt": "ช่วงเวลารวบรวมผล",
-  "alreadyPast": "ผ่านไปแล้ว",
+  "rankingTable": {
+    "head": {
+      "userProfile": "ผู้ใช้",
+      "score": "แต้ม(คะแนน)",
+      "speed_per_hour": "ความเร็ว โดยประมาณ (ต่อชั่วโมง)",
+      "prediction": "การคาดเดา"
+    }
+  },
+  "no_enough_data": "ข้อมูลไม่เพียงพอ",
+  "speedTable": {
+    "head": {
+      "all_time": "เวลาทั้งหมด (ต่อชั่วโมง)",
+      "last_24h": "เมื่อ 24 ชั่วโมงก่อน (ต่อชั่วโมง)",
+      "last_1h": "เมื่อ 1 ชั่วโมงก่อน (ต่อชั่วโมง)"
+    }
+  },
   "type": {
-    "marathon": "มาราธอน"
-  }
+    "marathon": "มาราธอน",
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "ส่งรางวัลจนถึงเวลา",
+  "aggregateAt": "ช่วงเวลารวบรวมผล",
+  "alreadyPast": "ผ่านไปแล้ว"
 }
