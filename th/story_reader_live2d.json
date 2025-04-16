@@ -13,7 +13,7 @@
     "get_resource_url": "กำลังคำนวณทรัพยากร...",
     "get_scenario_data": "กำลังโหลดข้อมูลสถานการณ์..."
   },
-  "toggle_full_screen": "Full screen",
+  "toggle_full_screen": "เต็มหน้าจอ",
   "toggle_page_full_screen": "Fit to page",
   "auto_play": "Auto play",
   "hide_settings": "Hide settings",
