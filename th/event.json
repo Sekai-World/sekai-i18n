@@ -40,7 +40,7 @@
     "button": {
       "curr_event": "อีเวนต์ปัจจุบัน",
       "graph": "ดึงกราฟ",
-      "random-palette": "Randomize Palette"
+      "random-palette": "จานสีแบบสุ่ม"
     },
     "pred_at": "Prediction calculated at",
     "show_all_rank": "แสดงอันดับทั้งหมด",
