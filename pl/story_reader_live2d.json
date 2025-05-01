@@ -11,7 +11,7 @@
     "load_model_motion": "Ładowanie danych ruchu...",
     "load_model_to_canvas": "Drawing to canvas...",
     "get_resource_url": "Obliczanie zasobów...",
-    "get_scenario_data": "Loading scenario data..."
+    "get_scenario_data": "Ładowanie scenariusza date"
   },
   "toggle_full_screen": "cały ekran",
   "toggle_page_full_screen": "Fit to page",
