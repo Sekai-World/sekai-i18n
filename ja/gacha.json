@@ -30,10 +30,12 @@
     "cost": "費用"
   },
   "behavior": {
+    "free": "無料",
     "normal": "単発",
-    "over_rarity_3_once": "10連(星3一体確定)",
+    "over_rarity_3_once": "Guaranteed (3⭑)",
     "once_a_day": "1日一回",
-    "over_rarity_4_once": "10連(星4一体確定)"
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
   },
   "gachaType": {
     "ceil": "天井",
