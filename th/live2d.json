@@ -18,7 +18,8 @@
   "select": {
     "model": "โมเดล",
     "motions": "การเคลื่อนไหว",
-    "expressions": "แสดงความคิดเห็น"
+    "expressions": "แสดงความคิดเห็น",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "ดาวน์โหลด",
