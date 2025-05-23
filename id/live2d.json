@@ -18,13 +18,15 @@
   "select": {
     "model": "Model",
     "motions": "Gerakan",
-    "expressions": "Ekspresi"
+    "expressions": "Ekspresi",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Unduh",
     "fullscreen": "Beralih ke layar penuh",
     "shot": "Simpan gambar",
     "stop_record": "Berhenti merekam",
-    "start_record": "Mulai merekam"
+    "start_record": "Mulai merekam",
+    "reset": "Reload model"
   }
 }
