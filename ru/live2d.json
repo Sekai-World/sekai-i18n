@@ -18,7 +18,8 @@
   "select": {
     "model": "Моделька",
     "motions": "Движения",
-    "expressions": "Эмоции"
+    "expressions": "Эмоции",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Скачать",
