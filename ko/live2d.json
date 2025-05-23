@@ -18,13 +18,15 @@
   "select": {
     "model": "모델",
     "motions": "모션",
-    "expressions": "표정"
+    "expressions": "표정",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "다운로드",
     "fullscreen": "전체화면 전환",
     "shot": "이미지 저장",
     "stop_record": "녹화 중지",
-    "start_record": "녹화 시작"
+    "start_record": "녹화 시작",
+    "reset": "Reload model"
   }
 }
