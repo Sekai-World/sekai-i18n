@@ -18,7 +18,8 @@
   "select": {
     "model": "モデル",
     "motions": "モーション",
-    "expressions": "表情"
+    "expressions": "表情",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "ダウンロード",
