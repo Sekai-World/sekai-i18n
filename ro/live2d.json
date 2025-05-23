@@ -18,13 +18,15 @@
   "select": {
     "model": "Model",
     "motions": "Mişcări",
-    "expressions": "Expresii"
+    "expressions": "Expresii",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Descarcă",
     "fullscreen": "Comutare pe tot ecranul",
     "shot": "Salvează imaginea",
     "stop_record": "Opreşte înregistrarea",
-    "start_record": "Începe înregistrarea"
+    "start_record": "Începe înregistrarea",
+    "reset": "Reload model"
   }
 }
