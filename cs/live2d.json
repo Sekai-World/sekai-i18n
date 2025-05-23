@@ -18,13 +18,15 @@
   "select": {
     "model": "Model",
     "motions": "Pohyby",
-    "expressions": "Obličeje"
+    "expressions": "Obličeje",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Stáhnout",
     "fullscreen": "Přepnout na celou obrazovku",
     "shot": "Uložit obrázek",
     "stop_record": "Zastavit nahrávání",
-    "start_record": "Začít nahrávání"
+    "start_record": "Začít nahrávání",
+    "reset": "Reload model"
   }
 }
