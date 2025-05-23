@@ -18,13 +18,15 @@
   "select": {
     "model": "Mô hình",
     "motions": "Chuyển động",
-    "expressions": "Biểu cảm"
+    "expressions": "Biểu cảm",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Tải xuống",
     "fullscreen": "Toàn màn hình",
     "shot": "Lưu ảnh",
     "stop_record": "Dừng ghi hình",
-    "start_record": "Bắt đầu ghi hình"
+    "start_record": "Bắt đầu ghi hình",
+    "reset": "Reload model"
   }
 }
