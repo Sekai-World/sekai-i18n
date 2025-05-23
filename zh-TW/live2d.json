@@ -18,13 +18,15 @@
   "select": {
     "model": "模型",
     "motions": "動作",
-    "expressions": "表情"
+    "expressions": "表情",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "下載",
     "fullscreen": "切換全螢幕",
     "shot": "儲存圖片",
     "stop_record": "停止錄影",
-    "start_record": "開始錄影"
+    "start_record": "開始錄影",
+    "reset": "Reload model"
   }
 }
