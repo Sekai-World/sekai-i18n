@@ -18,13 +18,15 @@
   "select": {
     "model": "Modell",
     "motions": "Animationen",
-    "expressions": "Gesichtsausdrücke"
+    "expressions": "Gesichtsausdrücke",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Herunterladen",
     "fullscreen": "Vollbildschirm",
     "shot": "Bild speichern",
     "stop_record": "Aufnahme beenden",
-    "start_record": "Aufnahme starten"
+    "start_record": "Aufnahme starten",
+    "reset": "Reload model"
   }
 }
