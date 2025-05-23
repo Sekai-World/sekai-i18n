@@ -18,13 +18,15 @@
   "select": {
     "model": "Modèle",
     "motions": "Mouvements",
-    "expressions": "Expressions"
+    "expressions": "Expressions",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Télécharger",
     "fullscreen": "Basculer en plein écran",
     "shot": "Enregistrer l'image",
     "stop_record": "Arrêter l'enregistrement",
-    "start_record": "Démarrer l'enregistrement"
+    "start_record": "Démarrer l'enregistrement",
+    "reset": "Reload model"
   }
 }
