@@ -18,7 +18,8 @@
   "select": {
     "model": "Model",
     "motions": "Ruchy postaci",
-    "expressions": "Wyrazy twarzy"
+    "expressions": "Wyrazy twarzy",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Pobierz",
