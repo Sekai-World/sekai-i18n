@@ -18,7 +18,8 @@
   "select": {
     "model": "Model",
     "motions": "Gerakan",
-    "expressions": "Penyataan"
+    "expressions": "Penyataan",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Muat turun",
