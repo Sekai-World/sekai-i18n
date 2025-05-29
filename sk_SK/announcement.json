@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Pri načítavaní údajov sa vyskytla chyba.",
+  "category": "Kategória",
+  "no_entry": "Žiadne záznamy.",
+  "published_at": "Publikované v",
+  "translators": "Prekladači",
+  "title": "Titul",
+  "language": "Jazyk",
+  "author": "Autor",
+  "co-authors": "Spoluautori",
+  "categoryName": {
+    "website": "Webová stránka",
+    "normal": "Ostatné",
+    "game_update": "Aktualizácia hry",
+    "maintenance": "Údržba",
+    "bug": "Chyba"
+  }
+}
