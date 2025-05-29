@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Akcia",
+    "show-from": "Zobraziť od",
+    "title-column": "Titul",
+    "show-until": "Zobraziť do",
+    "title": "Novinky o hre"
+  },
+  "update": "Súvisiace odkazy",
+  "alert_contributor": {
+    "title": "Ďakujeme našim prispievateľom!"
+  },
+  "alert_translate": {
+    "title": "Ďakujeme prekladateľom!"
+  },
+  "versionInfo": {
+    "caption": "Informácie o verzii",
+    "gameClientVer": "Verzia herného klienta",
+    "dataVer": "Verzia dát",
+    "assetVer": "Verzia assetov",
+    "multiPlayerVer": "Multiplayer verzia"
+  },
+  "happy_anniversary": "Všetko najlepšie k {{year}} výročiu!",
+  "anniversary_countdown": "Odpočet do výročia {{year}}",
+  "disclaimer": "Táto webová stránka nevlastní žiadne materiály, všetky zásluhy patria ich právoplatnému majiteľovi, vrátane, ale nie výlučne Sega, Colorful Palette a Crypton. Táto webová stránka je fanúšikovská databáza len na výskumné účely, a nemá žiadny oficiálny vzťah k Sega alebo Colorful Palette.",
+  "detect": {
+    "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
+    "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
+    "success": "Congratulations! Your browser seems modern, you are able to load images faster and save bandwidth."
+  },
+  "directLink": {
+    "caption": "Skratky",
+    "contribList": "Prispievatelia"
+  },
+  "alert1": {
+    "translation": "Preklady",
+    "development": "Vývoj",
+    "title": "Help needed!",
+    "see_contrib_list": "See the contributors list",
+    "contact": "Kontakt",
+    "join-discord": "Join Discord Server"
+  },
+  "changelog": "Zoznam zmien",
+  "happy_new_year": "🎊Šťastný nový rok!🎉",
+  "new_year_countdown": "Odpočet do nového roka",
+  "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
+}
