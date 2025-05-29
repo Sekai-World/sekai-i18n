@@ -29,10 +29,10 @@
     "multi": "Multiplayer",
     "label": "Mode Select",
     "desc": "Select recommender work mode.",
-    "score": "Score",
+    "score": "Skóre",
     "event_point": "Event Point",
     "play_count": "Per Play Count",
-    "per_hour": "Per Hour"
+    "per_hour": "Za hodinu"
   },
   "table": {
     "column": {
