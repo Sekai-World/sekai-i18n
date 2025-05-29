@@ -1,0 +1,17 @@
+{
+  "send": "Odoslať",
+  "write": "Napísať",
+  "no_comment_yet": "Žiadne komentáre.",
+  "report-abuse": {
+    "title": "Nahlásiť komentár",
+    "description": "Report this comment if you think it makes your not comfortable.",
+    "reason": {
+      "label": "Dôvod nahlásenia",
+      "other": "Ostatné",
+      "bad_words": "Vulgarizmy",
+      "discrimination": "Diskriminácia"
+    },
+    "content": "Tvoja správa",
+    "success": "Thanks for your report, we will review shortly."
+  }
+}
