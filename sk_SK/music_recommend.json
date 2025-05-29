@@ -1,0 +1,57 @@
+{
+  "buildTeam": {
+    "cardMaxError": "Toto je už dosť kariet.",
+    "addCard": "Pridať kartu",
+    "saveTeam": "Uložiť tím",
+    "loadTeam": "Načítať tím",
+    "clearTeam": "Zmazať tím",
+    "teamPower": "Sila tímu",
+    "label": "Postaviť tím",
+    "desc": "Build your team for Song Recommender",
+    "duplicatedCardError": "Can't add same card to one team.",
+    "loadTeamError": "Skontroluj svoj vstup.",
+    "teamTextCopied": "Team text copied to clipboard.",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "Pridať kartu",
+    "selectChara": "Postava",
+    "selectRarity": "Vzácnosť"
+  },
+  "result": {
+    "musicName": "Názov piesne",
+    "label": "Výsledok",
+    "desc": "Just one step and you're finished."
+  },
+  "getResult": "Získať výsledok",
+  "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
+    "label": "Mode Select",
+    "desc": "Select recommender work mode.",
+    "score": "Score",
+    "event_point": "Event Point",
+    "play_count": "Per Play Count",
+    "per_hour": "Per Hour"
+  },
+  "table": {
+    "column": {
+      "low": "Lowest Score",
+      "high": "Highest Score"
+    }
+  },
+  "assumption": "Assumption: all perfect, event bonus 0%, use 0 energy drink, multiplayers all have same team.",
+  "saveTeamDialog": {
+    "title": "Uložiť tím",
+    "desc": "Save team code and load it later."
+  },
+  "teamCode": "Team Code",
+  "loadTeamDialog": {
+    "title": "Načítať tím",
+    "desc": "Paste saved team code and load it."
+  },
+  "songSelect": {
+    "label": "Song Select",
+    "desc": "Select one or more songs for analyzing. Leave it blank to analyze all songs."
+  }
+}
