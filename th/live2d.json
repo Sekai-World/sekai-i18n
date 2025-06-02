@@ -12,14 +12,14 @@
     "download_texture": "ดาวน์โหลดองค์ประกอบ",
     "download_moc3": "ดาวน์โหลด Skeleton Model 2D",
     "download_physics": "ดาวน์โหลด physics",
-    "download_motions": "ดาวน์โหลดการเคลื่อนไหวและการแสดงผล",
+    "download_motions": "ดาวน์โหลดการเคลื่อนไหวและการแสดงผล {{จำนวน}}/{{ทั้งหมด}}",
     "generate_zip": "สร้างข้อมูลไฟล์ zip"
   },
   "select": {
     "model": "โมเดล",
     "motions": "การเคลื่อนไหว",
     "expressions": "แสดงความคิดเห็น",
-    "idle_animation": "Idle animation"
+    "idle_animation": "อนิเมชั่นท่าหยุดนิ่ง"
   },
   "tooltip": {
     "download": "ดาวน์โหลด",
