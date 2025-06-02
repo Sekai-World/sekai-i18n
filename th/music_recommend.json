@@ -25,19 +25,19 @@
   },
   "getResult": "แสดงผล",
   "modeSelect": {
-    "solo": "Solo",
-    "multi": "Multiplayer",
+    "solo": "โหมดเดี่ยว",
+    "multi": "โหมดผู้เล่นหลายคน",
     "label": "เลือกรูปแบบ",
     "desc": "เลือกรูปแบบการทำงานที่แนะนำ",
-    "score": "Score",
-    "event_point": "Event Point",
+    "score": "คะแนน",
+    "event_point": "แต้มอีเว้นท์",
     "play_count": "Per Play Count",
     "per_hour": "ต่อชั่วโมง"
   },
   "table": {
     "column": {
-      "low": "Lowest Score",
-      "high": "Highest Score"
+      "low": "คะแนนต่ำสุด",
+      "high": "คะแนนสูงสุด"
     }
   },
   "assumption": "สมมุติว่า: กดได้เพอร์เฟ็คทั้งหมด เปอร์เซ็นต์คูณอีเว้นต์ 0% ไม่ใช่กระป๋องสตามิน่าเลย และผู้เล่นในโหมดมัลติใช้ทีมเดียวกันหมด",
