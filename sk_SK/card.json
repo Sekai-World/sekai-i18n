@@ -7,7 +7,7 @@
   "skillName": "Názov zručnosti",
   "tab": {
     "title[0]": "Normálny obrázok",
-    "title[1]": "Normal trim image",
+    "title[1]": "Normálny orezaný obrázok",
     "title[2]": "After training image",
     "title[3]": "After training trim image"
   },
