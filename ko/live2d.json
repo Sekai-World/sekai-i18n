@@ -19,7 +19,8 @@
     "model": "모델",
     "motions": "모션",
     "expressions": "표정",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "다운로드",
