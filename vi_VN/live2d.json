@@ -19,7 +19,8 @@
     "model": "Mô hình",
     "motions": "Chuyển động",
     "expressions": "Biểu cảm",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "Tải xuống",
