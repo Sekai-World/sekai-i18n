@@ -19,7 +19,8 @@
     "model": "Modèle",
     "motions": "Mouvements",
     "expressions": "Expressions",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "Télécharger",
