@@ -19,7 +19,8 @@
     "model": "โมเดล",
     "motions": "การเคลื่อนไหว",
     "expressions": "แสดงความคิดเห็น",
-    "idle_animation": "อนิเมชั่นท่าหยุดนิ่ง"
+    "idle_animation": "อนิเมชั่นท่าหยุดนิ่ง",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "ดาวน์โหลด",
