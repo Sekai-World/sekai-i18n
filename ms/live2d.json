@@ -19,7 +19,8 @@
     "model": "Model",
     "motions": "Gerakan",
     "expressions": "Penyataan",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "Muat turun",
