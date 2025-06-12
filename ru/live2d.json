@@ -19,7 +19,8 @@
     "model": "Моделька",
     "motions": "Движения",
     "expressions": "Эмоции",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "Скачать",
