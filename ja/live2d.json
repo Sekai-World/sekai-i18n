@@ -19,7 +19,8 @@
     "model": "モデル",
     "motions": "モーション",
     "expressions": "表情",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Idle animation",
+    "parameters": "Parameters"
   },
   "tooltip": {
     "download": "ダウンロード",
