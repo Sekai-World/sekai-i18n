@@ -8,11 +8,13 @@
   },
   "remainingTime": "Temps restant",
   "progress": "Progression",
+  "newlyWrittenSong": "Newly Written Song",
   "title": {
     "boost": "Boost",
     "cheerful_carnival": "Joyeux carnaval",
     "timepoint": "Points de temps",
-    "rankingRewards": "Récompenses de classement"
+    "rankingRewards": "Récompenses de classement",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Attribut favorisé",
   "boostCharacters": "Personnages favorisés",
@@ -76,9 +78,13 @@
   },
   "type": {
     "marathon": "Marathon",
-    "cheerful_carnival": "Joyeux carnaval"
+    "cheerful_carnival": "Joyeux carnaval",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Fin de la distribution des récompenses",
   "aggregateAt": "Fin de l'événement",
-  "alreadyPast": "Déjà passé"
+  "alreadyPast": "Déjà passé",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
