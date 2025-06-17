@@ -13,7 +13,8 @@
     "boost": "Бонус",
     "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Время проведения",
-    "rankingRewards": "Награды за рейтинг"
+    "rankingRewards": "Награды за рейтинг",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Бонус-атрибут",
   "boostCharacters": "Бонус-персонажи",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "Вручение наград до",
   "aggregateAt": "Подсчёт очков",
-  "alreadyPast": "Уже прошло"
+  "alreadyPast": "Уже прошло",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
