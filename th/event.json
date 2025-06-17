@@ -13,7 +13,8 @@
     "boost": "บูส",
     "cheerful_carnival": "เชียร์ฟูล คาร์นิวัล",
     "timepoint": "ช่วงเวลา",
-    "rankingRewards": "รางวัลอันดับ"
+    "rankingRewards": "รางวัลอันดับ",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "คุณสมบัติที่เพิ่มคะแนน",
   "boostCharacters": "ตัวละครที่เพิ่มคะแนน",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "ส่งรางวัลจนถึงเวลา",
   "aggregateAt": "ช่วงเวลารวบรวมผล",
-  "alreadyPast": "ผ่านไปแล้ว"
+  "alreadyPast": "ผ่านไปแล้ว",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
