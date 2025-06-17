@@ -1,0 +1,90 @@
+{
+  "alreadyEnded": "האיבנט נגמר",
+  "notStarted": "לא התחיל",
+  "tab": {
+    "title[0]": "באנר & לוגו",
+    "title[1]": "רקע",
+    "title[2]": "דמות"
+  },
+  "remainingTime": "זמן נותר",
+  "progress": "התקדמות",
+  "newlyWrittenSong": "שיר חדש שנכתב",
+  "title": {
+    "boost": "Boost",
+    "cheerful_carnival": "קרניבל שמח",
+    "timepoint": "Time Points",
+    "rankingRewards": "Ranking Rewards",
+    "worldLinkChapters": "World Link Chapters"
+  },
+  "boostAttribute": "Boost Attribute",
+  "boostCharacters": "Boost Charaters",
+  "maxBoost": "Max Boost (Both Matched)",
+  "boostSpecificCards": "Boost Special Cards",
+  "boostCards": "Boost Cards",
+  "eventCards": "Event Cards",
+  "cheerful_carnival_midterm_1": "First Midterm Report",
+  "cheerful_carnival_midterm_2": "Second Midterm Report",
+  "startAt": "האיבנט מתחיל ב-",
+  "closeAt": "האיבנט נגמר ב-",
+  "endAt": "Event Entry Available Until",
+  "rankingAnnounceAt": "הכרזת דירוג ב-",
+  "distributionStartAt": "קבלת פרסים מ-",
+  "rankingReward": {
+    "start": "מ-",
+    "end": "ל-"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "שם האיבנט",
+      "rankings": "דירוגים"
+    },
+    "button": {
+      "curr_event": "האירוע הנוכחי ",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "Show all rankings",
+    "time_travel_enabled": "מסע בזמן",
+    "tooltip": {
+      "get_prediction": "Prediction is only available after 24 hours from event start."
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "title": {
+      "data_graph": "Event Point Graph",
+      "average_speed": "Average Speed"
+    }
+  },
+  "ranking": "דירוג",
+  "realtime": "Real time data at",
+  "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "משתמש",
+      "score": "נקודה(ות)",
+      "speed_per_hour": "Avg. Speed (/h)",
+      "prediction": "Prediction"
+    }
+  },
+  "no_enough_data": "אין מספיק נתונים.",
+  "speedTable": {
+    "head": {
+      "all_time": "כל הזמן (לשעה)",
+      "last_24h": "24 שעות אחרונות (לשעה)",
+      "last_1h": "שעה 1 אחרונה (לשעה)"
+    }
+  },
+  "type": {
+    "marathon": "מרתון",
+    "cheerful_carnival": "קרניבל שמח",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "קבלת פרסים עד-",
+  "aggregateAt": "נקודת זמן מצטברת",
+  "alreadyPast": "כבר עבר",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
+}
