@@ -13,7 +13,8 @@
     "boost": "부스트",
     "cheerful_carnival": "치어풀 카니발",
     "timepoint": "시점",
-    "rankingRewards": "랭킹 보상"
+    "rankingRewards": "랭킹 보상",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "부스트 속성",
   "boostCharacters": "부스트 캐릭터",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "보상 지급 종료",
   "aggregateAt": "집계 개시",
-  "alreadyPast": "경과일"
+  "alreadyPast": "경과일",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
