@@ -13,7 +13,8 @@
     "boost": "Cộng dồn",
     "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Thời gian",
-    "rankingRewards": "Phần thưởng xếp hạng"
+    "rankingRewards": "Phần thưởng xếp hạng",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Thuộc tính cộng dồn",
   "boostCharacters": "Nhân vật cộng dồn",
@@ -77,9 +78,13 @@
   },
   "type": {
     "marathon": "Marathon",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Phân phát giải thưởng đến",
   "aggregateAt": "Tổng điểm",
-  "alreadyPast": "Đã qua"
+  "alreadyPast": "Đã qua",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
