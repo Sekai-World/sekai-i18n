@@ -1,0 +1,90 @@
+{
+  "alreadyEnded": "O evento acabou",
+  "notStarted": "Não iniciado",
+  "tab": {
+    "title[0]": "Estandarte & logótipo",
+    "title[1]": "Papel de fundo",
+    "title[2]": "Personagem"
+  },
+  "remainingTime": "Tempo restante",
+  "progress": "Progresso",
+  "newlyWrittenSong": "Newly Written Song",
+  "title": {
+    "boost": "Impulso",
+    "cheerful_carnival": "Cheerful Carnaval",
+    "timepoint": "Pontos de cronómetro",
+    "rankingRewards": "Recompensas de classificação",
+    "worldLinkChapters": "World Link Chapters"
+  },
+  "boostAttribute": "Atributo de Boost",
+  "boostCharacters": "Boost das personagens",
+  "maxBoost": "Impulso máximo (Mistura dos dois)",
+  "boostSpecificCards": "Boost Special Cards",
+  "boostCards": "Boost das cartas",
+  "eventCards": "Cartas do evento",
+  "cheerful_carnival_midterm_1": "First Midterm Report",
+  "cheerful_carnival_midterm_2": "Second Midterm Report",
+  "startAt": "Evento começa ás",
+  "closeAt": "Evento acába ás",
+  "endAt": "Event Entry Available Until",
+  "rankingAnnounceAt": "Ranking Announcement At",
+  "distributionStartAt": "Distribuição de recompensas desde",
+  "rankingReward": {
+    "start": "De",
+    "end": "Para"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nome do evento",
+      "rankings": "Classificações"
+    },
+    "button": {
+      "curr_event": "Evento atual",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "pred_at": "Predição calculada em",
+    "show_all_rank": "Mostrar todas as classificações",
+    "time_travel_enabled": "Time travel",
+    "tooltip": {
+      "get_prediction": "Prediction is only available after 24 hours from event start."
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "title": {
+      "data_graph": "Event Point Graph",
+      "average_speed": "Velocidade média"
+    }
+  },
+  "ranking": "Classificação",
+  "realtime": "Real time data at",
+  "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Utilizador",
+      "score": "Ponto(s)",
+      "speed_per_hour": "Velocidade média (/h)",
+      "prediction": "Predição"
+    }
+  },
+  "no_enough_data": "Sem informação suficiente.",
+  "speedTable": {
+    "head": {
+      "all_time": "All time (per hour)",
+      "last_24h": "Últimas 24 horas (por hora)",
+      "last_1h": "Última hora (por hora)"
+    }
+  },
+  "type": {
+    "marathon": "Maratona",
+    "cheerful_carnival": "Cheerful Carnival (Carnaval animado)",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "Distribuição de recompensas até",
+  "aggregateAt": "Aggregate Timepoint",
+  "alreadyPast": "Already Past",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
+}
