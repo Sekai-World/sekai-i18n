@@ -8,11 +8,13 @@
   },
   "remainingTime": "Waktu yang tersisa",
   "progress": "Proses",
+  "newlyWrittenSong": "Newly Written Song",
   "title": {
     "boost": "Peningkatan",
     "cheerful_carnival": "Karnival Ceria",
     "timepoint": "Titik Waktu",
-    "rankingRewards": "Hadiah Peringkat"
+    "rankingRewards": "Hadiah Peringkat",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Atribut Boost",
   "boostCharacters": "Karakter Boost",
@@ -76,9 +78,13 @@
   },
   "type": {
     "marathon": "Maraton",
-    "cheerful_carnival": "Karnaval Ceria"
+    "cheerful_carnival": "Karnaval Ceria",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Pembagian Hadiah Hingga",
   "aggregateAt": "Titik waktu Teragregasi",
-  "alreadyPast": "Sudah lewat"
+  "alreadyPast": "Sudah lewat",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
