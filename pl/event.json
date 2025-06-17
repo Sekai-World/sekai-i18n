@@ -1,22 +1,25 @@
 {
   "alreadyEnded": "Wydarzenie zostało zakończone",
-  "notStarted": "Nie rozpoczęte",
+  "notStarted": "Nie rozpoczęto",
   "tab": {
     "title[0]": "Baner i logo",
     "title[1]": "Tło",
-    "title[2]": "Osoba"
+    "title[2]": "Postać"
   },
   "remainingTime": "Pozostały czas",
   "progress": "Progres",
+  "newlyWrittenSong": "Nowo Napisana Piosenka",
   "title": {
     "boost": "Doładowanie",
     "cheerful_carnival": "Wesoły Karnawał",
     "timepoint": "Punkty czasu",
-    "rankingRewards": "Nagrody rankingu"
+    "rankingRewards": "Nagrody rankingu",
+    "worldLinkChapters": "World Link Chapters"
   },
-  "boostAttribute": "Wzmacniający atrybut",
+  "boostAttribute": "Ulepsz Atrybut",
   "boostCharacters": "Wzmacniające postacie",
   "maxBoost": "Maksymalne wzmocnienie (oba dopasowane)",
+  "boostSpecificCards": "Ulepsz Specjalne Karty",
   "boostCards": "Wzmacniające karty",
   "eventCards": "Karty z wydarzenia",
   "cheerful_carnival_midterm_1": "Pierwszy raport śródroczny",
@@ -75,9 +78,13 @@
   },
   "type": {
     "marathon": "Maraton",
-    "cheerful_carnival": "Cheerful Carnival"
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Przydział nagród do",
   "aggregateAt": "Zagregowany punkt czasowy",
-  "alreadyPast": "Już minął"
+  "alreadyPast": "Już minął",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
