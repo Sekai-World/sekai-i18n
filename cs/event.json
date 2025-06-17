@@ -13,7 +13,8 @@
     "boost": "Zesílení",
     "cheerful_carnival": "Veselý Karneval",
     "timepoint": "Časový bod",
-    "rankingRewards": "Odměny za Rank"
+    "rankingRewards": "Odměny za Rank",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Zesílený Atribut",
   "boostCharacters": "Vysílené postavy",
@@ -77,9 +78,13 @@
   },
   "type": {
     "marathon": "Maraton",
-    "cheerful_carnival": "Veselý Karneval"
+    "cheerful_carnival": "Veselý Karneval",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Rozdělení odměn do",
   "aggregateAt": "Souhrn Časového Bodu",
-  "alreadyPast": "Už proběhl"
+  "alreadyPast": "Už proběhl",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
