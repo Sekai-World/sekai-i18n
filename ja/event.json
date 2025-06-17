@@ -13,7 +13,8 @@
     "boost": "ブースト",
     "cheerful_carnival": "チアフルカーニバル",
     "timepoint": "時点",
-    "rankingRewards": "ランキング報酬"
+    "rankingRewards": "ランキング報酬",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "ボーナスタイプ",
   "boostCharacters": "ボーナスキャラクター",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "報酬受け取り期限",
   "aggregateAt": "集計開始時間",
-  "alreadyPast": "経過時間"
+  "alreadyPast": "経過時間",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
