@@ -13,7 +13,8 @@
     "boost": "加成",
     "cheerful_carnival": "歡樂嘉年華",
     "timepoint": "時間點",
-    "rankingRewards": "排名獎勵"
+    "rankingRewards": "排名獎勵",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "加成屬性",
   "boostCharacters": "加成角色",
@@ -77,9 +78,13 @@
   },
   "type": {
     "marathon": "累積點數（馬拉松）",
-    "cheerful_carnival": "歡樂嘉年華"
+    "cheerful_carnival": "歡樂嘉年華",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "排名獎勵結束發放時間",
   "aggregateAt": "活動pt結算時間",
-  "alreadyPast": "活動已經過"
+  "alreadyPast": "活動已經過",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
