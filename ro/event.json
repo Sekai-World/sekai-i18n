@@ -13,7 +13,8 @@
     "boost": "Amplificatori",
     "cheerful_carnival": "Carnaval vesel",
     "timepoint": "Puncte de timp",
-    "rankingRewards": "Recompensele clasamentului"
+    "rankingRewards": "Recompensele clasamentului",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Atributul amplificat",
   "boostCharacters": "Personaje amplificate",
@@ -77,9 +78,13 @@
   },
   "type": {
     "marathon": "Maraton",
-    "cheerful_carnival": "Carnaval vesel"
+    "cheerful_carnival": "Carnaval vesel",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Distribuţia recompenselor până la",
   "aggregateAt": "Finalul evenimentului",
-  "alreadyPast": "Deja trecut"
+  "alreadyPast": "Deja trecut",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
