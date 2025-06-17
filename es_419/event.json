@@ -13,7 +13,8 @@
     "boost": "Bonus",
     "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Puntos de Tiempo",
-    "rankingRewards": "Recompensas de Ranking"
+    "rankingRewards": "Recompensas de Ranking",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Atributo de Bonus",
   "boostCharacters": "Personajes con Bonus",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "Distribución de recompensas hasta",
   "aggregateAt": "Punto de Tiempo Agregado",
-  "alreadyPast": "El evento ya pasó"
+  "alreadyPast": "El evento ya pasó",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
