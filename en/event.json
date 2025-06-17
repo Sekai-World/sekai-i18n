@@ -13,7 +13,8 @@
     "boost": "Boost",
     "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Time Points",
-    "rankingRewards": "Ranking Rewards"
+    "rankingRewards": "Ranking Rewards",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Boost Attribute",
   "boostCharacters": "Boost Charaters",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past"
+  "alreadyPast": "Already Past",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
