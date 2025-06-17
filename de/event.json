@@ -13,7 +13,8 @@
     "boost": "Bonus",
     "cheerful_carnival": " fröhlicher karneval",
     "timepoint": "Zeit Punkte",
-    "rankingRewards": "Ranglisten-Belohnungen"
+    "rankingRewards": "Ranglisten-Belohnungen",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Boost Attribute",
   "boostCharacters": "Boost Charaters",
@@ -82,5 +83,8 @@
   },
   "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Bereits vergangen"
+  "alreadyPast": "Bereits vergangen",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
