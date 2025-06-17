@@ -8,11 +8,13 @@
   },
   "remainingTime": "Temps restant",
   "progress": "Progrés",
+  "newlyWrittenSong": "Newly Written Song",
   "title": {
     "boost": "Impuls",
     "cheerful_carnival": "Carnaval animat",
     "timepoint": "Cronologia",
-    "rankingRewards": "Recompenses per classificació"
+    "rankingRewards": "Recompenses per classificació",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Atribut que dóna Impuls",
   "boostCharacters": "Personatges que donen Impuls",
@@ -76,9 +78,13 @@
   },
   "type": {
     "marathon": "Marató",
-    "cheerful_carnival": "Un Carnaval Animat"
+    "cheerful_carnival": "Un Carnaval Animat",
+    "world_bloom": "World Link"
   },
   "distributionEndAt": "Distribució de les recompenses fins el",
   "aggregateAt": "Afegir cronologia",
-  "alreadyPast": "Ja pasada"
+  "alreadyPast": "Ja pasada",
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
+  }
 }
