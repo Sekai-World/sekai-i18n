@@ -8,21 +8,27 @@
   },
   "remainingTime": "Tempo rimanente",
   "progress": "Progresso",
-  "eventCards": "Carte evento",
+  "newlyWrittenSong": "Nuova canzone scritta",
   "title": {
     "boost": "Bonus",
+    "cheerful_carnival": "Cheerful Carnival",
     "timepoint": "Termini temporali",
-    "rankingRewards": "Ricompense Rank"
+    "rankingRewards": "Ricompense Rank",
+    "worldLinkChapters": "World Link Chapters"
   },
   "boostAttribute": "Attributo bonus",
   "boostCharacters": "Personaggi bonus",
   "maxBoost": "Bonus massimo (Sia attributo che personaggio con bonus)",
+  "boostSpecificCards": "Boost Special Cards",
+  "boostCards": "Boost Cards",
+  "eventCards": "Carte evento",
+  "cheerful_carnival_midterm_1": "First Midterm Report",
+  "cheerful_carnival_midterm_2": "Second Midterm Report",
   "startAt": "L'evento inizia il",
   "closeAt": "L'evento termina il",
   "endAt": "Classifica evento disponibile fino il",
   "rankingAnnounceAt": "Comunicazione delle posizioni",
   "distributionStartAt": "Inizio distribuzione premi",
-  "distributionEndAt": "Termine distribuzione premi",
   "rankingReward": {
     "start": "Da",
     "end": "Fino"
@@ -70,9 +76,15 @@
       "last_1h": "Ultima ora (all'ora)"
     }
   },
+  "type": {
+    "marathon": "Maratona",
+    "cheerful_carnival": "Cheerful Carnival",
+    "world_bloom": "World Link"
+  },
+  "distributionEndAt": "Termine distribuzione premi",
   "aggregateAt": "Conteggio dei punti",
   "alreadyPast": "Già passato",
-  "type": {
-    "marathon": "Maratona"
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}"
   }
 }
