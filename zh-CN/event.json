@@ -85,6 +85,9 @@
   "aggregateAt": "点数合计时间",
   "alreadyPast": "活动已经过",
   "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}"
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
   }
 }
