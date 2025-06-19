@@ -85,6 +85,9 @@
   "aggregateAt": "Conteggio dei punti",
   "alreadyPast": "Già passato",
   "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}"
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
   }
 }
