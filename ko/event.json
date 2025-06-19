@@ -85,6 +85,9 @@
   "aggregateAt": "집계 개시",
   "alreadyPast": "경과일",
   "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}"
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
   }
 }
