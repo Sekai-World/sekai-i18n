@@ -38,5 +38,10 @@
     "life_recovery": "Life Recovery & Score Boost",
     "perfect_score_up": "Score Boost when PERFECT",
     "life_score_up": "Score Boost with life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Apply",
+    "clear": "Clear"
   }
 }
