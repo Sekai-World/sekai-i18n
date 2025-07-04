@@ -21,9 +21,34 @@
   "music_mv": {
     "caption": "Tipologia MV"
   },
+  "not-selected": "Not selected",
+  "stampType": {
+    "caption": "Stamp Type",
+    "text": "Text only",
+    "illustration": "With Illustration"
+  },
   "language": {
     "caption": "Lingua",
     "source": "Lingua d'origine",
     "target": "Lingua scelta"
+  },
+  "skill": {
+    "score_up": "Boost punteggio",
+    "judgment_up": "Judgment & Score Boost",
+    "life_recovery": "Recupero vita & Boost punteggio",
+    "perfect_score_up": "Boost punteggio con PERFECT",
+    "life_score_up": "Score Boost with life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Applica",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
