@@ -38,5 +38,17 @@
     "life_recovery": "Aumento de puntuación y recuperación",
     "perfect_score_up": "Aumento de puntuación al ser PERFECT",
     "life_score_up": "Puntuación Aumento de la condición de vida"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplicar",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
