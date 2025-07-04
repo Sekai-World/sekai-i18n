@@ -38,5 +38,17 @@
     "life_recovery": "Recuperarea vieţii si creşterea scorului",
     "perfect_score_up": "Creşterea scorului pe timp de PERFECT",
     "life_score_up": "Creşterea scorului cu condiţie de nivelul vieţii"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplică",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
