@@ -38,5 +38,10 @@
     "life_recovery": "Récupération de vie et amélioration de score",
     "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement",
     "life_score_up": "Amélioration de score avec état de la vie"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Appliquer",
+    "clear": "Clear"
   }
 }
