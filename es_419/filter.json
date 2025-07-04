@@ -38,5 +38,17 @@
     "life_recovery": "Aumento de vida y Bonus de puntaje",
     "perfect_score_up": "Puntaje Bonus cuando la nota es PERFECTA",
     "life_score_up": "Bonus de puntaje con condición de vida"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplicar",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
