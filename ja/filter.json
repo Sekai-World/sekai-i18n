@@ -38,5 +38,10 @@
     "life_recovery": "ライフ回復・スコア上昇",
     "perfect_score_up": "パーフェクト時のみスコア上昇",
     "life_score_up": "ライフに応じてスコア上昇"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "適用",
+    "clear": "Clear"
   }
 }
