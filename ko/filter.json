@@ -38,5 +38,10 @@
     "life_recovery": "라이프 회복 & 스코어 부스트",
     "perfect_score_up": "PERFECT일 때 스코어 부스트",
     "life_score_up": "라이프 조건이 있는 점수 부스트"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "적용",
+    "clear": "Clear"
   }
 }
