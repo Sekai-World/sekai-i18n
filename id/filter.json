@@ -38,5 +38,17 @@
     "life_recovery": "Pemulihan Nyawa & Peningkatan Skor",
     "perfect_score_up": "Peningkatan Skor ketika PERFECT",
     "life_score_up": "Kondisi hidup dengan Skor Tambahan"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Terapkan",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
