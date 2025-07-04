@@ -1,0 +1,47 @@
+{
+  "character": {
+    "caption": "شخصية"
+  },
+  "sort": {
+    "caption": "Sort",
+    "ascending": "من الأعلى",
+    "descending": "من الأسفل"
+  },
+  "honorType": {
+    "caption": "نوع العنوان",
+    "group_only_once": "اظهر واحد فقط بكل مجموعة"
+  },
+  "not_set": "غير محدد",
+  "missionType": {
+    "caption": "نوع المهَمة"
+  },
+  "music_tag": {
+    "caption": "Song tag"
+  },
+  "music_mv": {
+    "caption": "نوع الفيديو الموسيقي"
+  },
+  "not-selected": "Not selected",
+  "stampType": {
+    "caption": "نوع الملصق",
+    "text": "نص فقط",
+    "illustration": "مع الرسومات"
+  },
+  "language": {
+    "caption": "اللغة",
+    "source": "لغة المصدر",
+    "target": "اللغة المستهدفة"
+  },
+  "skill": {
+    "score_up": "Score Boost",
+    "judgment_up": "Judgment & Score Boost",
+    "life_recovery": "Life Recovery & Score Boost",
+    "perfect_score_up": "Score Boost when PERFECT",
+    "life_score_up": "Score Boost with life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "تطبيق",
+    "clear": "Clear"
+  }
+}
