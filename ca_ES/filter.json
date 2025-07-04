@@ -38,5 +38,17 @@
     "life_recovery": "Impuls de puntuació y recuperació",
     "perfect_score_up": "Impuls de puntuación per PERFECT",
     "life_score_up": "Impuls de puntuació amb les condicions de salut."
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplicar",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
