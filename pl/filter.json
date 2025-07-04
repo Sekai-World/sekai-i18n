@@ -38,5 +38,10 @@
     "life_recovery": "Odnowienie życia i zwiększenie wyniku",
     "perfect_score_up": "Zwiększenie wyniku, gdy PERFECT",
     "life_score_up": "Zwiększenie liczby punktów z life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Zastosuj",
+    "clear": "Clear"
   }
 }
