@@ -38,5 +38,10 @@
     "life_recovery": "回復和分數加成",
     "perfect_score_up": "PERFECT時分數加成",
     "life_score_up": "符合血量條件時分數加成"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "使用",
+    "clear": "Clear"
   }
 }
