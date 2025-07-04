@@ -38,5 +38,17 @@
     "life_recovery": "Zotavení života a vysílení skore",
     "perfect_score_up": "Vysílení skore když PERFECT",
     "life_score_up": "Vysílení skore s životní podmínkou"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplikovat",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
