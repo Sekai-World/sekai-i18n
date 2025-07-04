@@ -38,5 +38,10 @@
     "life_recovery": "Heilung & Punkte-Boost",
     "perfect_score_up": "Punkte-Boost wenn PERFEKT",
     "life_score_up": "Punkte-Boost mit Lebens-Bedingung"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Anwenden",
+    "clear": "Clear"
   }
 }
