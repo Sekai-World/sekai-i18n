@@ -1,10 +1,4 @@
 {
-  "skill": {
-    "score_up": "Impulso de pontuação",
-    "judgment_up": "Julgamento e impulso de pontuação",
-    "life_recovery": "Recuperação de vida e impulso de pontuação",
-    "perfect_score_up": "Impulso de pontuação quando PERFEITO"
-  },
   "character": {
     "caption": "Personagem"
   },
@@ -27,9 +21,34 @@
   "music_mv": {
     "caption": "Tipo de vídeo"
   },
+  "not-selected": "Not selected",
+  "stampType": {
+    "caption": "Stamp Type",
+    "text": "Text only",
+    "illustration": "With Illustration"
+  },
   "language": {
     "caption": "Língua",
     "source": "Língua-fonte",
     "target": "Língua-alvo"
+  },
+  "skill": {
+    "score_up": "Impulso de pontuação",
+    "judgment_up": "Julgamento e impulso de pontuação",
+    "life_recovery": "Recuperação de vida e impulso de pontuação",
+    "perfect_score_up": "Impulso de pontuação quando PERFEITO",
+    "life_score_up": "Score Boost with life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Aplicar",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
