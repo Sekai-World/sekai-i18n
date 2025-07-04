@@ -7,10 +7,48 @@
     "ascending": "น้อยไปมาก",
     "descending": "มากไปน้อย"
   },
+  "honorType": {
+    "caption": "Title Type",
+    "group_only_once": "Only show one in each group"
+  },
+  "not_set": "Not set",
   "missionType": {
     "caption": "ประเภทภารกิจ"
   },
   "music_tag": {
     "caption": "แทคของเพลง"
+  },
+  "music_mv": {
+    "caption": "ประเภท MV"
+  },
+  "not-selected": "Not selected",
+  "stampType": {
+    "caption": "Stamp Type",
+    "text": "Text only",
+    "illustration": "With Illustration"
+  },
+  "language": {
+    "caption": "ภาษา",
+    "source": "ภาษาเดิม",
+    "target": "ภาษาเป้าหมาย"
+  },
+  "skill": {
+    "score_up": "เพิ่มคะแนน",
+    "judgment_up": "พิจารณา & เพิ่มคะแนน",
+    "life_recovery": "เพิ่มชีวิต & เพิ่มคะแนน",
+    "perfect_score_up": "เพิ่มคะแนนเมื่อได้ PERFECT",
+    "life_score_up": "Score Boost with life condition"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "ตกลง",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
