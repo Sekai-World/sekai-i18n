@@ -38,5 +38,17 @@
     "life_recovery": "Hồi máu & Điểm cộng dồn",
     "perfect_score_up": "Điểm cộng dồn khi PERFECT",
     "life_score_up": "Điểm cộng dồn theo lượng máu"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Áp dụng",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
