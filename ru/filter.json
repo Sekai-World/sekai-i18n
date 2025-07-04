@@ -38,5 +38,17 @@
     "life_recovery": "Восстановление и Увеличение очков",
     "perfect_score_up": "Увеличение очков для PERFECT",
     "life_score_up": "Увеличение очков в зависимости от жизни"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Применить",
+    "clear": "Clear"
+  },
+  "time": {
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly",
+    "irrelevant": "Irrelevant"
   }
 }
