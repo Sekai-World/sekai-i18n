@@ -38,5 +38,10 @@
     "life_recovery": "Penggalak Markah & Pulih Nyawa",
     "perfect_score_up": "Penggalak Markah apabila PERFECT",
     "life_score_up": "Penggalak Markah dengan keadaan nyawa"
+  },
+  "button": {
+    "resetChanges": "Reset Changes",
+    "apply": "Gunakan",
+    "clear": "Clear"
   }
 }
