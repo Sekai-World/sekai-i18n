@@ -89,5 +89,6 @@
     "ranking": "Chapter Ranking",
     "chapterNotStarted": "Chapter has not started yet",
     "chapterEnded": "Chapter has ended"
-  }
+  },
+  "keyStory": "Key Event Story"
 }
