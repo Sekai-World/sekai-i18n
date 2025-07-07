@@ -50,5 +50,9 @@
     "between": "Between",
     "exactly": "Exactly",
     "irrelevant": "Irrelevant"
-  }
+  },
+  "hasEventMusic": "Has Newly Written Music",
+  "incl": "Include",
+  "excl": "Exclude",
+  "both": "Tout"
 }
