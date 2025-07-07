@@ -51,8 +51,10 @@
     "exactly": "Exactly",
     "irrelevant": "Irrelevant"
   },
-  "hasEventMusic": "Has Newly Written Music",
   "incl": "Include",
   "excl": "Exclude",
-  "both": "Semua"
+  "both": "Semua",
+  "event": {
+    "unitType": "Event Unit Type"
+  }
 }
