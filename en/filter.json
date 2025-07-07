@@ -55,6 +55,11 @@
   "excl": "Exclude",
   "both": "All",
   "event": {
-    "unitType": "Event Unit Type"
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
   }
 }
