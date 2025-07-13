@@ -62,7 +62,21 @@
     },
     "gameContentTranslationLanguage": "Bahasa Komuniti Terjemahan Kandungan Permainan",
     "gameContentTranslationLanguageFollowInterface": "Ikut Bahasa Antara Muka",
-    "gameContentTranslationRegion": "Kawasan Rasmi Terjemahan Kandungan Permainan"
+    "gameContentTranslationRegion": "Kawasan Rasmi Terjemahan Kandungan Permainan",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "targetLanguage": "Bahasa Sasaran",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    }
   },
   "support": "Sokongan",
   "toolbar": {
