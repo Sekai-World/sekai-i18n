@@ -62,7 +62,21 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region"
+    "gameContentTranslationRegion": "Game Content Translation Official Region",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "targetLanguage": "Língua-alvo",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    }
   },
   "support": "Suporte",
   "toolbar": {
