@@ -62,7 +62,21 @@
     },
     "gameContentTranslationLanguage": "ภาษาแปลเนื้อหาในเกมโดยชุมชน",
     "gameContentTranslationLanguageFollowInterface": "ตรงกับภาษาของอินเทอร์เฟซ",
-    "gameContentTranslationRegion": "ภูมิภาคอย่างเป็นทางการของเนื้อหาแปล"
+    "gameContentTranslationRegion": "ภูมิภาคอย่างเป็นทางการของเนื้อหาแปล",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "targetLanguage": "ภาษาเป้าหมาย",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    }
   },
   "support": "สนับสนุนเรา",
   "toolbar": {
