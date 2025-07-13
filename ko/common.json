@@ -62,7 +62,21 @@
     },
     "gameContentTranslationLanguage": "게임 콘텐츠 번역 커뮤니티 언어",
     "gameContentTranslationLanguageFollowInterface": "인터페이스 언어에 맞추기",
-    "gameContentTranslationRegion": "게임 콘텐츠 번역 공식 지역"
+    "gameContentTranslationRegion": "게임 콘텐츠 번역 공식 지역",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "targetLanguage": "대상 언어",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    }
   },
   "support": "지원",
   "toolbar": {
