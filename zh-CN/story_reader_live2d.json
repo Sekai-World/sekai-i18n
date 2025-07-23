@@ -28,7 +28,7 @@
   "auto_play": "自动播放",
   "settings": {
     "text_animation": "文字动画",
-    "bgm_volume": "BGM Volume",
+    "bgm_volume": "BGM音量",
     "voice_volume": "Voice Volume",
     "se_volume": "SE Volume",
     "show_warning": "Show warning",
