@@ -14,12 +14,10 @@
     "cheerful_carnival": "欢乐嘉年华",
     "timepoint": "时间点",
     "rankingRewards": "排名奖励",
-    "worldLinkChapters": "World Link Chapters"
+    "worldLinkChapters": "世界链接章节"
   },
   "boostAttribute": "加成属性",
   "boostCharacters": "加成角色",
-  "maxBoost": "加成（两者皆满足）",
-  "boostSpecificCards": "特殊加成卡牌",
   "boostCards": "加成卡牌",
   "eventCards": "活动卡片",
   "cheerful_carnival_midterm_1": "第一次中期结果发表",
@@ -33,6 +31,13 @@
     "start": "从",
     "end": "到"
   },
+  "worldBloom": {
+    "chapter": "章节{{chapterNo}}",
+    "ranking": "章节排名",
+    "chapterNotStarted": "本章节还未开始",
+    "chapterEnded": "本章节已结束"
+  },
+  "keyStory": "关键活动故事",
   "tracker": {
     "select": {
       "event_name": "活动名称",
@@ -79,16 +84,11 @@
   "type": {
     "marathon": "累积点数",
     "cheerful_carnival": "欢乐嘉年华",
-    "world_bloom": "World Link"
+    "world_bloom": "世界链接"
   },
+  "maxBoost": "加成（两者皆满足）",
+  "boostSpecificCards": "特殊加成卡牌",
   "distributionEndAt": "奖励发放结束",
   "aggregateAt": "点数合计时间",
-  "alreadyPast": "活动已经过",
-  "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}",
-    "ranking": "Chapter Ranking",
-    "chapterNotStarted": "Chapter has not started yet",
-    "chapterEnded": "Chapter has ended"
-  },
-  "keyStory": "Key Event Story"
+  "alreadyPast": "活动已经过"
 }
