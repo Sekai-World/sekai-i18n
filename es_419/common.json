@@ -11,6 +11,8 @@
   "load": "Cargar",
   "update": "Actualización",
   "update-available": "Nueva versión disponible",
+  "all": "Todo",
+  "storyReader": "Lector de historias",
   "announcement": "Anuncios",
   "loading": "Cargando...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Evento en progreso ",
   "character": "Personaje",
-  "all": "Todo",
   "rarity": "Rareza",
   "attribute": "Atributo",
   "search": "Buscar",
@@ -34,24 +35,44 @@
   "card": "Carta",
   "stamp": "Sellos",
   "comic": "Comic",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Misión",
     "honor": "Título",
     "livepass": "Concierto",
     "normal": "Normal",
-    "beginner": "Principiante"
+    "beginner": "Principiante",
+    "main": "Misión"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Otros"
   },
   "virtualLive": "Concierto virtual",
   "assetViewer": "Visualizador de Asset",
   "musicMeta": "Canciones Meta",
   "musicRecommend": "Recomendador de Canciones",
   "eventCalc": "Planeador de Eventos",
-  "storyReader": "Lector de historias",
   "text": "Solo texto",
   "eventTracker": "Seguimiento de Eventos",
   "eventAnalyzer": "Analizador de Eventos",
   "settings": {
     "title": "Configuración",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Idioma objetivo",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Idioma de la interfaz",
     "gameContent": "Contenido del juego",
     "gameContentRegion": "Contenido del Juego limitado a una Región",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Idioma de la comunidad de traductores del contenido del juego",
     "gameContentTranslationLanguageFollowInterface": "Seguir el Lenguaje de la Interfaz",
-    "gameContentTranslationRegion": "Traducción del contenido del juego en su región oficial",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Idioma objetivo",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Traducción del contenido del juego en su región oficial"
   },
   "support": "Apoyo",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Disponible desde",
   "thumb": "Miniatura",
   "skill": "Habilidad",
+  "characterRank": "Character Rank",
   "cost": "Costo",
   "rewards": "Recompensas",
   "performance": "Actuación",
@@ -106,18 +114,24 @@
   "submit": "Enviar",
   "mode": "Modo",
   "type": "Tipo",
+  "show": "Mostrar",
   "back": "Atrás",
   "next": "Siguiente",
   "challengeLive": "Desafío en vivo",
   "endAt": "Disponible hasta",
-  "show": "Mostrar",
   "level": "Nivel",
   "description": "Descripción",
+  "bondsRank": "Rango Kizuna",
   "sequence": "Secuencia",
+  "costume": "Traje",
+  "hair": "Peinado",
+  "head": "Accesorio para la cabeza",
   "profile": "Perfil",
   "character_plural": "Personaje",
-  "detectionFailedPrompt": "No se pudo determinar tu región, por favor, revisa tu conexión",
-  "language": "Lenguaje",
+  "notFound": "Not Found",
+  "yes": "Yes",
+  "no": "No",
+  "serverRegionSelect": "Región del Servidor",
   "serverRegion": {
     "jp": "Japonés",
     "tw": "Chino tradicional",
@@ -125,6 +139,8 @@
     "kr": "Coreano",
     "cn": "Chino simplificado"
   },
+  "language": "Lenguaje",
+  "darkmode": "Modo de brillo",
   "contentTranslationMode": {
     "title": "Modo de Visualización de Contenido del Juego",
     "original": "Original",
@@ -132,11 +148,8 @@
     "both": "Mostrar ambos"
   },
   "miscs": "Varios",
-  "darkmode": "Modo de brillo",
   "spoilerContent": "Contenido con Spoilers",
   "spoilerContentMosaicked": "Censurar Spoilers",
-  "currentRegion": "Región Detectada actual",
-  "regionTooltip": "Esto determinará la región de su servidor CDN",
   "modify": "Modificar",
   "login": "Iniciar sesión",
   "reset_password": "Restablecer contraseña",
@@ -147,7 +160,9 @@
   "close": "Cerrar",
   "area_item": "Objeto de Area",
   "signup": "Registrarse",
-  "serverRegionSelect": "Región del Servidor",
+  "detectionFailedPrompt": "No se pudo determinar tu región, por favor, revisa tu conexión",
+  "currentRegion": "Región Detectada actual",
+  "regionTooltip": "Esto determinará la región de su servidor CDN",
   "detect": {
     "button": "Detector",
     "checking": "Comprobando...",
@@ -158,14 +173,5 @@
   "icon": "Ícono",
   "copyToClipboard": "Copiar a Portapapeles",
   "scoreCalculator": "Calculadora de puntaje",
-  "member": "Personaje",
-  "bondsRank": "Rango Kizuna",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Otros"
-  },
-  "costume": "Traje",
-  "hair": "Peinado",
-  "head": "Accesorio para la cabeza",
-  "characterRank": "Character Rank"
+  "member": "Personaje"
 }
