@@ -11,6 +11,8 @@
   "load": "Load",
   "update": "Cập nhật",
   "update-available": "Đã có phiên bản mới.",
+  "all": "Tất cả",
+  "storyReader": "Xem câu chuyện",
   "announcement": "Thông báo",
   "loading": "Đang tải...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Sự kiện tiếp diễn",
   "character": "Nhân vật",
-  "all": "Tất cả",
   "rarity": "Độ hiếm",
   "attribute": "Thuộc tính",
   "search": "Tìm kiếm",
@@ -34,24 +35,44 @@
   "card": "Thẻ",
   "stamp": "Tem",
   "comic": "Truyện tranh",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Nhiệm vụ",
     "honor": "Danh hiệu",
     "livepass": "Live",
     "normal": "Thường",
-    "beginner": "Người mới"
+    "beginner": "Người mới",
+    "main": "Nhiệm vụ"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "Virtual Live",
   "assetViewer": "Xem tài nguyên",
   "musicMeta": "Bài hát meta",
   "musicRecommend": "Đề xuất bài hát",
   "eventCalc": "Lập kế hoạch event",
-  "storyReader": "Xem câu chuyện",
   "text": "Chỉ xem văn bản",
   "eventTracker": "Theo dõi sự kiện",
   "eventAnalyzer": "Phân tích sự kiện",
   "settings": {
     "title": "Cài đặt",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Ngôn ngữ mục tiêu",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Interface Language",
     "gameContent": "Nội dung trò chơi",
     "gameContentRegion": "Vùng nội dung trò chơi",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Ngôn ngữ mục tiêu",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Hỗ trợ",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Khả dụng từ",
   "thumb": "Ảnh thu nhỏ",
   "skill": "Kĩ năng",
+  "characterRank": "Cấp độ nhân vật",
   "cost": "Chi phí",
   "rewards": "Phần thưởng",
   "performance": "Biểu diễn",
@@ -106,18 +114,24 @@
   "submit": "Gửi",
   "mode": "Chế độ",
   "type": "Loại",
+  "show": "Hiển thị",
   "back": "Trở về",
   "next": "TIếp tục",
   "challengeLive": "Challenge Live",
   "endAt": "Khả dụng đến",
-  "show": "Hiển thị",
   "level": "Cấp độ",
   "description": "Miêu tả",
+  "bondsRank": "Kizuna Rank",
   "sequence": "Sequence",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "Hồ sơ",
   "character_plural": "Nhân vật",
-  "detectionFailedPrompt": "Xác minh khu vực không thành công, vui lòng kiểm tra lại kết nối",
-  "language": "Ngôn ngữ",
+  "notFound": "Not Found",
+  "yes": "Có",
+  "no": "Chưa",
+  "serverRegionSelect": "Khu vực máy chủ",
   "serverRegion": {
     "jp": "Tiếng Nhật",
     "tw": "Chữ Hán phồn thể",
@@ -125,6 +139,8 @@
     "kr": "Tiếng Hàn",
     "cn": "Simplified Chinese"
   },
+  "language": "Ngôn ngữ",
+  "darkmode": "Chế độ sáng",
   "contentTranslationMode": {
     "title": "Chế độ hiển thị nội dung game",
     "original": "Gốc",
@@ -132,11 +148,8 @@
     "both": "Hiển thị tất cả"
   },
   "miscs": "Khác",
-  "darkmode": "Chế độ sáng",
   "spoilerContent": "Nội dung tiết lộ trước",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "Khu vực máy chủ",
-  "regionTooltip": "Tính năng này sẽ dò khu vực máy chủ CDN của bạn",
   "modify": "Chỉnh sửa",
   "login": "Đăng nhập",
   "reset_password": "Reset mật khẩu",
@@ -147,7 +160,9 @@
   "close": "Đóng",
   "area_item": "Vật phẩm khu vực",
   "signup": "Đăng nhập",
-  "serverRegionSelect": "Khu vực máy chủ",
+  "detectionFailedPrompt": "Xác minh khu vực không thành công, vui lòng kiểm tra lại kết nối",
+  "currentRegion": "Khu vực máy chủ",
+  "regionTooltip": "Tính năng này sẽ dò khu vực máy chủ CDN của bạn",
   "detect": {
     "button": "Dò tìm",
     "checking": "Đang kiểm tra...",
@@ -158,14 +173,5 @@
   "icon": "Icon",
   "copyToClipboard": "Dán vào bộ nhớ đệm",
   "scoreCalculator": "Tính điểm số",
-  "member": "Nhân vật",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "Cấp độ nhân vật"
+  "member": "Nhân vật"
 }
