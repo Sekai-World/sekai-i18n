@@ -11,6 +11,8 @@
   "load": "Muat",
   "update": "pembaruan",
   "update-available": "Versi baru tersedia.",
+  "all": "Semua",
+  "storyReader": "Pembaca Cerita",
   "announcement": "Pengumuman",
   "loading": "Memuat...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Event yang Sedang Berlangsung",
   "character": "Karakter",
-  "all": "Semua",
   "rarity": "Rarity",
   "attribute": "Atribut",
   "search": "Cari",
@@ -34,24 +35,44 @@
   "card": "Kartu",
   "stamp": "Stiker",
   "comic": "Komik",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Misi",
     "honor": "Title",
     "livepass": "Live",
     "normal": "Normal",
-    "beginner": "Pemula"
+    "beginner": "Pemula",
+    "main": "Misi"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "Virtual Live",
   "assetViewer": "Aset Viewer",
   "musicMeta": "Musik Meta",
   "musicRecommend": "Rekomendasi Lagu",
   "eventCalc": "Kalkulator Event",
-  "storyReader": "Pembaca Cerita",
   "text": "Teks Saja",
   "eventTracker": "Pelacak Event",
   "eventAnalyzer": "Penganalisis Event",
   "settings": {
     "title": "Pengaturan",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Bahasa Target",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Interface Language",
     "gameContent": "Game Content",
     "gameContentRegion": "Game Content Region",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Bahasa Target",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Dukungan",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Tersedia Dari",
   "thumb": "Thumbnail",
   "skill": "Skill",
+  "characterRank": "Rank Karakter",
   "cost": "Biaya",
   "rewards": "Hadiah",
   "performance": "Performa",
@@ -106,18 +114,24 @@
   "submit": "Kirimkan",
   "mode": "Mode",
   "type": "Tipe",
+  "show": "Lihat",
   "back": "Kembali",
   "next": "Selanjutnya",
   "challengeLive": "Tantangan Pertunjukkan Langsung",
   "endAt": "Tersedia Hingga",
-  "show": "Lihat",
   "level": "Level",
   "description": "Deskripsi",
+  "bondsRank": "Kizuna Rank",
   "sequence": "Sequence",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "Profil",
   "character_plural": "Karakter",
-  "detectionFailedPrompt": "Gagal menentukan wilayah Anda, harap periksa kembali jaringan Anda. ",
-  "language": "Bahasa",
+  "notFound": "Not Found",
+  "yes": "Ya",
+  "no": "Tidak",
+  "serverRegionSelect": "Wilayah Server",
   "serverRegion": {
     "jp": "Jepang",
     "tw": "China Tradisional",
@@ -125,6 +139,8 @@
     "kr": "Korea",
     "cn": "Simplified Chinese"
   },
+  "language": "Bahasa",
+  "darkmode": "Mode Kecerahan",
   "contentTranslationMode": {
     "title": "Mode Tampilan Konten Permainan",
     "original": "Original",
@@ -132,11 +148,8 @@
     "both": "Lihat Keduanya"
   },
   "miscs": "Lain-lain",
-  "darkmode": "Mode Kecerahan",
   "spoilerContent": "Konten Spoiler",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "Wilayah yang terdeteksi saat ini",
-  "regionTooltip": "Ini akan menentukan wilayah server Jaringan Pengiriman Konten Anda",
   "modify": "Modifikasi",
   "login": "Masuk",
   "reset_password": "Atur ulang Kata sandi",
@@ -147,7 +160,9 @@
   "close": "Tutup",
   "area_item": "Area Item",
   "signup": "Daftar",
-  "serverRegionSelect": "Wilayah Server",
+  "detectionFailedPrompt": "Gagal menentukan wilayah Anda, harap periksa kembali jaringan Anda. ",
+  "currentRegion": "Wilayah yang terdeteksi saat ini",
+  "regionTooltip": "Ini akan menentukan wilayah server Jaringan Pengiriman Konten Anda",
   "detect": {
     "button": "Deteksi",
     "checking": "Memeriksa...",
@@ -158,14 +173,5 @@
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan klip",
   "scoreCalculator": "Kalkulator Skor",
-  "member": "Karakter",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "Rank Karakter"
+  "member": "Karakter"
 }
