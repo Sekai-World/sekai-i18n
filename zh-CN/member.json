@@ -1,4 +1,5 @@
 {
+  "availableWords": "可用词语",
   "tab": {
     "title[0]": "角色图",
     "title[1]": "名牌（横向）",
@@ -13,6 +14,7 @@
     "secret": "保密"
   },
   "scenario": "故事",
+  "gameData": "游戏数据",
   "introduction": "自我介绍",
   "colorCode": "印象色",
   "skinColorCode": "皮肤色",
