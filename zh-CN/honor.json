@@ -11,6 +11,7 @@
     "character": "角色",
     "achievement": "成就",
     "event": "活动",
-    "rank_match": "排位对战"
+    "rank_match": "排位对战",
+    "limitevent": "限定活动"
   }
 }
