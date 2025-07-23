@@ -11,6 +11,8 @@
   "load": "Încarcă",
   "update": "Actualizează",
   "update-available": "Versiune nouă valabilă.",
+  "all": "Tot",
+  "storyReader": "Cititor de povești",
   "announcement": "Anunţuri",
   "loading": "Se încarcă...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Eveniment în curs de desfăşurare",
   "character": "Personaj",
-  "all": "Tot",
   "rarity": "Raritate",
   "attribute": "Atribut",
   "search": "Căutare",
@@ -34,24 +35,44 @@
   "card": "Carte",
   "stamp": "Abţibild",
   "comic": "Bandă desenată",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Misiune",
     "honor": "Titlu",
     "livepass": "Live",
     "normal": "Normal",
-    "beginner": "Începător"
+    "beginner": "Începător",
+    "main": "Misiune"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "Live virtual",
   "assetViewer": "Asset Viewer",
   "musicMeta": "Meta melodiilor",
   "musicRecommend": "Ghid muzical",
   "eventCalc": "Plănuitor de eveniment",
-  "storyReader": "Cititor de povești",
   "text": "Doar text",
   "eventTracker": "Monitorizator de evenimente",
   "eventAnalyzer": "Analizator de evenimente",
   "settings": {
     "title": "Setări",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Limba ţintă",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Limba interfaţei",
     "gameContent": "Conţinuturile jocului",
     "gameContentRegion": "Regiunea conţinuturilor jocului",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Urmăreşte limba interfaţei",
-    "gameContentTranslationRegion": "Game Content Translation Official Region",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Limba ţintă",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "Support",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Disponibil de la",
   "thumb": "Miniatură",
   "skill": "Abilitate",
+  "characterRank": "Character Rank",
   "cost": "Cost",
   "rewards": "Recompense",
   "performance": "Performanţă",
@@ -106,18 +114,24 @@
   "submit": "Trimite",
   "mode": "Mod",
   "type": "Tip",
+  "show": "Arată",
   "back": "Înapoi",
   "next": "Înainte",
   "challengeLive": "Provocare live",
   "endAt": "Disponibil până la",
-  "show": "Arată",
   "level": "Nivel",
   "description": "Descriere",
+  "bondsRank": "Kizuna Rank",
   "sequence": "Secvenţă",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "Profil",
   "character_plural": "Personaje",
-  "detectionFailedPrompt": "Nu ţi s-a putut determina regiunea, te rugăm să-ţi verifici conexiunea.",
-  "language": "Limba",
+  "notFound": "Not Found",
+  "yes": "Yes",
+  "no": "No",
+  "serverRegionSelect": "Regiunea serverului",
   "serverRegion": {
     "jp": "Japoneză",
     "tw": "Chineză tradițională",
@@ -125,6 +139,8 @@
     "kr": "Coreeană",
     "cn": "Simplified Chinese"
   },
+  "language": "Limba",
+  "darkmode": "Modul de luminozitate",
   "contentTranslationMode": {
     "title": "Modul de afişare a conţinuturilor jocului",
     "original": "Original",
@@ -132,11 +148,8 @@
     "both": "Arată ambele"
   },
   "miscs": "Diverse",
-  "darkmode": "Modul de luminozitate",
   "spoilerContent": "Conţinuturi cu spoilere",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "Regiunea actuală detectată",
-  "regionTooltip": "Asta-ţi va determina regiunea serverului CDN.",
   "modify": "Modifică",
   "login": "Autentificare",
   "reset_password": "Resetează parola",
@@ -147,7 +160,9 @@
   "close": "Închide",
   "area_item": "Element de zonă",
   "signup": "Înregistrare",
-  "serverRegionSelect": "Regiunea serverului",
+  "detectionFailedPrompt": "Nu ţi s-a putut determina regiunea, te rugăm să-ţi verifici conexiunea.",
+  "currentRegion": "Regiunea actuală detectată",
+  "regionTooltip": "Asta-ţi va determina regiunea serverului CDN.",
   "detect": {
     "button": "Detectează",
     "checking": "Se verifică...",
@@ -158,14 +173,5 @@
   "icon": "Pictogramă",
   "copyToClipboard": "Copiază pe clipboard",
   "scoreCalculator": "Calculator de scor",
-  "member": "Personaj",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "Character Rank"
+  "member": "Personaj"
 }
