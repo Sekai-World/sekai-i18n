@@ -23,6 +23,8 @@
   "musicDetail": "{{- title}} | Musik | Sekai Viewer",
   "musicList": "Daftar Musik | Sekai Viewer",
   "musicRecommend": "Rekomendasi Musik (Beta) | Sekai Viewer",
+  "mysekaiFixtureDetail": "My Sekai Fixture | Sekai Viewer",
+  "mysekaiFixtureList": "My Sekai Fixture List | Sekai Viewer",
   "stampList": "Daftar Stiker | Sekai Viewer",
   "translation": "Pusat Terjemahan | Sekai Viewer",
   "unitDetail": "{{- name}} | Unit | Sekai Viewer",
