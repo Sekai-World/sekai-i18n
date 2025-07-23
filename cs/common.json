@@ -11,6 +11,8 @@
   "load": "Načíst",
   "update": "Aktualizovat",
   "update-available": "Je k dispozici nová verze",
+  "all": "Všechno",
+  "storyReader": "Čtenář Příběhů",
   "announcement": "Oznámení",
   "loading": "Načítání...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Probíhající Event",
   "character": "Postava",
-  "all": "Všechno",
   "rarity": "Rarita",
   "attribute": "Atribut",
   "search": "Hledat",
@@ -34,24 +35,44 @@
   "card": "Karta",
   "stamp": "Samolepka",
   "comic": "Komix",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Mise",
     "honor": "Titul",
     "livepass": "Živě",
     "normal": "Normální",
-    "beginner": "Začáteční"
+    "beginner": "Začáteční",
+    "main": "Mise"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "Virtuální Koncert",
   "assetViewer": "Prohližeč Asset",
   "musicMeta": "Hudební Meta",
   "musicRecommend": "Doporučovatel hudby",
   "eventCalc": "Plánovač Eventů",
-  "storyReader": "Čtenář Příběhů",
   "text": "Pouze text",
   "eventTracker": "Stopovat Event",
   "eventAnalyzer": "Analyzátor Eventu",
   "settings": {
     "title": "Nastavení",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Zaměřit na jazyk",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Jazyk Rozhrání",
     "gameContent": "Obsah Hry",
     "gameContentRegion": "Oblast Herního Obsahu",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Překlad Herního Obsahu Jazyk Komunity",
     "gameContentTranslationLanguageFollowInterface": "Sledovat Rozhraný Jazyk",
-    "gameContentTranslationRegion": "Oficiální Region Překlad Herního Obsahu",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Zaměřit na jazyk",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Oficiální Region Překlad Herního Obsahu"
   },
   "support": "Podpora",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "K dispozici od",
   "thumb": "Náhled",
   "skill": "Skill",
+  "characterRank": "Rank postavy",
   "cost": "Cena",
   "rewards": "Odměny",
   "performance": "Výkon",
@@ -106,18 +114,24 @@
   "submit": "Předložit",
   "mode": "Řežim",
   "type": "Typ",
+  "show": "Ukázat",
   "back": "Zpátky",
   "next": "Další",
   "challengeLive": "Challenge Koncert",
   "endAt": "K dispozici do",
-  "show": "Ukázat",
   "level": "Level",
   "description": "Popis",
+  "bondsRank": "Kizuna Rank",
   "sequence": "Sekvence",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "Profil",
   "character_plural": "Postavy",
-  "detectionFailedPrompt": "Selhalo určení regionu, prosím zkontrolujte připojení",
-  "language": "Jazyk",
+  "notFound": "Not Found",
+  "yes": "Yes",
+  "no": "No",
+  "serverRegionSelect": "Region Serveru",
   "serverRegion": {
     "jp": "Japonština",
     "tw": "Tradiční Čínština",
@@ -125,6 +139,8 @@
     "kr": "Korejsky",
     "cn": "Simplified Chinese"
   },
+  "language": "Jazyk",
+  "darkmode": "Režim jasu",
   "contentTranslationMode": {
     "title": "Režim zobrazení herního kontentu",
     "original": "Originál",
@@ -132,11 +148,8 @@
     "both": "Ukázat Oboje"
   },
   "miscs": "Různé",
-  "darkmode": "Režim jasu",
   "spoilerContent": "Vyspoilovat Kontent",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "Právě zjištěný region",
-  "regionTooltip": "Tohle určí váš CDN server regionu",
   "modify": "Upravit",
   "login": "Přihlásit se",
   "reset_password": "Resetovat heslo",
@@ -147,7 +160,9 @@
   "close": "Zavřít",
   "area_item": "Oblastní Věc",
   "signup": "Zaregistrovat se",
-  "serverRegionSelect": "Region Serveru",
+  "detectionFailedPrompt": "Selhalo určení regionu, prosím zkontrolujte připojení",
+  "currentRegion": "Právě zjištěný region",
+  "regionTooltip": "Tohle určí váš CDN server regionu",
   "detect": {
     "button": "Zjistit",
     "checking": "Kontroluji...",
@@ -158,14 +173,5 @@
   "icon": "Ikona",
   "copyToClipboard": "Kopírovat",
   "scoreCalculator": "Kalkulátor skore",
-  "member": "Postava",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "Rank postavy"
+  "member": "Postava"
 }
