@@ -4,8 +4,8 @@
     "model_texture": "加载模型贴图……",
     "model_moc3": "加载模型骨架……",
     "model_physics": "加载模型物理……",
-    "motion_metadata": "加载模型动作……",
-    "display_model": "准备显示模型……"
+    "display_model": "准备显示模型……",
+    "motion_metadata": "加载模型动作……"
   },
   "pack_progress": {
     "generate_metadata": "生成元数据",
@@ -19,15 +19,15 @@
     "model": "模型",
     "motions": "动作",
     "expressions": "表情 ",
-    "idle_animation": "Idle animation",
-    "parameters": "Parameters"
+    "parameters": "参数",
+    "idle_animation": "闲置动画"
   },
   "tooltip": {
     "download": "下载",
     "fullscreen": "切换全屏",
     "shot": "保存图片",
+    "reset": "重新加载模型",
     "stop_record": "停止录像",
-    "start_record": "开始录像",
-    "reset": "重新加载模型"
+    "start_record": "开始录像"
   }
 }
