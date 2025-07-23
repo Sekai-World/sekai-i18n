@@ -2,14 +2,42 @@
   "character": {
     "caption": "角色"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "排序",
     "ascending": "升序",
     "descending": "降序"
   },
+  "time": {
+    "irrelevant": "无关",
+    "before": "之前",
+    "after": "之后",
+    "between": "之间",
+    "exactly": "恰好"
+  },
+  "event": {
+    "unitType": {
+      "caption": "活动团体类型",
+      "event": "活动团体",
+      "eventStory": "活动故事团体",
+      "eventStoryMain": "活动故事仅主要团体"
+    }
+  },
+  "both": "全部",
+  "incl": "包含",
+  "excl": "不含",
+  "button": {
+    "apply": "应用",
+    "resetChanges": "重置改变",
+    "clear": "清除"
+  },
   "honorType": {
-    "caption": "头衔类型",
-    "group_only_once": "每组只显示一项"
+    "group_only_once": "每组只显示一项",
+    "caption": "头衔类型"
   },
   "not_set": "未指定",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "MV类型"
   },
-  "not-selected": "尚未选择",
   "stampType": {
     "caption": "贴纸类型",
     "text": "纯文本",
@@ -32,34 +59,12 @@
     "source": "源语言",
     "target": "目标语言"
   },
+  "not-selected": "尚未选择",
   "skill": {
     "score_up": "分数加成",
     "judgment_up": "判定和分数加成",
     "life_recovery": "生命恢复和分数加成",
     "perfect_score_up": "PERFECT时分数加成",
     "life_score_up": "有生命值要求的分数加成"
-  },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "应用",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "全部",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
   }
 }
