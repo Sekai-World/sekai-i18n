@@ -11,6 +11,8 @@
   "load": "โหลดข้อมูล",
   "update": "อัพเดต",
   "update-available": "ใช้งานระบบใหม่ได้",
+  "all": "ทั้งหมด",
+  "storyReader": "เนื้อเรื่อง",
   "announcement": "ประกาศ",
   "loading": "กำลังประมวลผล...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "อีเว้นต์ที่ดำเนินอยู่",
   "character": "ตัวละคร",
-  "all": "ทั้งหมด",
   "rarity": "ระดับความหายาก",
   "attribute": "คุณสมบัติ",
   "search": "ค้นหา",
@@ -34,24 +35,44 @@
   "card": "การ์ด",
   "stamp": "สติกเกอร์",
   "comic": "คอมมิค",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "ภารกิจ",
     "honor": "ฉายา",
     "livepass": "ไลฟ์",
     "normal": "ทั่วไป",
-    "beginner": "ผู้เล่นใหม่"
+    "beginner": "ผู้เล่นใหม่",
+    "main": "ภารกิจ"
+  },
+  "honor": {
+    "bonds": "คิซึนะ",
+    "others": "อื่น ๆ"
   },
   "virtualLive": "ดูไลฟ์",
   "assetViewer": "ตัวดูไฟล์",
   "musicMeta": "ระดับเพลง",
   "musicRecommend": "แนะนำเพลง",
   "eventCalc": "คำนวนแต้มอีเว้นต์",
-  "storyReader": "เนื้อเรื่อง",
   "text": "ตัวหนังสือเท่านั้น",
   "eventTracker": "ติดตามอีเว้นต์",
   "eventAnalyzer": "วิเคราะห์อีเว้นต์",
   "settings": {
     "title": "ตั้งค่า",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "ภาษาเป้าหมาย",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
     "gameContent": "เนื้อหาในเกม",
     "gameContentRegion": "ภูมิภาคของเนื้อหาในเกม",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "ภาษาแปลเนื้อหาในเกมโดยชุมชน",
     "gameContentTranslationLanguageFollowInterface": "ตรงกับภาษาของอินเทอร์เฟซ",
-    "gameContentTranslationRegion": "ภูมิภาคอย่างเป็นทางการของเนื้อหาแปล",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "ภาษาเป้าหมาย",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "ภูมิภาคอย่างเป็นทางการของเนื้อหาแปล"
   },
   "support": "สนับสนุนเรา",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "เข้าเกมวันที่",
   "thumb": "ภาพการ์ดแบบย่อ",
   "skill": "สกิล",
+  "characterRank": "แรงค์ตัวละคร",
   "cost": "ค่า",
   "rewards": "รางวัลการปลดเนื้อเรื่อง",
   "performance": "การแสดง",
@@ -106,18 +114,24 @@
   "submit": "เสนอ",
   "mode": "โหมด",
   "type": "ประเภท",
+  "show": "การแสดง",
   "back": "กลับ",
   "next": "ไปต่อ",
   "challengeLive": "Challenge Live",
   "endAt": "จบวันที่",
-  "show": "การแสดง",
   "level": "เลเวล",
   "description": "คำอธิบาย",
+  "bondsRank": "ระดับคิซึนะ",
   "sequence": "ลำดับ",
+  "costume": "ชุดคอสตูม",
+  "hair": "ทรงผม",
+  "head": "เครื่องประดับศีรษะ",
   "profile": "ข้อมูลตัวละคร",
   "character_plural": "ตัวละคร",
-  "detectionFailedPrompt": "ไม่สามารถค้นหาตำแหน่งของคุณได้ โปรดตรวจสอบการเชื่อมต่อของคุณ",
-  "language": "ภาษา",
+  "notFound": "Not Found",
+  "yes": "Yes",
+  "no": "No",
+  "serverRegionSelect": "ภูมิภาคของเซิฟเวอร์",
   "serverRegion": {
     "jp": "ญี่ปุ่น",
     "tw": "จีน",
@@ -125,6 +139,8 @@
     "kr": "เกาหลี",
     "cn": "จีนตัวย่อ"
   },
+  "language": "ภาษา",
+  "darkmode": "ปรับความสว่าง",
   "contentTranslationMode": {
     "title": "การแสดงผลภาษา",
     "original": "ดั้งเดิม",
@@ -132,11 +148,8 @@
     "both": "แสดงทั้งสองอย่าง"
   },
   "miscs": "อื่น ๆ",
-  "darkmode": "ปรับความสว่าง",
   "spoilerContent": "Spoiler Content",
   "spoilerContentMosaicked": "ซ่อนสปอยล์ด้วยภาพเบลอ",
-  "currentRegion": "ภูมิภาคที่ตรวจพบ",
-  "regionTooltip": "นี่จะกำหนดภูมิภาคของเซิฟเวอร์ CDN",
   "modify": "แก้ไข",
   "login": "ล็อคอิน",
   "reset_password": "เปลี่ยนรหัสผ่าน",
@@ -147,7 +160,9 @@
   "close": "ปิด",
   "area_item": "ไอเท็มในพื้นที่",
   "signup": "สมัคร",
-  "serverRegionSelect": "ภูมิภาคของเซิฟเวอร์",
+  "detectionFailedPrompt": "ไม่สามารถค้นหาตำแหน่งของคุณได้ โปรดตรวจสอบการเชื่อมต่อของคุณ",
+  "currentRegion": "ภูมิภาคที่ตรวจพบ",
+  "regionTooltip": "นี่จะกำหนดภูมิภาคของเซิฟเวอร์ CDN",
   "detect": {
     "button": "ตรวจจับ",
     "checking": "กำลังตรวจสอบ...",
@@ -158,14 +173,5 @@
   "icon": "รูปไอคอน",
   "copyToClipboard": "คัดลอก",
   "scoreCalculator": "คำนวนคะแนน",
-  "member": "ตัวละคร",
-  "bondsRank": "ระดับคิซึนะ",
-  "honor": {
-    "bonds": "คิซึนะ",
-    "others": "อื่น ๆ"
-  },
-  "costume": "ชุดคอสตูม",
-  "hair": "ทรงผม",
-  "head": "เครื่องประดับศีรษะ",
-  "characterRank": "แรงค์ตัวละคร"
+  "member": "ตัวละคร"
 }
