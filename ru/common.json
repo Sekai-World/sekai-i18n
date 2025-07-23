@@ -11,6 +11,8 @@
   "load": "Загрузить",
   "update": "Обновления",
   "update-available": "Доступна новая версия.",
+  "all": "Все",
+  "storyReader": "Прочесть истории",
   "announcement": "Объявления",
   "loading": "Загрузка...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Текущий ивент",
   "character": "Персонаж",
-  "all": "Все",
   "rarity": "Редкость",
   "attribute": "Атрибут ",
   "search": "Поиск",
@@ -34,24 +35,44 @@
   "card": "Карты",
   "stamp": "Штампы",
   "comic": "Ванкомы",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Миссии",
     "honor": "Титул",
     "livepass": "Live",
     "normal": "Обычные",
-    "beginner": "Для новичков"
+    "beginner": "Для новичков",
+    "main": "Миссии"
+  },
+  "honor": {
+    "bonds": "Дружба",
+    "others": "Другое"
   },
   "virtualLive": "Виртуальные лайвы",
   "assetViewer": "Просмотр ресурсов",
   "musicMeta": "Мета песен",
   "musicRecommend": "Подбор песни",
   "eventCalc": "Планер ивентов",
-  "storyReader": "Прочесть истории",
   "text": "Только текст",
   "eventTracker": "Трекер ивентов",
   "eventAnalyzer": "Анализ ивентов",
   "settings": {
     "title": "Настройки",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Целевой язык",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Язык интерфейса",
     "gameContent": "Игровой контент",
     "gameContentRegion": "Регион игрового контента",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Язык сообщества по переводу игрового контента",
     "gameContentTranslationLanguageFollowInterface": "Отслеживать Язык Интерфейса",
-    "gameContentTranslationRegion": "Официальный регион трансляции игрового контента",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Целевой язык",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Официальный регион трансляции игрового контента"
   },
   "support": "Поддержка",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Доступно с",
   "thumb": "Иконка",
   "skill": "Навык",
+  "characterRank": "Ранг персонажа",
   "cost": "Стоимость",
   "rewards": "Награды",
   "performance": "Исполнение",
@@ -106,18 +114,24 @@
   "submit": "Отправить",
   "mode": "Режим",
   "type": "Тип",
+  "show": "Показать",
   "back": "Назад",
   "next": "Вперёд",
   "challengeLive": "Challenge Live",
   "endAt": "Доступно до",
-  "show": "Показать",
   "level": "Уровень",
   "description": "Описание",
+  "bondsRank": "Ранг дружбы",
   "sequence": "Последовательность",
+  "costume": "Костюм",
+  "hair": "Стиль причёски",
+  "head": "Головной аксессуар",
   "profile": "Профиль",
   "character_plural": "Персонажи",
-  "detectionFailedPrompt": "Не удалось определить ваш регион, проверьте подключение к интернету",
-  "language": "Язык",
+  "notFound": "Not Found",
+  "yes": "Да",
+  "no": "Нет",
+  "serverRegionSelect": "Сервер игры",
   "serverRegion": {
     "jp": "Japanese",
     "tw": "Traditional Chinese",
@@ -125,6 +139,8 @@
     "kr": "Корейский",
     "cn": "Упрощенный Китайский"
   },
+  "language": "Язык",
+  "darkmode": "Режим яркости",
   "contentTranslationMode": {
     "title": "Режим отображения игрового контента",
     "original": "Оригинал",
@@ -132,11 +148,8 @@
     "both": "Показывать оба"
   },
   "miscs": "Разное",
-  "darkmode": "Режим яркости",
   "spoilerContent": "Спойлеры",
   "spoilerContentMosaicked": "Мозаичный спойлер",
-  "currentRegion": "Ваш регион",
-  "regionTooltip": "Определяет ваш регион",
   "modify": "Изменить",
   "login": "Вход",
   "reset_password": "Забыли пароль",
@@ -147,7 +160,9 @@
   "close": "Закрыть",
   "area_item": "Предметы области",
   "signup": "Регистрация",
-  "serverRegionSelect": "Сервер игры",
+  "detectionFailedPrompt": "Не удалось определить ваш регион, проверьте подключение к интернету",
+  "currentRegion": "Ваш регион",
+  "regionTooltip": "Определяет ваш регион",
   "detect": {
     "button": "Определить",
     "checking": "Проверка...",
@@ -158,14 +173,5 @@
   "icon": "Баннер",
   "copyToClipboard": "Скопировать в буфер обмена",
   "scoreCalculator": "Калькулятор счёта",
-  "member": "Участники",
-  "bondsRank": "Ранг дружбы",
-  "honor": {
-    "bonds": "Дружба",
-    "others": "Другое"
-  },
-  "costume": "Костюм",
-  "hair": "Стиль причёски",
-  "head": "Головной аксессуар",
-  "characterRank": "Ранг персонажа"
+  "member": "Участники"
 }
