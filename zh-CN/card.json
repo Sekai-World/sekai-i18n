@@ -12,17 +12,17 @@
     "title[3]": "特训后角色图"
   },
   "gachaPhrase": "扭蛋短语",
+  "specialCutIn": "特殊3DMV切入",
+  "unitCount": "组合数量",
+  "normal": "通常",
   "skillEffect": "技能效果",
   "masterRank": "突破",
   "masterRankLevel": "突破等级",
   "stats": "能力值",
-  "normal": "通常",
   "sideStory": "角色剧情",
   "sideStory_plural": "角色剧情",
   "rarity": "稀有度",
   "power": "综合力",
   "apply_event_filter": "应用活动加成",
-  "skill": "技能",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "skill": "技能"
 }
