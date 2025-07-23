@@ -23,6 +23,8 @@
   "musicDetail": "{{- title}} | Nhạc | Sekai Viewer",
   "musicList": "Danh sách nhạc | Sekai Viewer",
   "musicRecommend": "Đề xuất nhạc (Beta) | Sekai Viewer",
+  "mysekaiFixtureDetail": "My Sekai Fixture | Sekai Viewer",
+  "mysekaiFixtureList": "My Sekai Fixture List | Sekai Viewer",
   "stampList": "Danh sách tem | Sekai Viewer",
   "translation": "Trung tâm phiên dịch | Sekai Viewer",
   "unitDetail": "{{- name}} | Nhóm | Sekai Viewer",
