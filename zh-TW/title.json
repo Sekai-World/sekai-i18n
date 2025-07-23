@@ -23,6 +23,8 @@
   "musicDetail": "{{- title}} | 樂曲 | Sekai Viewer",
   "musicList": "樂曲列表 | Sekai Viewer",
   "musicRecommend": "樂曲推薦器(Beta) | Sekai Viewer",
+  "mysekaiFixtureDetail": "My Sekai Fixture | Sekai Viewer",
+  "mysekaiFixtureList": "My Sekai Fixture List | Sekai Viewer",
   "stampList": "貼圖列表 | Sekai Viewer",
   "translation": "翻譯中心 | Sekai Viewer",
   "unitDetail": "{{- name}} | 組合 | Sekai Viewer",
