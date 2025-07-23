@@ -11,6 +11,8 @@
   "load": "ロード",
   "update": "アップデート",
   "update-available": "新しいバージョンが利用できます。",
+  "all": "全てのキャラ",
+  "storyReader": "ストーリー",
   "announcement": "お知らせ",
   "loading": "ロード中...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "開催中のイベント",
   "character": "キャラクター",
-  "all": "全てのキャラ",
   "rarity": "レアリティ",
   "attribute": "タイプ",
   "search": "検索",
@@ -34,24 +35,44 @@
   "card": "カード",
   "stamp": "スタンプ",
   "comic": "コミック",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "ミッション",
     "honor": "称号",
     "livepass": "ライブ",
     "normal": "通常",
-    "beginner": "スタートダッシュ"
+    "beginner": "スタートダッシュ",
+    "main": "ミッション"
+  },
+  "honor": {
+    "bonds": "キズナ",
+    "others": "その他"
   },
   "virtualLive": "バーチャルライブ",
   "assetViewer": "アセットビューア",
   "musicMeta": "楽曲情報",
   "musicRecommend": "リザルト計算機",
   "eventCalc": "イベント計画",
-  "storyReader": "ストーリー",
   "text": "テキストのみ",
   "eventTracker": "イベントトラッカー",
   "eventAnalyzer": "イベントアナライザー",
   "settings": {
     "title": "設定",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "目的の言語",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "インターフェース言語",
     "gameContent": "ゲームコンテンツ",
     "gameContentRegion": "ゲームコンテンツ地域",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "ゲームコンテンツ翻訳コミュニティ言語",
     "gameContentTranslationLanguageFollowInterface": "フォローインターフェース言語",
-    "gameContentTranslationRegion": "ゲームコンテンツ翻訳公式地域",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "目的の言語",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "ゲームコンテンツ翻訳公式地域"
   },
   "support": "サポート",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "解放時間",
   "thumb": "サムネイル",
   "skill": "スキル",
+  "characterRank": "キャラクターランク",
   "cost": "コスト",
   "rewards": "報酬",
   "performance": "パフォーマンス",
@@ -106,18 +114,24 @@
   "submit": "送信",
   "mode": "モード",
   "type": "タイプ",
+  "show": "表示",
   "back": "戻る",
   "next": "次へ",
   "challengeLive": "チャレンジライブ",
   "endAt": "終了時間",
-  "show": "表示",
   "level": "レベル",
   "description": "説明",
+  "bondsRank": "キズナランク",
   "sequence": "シーケンス",
+  "costume": "Costume",
+  "hair": "髪型",
+  "head": "Head Accessory",
   "profile": "プロフィール",
   "character_plural": "キャラクター",
-  "detectionFailedPrompt": "地域を特定するのに失敗しました、ネットワークを確認してください",
-  "language": "言語",
+  "notFound": "Not Found",
+  "yes": "はい",
+  "no": "いいえ",
+  "serverRegionSelect": "サーバーエリア",
   "serverRegion": {
     "jp": "日本語版",
     "tw": "繁体字版",
@@ -125,6 +139,8 @@
     "kr": "韓国語版",
     "cn": "Simplified Chinese"
   },
+  "language": "言語",
+  "darkmode": "画面の明るさ",
   "contentTranslationMode": {
     "title": "ゲームコンテンツ表示モード",
     "original": "オリジナル",
@@ -132,11 +148,8 @@
     "both": "両方表示"
   },
   "miscs": "その他",
-  "darkmode": "画面の明るさ",
   "spoilerContent": "ネタバレを扱っている内容",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "現在探知された地域",
-  "regionTooltip": "これにより、CDNサーバーが決定されます",
   "modify": "調整・変更",
   "login": "ログイン",
   "reset_password": "パスワードをリセットする",
@@ -147,7 +160,9 @@
   "close": "閉じる",
   "area_item": "エリアアイテム",
   "signup": "登録",
-  "serverRegionSelect": "サーバーエリア",
+  "detectionFailedPrompt": "地域を特定するのに失敗しました、ネットワークを確認してください",
+  "currentRegion": "現在探知された地域",
+  "regionTooltip": "これにより、CDNサーバーが決定されます",
   "detect": {
     "button": "検知",
     "checking": "確認しています...",
@@ -158,14 +173,5 @@
   "icon": "アイコン",
   "copyToClipboard": "クリップボードにコピー",
   "scoreCalculator": "スコア計算",
-  "member": "キャラクター",
-  "bondsRank": "キズナランク",
-  "honor": {
-    "bonds": "キズナ",
-    "others": "その他"
-  },
-  "costume": "Costume",
-  "hair": "髪型",
-  "head": "Head Accessory",
-  "characterRank": "キャラクターランク"
+  "member": "キャラクター"
 }
