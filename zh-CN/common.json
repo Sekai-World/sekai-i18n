@@ -35,7 +35,7 @@
   "card": "卡牌",
   "stamp": "贴纸",
   "comic": "漫画",
-  "mysekaiFixture": "My Sekai Fixture",
+  "mysekaiFixture": "My Sekai 装置",
   "mission": {
     "honor": "称号",
     "livepass": "Live",
@@ -45,7 +45,7 @@
   },
   "honor": {
     "bonds": "牵绊",
-    "others": "Others"
+    "others": "其他"
   },
   "virtualLive": "虚拟演唱会",
   "assetViewer": "资产浏览器",
@@ -58,20 +58,20 @@
   "settings": {
     "title": "设置",
     "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
+      "title": "LLM设置",
+      "enable": "启用LLM",
+      "enableDescription": "启用LLM来翻译故事（仅限Live2D故事阅读）",
+      "provider": "LLM提供商",
+      "model": "LLM模型",
+      "modelDescription": "使用的模型",
       "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiKeyDescription": "LLM提供商的APi密钥",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "目标语言",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
+      "targetLanguageDescription": "故事翻译的目标语言",
+      "displayOptions": "显示选项",
+      "displayOptionsDescription": "显示原始文本"
     },
     "interfaceLanguage": "界面语言",
     "gameContent": "游戏内容",
@@ -125,10 +125,10 @@
   "sequence": "排序",
   "costume": "服装",
   "hair": "发型",
-  "head": "Head Accessory",
+  "head": "头部装饰",
   "profile": "角色资料",
   "character_plural": "角色",
-  "notFound": "Not Found",
+  "notFound": "未找到",
   "yes": "是",
   "no": "否",
   "serverRegionSelect": "服务器地区",
@@ -137,7 +137,7 @@
     "tw": "繁体字服",
     "en": "英文服（全球服）",
     "kr": "韩文服",
-    "cn": "Simplified Chinese"
+    "cn": "简体中文"
   },
   "language": "语言",
   "darkmode": "显示主题",
@@ -149,7 +149,7 @@
   },
   "miscs": "杂项",
   "spoilerContent": "剧透内容",
-  "spoilerContentMosaicked": "Spoiler Mosaicked",
+  "spoilerContentMosaicked": "马赛克化剧透内容",
   "modify": "修改",
   "login": "登录",
   "reset_password": "重设密码",
