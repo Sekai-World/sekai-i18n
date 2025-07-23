@@ -11,6 +11,8 @@
   "load": "불러오기",
   "update": "업데이트",
   "update-available": "새로운 버전을 사용할 수 있습니다.",
+  "all": "모든 캐릭터",
+  "storyReader": "스토리 읽기",
   "announcement": "공지사항",
   "loading": "로드 중...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "진행 중인 이벤트",
   "character": "캐릭터",
-  "all": "모든 캐릭터",
   "rarity": "레어도",
   "attribute": "속성",
   "search": "검색",
@@ -34,24 +35,44 @@
   "card": "카드",
   "stamp": "스탬프",
   "comic": "만화",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "미션",
     "honor": "칭호",
     "livepass": "라이브",
     "normal": "일반",
-    "beginner": "초보자"
+    "beginner": "초보자",
+    "main": "미션"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "버추얼 라이브",
   "assetViewer": "에셋 뷰어",
   "musicMeta": "악곡 정보",
   "musicRecommend": "악곡 추천",
   "eventCalc": "이벤트 계획표",
-  "storyReader": "스토리 읽기",
   "text": "텍스트만",
   "eventTracker": "이벤트 추적기",
   "eventAnalyzer": "이벤트 분석기",
   "settings": {
     "title": "설정",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "대상 언어",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "인터페이스 언어",
     "gameContent": "게임 콘텐츠",
     "gameContentRegion": "게임 콘텐츠 지역",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "게임 콘텐츠 번역 커뮤니티 언어",
     "gameContentTranslationLanguageFollowInterface": "인터페이스 언어에 맞추기",
-    "gameContentTranslationRegion": "게임 콘텐츠 번역 공식 지역",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "대상 언어",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "게임 콘텐츠 번역 공식 지역"
   },
   "support": "지원",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "개방 개시 시간",
   "thumb": "쌈네일",
   "skill": "스킬",
+  "characterRank": "캐릭터 랭크",
   "cost": "비용",
   "rewards": "보상",
   "performance": "퍼포먼스",
@@ -106,18 +114,24 @@
   "submit": "제출",
   "mode": "모드",
   "type": "타입",
+  "show": "보기",
   "back": "뒤로 가기",
   "next": "다음",
   "challengeLive": "챌린지 라이브",
   "endAt": "개방 종료 시간",
-  "show": "보기",
   "level": "레벨",
   "description": "설명",
+  "bondsRank": "Kizuna Rank",
   "sequence": "순서",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "프로필",
   "character_plural": "캐릭터",
-  "detectionFailedPrompt": "지역을 확인하지 못했습니다. 네트워크 상태를 확인해주세요.",
-  "language": "언어",
+  "notFound": "Not Found",
+  "yes": "네",
+  "no": "아니오",
+  "serverRegionSelect": "서버 위치",
   "serverRegion": {
     "jp": "일본어",
     "tw": "중국어 번체",
@@ -125,6 +139,8 @@
     "kr": "한국어",
     "cn": "Simplified Chinese"
   },
+  "language": "언어",
+  "darkmode": "밝기 모드",
   "contentTranslationMode": {
     "title": "게임 콘텐츠 표시 방식",
     "original": "원문",
@@ -132,11 +148,8 @@
     "both": "둘 다 표시"
   },
   "miscs": "기타",
-  "darkmode": "밝기 모드",
   "spoilerContent": "스포일러 콘텐츠",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "현재 확인된 지역",
-  "regionTooltip": "이를 통해 CDN 서버 지역을 결정합니다",
   "modify": "수정",
   "login": "로그인",
   "reset_password": "비밀번호 재설정",
@@ -147,7 +160,9 @@
   "close": "닫기",
   "area_item": "에어리어 아이템",
   "signup": "회원가입",
-  "serverRegionSelect": "서버 위치",
+  "detectionFailedPrompt": "지역을 확인하지 못했습니다. 네트워크 상태를 확인해주세요.",
+  "currentRegion": "현재 확인된 지역",
+  "regionTooltip": "이를 통해 CDN 서버 지역을 결정합니다",
   "detect": {
     "button": "인식",
     "checking": "확인 중...",
@@ -158,14 +173,5 @@
   "icon": "아이콘",
   "copyToClipboard": "클립보드에 복사",
   "scoreCalculator": "점수 계산기",
-  "member": "캐릭터",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "캐릭터 랭크"
+  "member": "캐릭터"
 }
