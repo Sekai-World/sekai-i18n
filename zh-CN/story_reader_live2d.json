@@ -9,7 +9,7 @@
     "get_scenario_data": "载入故事数据……",
     "translation": ""
   },
-  "story_ended": "故事开始于",
+  "story_ended": "故事结束",
   "load_button": {
     "ready": "点击以加载",
     "loading": "载入中……",
