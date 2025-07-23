@@ -23,6 +23,8 @@
   "musicDetail": "{{- title}} | Muzică | Sekai Viewer",
   "musicList": "Lista melodiilor | Sekai Viewer",
   "musicRecommend": "Ghid muzical (Beta) | Sekai Viewer",
+  "mysekaiFixtureDetail": "My Sekai Fixture | Sekai Viewer",
+  "mysekaiFixtureList": "My Sekai Fixture List | Sekai Viewer",
   "stampList": "Lista abţibildurilor | Sekai Viewer",
   "translation": "Centru de traduceri | Sekai Viewer",
   "unitDetail": "{{- name}} | Grup | Sekai Viewer",
