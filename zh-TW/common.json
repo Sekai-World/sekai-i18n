@@ -11,6 +11,8 @@
   "load": "載入",
   "update": "更新",
   "update-available": "有可用的新版本。",
+  "all": "全部",
+  "storyReader": "劇情閱覽",
   "announcement": "公告",
   "loading": "載入中...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "正在舉行的活動",
   "character": "角色",
-  "all": "全部",
   "rarity": "稀有度",
   "attribute": "屬性",
   "search": "搜尋",
@@ -34,24 +35,44 @@
   "card": "卡片",
   "stamp": "貼圖",
   "comic": "漫畫",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "目標",
     "honor": "稱號目標",
     "livepass": "演出目標",
     "normal": "普通目標",
-    "beginner": "新手目標"
+    "beginner": "新手目標",
+    "main": "目標"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "虛擬演唱會",
   "assetViewer": "Asset檢視",
   "musicMeta": "樂曲資訊",
   "musicRecommend": "樂曲推薦",
   "eventCalc": "活動pt計算",
-  "storyReader": "劇情閱覽",
   "text": "純文字",
   "eventTracker": "活動排名追蹤",
   "eventAnalyzer": "活動分數分析",
   "settings": {
     "title": "設定",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "目標語言",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "介面語言",
     "gameContent": "遊戲內容",
     "gameContentRegion": "遊戲內容地區",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "遊戲內容翻譯社群語言",
     "gameContentTranslationLanguageFollowInterface": "跟隨介面語言",
-    "gameContentTranslationRegion": "遊戲內容翻譯官方地區",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "目標語言",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "遊戲內容翻譯官方地區"
   },
   "support": "支援",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "開放於",
   "thumb": "縮圖",
   "skill": "技能",
+  "characterRank": "角色等級",
   "cost": "消費",
   "rewards": "獎勵",
   "performance": "Performance",
@@ -106,18 +114,24 @@
   "submit": "送出",
   "mode": "模式",
   "type": "類型",
+  "show": "顯示",
   "back": "上一步",
   "next": "下一步",
   "challengeLive": "挑戰Live",
   "endAt": "結束於",
-  "show": "顯示",
   "level": "等級",
   "description": "描述",
+  "bondsRank": "Kizuna Rank",
   "sequence": "排序",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "角色資料",
   "character_plural": "角色",
-  "detectionFailedPrompt": "偵測所在地區時發生錯誤，請檢查您的網路連線",
-  "language": "語言",
+  "notFound": "Not Found",
+  "yes": "是",
+  "no": "否",
+  "serverRegionSelect": "伺服器地區",
   "serverRegion": {
     "jp": "日服",
     "tw": "繁體中文服",
@@ -125,6 +139,8 @@
     "kr": "韓服",
     "cn": "Simplified Chinese"
   },
+  "language": "語言",
+  "darkmode": "顯示主題",
   "contentTranslationMode": {
     "title": "遊戲內容顯示模式",
     "original": "原始",
@@ -132,11 +148,8 @@
     "both": "皆顯示"
   },
   "miscs": "其他",
-  "darkmode": "顯示主題",
   "spoilerContent": "劇透內容",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "目前偵測到的地區",
-  "regionTooltip": "將偵測你的CDN伺服器地區",
   "modify": "修改",
   "login": "登入",
   "reset_password": "重設密碼",
@@ -147,7 +160,9 @@
   "close": "關閉",
   "area_item": "區域道具",
   "signup": "註冊",
-  "serverRegionSelect": "伺服器地區",
+  "detectionFailedPrompt": "偵測所在地區時發生錯誤，請檢查您的網路連線",
+  "currentRegion": "目前偵測到的地區",
+  "regionTooltip": "將偵測你的CDN伺服器地區",
   "detect": {
     "button": "偵測",
     "checking": "檢查中",
@@ -158,14 +173,5 @@
   "icon": "圖示",
   "copyToClipboard": "複製到剪貼板",
   "scoreCalculator": "分數計算",
-  "member": "角色",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "角色等級"
+  "member": "角色"
 }
