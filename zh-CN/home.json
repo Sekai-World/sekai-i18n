@@ -20,8 +20,10 @@
     "assetVer": "资产版本",
     "multiPlayerVer": "多人Live版本"
   },
-  "happy_2_year_anniversary": "两周年快乐！",
-  "2_year_anniversary_countdown": "两周年倒计时",
+  "happy_new_year": "🎊新年快乐！🎉",
+  "new_year_countdown": "新年倒计时",
+  "happy_anniversary": "{{year}}周年快乐！",
+  "anniversary_countdown": "{{year}}周年倒计时",
   "disclaimer": "本网站不拥有这些材料，所有版权归其合法所有者所有，包括但不限于 Sega、Colorful Palette 和 Crypton。 本网站是一个仅用于研究目的的同人数据库，与Sega或Colorful Palette没有官方关系。",
   "detect": {
     "warning": "在兼容模式下运行，你可能会遭遇性能问题。请升级您的浏览器或iOS/macOS系统版本。 <br> 更多信息： <l>Can I Use - WebP image format</l>",
@@ -41,7 +43,5 @@
     "join-discord": "加入Discord服务器"
   },
   "changelog": "更新日志",
-  "happy_new_year": "🎊新年快乐！🎉",
-  "new_year_countdown": "新年倒计时",
   "alert_settings": "使用右上角的 <s /> 切换语言和亮度模式。"
 }
