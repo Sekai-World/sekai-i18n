@@ -19,6 +19,14 @@
   "pickupMember": "本期角色",
   "pickupMember_plural": "本期角色",
   "gacha_behaviors": "扭蛋消耗",
+  "behavior": {
+    "free": "免费",
+    "normal": "普通",
+    "over_rarity_3_once": "保底(3⭑)",
+    "once_a_day": "每天一次",
+    "over_rarity_4_once": "保底(4⭑)",
+    "colorful_pass": "缤纷通行证"
+  },
   "gacha_simulator": "扭蛋模拟器",
   "simulator": {
     "reset": "重置",
@@ -28,12 +36,6 @@
     "count": "数量",
     "percentage": "百分比",
     "cost": "消费"
-  },
-  "behavior": {
-    "normal": "普通",
-    "over_rarity_3_once": "保底三星",
-    "once_a_day": "每天一次",
-    "over_rarity_4_once": "保底四星"
   },
   "gachaType": {
     "ceil": "天井",
