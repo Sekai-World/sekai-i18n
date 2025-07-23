@@ -3,12 +3,11 @@
   "actualPlaybackTime": "Actual Playback Time",
   "downloadFlacNoTrim": "Downloaded FLAC file will contain the beginning slience part.",
   "vocal": "Vocal",
-  "alert[0]": "The first <b>nine seconds</b> of every song have no sound. This is NOT a bug.",
   "vocalTab": {
     "title[0]": "Short version",
     "title[1]": "Long version",
-    "title[2]": "Music video",
-    "original_video": "Original video"
+    "original_video": "Original video",
+    "title[2]": "Music video"
   },
   "fileFormat": {
     "caption": "File Format",
@@ -47,6 +46,7 @@
   "hi_score": "High Score",
   "mvp_count": "MVP Count",
   "super_star_count": "Super Star Count",
+  "alert[0]": "The first <b>nine seconds</b> of every song have no sound. This is NOT a bug.",
   "dancerCount": "Dancer Count",
   "combo": "Combos",
   "preview": "Preview",

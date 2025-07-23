@@ -1,4 +1,5 @@
 {
+  "availableWords": "Available Words",
   "tab": {
     "title[0]": "Character",
     "title[1]": "Name Label (horizontal)",
@@ -13,6 +14,7 @@
     "secret": "Secret"
   },
   "scenario": "Story",
+  "gameData": "Game Data",
   "introduction": "Introduction",
   "colorCode": "Image Color",
   "skinColorCode": "Skin Color",
@@ -27,7 +29,5 @@
   "specialSkill": "Specialty",
   "favoriteFood": "Favorite Food",
   "hatedFood": "Disliked Food",
-  "weak": "Weakness",
-  "availableWords": "Available Words",
-  "gameData": "Game Data"
+  "weak": "Weakness"
 }

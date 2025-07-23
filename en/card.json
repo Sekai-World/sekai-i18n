@@ -12,17 +12,17 @@
     "title[3]": "After training trim image"
   },
   "gachaPhrase": "Gacha Phrase",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Skill Effect",
   "masterRank": "Master Rank",
   "masterRankLevel": "Master Rank Level",
   "stats": "Stats",
-  "normal": "Normal",
   "sideStory": "Side Story",
   "sideStory_plural": "Side Stories",
   "rarity": "Rarity",
   "power": "Power",
   "apply_event_filter": "Apply Event Bonuses",
-  "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "skill": "Skill"
 }

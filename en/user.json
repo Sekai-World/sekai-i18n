@@ -2,12 +2,12 @@
   "profile": {
     "title": {
       "user_deck": "Sekai Current Team",
-      "user_event": "Sekai Event Data",
       "card_list": "Sekai Cards",
       "import_card": "Import Sekai Cards",
       "manage_teams": "Manage Teams",
       "sekai_profile": "Sekai Profile",
       "sekai_cards_teams": "Sekai Cards & Teams",
+      "user_event": "Sekai Event Data",
       "user_statistics": "Sekai Statistics"
     },
     "import_card": {

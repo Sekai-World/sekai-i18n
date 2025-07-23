@@ -1,30 +1,37 @@
 {
+  "progress": {
+    "load_model_to_canvas": "Drawing to canvas...",
+    "load_model_data": "Loading model data...",
+    "load_media": "Loading voice media...",
+    "load_model_assets": "Loading assets...",
+    "load_model_motion": "Loading motion data...",
+    "get_resource_url": "Calculating resources...",
+    "get_scenario_data": "Loading scenario data...",
+    "translation": ""
+  },
+  "story_ended": "Story ended",
   "load_button": {
     "ready": "Click to load",
     "loading": "Loading...",
     "loaded": "Loaded"
   },
-  "progress": {
-    "load_model_data": "Loading model data...",
-    "load_media": "Loading voice media...",
-    "load_model_assets": "Loading assets...",
-    "load_model_motion": "Loading motion data...",
-    "load_model_to_canvas": "Drawing to canvas...",
-    "get_resource_url": "Calculating resources...",
-    "get_scenario_data": "Loading scenario data..."
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "Full screen",
   "toggle_page_full_screen": "Fit to page",
-  "auto_play": "Auto play",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "Hide settings",
   "show_settings": "Show settings",
+  "auto_play": "Auto play",
   "settings": {
-    "se_volume": "SE Volume",
-    "voice_volume": "Voice Volume",
-    "bgm_volume": "BGM Volume",
     "text_animation": "Text Animation",
+    "bgm_volume": "BGM Volume",
+    "voice_volume": "Voice Volume",
+    "se_volume": "SE Volume",
     "show_warning": "Show warning",
     "heading": "Settings"
-  },
-  "story_ended": "Story ended"
+  }
 }

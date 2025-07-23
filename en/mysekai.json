@@ -1,0 +1,50 @@
+{
+  "talk": {
+    "fixtureFilter": {
+      "caption": "Fixture Filter",
+      "withFixture": "With Fixture",
+      "withoutFixture": "Without Fixture"
+    }
+  },
+  "fixture": {
+    "genre": "Genre",
+    "subgenre": "Subgenre",
+    "size": "Size",
+    "seq": "Sequence",
+    "isObtainedByConvert": "Obtained by Convert",
+    "isEnableSketch": "Enable Sketch",
+    "isAssembled": "Assembled",
+    "isDisassembled": "Disassembled",
+    "tags": "Tags",
+    "materialCost": "Material Cost",
+    "characterTalks": "Character Talks",
+    "subGenre": "Subgenre",
+    "tag": "Tag",
+    "characterTalk": "Character Talk",
+    "status": "Status",
+    "sketch": {
+      "label": "Sketch",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "assembled": {
+      "label": "Assembled",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "disassembled": {
+      "label": "Disassembled",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "title": "My Sekai"
+  },
+  "convert": {
+    "label": "Convert",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "story": {
+    "loadError": "Error loading story"
+  }
+}

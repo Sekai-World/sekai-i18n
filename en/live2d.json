@@ -4,8 +4,8 @@
     "model_texture": "Loading model textures...",
     "model_moc3": "Loading model skeleton...",
     "model_physics": "Loading model physics...",
-    "motion_metadata": "Loading model motions...",
-    "display_model": "Preparing model display..."
+    "display_model": "Preparing model display...",
+    "motion_metadata": "Loading model motions..."
   },
   "pack_progress": {
     "generate_metadata": "Generate metadata",
@@ -19,15 +19,15 @@
     "model": "Model",
     "motions": "Motions",
     "expressions": "Expressions",
-    "idle_animation": "Idle animation",
-    "parameters": "Parameters"
+    "parameters": "Parameters",
+    "idle_animation": "Idle animation"
   },
   "tooltip": {
     "download": "Download",
     "fullscreen": "Toggle fullscreen",
     "shot": "Save image",
+    "reset": "Reload model",
     "stop_record": "Stop recording",
-    "start_record": "Start recording",
-    "reset": "Reload model"
+    "start_record": "Start recording"
   }
 }

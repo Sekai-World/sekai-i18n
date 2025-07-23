@@ -20,6 +20,8 @@
     "assetVer": "Asset Version",
     "multiPlayerVer": "Multiplayer Version"
   },
+  "happy_new_year": "🎊Happy New Year!🎉",
+  "new_year_countdown": "Count down to new year",
   "happy_anniversary": "Happy {{year}} Anniversary!",
   "anniversary_countdown": "Countdown to {{year}} Anniversary",
   "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
@@ -41,7 +43,5 @@
     "join-discord": "Join Discord Server"
   },
   "changelog": "Changelog",
-  "happy_new_year": "🎊Happy New Year!🎉",
-  "new_year_countdown": "Count down to new year",
   "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
 }

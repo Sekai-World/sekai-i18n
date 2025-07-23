@@ -19,6 +19,14 @@
   "pickupMember": "Pick-up Member",
   "pickupMember_plural": "Pick-up Members",
   "gacha_behaviors": "Gacha Draw Options",
+  "behavior": {
+    "free": "Free",
+    "normal": "Normal",
+    "over_rarity_3_once": "Guaranteed (3⭑)",
+    "once_a_day": "Once a day",
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
+  },
   "gacha_simulator": "Gacha Simulator",
   "simulator": {
     "reset": "Reset",
@@ -28,14 +36,6 @@
     "count": "Count",
     "percentage": "Percentage",
     "cost": "Cost"
-  },
-  "behavior": {
-    "free": "Free",
-    "normal": "Normal",
-    "over_rarity_3_once": "Guaranteed (3⭑)",
-    "once_a_day": "Once a day",
-    "over_rarity_4_once": "Guaranteed (4⭑)",
-    "colorful_pass": "Colorful Pass"
   },
   "gachaType": {
     "ceil": "Ceiling",

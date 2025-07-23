@@ -18,8 +18,6 @@
   },
   "boostAttribute": "Boost Attribute",
   "boostCharacters": "Boost Charaters",
-  "maxBoost": "Max Boost (Both Matched)",
-  "boostSpecificCards": "Boost Special Cards",
   "boostCards": "Boost Cards",
   "eventCards": "Event Cards",
   "cheerful_carnival_midterm_1": "First Midterm Report",
@@ -33,6 +31,13 @@
     "start": "From",
     "end": "To"
   },
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
+  },
+  "keyStory": "Key Event Story",
   "tracker": {
     "select": {
       "event_name": "Event Name",
@@ -81,14 +86,9 @@
     "cheerful_carnival": "Cheerful Carnival",
     "world_bloom": "World Link"
   },
+  "maxBoost": "Max Boost (Both Matched)",
+  "boostSpecificCards": "Boost Special Cards",
   "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past",
-  "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}",
-    "ranking": "Chapter Ranking",
-    "chapterNotStarted": "Chapter has not started yet",
-    "chapterEnded": "Chapter has ended"
-  },
-  "keyStory": "Key Event Story"
+  "alreadyPast": "Already Past"
 }
