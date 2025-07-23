@@ -11,6 +11,8 @@
   "load": "加载",
   "update": "更新",
   "update-available": "新版本可用。",
+  "all": "全部",
+  "storyReader": "剧情回放",
   "announcement": "公告",
   "loading": "载入中……",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "进行中的活动",
   "character": "角色",
-  "all": "全部",
   "rarity": "稀有度",
   "attribute": "属性",
   "search": "搜索",
@@ -34,24 +35,44 @@
   "card": "卡牌",
   "stamp": "贴纸",
   "comic": "漫画",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "任务",
     "honor": "称号",
     "livepass": "Live",
     "normal": "通常",
-    "beginner": "新手"
+    "beginner": "新手",
+    "main": "任务"
+  },
+  "honor": {
+    "bonds": "牵绊",
+    "others": "Others"
   },
   "virtualLive": "虚拟演唱会",
   "assetViewer": "资产浏览器",
   "musicMeta": "歌曲Meta",
   "musicRecommend": "歌曲推荐器",
   "eventCalc": "活动规划器",
-  "storyReader": "剧情回放",
   "text": "纯文本",
   "eventTracker": "活动跟踪器",
   "eventAnalyzer": "活动分析器",
   "settings": {
     "title": "设置",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "目标语言",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "界面语言",
     "gameContent": "游戏内容",
     "gameContentRegion": "游戏内容区域",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "游戏内容翻译社区语言",
     "gameContentTranslationLanguageFollowInterface": "跟随界面语言",
-    "gameContentTranslationRegion": "游戏内容官方翻译部分",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "目标语言",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "游戏内容官方翻译部分"
   },
   "support": "支持",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "开放时间",
   "thumb": "缩图",
   "skill": "技能",
+  "characterRank": "角色等级",
   "cost": "花费",
   "rewards": "奖励",
   "performance": "表现力",
@@ -106,18 +114,24 @@
   "submit": "提交",
   "mode": "模式",
   "type": "类型",
+  "show": "显示",
   "back": "后退",
   "next": "下一个",
   "challengeLive": "挑战Live",
   "endAt": "结束时间",
-  "show": "显示",
   "level": "等级",
   "description": "描述",
+  "bondsRank": "牵绊等级",
   "sequence": "排序",
+  "costume": "服装",
+  "hair": "发型",
+  "head": "Head Accessory",
   "profile": "角色资料",
   "character_plural": "角色",
-  "detectionFailedPrompt": "无法确定你的地区，请检查你的网络链接",
-  "language": "语言",
+  "notFound": "Not Found",
+  "yes": "是",
+  "no": "否",
+  "serverRegionSelect": "服务器地区",
   "serverRegion": {
     "jp": "日服",
     "tw": "繁体字服",
@@ -125,6 +139,8 @@
     "kr": "韩文服",
     "cn": "Simplified Chinese"
   },
+  "language": "语言",
+  "darkmode": "显示主题",
   "contentTranslationMode": {
     "title": "游戏内容显示模式",
     "original": "原始文字",
@@ -132,11 +148,8 @@
     "both": "两者皆显示"
   },
   "miscs": "杂项",
-  "darkmode": "显示主题",
   "spoilerContent": "剧透内容",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "探测到的当前区域",
-  "regionTooltip": "这会决定你的CDN服务器地区",
   "modify": "修改",
   "login": "登录",
   "reset_password": "重设密码",
@@ -147,7 +160,9 @@
   "close": "关闭",
   "area_item": "区域道具",
   "signup": "注册",
-  "serverRegionSelect": "服务器地区",
+  "detectionFailedPrompt": "无法确定你的地区，请检查你的网络链接",
+  "currentRegion": "探测到的当前区域",
+  "regionTooltip": "这会决定你的CDN服务器地区",
   "detect": {
     "button": "探测",
     "checking": "检查中",
@@ -158,14 +173,5 @@
   "icon": "图标",
   "copyToClipboard": "拷贝到剪贴板",
   "scoreCalculator": "分数计算器",
-  "member": "成员",
-  "bondsRank": "牵绊等级",
-  "honor": {
-    "bonds": "牵绊",
-    "others": "Others"
-  },
-  "costume": "服装",
-  "hair": "发型",
-  "head": "Head Accessory",
-  "characterRank": "角色等级"
+  "member": "成员"
 }
