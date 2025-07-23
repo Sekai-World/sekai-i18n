@@ -3,10 +3,10 @@
   "actualPlaybackTime": "实际播放时长",
   "downloadFlacNoTrim": "下载的FLAC文件会包含开头的静音段。",
   "vocal": "演唱者",
-  "alert[0]": "每首歌曲的<b>前九秒</b>无声。这不是程序错误！",
   "vocalTab": {
     "title[0]": "预览",
     "title[1]": "全曲",
+    "original_video": "原始视频",
     "title[2]": "MV"
   },
   "fileFormat": {
@@ -35,7 +35,7 @@
     "rankS": "等级S"
   },
   "difficulty_plural": "难度",
-  "chartCredit": "谱面图片修改自pjsekai.moe的版本。",
+  "chartCredit": "Chart Image is modified from pjsekai.moe version.",
   "noteCount": "音符数量",
   "comboRewards": "连击奖励",
   "chartImage": "谱面",
@@ -46,6 +46,7 @@
   "hi_score": "高分",
   "mvp_count": "MVP数量",
   "super_star_count": "超级明星数量",
+  "alert[0]": "每首歌曲的<b>前九秒</b>无声。这不是程序错误！",
   "dancerCount": "舞蹈人员数量",
   "combo": "连击",
   "preview": "预览",
