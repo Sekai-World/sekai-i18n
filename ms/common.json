@@ -11,6 +11,8 @@
   "load": "Muatkan",
   "update": "Kemas Kini",
   "update-available": "Versi baharu tersedia.",
+  "all": "Semua",
+  "storyReader": "Pembaca Cerita",
   "announcement": "Pengumuman",
   "loading": "Memuatkan...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "Acara Berlangsung",
   "character": "Watak",
-  "all": "Semua",
   "rarity": "Kejarangan",
   "attribute": "Atribut",
   "search": "Cari",
@@ -34,24 +35,44 @@
   "card": "Kad",
   "stamp": "Pelekat Cap",
   "comic": "Komik",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "Misi",
     "honor": "Plak Gelaran",
     "livepass": "Persembahan",
     "normal": "Biasa",
-    "beginner": "Pemain Baru"
+    "beginner": "Pemain Baru",
+    "main": "Misi"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Lain-lain"
   },
   "virtualLive": "Persembahan Maya",
   "assetViewer": "Pemidang Aset",
   "musicMeta": "Meta Muzik",
   "musicRecommend": "Pengesyoran Lagu",
   "eventCalc": "Perancang Acara",
-  "storyReader": "Pembaca Cerita",
   "text": "Teks Sahaja",
   "eventTracker": "Penjejak Acara",
   "eventAnalyzer": "Penganalisis Acara",
   "settings": {
     "title": "Tetapan",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "Bahasa Sasaran",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Bahasa Antara Muka",
     "gameContent": "Kandungan Permainan",
     "gameContentRegion": "Kawasan Kandungan Permainan",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Bahasa Komuniti Terjemahan Kandungan Permainan",
     "gameContentTranslationLanguageFollowInterface": "Ikut Bahasa Antara Muka",
-    "gameContentTranslationRegion": "Kawasan Rasmi Terjemahan Kandungan Permainan",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "Bahasa Sasaran",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Kawasan Rasmi Terjemahan Kandungan Permainan"
   },
   "support": "Sokongan",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "Tersedia Mulai",
   "thumb": "Imej Kenit",
   "skill": "Kemahiran",
+  "characterRank": "Kedudukan Watak",
   "cost": "Kos",
   "rewards": "Ganjaran",
   "performance": "Prestasi",
@@ -106,18 +114,24 @@
   "submit": "Hantar",
   "mode": "Mod",
   "type": "Jenis",
+  "show": "Tunjukkan",
   "back": "Kembali",
   "next": "Seterusnya",
   "challengeLive": "Persembahan Cabaran",
   "endAt": "Tersedia Sehingga",
-  "show": "Tunjukkan",
   "level": "Tahap",
   "description": "Keterangan",
+  "bondsRank": "Kedudukan Kizuna",
   "sequence": "Jujukan",
+  "costume": "Pakaian",
+  "hair": "Gaya Rambut",
+  "head": "Aksesori Rambut",
   "profile": "Profil",
   "character_plural": "Watak",
-  "detectionFailedPrompt": "Gagal mengenal pasti kawasan anda, sila periksa rangkaian anda",
-  "language": "Bahasa",
+  "notFound": "Not Found",
+  "yes": "Ya",
+  "no": "Tidak",
+  "serverRegionSelect": "Kawasan Pelayan",
   "serverRegion": {
     "jp": "Bahasa Jepun",
     "tw": "Bahasa Cina Tradisional",
@@ -125,6 +139,8 @@
     "kr": "Bahasa Korea",
     "cn": "Cina Ringkas"
   },
+  "language": "Bahasa",
+  "darkmode": "Mod Kecerahan",
   "contentTranslationMode": {
     "title": "Mod Paparan Kandungan Permainan",
     "original": "Asal",
@@ -132,11 +148,8 @@
     "both": "Tunjukkan Kedua-duanya"
   },
   "miscs": "Aneka",
-  "darkmode": "Mod Kecerahan",
   "spoilerContent": "Kandungan Bocoran",
   "spoilerContentMosaicked": "Bocoran Dimozekkan",
-  "currentRegion": "Kawasan Dikesan Semasa",
-  "regionTooltip": "Ini akan menentukan kawasan pelayan CDN anda",
   "modify": "Ubahsuai",
   "login": "Log Masuk",
   "reset_password": "Tetapkan Semula Kata Laluan",
@@ -147,7 +160,9 @@
   "close": "Tutup",
   "area_item": "Item Kawasan",
   "signup": "Daftar",
-  "serverRegionSelect": "Kawasan Pelayan",
+  "detectionFailedPrompt": "Gagal mengenal pasti kawasan anda, sila periksa rangkaian anda",
+  "currentRegion": "Kawasan Dikesan Semasa",
+  "regionTooltip": "Ini akan menentukan kawasan pelayan CDN anda",
   "detect": {
     "button": "Kesan",
     "checking": "Memeriksa...",
@@ -158,14 +173,5 @@
   "icon": "Ikon",
   "copyToClipboard": "Salin ke Papan Keratan",
   "scoreCalculator": "Kalkulator Markah",
-  "member": "Watak",
-  "bondsRank": "Kedudukan Kizuna",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Lain-lain"
-  },
-  "costume": "Pakaian",
-  "hair": "Gaya Rambut",
-  "head": "Aksesori Rambut",
-  "characterRank": "Kedudukan Watak"
+  "member": "Watak"
 }
