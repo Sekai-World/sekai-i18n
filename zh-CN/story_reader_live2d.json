@@ -1,30 +1,37 @@
 {
+  "progress": {
+    "load_model_to_canvas": "渲染到画布……",
+    "load_model_data": "载入模型数据……",
+    "load_media": "载入声音……",
+    "load_model_assets": "载入素材……",
+    "load_model_motion": "载入动作文件……",
+    "get_resource_url": "计算资源总量……",
+    "get_scenario_data": "载入故事数据……",
+    "translation": ""
+  },
+  "story_ended": "故事开始于",
   "load_button": {
     "ready": "点击以加载",
     "loading": "载入中……",
     "loaded": "已载入"
   },
-  "progress": {
-    "load_model_data": "载入模型数据……",
-    "load_media": "载入声音……",
-    "load_model_assets": "载入素材……",
-    "load_model_motion": "载入动作文件……",
-    "load_model_to_canvas": "渲染到画布……",
-    "get_resource_url": "计算资源总量……",
-    "get_scenario_data": "载入故事数据……"
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "全屏",
   "toggle_page_full_screen": "适应页面",
-  "auto_play": "自动播放",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "隐藏设置",
   "show_settings": "显示设置",
+  "auto_play": "自动播放",
   "settings": {
-    "se_volume": "SE Volume",
-    "voice_volume": "Voice Volume",
-    "bgm_volume": "BGM Volume",
     "text_animation": "文字动画",
+    "bgm_volume": "BGM Volume",
+    "voice_volume": "Voice Volume",
+    "se_volume": "SE Volume",
     "show_warning": "Show warning",
     "heading": "设置"
-  },
-  "story_ended": "Story ended"
+  }
 }
