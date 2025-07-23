@@ -11,6 +11,8 @@
   "load": "تحميل",
   "update": "تحديث",
   "update-available": "يتوفر نسخة جديدة.",
+  "all": "الكل",
+  "storyReader": "قراءة القصص",
   "announcement": "الإعلانات",
   "loading": "تحميل...",
   "countdown": {
@@ -21,7 +23,6 @@
   },
   "ongoing_event": "حدث جاري",
   "character": "الشخصيات",
-  "all": "الكل",
   "rarity": "النُدرة",
   "attribute": "النوع",
   "search": "بحث",
@@ -34,24 +35,44 @@
   "card": "البطاقات",
   "stamp": "الملصقات",
   "comic": "القصص المصورة",
+  "mysekaiFixture": "My Sekai Fixture",
   "mission": {
-    "main": "المهام",
     "honor": "العناوين",
     "livepass": "بث",
     "normal": "عادي",
-    "beginner": "مبتدئ"
+    "beginner": "مبتدئ",
+    "main": "المهام"
+  },
+  "honor": {
+    "bonds": "Kizuna",
+    "others": "Others"
   },
   "virtualLive": "البث الافتراضي",
   "assetViewer": "Asset Viewer",
   "musicMeta": "بيانات الموسيقى",
   "musicRecommend": "مقترح أغاني",
   "eventCalc": "تخطيط للأحداث",
-  "storyReader": "قراءة القصص",
   "text": "نص فقط",
   "eventTracker": "تتبع الأحداث",
   "eventAnalyzer": "تحليل الأحداث",
   "settings": {
     "title": "الإعدادات",
+    "llm": {
+      "title": "LLM Settings",
+      "enable": "Enable LLM",
+      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "provider": "LLM Provider",
+      "model": "LLM Model",
+      "modelDescription": "Model to use for translation.",
+      "apiKey": "API Key",
+      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiEndpoint": "",
+      "apiEndpointDescription": "",
+      "targetLanguage": "اللغة المستهدفة",
+      "targetLanguageDescription": "Language to translate the story into.",
+      "displayOptions": "Display Options",
+      "displayOptionsDescription": "Show original text"
+    },
     "interfaceLanguage": "Interface Language",
     "gameContent": "Game Content",
     "gameContentRegion": "Game Content Region",
@@ -62,21 +83,7 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region",
-    "llm": {
-      "title": "LLM Settings",
-      "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
-      "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
-      "targetLanguage": "اللغة المستهدفة",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
-    }
+    "gameContentTranslationRegion": "Game Content Translation Official Region"
   },
   "support": "الدعم",
   "toolbar": {
@@ -93,6 +100,7 @@
   "startAt": "متوفرة منذ",
   "thumb": "الصورة الخارجية",
   "skill": "المهارة",
+  "characterRank": "مستوى الشخصية",
   "cost": "التكلفة",
   "rewards": "المكافآت",
   "performance": "الأداء",
@@ -106,18 +114,24 @@
   "submit": "إرسال",
   "mode": "الوضعية",
   "type": "النوعية",
+  "show": "إظهار",
   "back": "إلى الخلف",
   "next": "التالي",
   "challengeLive": "Challenge Live",
   "endAt": "متوفرة حتى",
-  "show": "إظهار",
   "level": "مستوى",
   "description": "الوصف",
+  "bondsRank": "Kizuna Rank",
   "sequence": "Sequence",
+  "costume": "Costume",
+  "hair": "Hair Style",
+  "head": "Head Accessory",
   "profile": "الملف الشخصي",
   "character_plural": "الشخصيات",
-  "detectionFailedPrompt": "Failed to determine your region, please check your network",
-  "language": "اللغة",
+  "notFound": "Not Found",
+  "yes": "Yes",
+  "no": "No",
+  "serverRegionSelect": "Server Region",
   "serverRegion": {
     "jp": "Japanese",
     "tw": "Traditional Chinese",
@@ -125,6 +139,8 @@
     "kr": "Korean",
     "cn": "Simplified Chinese"
   },
+  "language": "اللغة",
+  "darkmode": "السطوع",
   "contentTranslationMode": {
     "title": "لغة العرض",
     "original": "الأصلية",
@@ -132,11 +148,8 @@
     "both": "كلاهما"
   },
   "miscs": "Miscellaneous",
-  "darkmode": "السطوع",
   "spoilerContent": "إظهار الحرق",
   "spoilerContentMosaicked": "Spoiler Mosaicked",
-  "currentRegion": "Current Detected Region",
-  "regionTooltip": "This will determine your CDN server region",
   "modify": "تعديل",
   "login": "تسجيل الدخول",
   "reset_password": "إعادة تعيين كلمة المرور",
@@ -147,7 +160,9 @@
   "close": "إغلاق",
   "area_item": "اغراض المنطقة",
   "signup": "إنشاء حساب جديد",
-  "serverRegionSelect": "Server Region",
+  "detectionFailedPrompt": "Failed to determine your region, please check your network",
+  "currentRegion": "Current Detected Region",
+  "regionTooltip": "This will determine your CDN server region",
   "detect": {
     "button": "Detect",
     "checking": "يتم التحقق...",
@@ -158,14 +173,5 @@
   "icon": "ايقونة",
   "copyToClipboard": "نسخ",
   "scoreCalculator": "حساب مجموع النقاط",
-  "member": "الشخصية",
-  "bondsRank": "Kizuna Rank",
-  "honor": {
-    "bonds": "Kizuna",
-    "others": "Others"
-  },
-  "costume": "Costume",
-  "hair": "Hair Style",
-  "head": "Head Accessory",
-  "characterRank": "مستوى الشخصية"
+  "member": "الشخصية"
 }
