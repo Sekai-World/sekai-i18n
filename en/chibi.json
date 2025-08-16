@@ -1,0 +1,14 @@
+{
+    "add_to_scene": "Add to scene",
+    "select": {
+        "animation": "Animation",
+        "rotaion": "Rotation",
+        "zoom": "Zoom"
+    },
+    "tooltip": {
+        "moveup": "Move upward",
+        "movedown": "Move downward",
+        "expand": "Expand",
+        "flip": "Flip"
+    }
+}
