@@ -1,0 +1,14 @@
+{
+    "add_to_scene": "添加到场景",
+    "select": {
+        "animation": "动画",
+        "rotaion": "旋转",
+        "zoom": "缩放"
+    },
+    "tooltip": {
+        "moveup": "上移一层",
+        "movedown": "下移一层",
+        "expand": "展开",
+        "flip": "镜像翻转"
+    }
+}
