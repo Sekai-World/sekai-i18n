@@ -33,6 +33,6 @@
         "gif": "gif (animate image)",
         "png_sequence": "png sequence",
         "webm": "webm (transparent video)",
-        "mp4": "webm (video)"
+        "mp4": "mp4 (video)"
     }
 }
