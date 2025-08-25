@@ -1,14 +1,38 @@
 {
     "add_to_scene": "添加到场景",
+    "record": "开始录制",
+    "record_settings": "录制选项",
+    "init_lib": "加载录制组件 (~12 MB)",
+    "init_lib_to_record": "首次使用录制功能时，需要下载一个约12MB的支持包。下载完成后即可开始录制，此步骤只需进行一次，请放心等待。",
     "select": {
         "animation": "动画",
         "rotaion": "旋转",
         "zoom": "缩放"
     },
+    "input": {
+        "length": "录制时长",
+        "sec": "秒",
+        "dimension": "尺寸",
+        "recording_type": "文件格式"
+    },
     "tooltip": {
         "moveup": "上移一层",
         "movedown": "下移一层",
         "expand": "展开",
-        "flip": "镜像翻转"
+        "flip": "镜像翻转",
+        "shadow": "显示阴影"
+    },
+    "progress": {
+        "save_screenshot": "正在保存截图...",
+        "get_ready": "准备场景...",
+        "generate_frame": "正在生成帧:",
+        "encoding": "正在编码..."
+    },
+    "filetype": {
+        "webp": "webp (动图)",
+        "gif": "gif (动图)",
+        "png_sequence": "png序列",
+        "webm": "webm (透明视频)",
+        "mp4": "mp4 (视频)"
     }
 }

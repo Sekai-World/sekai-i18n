@@ -1,14 +1,38 @@
 {
     "add_to_scene": "Add to scene",
+    "record": "Start Recording",
+    "record_settings": "Record Settings",
+    "init_lib": "Load Recording Module (~12 MB)",
+    "init_lib_to_record": "The first time you use recording, a support package (~12 MB) must be downloaded. Once loaded, recording will be ready to use. This step is only needed once.",
     "select": {
         "animation": "Animation",
         "rotaion": "Rotation",
         "zoom": "Zoom"
     },
+    "input": {
+        "length": "Duration",
+        "sec": "seconds",
+        "dimension": "Size",
+        "recording_type": "File format"
+    },
     "tooltip": {
         "moveup": "Move upward",
         "movedown": "Move downward",
         "expand": "Expand",
-        "flip": "Flip"
+        "flip": "Flip",
+        "shadow": "Show shadow"
+    },
+    "progress": {
+        "save_screenshot": "Saving Screenshot...",
+        "get_ready": "Preparing scene...",
+        "generate_frame": "Generating frame:",
+        "encoding": "Encoding..."
+    },
+    "filetype": {
+        "webp": "webp (animate image)",
+        "gif": "gif (animate image)",
+        "png_sequence": "png sequence",
+        "webm": "webm (transparent video)",
+        "mp4": "mp4 (video)"
     }
 }
