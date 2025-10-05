@@ -5,8 +5,9 @@
     "charaStory": "Storie personaggio",
     "cardStory": "Episodio carta",
     "areaTalk": "Chiacchiere sulla mappa",
-    "liveTalk": "Chiacchiere in live",
-    "specialStory": "Storie Speciali"
+    "specialStory": "Storie Speciali",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Chiacchiere in live"
   },
   "snippet": {
     "FullScreenText": "Testo schermo intero",
