@@ -12,17 +12,18 @@
     "title[3]": "特訓後裁剪卡面"
   },
   "gachaPhrase": "扭蛋短語",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "技能效果",
   "masterRank": "突破",
   "masterRankLevel": "突破等級",
   "stats": "綜合力",
-  "normal": "Normal",
   "sideStory": "Side Story",
   "sideStory_plural": "Side Stories",
   "rarity": "Rarity",
   "power": "Power",
   "apply_event_filter": "Apply Event Bonuses",
   "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Type"
 }
