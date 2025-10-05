@@ -12,17 +12,18 @@
     "title[3]": "Orezaný obrázok po trénovaní"
   },
   "gachaPhrase": "Gacha fráza",
+  "specialCutIn": "Špeciálny záber z 3DMV",
+  "unitCount": "Počet skupín",
+  "normal": "Normálna",
   "skillEffect": "Efekt zručnosti",
   "masterRank": "Majstrovská hodnosť",
   "masterRankLevel": "Úroveň majstrovskej hodnosti",
   "stats": "Štatistiky",
-  "normal": "Normálna",
   "sideStory": "Vedľajší príbeh",
   "sideStory_plural": "Vedľajšie príbehy",
   "rarity": "Rarita",
   "power": "Sila",
   "apply_event_filter": "Použiť bonusy udalosti",
   "skill": "Zručnosť",
-  "unitCount": "Počet skupín",
-  "specialCutIn": "Špeciálny záber z 3DMV"
+  "supplyType": "Typ"
 }
