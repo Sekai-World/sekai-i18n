@@ -5,8 +5,9 @@
     "charaStory": "Charakter-Storys",
     "cardStory": "Karten-Storys",
     "areaTalk": "Landkarten-Gespräche",
-    "liveTalk": "Liveshow-Gespräche",
-    "specialStory": "Spezielle Storys"
+    "specialStory": "Spezielle Storys",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Liveshow-Gespräche"
   },
   "snippet": {
     "FullScreenText": "Vollbildschirm-Text",
