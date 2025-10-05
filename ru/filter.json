@@ -2,14 +2,42 @@
   "character": {
     "caption": "Персонаж"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "Порядок",
     "ascending": "По возрастанию",
     "descending": "По убыванию"
   },
+  "time": {
+    "irrelevant": "Irrelevant",
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "Все",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "Применить",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "Тип титула",
-    "group_only_once": "Показать один в каждой группе"
+    "group_only_once": "Показать один в каждой группе",
+    "caption": "Тип титула"
   },
   "not_set": "Не выбрано",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "Категория"
   },
-  "not-selected": "Не выбрано",
   "stampType": {
     "caption": "Вид штампа",
     "text": "Только текст",
@@ -32,6 +59,7 @@
     "source": "Исходный язык",
     "target": "Язык перевода"
   },
+  "not-selected": "Не выбрано",
   "skill": {
     "score_up": "Увеличение очков",
     "judgment_up": "Замена и Увеличение очков",
@@ -39,27 +67,13 @@
     "perfect_score_up": "Увеличение очков для PERFECT",
     "life_score_up": "Увеличение очков в зависимости от жизни"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "Применить",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "Все",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
+  "card_supply":{
+    "normal": "Обычный",
+    "birthday": "День рождения",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
