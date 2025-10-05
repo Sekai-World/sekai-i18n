@@ -24,5 +24,6 @@
   "rarity": "Rarity",
   "power": "Power",
   "apply_event_filter": "Apply Event Bonuses",
-  "skill": "Skill"
+  "skill": "Skill",
+  "supplyType": "Type"
 }
