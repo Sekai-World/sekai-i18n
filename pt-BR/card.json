@@ -12,17 +12,18 @@
     "title[3]": "Imagem transparente após o Treinamento"
   },
   "gachaPhrase": "Frase do Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efeito da Habilidade",
   "masterRank": "Master Rank",
   "masterRankLevel": "Nível do Master Rank",
   "stats": "Status",
-  "normal": "Normal",
   "sideStory": "Side-Story",
   "sideStory_plural": "Side Stories",
   "rarity": "Raridade ",
   "power": "Poder",
   "apply_event_filter": "Bônus aplicável de evento ",
   "skill": "Habilidade",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipo"
 }
