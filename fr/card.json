@@ -12,17 +12,18 @@
     "title[3]": "Image après entraînement découpée"
   },
   "gachaPhrase": "Phrase lors du gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Effet de compétence",
   "masterRank": "Rang de maîtrise",
   "masterRankLevel": "Niveau du rang de maîtrise",
   "stats": "Statistiques",
-  "normal": "Normal",
   "sideStory": "Histoire secondaire",
   "sideStory_plural": "Histoires secondaires",
   "rarity": "Rareté",
   "power": "Pouvoir",
   "apply_event_filter": "Appliquer les bonus d'événements",
   "skill": "Compétence",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Type"
 }
