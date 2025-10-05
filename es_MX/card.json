@@ -12,17 +12,18 @@
     "title[3]": "Imagen después de emtrenar recortada"
   },
   "gachaPhrase": "Frase del gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efecto de la habilidad ",
   "masterRank": "Maestría",
   "masterRankLevel": "Nivel de maestría",
   "stats": "Estadísticas",
-  "normal": "Normal",
   "sideStory": "Historia paralela",
   "sideStory_plural": "Historias paralelas",
   "rarity": "Rareza",
   "power": "Poder",
   "apply_event_filter": "Aplicar bonus de evento",
   "skill": "Habilidad",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Type"
 }
