@@ -66,5 +66,14 @@
     "life_recovery": "生命恢复和分数加成",
     "perfect_score_up": "PERFECT时分数加成",
     "life_score_up": "有生命值要求的分数加成"
+  },
+  "card_supply":{
+    "normal": "普通",
+    "birthday": "生日",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
