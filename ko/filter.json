@@ -2,14 +2,42 @@
   "character": {
     "caption": "캐릭터"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "정렬",
     "ascending": "오름차순",
     "descending": "내림차순"
   },
+  "time": {
+    "irrelevant": "Irrelevant",
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "모든 캐릭터",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "적용",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "칭호 분류",
-    "group_only_once": "같은 그룹의 칭호를 하나로 표시"
+    "group_only_once": "같은 그룹의 칭호를 하나로 표시",
+    "caption": "칭호 분류"
   },
   "not_set": "미설정",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "MV 종류"
   },
-  "not-selected": "선택되지 않음",
   "stampType": {
     "caption": "스탬프 유형",
     "text": "텍스트 전용",
@@ -32,6 +59,7 @@
     "source": "원문 언어",
     "target": "대상 언어"
   },
+  "not-selected": "선택되지 않음",
   "skill": {
     "score_up": "스코어 부스트",
     "judgment_up": "판정 강화 & 스코어 부스트",
@@ -39,27 +67,13 @@
     "perfect_score_up": "PERFECT일 때 스코어 부스트",
     "life_score_up": "라이프 조건이 있는 점수 부스트"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "적용",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "모든 캐릭터",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
+  "card_supply":{
+    "normal": "보통",
+    "birthday": "생일",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
