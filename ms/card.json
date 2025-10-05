@@ -12,17 +12,18 @@
     "title[3]": "Imej perapi selepas latihan"
   },
   "gachaPhrase": "Ungkapan Gacha",
+  "specialCutIn": "Potongan Masuk 3DMV Istimewa",
+  "unitCount": "Bilangan Unit",
+  "normal": "Biasa",
   "skillEffect": "Kesan Kemahiran",
   "masterRank": "Kedudukan Master",
   "masterRankLevel": "Tahap Kedudukan Master",
   "stats": "Statistik",
-  "normal": "Biasa",
   "sideStory": "Cerita Sampingan",
   "sideStory_plural": "Cerita Sampingan",
   "rarity": "Kejarangan",
   "power": "Kuasa",
   "apply_event_filter": "Gunakan Bonus Acara",
   "skill": "Kemahiran",
-  "unitCount": "Bilangan Unit",
-  "specialCutIn": "Potongan Masuk 3DMV Istimewa"
+  "supplyType": "Jenis"
 }
