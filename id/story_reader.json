@@ -5,8 +5,9 @@
     "charaStory": "Cerita Karakter",
     "cardStory": "Cerita Kartu",
     "areaTalk": "Dialog Map",
-    "liveTalk": "Dialog Live",
-    "specialStory": "Cerita Khusus"
+    "specialStory": "Cerita Khusus",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Dialog Live"
   },
   "snippet": {
     "FullScreenText": "Teks Layar Penuh",
