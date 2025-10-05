@@ -12,17 +12,18 @@
     "title[3]": "Тренированное без фона"
   },
   "gachaPhrase": "Фраза",
+  "specialCutIn": "Специальная 3DMV врезка",
+  "unitCount": "Всего юнитов",
+  "normal": "Тренинг",
   "skillEffect": "Эффект навыка",
   "masterRank": "Ранг мастерства",
   "masterRankLevel": "Уровень ранга мастерства",
   "stats": "Статы",
-  "normal": "Тренинг",
   "sideStory": "Побочная история",
   "sideStory_plural": "Побочные истории",
   "rarity": "Редкость",
   "power": "Сила",
   "apply_event_filter": "Применить ивент-бонус",
   "skill": "Навык",
-  "unitCount": "Всего юнитов",
-  "specialCutIn": "Специальная 3DMV врезка"
+  "supplyType": "Тип"
 }
