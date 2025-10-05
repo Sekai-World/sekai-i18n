@@ -5,8 +5,9 @@
     "charaStory": "Cerita Watak",
     "cardStory": "Cerita Kad",
     "areaTalk": "Sembang Peta",
-    "liveTalk": "Sembang Persembahan",
-    "specialStory": "Cerita Istimewa"
+    "specialStory": "Cerita Istimewa",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Sembang Persembahan"
   },
   "snippet": {
     "FullScreenText": "Tulisan Skrin Penuh",
