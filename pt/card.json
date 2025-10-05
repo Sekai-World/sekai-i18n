@@ -12,17 +12,18 @@
     "title[3]": "Imagem após treino cortada"
   },
   "gachaPhrase": "Frase do gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efeito da habilidade",
   "masterRank": "Mestria",
   "masterRankLevel": "Nível de mestria",
   "stats": "Estatísticas",
-  "normal": "Normal",
   "sideStory": "História lateral",
   "sideStory_plural": "Histórias laterais",
   "rarity": "Raridade",
   "power": "Poder",
   "apply_event_filter": "Aplicar bónus de evento",
   "skill": "Habilidade",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipo"
 }
