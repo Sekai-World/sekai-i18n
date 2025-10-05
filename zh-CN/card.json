@@ -24,5 +24,6 @@
   "rarity": "稀有度",
   "power": "综合力",
   "apply_event_filter": "应用活动加成",
-  "skill": "技能"
+  "skill": "技能",
+  "supplyType": "类型"
 }
