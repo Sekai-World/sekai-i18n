@@ -5,8 +5,9 @@
     "charaStory": "Històries de personatge",
     "cardStory": "Històries de cartes",
     "areaTalk": "Conversa al mapa",
-    "liveTalk": "Conversa al concert",
-    "specialStory": "Special Stories"
+    "specialStory": "Special Stories",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Conversa al concert"
   },
   "snippet": {
     "FullScreenText": "Text a pantalla completa",
