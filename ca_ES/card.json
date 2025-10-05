@@ -12,17 +12,18 @@
     "title[3]": "Imatge entrenada retallada"
   },
   "gachaPhrase": "Frase al Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efecte de l'habilitat",
   "masterRank": "Rang mestre",
   "masterRankLevel": "Master Rank Level",
   "stats": "Stats",
-  "normal": "Normal",
   "sideStory": "Història secundària",
   "sideStory_plural": "Històries secondaries",
   "rarity": "Raresa",
   "power": "Poder",
   "apply_event_filter": "Aplicar bonus d'esdeveniment",
   "skill": "Habilitat",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipus"
 }
