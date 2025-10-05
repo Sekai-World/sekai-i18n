@@ -5,8 +5,9 @@
     "charaStory": "เนื้อเรื่องตัวละคร",
     "cardStory": "เนื้อเรื่องการ์ด",
     "areaTalk": "บทพูดในเอเรีย",
-    "liveTalk": "บทพูดในไลฟ์",
-    "specialStory": "เนื้อเรื่องพิเศษ"
+    "specialStory": "เนื้อเรื่องพิเศษ",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "บทพูดในไลฟ์"
   },
   "snippet": {
     "FullScreenText": "บทพูดแบบเต็ม",
