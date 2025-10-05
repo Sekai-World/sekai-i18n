@@ -12,17 +12,18 @@
     "title[3]": "特訓後角色圖"
   },
   "gachaPhrase": "轉蛋短語",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "特訓前",
   "skillEffect": "技能效果",
   "masterRank": "突破",
   "masterRankLevel": "突破等級",
   "stats": "能力值",
-  "normal": "特訓前",
   "sideStory": "卡片劇情",
   "sideStory_plural": "卡片劇情",
   "rarity": "稀有度",
   "power": "綜合力",
   "apply_event_filter": "使用活動加成",
   "skill": "技能",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "類型"
 }
