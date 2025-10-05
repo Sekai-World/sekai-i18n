@@ -12,17 +12,18 @@
     "title[3]": "صورة ما بعد التدريب مقصوصة"
   },
   "gachaPhrase": "عبارة القاتشا",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "بطاقة اولية",
   "skillEffect": "قوى المهارة",
   "masterRank": "Master Rank",
   "masterRankLevel": "Master Rank Level",
   "stats": "الخصائص",
-  "normal": "بطاقة اولية",
   "sideStory": "قصة جانبية",
   "sideStory_plural": "قصص جانبية",
   "rarity": "النُدرة",
   "power": "القوة",
   "apply_event_filter": "أضف بونس الأحداث",
   "skill": "المهارة",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "النوعية"
 }
