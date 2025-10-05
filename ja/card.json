@@ -12,17 +12,18 @@
     "title[3]": "特訓後画像(背景なし)"
   },
   "gachaPhrase": "演出セリフ",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "ユニット数",
+  "normal": "特訓前",
   "skillEffect": "スキル効果",
   "masterRank": "マスターランク",
   "masterRankLevel": "マスターランクレベル",
   "stats": "ステータス",
-  "normal": "特訓前",
   "sideStory": "サイドストーリー",
   "sideStory_plural": "サイドストーリー",
   "rarity": "レアリティ",
   "power": "総合力",
   "apply_event_filter": "イベントボーナスを適用する",
   "skill": "スキル",
-  "unitCount": "ユニット数",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "タイプ"
 }
