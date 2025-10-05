@@ -5,8 +5,9 @@
     "charaStory": "Истории персонажей",
     "cardStory": "Истории карт",
     "areaTalk": "Диалоги локаций",
-    "liveTalk": "Диалоги виртуальных концертов",
-    "specialStory": "Особые истории"
+    "specialStory": "Особые истории",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Диалоги виртуальных концертов"
   },
   "snippet": {
     "FullScreenText": "Полноэкранный текст",
