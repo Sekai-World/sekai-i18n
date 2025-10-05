@@ -12,17 +12,18 @@
     "title[3]": "Nach Training (getrimmt)"
   },
   "gachaPhrase": "Gacha Spruch",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Skill Effekt",
   "masterRank": "Meisterrang",
   "masterRankLevel": "Meisterrang Level",
   "stats": "Statistik",
-  "normal": "Normal",
   "sideStory": "Nebengeschichte",
   "sideStory_plural": "Nebengeschichten",
   "rarity": "Seltenheit",
   "power": "Stärke",
   "apply_event_filter": "Füge Event Bonus hinzu",
   "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Typ"
 }
