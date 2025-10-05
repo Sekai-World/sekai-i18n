@@ -12,17 +12,18 @@
     "title[3]": "Imagine decupată după antrenare"
   },
   "gachaPhrase": "Frază gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efectul abilităţii",
   "masterRank": "Măiestria",
   "masterRankLevel": "Nivelul măiestriei",
   "stats": "Statistici",
-  "normal": "Normal",
   "sideStory": "Poveste secundară",
   "sideStory_plural": "Poveşti secundare",
   "rarity": "Raritate",
   "power": "Putere",
   "apply_event_filter": "Aplică amplificatorii evenimentului",
   "skill": "Abilitate",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tip"
 }
