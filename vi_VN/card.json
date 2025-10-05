@@ -12,17 +12,18 @@
     "title[3]": "Ảnh đã nâng cấp cắt nền"
   },
   "gachaPhrase": "Khẩu hiệu Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Thường",
   "skillEffect": "Hiệu ứng Kĩ năng",
   "masterRank": "Master Rank",
   "masterRankLevel": "Cấp độ Master Rank",
   "stats": "Chỉ số",
-  "normal": "Thường",
   "sideStory": "Câu chuyện phụ",
   "sideStory_plural": "Câu chuyện phụ",
   "rarity": "Độ hiếm",
   "power": "Năng lực",
   "apply_event_filter": "Cộng thêm vào điểm sự kiện",
   "skill": "Kĩ năng",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Loại"
 }
