@@ -5,8 +5,9 @@
     "charaStory": "Historie postaci",
     "cardStory": "Historie kart",
     "areaTalk": "Map Talk",
-    "liveTalk": "Live talk",
-    "specialStory": "Specjalne Historie"
+    "specialStory": "Specjalne Historie",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Live talk"
   },
   "snippet": {
     "FullScreenText": "Tekst pełnoekranowy",
