@@ -12,17 +12,18 @@
     "title[3]": "Oříznutý obrázek po trénování"
   },
   "gachaPhrase": "Gacha fráze",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normální",
   "skillEffect": "Efekt Dovednosti",
   "masterRank": "Mistrovská Hodnost",
   "masterRankLevel": "Level Mistrovský Hodnoty",
   "stats": "Statistiky",
-  "normal": "Normální",
   "sideStory": "Vedlejší Příběh",
   "sideStory_plural": "Vedlejší Příběhy",
   "rarity": "Vzácnost",
   "power": "Síla",
   "apply_event_filter": "Aplikovat bonusy eventu",
   "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Typ"
 }
