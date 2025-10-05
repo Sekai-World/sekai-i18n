@@ -12,17 +12,18 @@
     "title[3]": "Immagine dopo allenamento ritagliata"
   },
   "gachaPhrase": "Frase gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normale",
   "skillEffect": "Effetto Skill",
   "masterRank": "Rango Master",
   "masterRankLevel": "Livello Rango Master",
   "stats": "Statistiche",
-  "normal": "Normale",
   "sideStory": "Storia secondaria",
   "sideStory_plural": "Storie secondarie",
   "rarity": "Rarità",
   "power": "Potenza",
   "apply_event_filter": "Applica bonus evento",
   "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipo"
 }
