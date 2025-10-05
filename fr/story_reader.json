@@ -5,8 +5,9 @@
     "charaStory": "Histoires des personnages",
     "cardStory": "Histoires des cartes",
     "areaTalk": "Discussion sur la carte",
-    "liveTalk": "Discussion de concert",
-    "specialStory": "Special Stories"
+    "specialStory": "Special Stories",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Discussion de concert"
   },
   "snippet": {
     "FullScreenText": "Texte en plein écran",
