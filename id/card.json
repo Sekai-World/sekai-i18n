@@ -12,17 +12,18 @@
     "title[3]": "Gambar potongan setelah training"
   },
   "gachaPhrase": "Dialog Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efek Skill",
   "masterRank": "Rank Master",
   "masterRankLevel": "Level Rank Master",
   "stats": "Statistik",
-  "normal": "Normal",
   "sideStory": "Cerita Spesial",
   "sideStory_plural": "Cerita Spesial",
   "rarity": "Kelangkaan",
   "power": "Kekuatan",
   "apply_event_filter": "Terapkan Bonus Event",
   "skill": "Skill",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipe"
 }
