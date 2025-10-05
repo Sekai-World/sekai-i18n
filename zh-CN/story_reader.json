@@ -5,8 +5,9 @@
     "charaStory": "角色剧情",
     "cardStory": "卡牌剧情",
     "areaTalk": "区域对话",
-    "liveTalk": "虚拟演唱会对话",
-    "specialStory": "特別故事"
+    "specialStory": "特別故事",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "虚拟演唱会对话"
   },
   "snippet": {
     "FullScreenText": "全屏幕文字",
