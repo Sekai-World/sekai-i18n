@@ -12,17 +12,18 @@
     "title[3]": "Imagen recortada después de entrenar"
   },
   "gachaPhrase": "Frase del Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Efecto de la habilidad ",
   "masterRank": "Rango de Maestría",
   "masterRankLevel": "Nivel de Maestría",
   "stats": "Estadísticas",
-  "normal": "Normal",
   "sideStory": "Historia secundaria",
   "sideStory_plural": "Historias secundarias",
   "rarity": "Rareza",
   "power": "Poder",
   "apply_event_filter": "Aplicar Bonus de Eventos",
   "skill": "Habilidad",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Tipo"
 }
