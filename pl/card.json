@@ -12,17 +12,18 @@
     "title[3]": "Przycięte zdjęcie po treningu"
   },
   "gachaPhrase": "Fraza Gacha",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normalny",
   "skillEffect": "Efekt umiejętności",
   "masterRank": "Ranga Master",
   "masterRankLevel": "Poziom Rangi Master",
   "stats": "Statystyki",
-  "normal": "Normalny",
   "sideStory": "Poboczna historia",
   "sideStory_plural": "Poboczne historie",
   "rarity": "Rzadkość",
   "power": "Moc",
   "apply_event_filter": "Zastosuj bonusy za wydarzenie",
   "skill": "Umiejętność",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Typ"
 }
