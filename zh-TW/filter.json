@@ -2,14 +2,42 @@
   "character": {
     "caption": "角色"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "排序",
     "ascending": "遞增",
     "descending": "遞減"
   },
+  "time": {
+    "irrelevant": "Irrelevant",
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "全部",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "使用",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "稱號類型",
-    "group_only_once": "每組只顯示一個"
+    "group_only_once": "每組只顯示一個",
+    "caption": "稱號類型"
   },
   "not_set": "沒有設定",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "MV類型"
   },
-  "not-selected": "未選擇",
   "stampType": {
     "caption": "貼圖類型",
     "text": "純文字",
@@ -32,6 +59,7 @@
     "source": "原文語言",
     "target": "目標語言"
   },
+  "not-selected": "未選擇",
   "skill": {
     "score_up": "分數加成",
     "judgment_up": "判定和分數加成",
@@ -39,27 +67,13 @@
     "perfect_score_up": "PERFECT時分數加成",
     "life_score_up": "符合血量條件時分數加成"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "使用",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "全部",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
+  "card_supply":{
+    "normal": "普通",
+    "birthday": "生日",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
