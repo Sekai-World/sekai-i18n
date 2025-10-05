@@ -2,14 +2,42 @@
   "character": {
     "caption": "Charakter"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "Sortieren",
     "ascending": "Älteste zu neueste",
     "descending": "Neueste zu älteste"
   },
+  "time": {
+    "irrelevant": "Irrelevant",
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "Alle",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "Anwenden",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "Titel-Art",
-    "group_only_once": "Zeige nur einen aus jeder Gruppe"
+    "group_only_once": "Zeige nur einen aus jeder Gruppe",
+    "caption": "Titel-Art"
   },
   "not_set": "Nicht ausgewählt",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "MV-Art"
   },
-  "not-selected": "Nicht ausgewählt",
   "stampType": {
     "caption": "Sticker-Art",
     "text": "Nur Text",
@@ -32,6 +59,7 @@
     "source": "Quellensprache",
     "target": "Zielsprache"
   },
+  "not-selected": "Nicht ausgewählt",
   "skill": {
     "score_up": "Punkte-Boost",
     "judgment_up": "Zeitfenster- & Punkte-Boost",
@@ -39,27 +67,13 @@
     "perfect_score_up": "Punkte-Boost wenn PERFEKT",
     "life_score_up": "Punkte-Boost mit Lebens-Bedingung"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "Anwenden",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "Alle",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
+  "card_supply":{
+    "normal": "Normal",
+    "birthday": "Geburtstag",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
