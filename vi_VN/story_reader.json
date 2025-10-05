@@ -5,8 +5,9 @@
     "charaStory": "Câu chuyện nhân vật",
     "cardStory": "Câu chuyện thẻ",
     "areaTalk": "Map Talk",
-    "liveTalk": "Live Talk",
-    "specialStory": "Câu chuyện đặc biệt"
+    "specialStory": "Câu chuyện đặc biệt",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "Live Talk"
   },
   "snippet": {
     "FullScreenText": "Văn bản toàn màn hình",
