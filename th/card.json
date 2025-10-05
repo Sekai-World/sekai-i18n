@@ -12,17 +12,18 @@
     "title[3]": "ภาพพื้นใสหลังปลดอาร์ต"
   },
   "gachaPhrase": "บทพูด",
+  "specialCutIn": "ฉากคัตอินพิเศษใน 3DMV",
+  "unitCount": "จำนวนยูนิต",
+  "normal": "ก่อนปลด",
   "skillEffect": "เอฟเฟคสกิล",
   "masterRank": "Master Rank",
   "masterRankLevel": "เลเวลของ Master Rank",
   "stats": "ค่าพลัง",
-  "normal": "ก่อนปลด",
   "sideStory": "เนื้อเรื่องการ์ด",
   "sideStory_plural": "เนื้อเรื่องการ์ด",
   "rarity": "ระดับความหายาก",
   "power": "ค่าพลังโดยรวม",
   "apply_event_filter": "เพิ่มโบนัสกิจกรรม",
   "skill": "สกิล",
-  "unitCount": "จำนวนยูนิต",
-  "specialCutIn": "ฉากคัตอินพิเศษใน 3DMV"
+  "supplyType": "ประเภท"
 }
