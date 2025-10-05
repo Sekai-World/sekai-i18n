@@ -5,8 +5,9 @@
     "charaStory": "キャラクター紹介",
     "cardStory": "サイドストーリー",
     "areaTalk": "マップの会話",
-    "liveTalk": "バーチャルライブの会話",
-    "specialStory": "スペシャルストーリー"
+    "specialStory": "スペシャルストーリー",
+    "mysekaiTalk": "MySekai Talk",
+    "liveTalk": "バーチャルライブの会話"
   },
   "snippet": {
     "FullScreenText": "フルスクリーン",
