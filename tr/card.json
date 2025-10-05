@@ -12,17 +12,18 @@
     "title[3]": "Eğitim Sonrası Kesilmiş Resmi"
   },
   "gachaPhrase": "Gacha Sözü",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Normal",
   "skillEffect": "Beceri Etkisi",
   "masterRank": "Master Rank",
   "masterRankLevel": "Master Rank Level",
   "stats": "İstatistikler",
-  "normal": "Normal",
   "sideStory": "Yan Hikaye",
   "sideStory_plural": "Yan Hikayeler",
   "rarity": "Rarity",
   "power": "Güç",
   "apply_event_filter": "Apply Event Bonuses",
   "skill": "Beceri",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "Type"
 }
