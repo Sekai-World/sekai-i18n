@@ -12,17 +12,18 @@
     "title[3]": "תמונה מטופחת אחרי אימון"
   },
   "gachaPhrase": "משפט גאצ'ה",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "נורמלי",
   "skillEffect": "השפעת יכולת ",
   "masterRank": "דרגת מאסטר",
   "masterRankLevel": "רמת דרגת מאסטר ",
   "stats": "סטטיסטיקות",
-  "normal": "נורמלי",
   "sideStory": "סיפור משני",
   "sideStory_plural": "סיפורים משניים",
   "rarity": "נדירות",
   "power": "כוח",
   "apply_event_filter": "להשתמש באיבנט בונוס",
   "skill": "יכולת",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "סוג"
 }
