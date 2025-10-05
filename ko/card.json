@@ -12,17 +12,18 @@
     "title[3]": "특훈 후 스탠딩 이미지"
   },
   "gachaPhrase": "가챠 대사",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "특훈 전",
   "skillEffect": "스킬 효과",
   "masterRank": "마스터 랭크",
   "masterRankLevel": "마스터 랭크 레벨",
   "stats": "능력치",
-  "normal": "특훈 전",
   "sideStory": "사이드 스토리",
   "sideStory_plural": "사이드 스토리들",
   "rarity": "희귀도",
   "power": "종합 능력치",
   "apply_event_filter": "이벤트 보너스 적용",
   "skill": "스킬",
-  "unitCount": "Unit Count",
-  "specialCutIn": "Special 3DMV Cut-In"
+  "supplyType": "타입"
 }
