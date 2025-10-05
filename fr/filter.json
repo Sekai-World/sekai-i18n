@@ -2,14 +2,42 @@
   "character": {
     "caption": "Personnage"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "Trier",
     "ascending": "Croissant",
     "descending": "Décroissant"
   },
+  "time": {
+    "irrelevant": "Irrelevant",
+    "before": "Before",
+    "after": "After",
+    "between": "Between",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "Tout",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "Appliquer",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "Type de titre",
-    "group_only_once": "Afficher seulement un de chaque groupe"
+    "group_only_once": "Afficher seulement un de chaque groupe",
+    "caption": "Type de titre"
   },
   "not_set": "Non défini",
   "missionType": {
@@ -21,7 +49,6 @@
   "music_mv": {
     "caption": "Type de MV"
   },
-  "not-selected": "Pas sélectionné",
   "stampType": {
     "caption": "Type de tampon",
     "text": "Texte uniquement",
@@ -32,6 +59,7 @@
     "source": "Langue source",
     "target": "Langue cible"
   },
+  "not-selected": "Pas sélectionné",
   "skill": {
     "score_up": "Augmentation de score",
     "judgment_up": "Perfect Lock et amélioration de score",
@@ -39,27 +67,13 @@
     "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement",
     "life_score_up": "Amélioration de score avec état de la vie"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "Appliquer",
-    "clear": "Clear"
-  },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  },
-  "incl": "Include",
-  "excl": "Exclude",
-  "both": "Tout",
-  "event": {
-    "unitType": {
-      "caption": "Event Unit Type",
-      "event": "Event Unit",
-      "eventStory": "Event Story Unit",
-      "eventStoryMain": "Event Story Main Unit Only"
-    }
+  "card_supply":{
+    "normal": "Normal",
+    "birthday": "Anniversaire",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   }
 }
