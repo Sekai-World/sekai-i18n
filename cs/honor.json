@@ -10,6 +10,9 @@
   "type": {
     "character": "Postava",
     "achievement": "Úspěch",
-    "event": "Event"
+    "event": "Event",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Narozeniny"
   }
 }
