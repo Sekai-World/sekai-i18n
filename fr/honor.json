@@ -10,6 +10,9 @@
   "type": {
     "character": "Personnage",
     "achievement": "Objectif",
-    "event": "Événement"
+    "event": "Événement",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Anniversaire"
   }
 }
