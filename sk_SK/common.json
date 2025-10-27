@@ -69,8 +69,8 @@
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "Cieľový jazyk",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
+      "targetLanguageDescription": "Jazyk, do ktorého sa má príbeh preložiť.",
+      "displayOptions": "Nastavenie zobrazenia",
       "displayOptionsDescription": "Show original text"
     },
     "interfaceLanguage": "Interface Language",
