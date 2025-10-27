@@ -63,7 +63,7 @@
       "enableDescription": "Povoliť LLM pre preklad príbehov (iba v čítačke príbehov Live2D)",
       "provider": "LLM poskytovateľ",
       "model": "LLM model",
-      "modelDescription": "Model to use for translation.",
+      "modelDescription": "Model pre prekladanie",
       "apiKey": "API Key",
       "apiKeyDescription": "API Key for the LLM provider.",
       "apiEndpoint": "",
