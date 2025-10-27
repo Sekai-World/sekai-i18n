@@ -10,6 +10,9 @@
   "type": {
     "character": "Personatge",
     "achievement": "Assoliment",
-    "event": "Esdeveniment"
+    "event": "Esdeveniment",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Aniversari"
   }
 }
