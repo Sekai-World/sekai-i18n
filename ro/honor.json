@@ -11,6 +11,8 @@
     "character": "Personaj",
     "achievement": "Realizare",
     "event": "Eveniment",
-    "rank_match": "Rank Match"
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Zi de Naştere"
   }
 }
