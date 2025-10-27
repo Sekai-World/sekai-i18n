@@ -10,6 +10,9 @@
   "type": {
     "character": "ตัวละคร",
     "achievement": "รางวัลความสำเร็จ",
-    "event": "กิจกรรม"
+    "event": "กิจกรรม",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "วันเกิด"
   }
 }
