@@ -14,12 +14,10 @@
     "cheerful_carnival": "Carnaval Alegre",
     "timepoint": "Puntos de Tiempo",
     "rankingRewards": "Premios de Ranking",
-    "worldLinkChapters": "World Link Chapters"
+    "worldLinkChapters": "Capítulos de Wolrd Link"
   },
   "boostAttribute": "Atributo de aumento",
   "boostCharacters": "Personajes de aumento",
-  "maxBoost": "Máximo aumento (Ambos usados) ",
-  "boostSpecificCards": "Cartas con boost especial",
   "boostCards": "Cartas con Bonus",
   "eventCards": "Cartas de Evento",
   "cheerful_carnival_midterm_1": "Primer informe intermedio",
@@ -33,6 +31,13 @@
     "start": "De",
     "end": "A"
   },
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
+  },
+  "keyStory": "Key Event Story",
   "tracker": {
     "select": {
       "event_name": "Nombre del Evento",
@@ -81,14 +86,9 @@
     "cheerful_carnival": "Cheerful Carnival",
     "world_bloom": "World Link"
   },
+  "maxBoost": "Máximo aumento (Ambos usados) ",
+  "boostSpecificCards": "Cartas con boost especial",
   "distributionEndAt": "Distribución de recompensas hasta",
   "aggregateAt": "Punto de Tiempo Agregado",
-  "alreadyPast": "El evento ya pasó",
-  "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}",
-    "ranking": "Chapter Ranking",
-    "chapterNotStarted": "Chapter has not started yet",
-    "chapterEnded": "Chapter has ended"
-  },
-  "keyStory": "Key Event Story"
+  "alreadyPast": "El evento ya pasó"
 }
