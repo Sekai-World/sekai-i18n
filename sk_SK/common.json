@@ -65,7 +65,7 @@
       "model": "LLM model",
       "modelDescription": "Model pre prekladanie",
       "apiKey": "API kľúč",
-      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiKeyDescription": "API kľúč pre LLM poskytovateľa.",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "Target Language",
