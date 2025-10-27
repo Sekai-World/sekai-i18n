@@ -60,7 +60,7 @@
     "llm": {
       "title": "Nastavenia LLM",
       "enable": "Povoliť LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "enableDescription": "Povoliť LLM pre preklad príbehov (iba v čítačke príbehov Live2D)",
       "provider": "LLM Provider",
       "model": "LLM Model",
       "modelDescription": "Model to use for translation.",
