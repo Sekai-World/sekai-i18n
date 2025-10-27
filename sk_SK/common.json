@@ -68,7 +68,7 @@
       "apiKeyDescription": "API kľúč pre LLM poskytovateľa.",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
-      "targetLanguage": "Target Language",
+      "targetLanguage": "Cieľový jazyk",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
       "displayOptionsDescription": "Show original text"
