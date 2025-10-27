@@ -11,6 +11,8 @@
     "character": "角色",
     "achievement": "目標",
     "event": "活動",
-    "rank_match": "Rank Match"
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "生日"
   }
 }
