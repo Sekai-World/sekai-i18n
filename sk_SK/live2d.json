@@ -5,7 +5,7 @@
     "model_moc3": "Načítavam kostru modelu...",
     "model_physics": "Načítavam fyziku modelu...",
     "display_model": "Pripravujem zobrazenie modelu...",
-    "motion_metadata": "Loading model motions..."
+    "motion_metadata": "Načítavam pohyby modelu..."
   },
   "pack_progress": {
     "generate_metadata": "Generate metadata",
