@@ -12,6 +12,7 @@
     "achievement": "Achievement",
     "event": "Event",
     "rank_match": "Rank Match",
-    "limitevent": "Limited Event"
+    "limitevent": "Limited Event",
+    "birthday": "Birthday"
   }
 }
