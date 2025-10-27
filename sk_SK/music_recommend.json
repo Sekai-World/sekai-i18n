@@ -45,7 +45,7 @@
     "title": "Uložiť tím",
     "desc": "Save team code and load it later."
   },
-  "teamCode": "Team Code",
+  "teamCode": "Kód tímu",
   "loadTeamDialog": {
     "title": "Načítať tím",
     "desc": "Paste saved team code and load it."
