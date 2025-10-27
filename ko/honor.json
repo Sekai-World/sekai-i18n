@@ -11,6 +11,8 @@
     "character": "캐릭터",
     "achievement": "업적",
     "event": "이벤트",
-    "rank_match": "랭크 매치"
+    "rank_match": "랭크 매치",
+    "limitevent": "Limited Event",
+    "birthday": "생일"
   }
 }
