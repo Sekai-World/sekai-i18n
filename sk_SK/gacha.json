@@ -1,0 +1,44 @@
+{
+  "tab": {
+    "title": {
+      "banner_logo": "Banner & Logo"
+    },
+    "title[3]": "Pozadie",
+    "title[4]": "Feature Image",
+    "title[0]": "Popisok",
+    "title[1]": "Zhrnutie",
+    "title[2]": "Simulátor"
+  },
+  "ceil_item": "Exchange Item",
+  "summary": "Zhrnutie",
+  "description": "Popis",
+  "gacha_rate": "Gacha Rates",
+  "normalRate": "Normal Roll Rate",
+  "guaranteedRate": "Guaranteed Roll Rate",
+  "gacha_cards": "Gacha karty",
+  "pickupMember": "Pick-up Member",
+  "pickupMember_plural": "Pick-up Members",
+  "gacha_behaviors": "Gacha Draw Options",
+  "behavior": {
+    "free": "Free",
+    "normal": "Normálna",
+    "over_rarity_3_once": "Guaranteed (3⭑)",
+    "once_a_day": "Once a day",
+    "over_rarity_4_once": "Guaranteed (4⭑)",
+    "colorful_pass": "Colorful Pass"
+  },
+  "gacha_simulator": "Simulátor Gacha",
+  "simulator": {
+    "reset": "Resetovať",
+    "total": "Spolu",
+    "jewel": "Jewel",
+    "ticket": "Gacha Ticket",
+    "count": "Počet",
+    "percentage": "Percento",
+    "cost": "Cena"
+  },
+  "gachaType": {
+    "ceil": "Ceiling",
+    "normal": "Normálna"
+  }
+}
