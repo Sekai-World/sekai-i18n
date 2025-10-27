@@ -38,7 +38,7 @@
     "cost": "Cena"
   },
   "gachaType": {
-    "ceil": "Ceiling",
+    "ceil": "Strop",
     "normal": "Normálna"
   }
 }
