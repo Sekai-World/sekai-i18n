@@ -27,7 +27,7 @@
   "disclaimer": "Táto webová stránka nevlastní žiadne materiály, všetky zásluhy patria ich právoplatnému majiteľovi, vrátane, ale nie výlučne Sega, Colorful Palette a Crypton. Táto webová stránka je fanúšikovská databáza len na výskumné účely, a nemá žiadny oficiálny vzťah k Sega alebo Colorful Palette.",
   "detect": {
     "warning": "Spustené v režime kompatibility, môže dôjsť k problémom s výkonom. Zvážte aktualizáciu svojho prehliadača alebo verzie iOS/macOS. <br> Ďalšie informácie: <l> Can I Use - WebP image format</l>",
-    "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
+    "failed": "Žiaľ, väčšinu obrázkov sa nepodarilo načítať. Aktualizuj svoj prehliadač alebo verziu iOS/macOS. Riešenie kompatibility bude čoskoro dostupné.<br> Ďalšie informácie: <l>Can I Use - WebP image format</l>",
     "success": "Congratulations! Your browser seems modern, you are able to load images faster and save bandwidth."
   },
   "directLink": {
