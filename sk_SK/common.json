@@ -71,9 +71,9 @@
       "targetLanguage": "Cieľový jazyk",
       "targetLanguageDescription": "Jazyk, do ktorého sa má príbeh preložiť.",
       "displayOptions": "Nastavenie zobrazenia",
-      "displayOptionsDescription": "Show original text"
+      "displayOptionsDescription": "Zobraziť pôvodný text"
     },
-    "interfaceLanguage": "Interface Language",
+    "interfaceLanguage": "Jazyk rozhrania",
     "gameContent": "Obsah hry",
     "gameContentRegion": "Región obsahu hry",
     "gameContentTranslationSource": {
@@ -111,7 +111,7 @@
   "releaseCosts": "Release Costs",
   "apply": "Apply",
   "reset": "Resetovať",
-  "submit": "Submit",
+  "submit": "Potvrdiť",
   "mode": "Režim",
   "type": "Typ",
   "show": "Show",
