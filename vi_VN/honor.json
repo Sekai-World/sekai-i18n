@@ -11,6 +11,8 @@
     "character": "Nhân vật",
     "achievement": "Thành tích",
     "event": "Sự kiện",
-    "rank_match": "Xếp hạng"
+    "rank_match": "Xếp hạng",
+    "limitevent": "Limited Event",
+    "birthday": "Sinh nhật"
   }
 }
