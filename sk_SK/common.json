@@ -59,7 +59,7 @@
     "title": "Nastavenia",
     "llm": {
       "title": "Nastavenia LLM",
-      "enable": "Enable LLM",
+      "enable": "Povoliť LLM",
       "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
       "provider": "LLM Provider",
       "model": "LLM Model",
