@@ -10,6 +10,9 @@
   "type": {
     "character": "Personagem",
     "achievement": "Conquista",
-    "event": "Evento"
+    "event": "Evento",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Aniversário"
   }
 }
