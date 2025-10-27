@@ -10,6 +10,9 @@
   "type": {
     "character": "Karakter",
     "achievement": "Pencapaian",
-    "event": "Event"
+    "event": "Event",
+    "rank_match": "Rank Match",
+    "limitevent": "Limited Event",
+    "birthday": "Ulang tahun"
   }
 }
