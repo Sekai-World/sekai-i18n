@@ -1,0 +1,33 @@
+{
+  "load_progress": {
+    "model_metadata": "Načítavam metadata modelu...",
+    "model_texture": "Načítavam textúry modelu...",
+    "model_moc3": "Načítavam kostru modelu...",
+    "model_physics": "Načítavam fyziku modelu...",
+    "display_model": "Pripravujem zobrazenie modelu...",
+    "motion_metadata": "Loading model motions..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generate metadata",
+    "download_texture": "Download texture",
+    "download_moc3": "Download skeleton",
+    "download_physics": "Download physics",
+    "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
+    "generate_zip": "Generovať zip súbor"
+  },
+  "select": {
+    "model": "Model",
+    "motions": "Pohyby",
+    "expressions": "Výrazy",
+    "parameters": "Parametre",
+    "idle_animation": "Idle animation"
+  },
+  "tooltip": {
+    "download": "Download",
+    "fullscreen": "Toggle fullscreen",
+    "shot": "Uložiť obrázok",
+    "reset": "Obnoviť model",
+    "stop_record": "Stop recording",
+    "start_record": "Start recording"
+  }
+}
