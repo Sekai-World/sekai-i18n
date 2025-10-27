@@ -37,7 +37,7 @@
   "table": {
     "column": {
       "low": "Najnižšie skóre",
-      "high": "Highest Score"
+      "high": "Najvyššie skóre"
     }
   },
   "assumption": "Assumption: all perfect, event bonus 0%, use 0 energy drink, multiplayers all have same team.",
