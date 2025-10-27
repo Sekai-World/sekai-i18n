@@ -1,0 +1,59 @@
+{
+  "difficulty": "Obtiažnosť",
+  "actualPlaybackTime": "Actual Playback Time",
+  "downloadFlacNoTrim": "Stiahnutý FLAC súbor obsahuje ticho na začiatku.",
+  "vocal": "Vokál",
+  "vocalTab": {
+    "title[0]": "Krátka verzia",
+    "title[1]": "Dlhá verzia",
+    "original_video": "Originálne video",
+    "title[2]": "Hudobné video"
+  },
+  "fileFormat": {
+    "caption": "Formát súboru",
+    "mp3": "MP3",
+    "flac": "FLAC"
+  },
+  "skipBeginningSilence": "Preskočiť ticho na začiatku",
+  "tag": "Značka",
+  "tag_plural": "Značky",
+  "category": "Kategória",
+  "category_plural": "Kategórie",
+  "arranger": "Aranžér",
+  "composer": "Skladateľ",
+  "lyricist": "Textár",
+  "danceMember": "Tanečný člen",
+  "danceMember_plural": "Taneční členovia",
+  "vocal_plural": "Vokály",
+  "vocalType": "Typ vokálu",
+  "achievement": "Pokroky",
+  "scoreRankAchievement": {
+    "title": "Skóre",
+    "rankC": "Rank C",
+    "rankB": "Rank B",
+    "rankA": "Rank A",
+    "rankS": "Rank S"
+  },
+  "difficulty_plural": "Difficulties",
+  "chartCredit": "Chart Image is modified from pjsekai.moe version.",
+  "noteCount": "Note Count",
+  "comboRewards": "Combo Rewards",
+  "chartImage": "Chart",
+  "baseScore": "Base Score Rate",
+  "feverScore": "Fever Score Rate",
+  "eventRate": "Event Point Rate",
+  "clear_status": "Clear Status",
+  "hi_score": "High Score",
+  "mvp_count": "MVP Count",
+  "super_star_count": "Super Star Count",
+  "alert[0]": "The first <b>nine seconds</b> of every song have no sound. This is NOT a bug.",
+  "dancerCount": "Dancer Count",
+  "combo": "Combos",
+  "preview": "Preview",
+  "categoryType": {
+    "mv": "3D MV",
+    "mv_2d": "2D MV",
+    "original": "Original MV",
+    "image": "Static Image"
+  }
+}
