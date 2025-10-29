@@ -18,7 +18,7 @@
     "target_contributors": "Prispievatelia",
     "submit-status": {
       "success": "Úspech",
-      "failed": "Failed"
+      "failed": "Zlyhanie"
     },
     "dialog": {
       "copy_source": {
