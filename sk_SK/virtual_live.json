@@ -6,8 +6,8 @@
     "setlist": "Scenár"
   },
   "schedule": {
-    "start": "Start",
-    "end": "End"
+    "start": "Začiatok",
+    "end": "Koniec"
   },
   "mc": {
     "character_unspawn": "Character Disappear"
