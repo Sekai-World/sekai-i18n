@@ -1,0 +1,25 @@
+{
+  "live_characters": "Postavy",
+  "rewards": "Odmeny",
+  "title": {
+    "schedules": "Rozvrhy",
+    "setlist": "Scenár"
+  },
+  "schedule": {
+    "start": "Start",
+    "end": "End"
+  },
+  "mc": {
+    "character_unspawn": "Character Disappear"
+  },
+  "type": {
+    "normal": "Normálna",
+    "beginner": "Začiatočná",
+    "cheerful_carnival": "Cheerful Carnival",
+    "streaming": "Streamovanie"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}
