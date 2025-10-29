@@ -37,7 +37,7 @@
   },
   "status": {
     "finished": "Hotové",
-    "inprogress": "In Progress"
+    "inprogress": "Prebieha"
   },
   "error": {
     "lang_mismatch": "Language mismatch."
