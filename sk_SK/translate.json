@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "title": {
+      "source": "Zdroj",
+      "target": "Cieľ"
+    },
+    "source_lang": "Zdrojový jazyk",
+    "announcement": {
+      "source_title": "Zdrojový nadpis",
+      "source_desc": "Zdrojový popis",
+      "target_title": "Cieľový nadpis",
+      "target_desc": "Cieľový popis"
+    },
+    "target_lang": "Cieľový jazyk",
+    "button": {
+      "copy_source": "Kopírovať zdrojové reťazce"
+    },
+    "target_contributors": "Prispievatelia",
+    "submit-status": {
+      "success": "Success",
+      "failed": "Failed"
+    },
+    "dialog": {
+      "copy_source": {
+        "title": "Kopírovať zdrojové reťazce",
+        "text": "You will copy all source strings to target area, all unsubmitted work in target area will be lost.",
+        "confirm": "Potvrdiť",
+        "cancel": "Zrušiť"
+      }
+    }
+  },
+  "button": {
+    "mark_unfinished": "Mark as In Progress",
+    "mark_finished": "Mark as Finished",
+    "continue_translate": "Continue Work",
+    "start_translate": "Start Translate"
+  },
+  "status": {
+    "finished": "Finished",
+    "inprogress": "In Progress"
+  },
+  "error": {
+    "lang_mismatch": "Language mismatch."
+  },
+  "title": {
+    "my_works": "Existing Works",
+    "available_contents": "Available Contents"
+  }
+}
