@@ -36,7 +36,7 @@
     "start_translate": "Start Translate"
   },
   "status": {
-    "finished": "Finished",
+    "finished": "Hotové",
     "inprogress": "In Progress"
   },
   "error": {
