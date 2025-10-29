@@ -51,7 +51,7 @@
     "desc": "Paste saved team code and load it."
   },
   "songSelect": {
-    "label": "Song Select",
+    "label": "Výber piesne",
     "desc": "Select one or more songs for analyzing. Leave it blank to analyze all songs."
   }
 }
