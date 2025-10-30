@@ -35,7 +35,7 @@
   "card": "カード",
   "stamp": "スタンプ",
   "comic": "コミック",
-  "mysekaiFixture": "My Sekai Fixture",
+  "mysekaiFixture": "マイセカイの修正",
   "mission": {
     "honor": "称号",
     "livepass": "ライブ",
@@ -123,12 +123,12 @@
   "description": "説明",
   "bondsRank": "キズナランク",
   "sequence": "シーケンス",
-  "costume": "Costume",
+  "costume": "着せ替え",
   "hair": "髪型",
   "head": "Head Accessory",
   "profile": "プロフィール",
   "character_plural": "キャラクター",
-  "notFound": "Not Found",
+  "notFound": "未検知",
   "yes": "はい",
   "no": "いいえ",
   "serverRegionSelect": "サーバーエリア",
@@ -137,7 +137,7 @@
     "tw": "繁体字版",
     "en": "英語(グローバル版)",
     "kr": "韓国語版",
-    "cn": "Simplified Chinese"
+    "cn": "簡体字版"
   },
   "language": "言語",
   "darkmode": "画面の明るさ",
