@@ -33,7 +33,7 @@
   },
   "worldBloom": {
     "chapter": "Chapter {{chapterNo}}",
-    "ranking": "Chapter Ranking",
+    "ranking": "チャプターランキング",
     "chapterNotStarted": "チャプター未解放",
     "chapterEnded": "チャプターは終了しました"
   },
