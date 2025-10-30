@@ -14,12 +14,10 @@
     "cheerful_carnival": "チアフルカーニバル",
     "timepoint": "時点",
     "rankingRewards": "ランキング報酬",
-    "worldLinkChapters": "World Link Chapters"
+    "worldLinkChapters": "チャプター"
   },
   "boostAttribute": "ボーナスタイプ",
   "boostCharacters": "ボーナスキャラクター",
-  "maxBoost": "ボーナス(両方一致）",
-  "boostSpecificCards": "メンバーボーナス",
   "boostCards": "ボーナスカード",
   "eventCards": "イベント限定カード",
   "cheerful_carnival_midterm_1": "最初の中間発表",
@@ -33,6 +31,13 @@
     "start": "何位から",
     "end": "何位まで"
   },
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
+  },
+  "keyStory": "キーストーリー",
   "tracker": {
     "select": {
       "event_name": "イベント名",
@@ -81,14 +86,9 @@
     "cheerful_carnival": "チアフルカーニバル",
     "world_bloom": "ワールドリンク"
   },
+  "maxBoost": "ボーナス(両方一致）",
+  "boostSpecificCards": "メンバーボーナス",
   "distributionEndAt": "報酬受け取り期限",
   "aggregateAt": "集計開始時間",
-  "alreadyPast": "経過時間",
-  "worldBloom": {
-    "chapter": "Chapter {{chapterNo}}",
-    "ranking": "Chapter Ranking",
-    "chapterNotStarted": "Chapter has not started yet",
-    "chapterEnded": "Chapter has ended"
-  },
-  "keyStory": "Key Event Story"
+  "alreadyPast": "経過時間"
 }
