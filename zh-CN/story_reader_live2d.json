@@ -32,6 +32,7 @@
     "voice_volume": "声音音量",
     "se_volume": "音效音量",
     "show_warning": "显示警告",
-    "heading": "设置"
+    "heading": "设置",
+    "showUI": "显示UI"
   }
 }
