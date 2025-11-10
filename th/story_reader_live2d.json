@@ -1,30 +1,38 @@
 {
+  "progress": {
+    "load_model_to_canvas": "กำลังวาดลงผืนผ้าใบ...",
+    "load_model_data": "กำลังโหลดข้อมูลโมเดล...",
+    "load_media": "กำลังโหลดสื่อเสียง...",
+    "load_model_assets": "กำลังโหลดทรัพยากร...",
+    "load_model_motion": "กำลังโหลดข้อมูลการเคลื่อนไหว...",
+    "get_resource_url": "กำลังคำนวณทรัพยากร...",
+    "get_scenario_data": "กำลังโหลดข้อมูลสถานการณ์...",
+    "translation": ""
+  },
+  "story_ended": "เรื่องราวจบลงแล้ว",
   "load_button": {
     "ready": "คลิกเพื่อโหลด",
     "loading": "กำลังประมวลผล...",
     "loaded": "โหลดเสร็จสิ้น"
   },
-  "progress": {
-    "load_model_data": "กำลังโหลดข้อมูลโมเดล...",
-    "load_media": "กำลังโหลดสื่อเสียง...",
-    "load_model_assets": "กำลังโหลดทรัพยากร...",
-    "load_model_motion": "กำลังโหลดข้อมูลการเคลื่อนไหว...",
-    "load_model_to_canvas": "กำลังวาดลงผืนผ้าใบ...",
-    "get_resource_url": "กำลังคำนวณทรัพยากร...",
-    "get_scenario_data": "กำลังโหลดข้อมูลสถานการณ์..."
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "เต็มหน้าจอ",
   "toggle_page_full_screen": "ปรับให้พอดีกับหน้า",
-  "auto_play": "เล่นอัตโนมัติ",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "ซ่อนการตั้งค่า",
   "show_settings": "แสดงการตั้งค่า",
+  "auto_play": "เล่นอัตโนมัติ",
   "settings": {
-    "se_volume": "ระดับเสียงเอฟเฟกต์",
-    "voice_volume": "ระดับเสียงพากย์",
-    "bgm_volume": "ระดับเสียงเพลงพื้นหลัง",
     "text_animation": "แอนิเมชันข้อความ",
+    "bgm_volume": "ระดับเสียงเพลงพื้นหลัง",
+    "voice_volume": "ระดับเสียงพากย์",
+    "se_volume": "ระดับเสียงเอฟเฟกต์",
     "show_warning": "แสดงคำเตือน",
-    "heading": "ตั้งค่า"
-  },
-  "story_ended": "เรื่องราวจบลงแล้ว"
+    "heading": "ตั้งค่า",
+    "showUI": "Show UI"
+  }
 }
