@@ -1,30 +1,38 @@
 {
+  "progress": {
+    "load_model_to_canvas": "Рисуем на полотно...",
+    "load_model_data": "Загружаем данные модели...",
+    "load_media": "Загружаем аудио данные...",
+    "load_model_assets": "Загружаем ресурсы...",
+    "load_model_motion": "Загружаем данные движений...",
+    "get_resource_url": "Вычисляем ресурсы...",
+    "get_scenario_data": "Загружаем данные сценария...",
+    "translation": ""
+  },
+  "story_ended": "История закончилась",
   "load_button": {
     "ready": "Нажмите чтобы загрузить",
     "loading": "Загрузка...",
     "loaded": "Загружено"
   },
-  "progress": {
-    "load_model_data": "Загружаем данные модели...",
-    "load_media": "Загружаем аудио данные...",
-    "load_model_assets": "Загружаем ресурсы...",
-    "load_model_motion": "Загружаем данные движений...",
-    "load_model_to_canvas": "Рисуем на полотно...",
-    "get_resource_url": "Вычисляем ресурсы...",
-    "get_scenario_data": "Загружаем данные сценария..."
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "Полный экран",
   "toggle_page_full_screen": "Вписать в страницу",
-  "auto_play": "Авто",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "Скрыть настройки",
   "show_settings": "Показать настройки",
+  "auto_play": "Авто",
   "settings": {
-    "se_volume": "Громкость звуковых эффектов",
-    "voice_volume": "Громкость голосов",
-    "bgm_volume": "Громкость заднего фона",
     "text_animation": "Анимация текста",
+    "bgm_volume": "Громкость заднего фона",
+    "voice_volume": "Громкость голосов",
+    "se_volume": "Громкость звуковых эффектов",
     "show_warning": "Показать предупреждение",
-    "heading": "Настройки"
-  },
-  "story_ended": "История закончилась"
+    "heading": "Настройки",
+    "showUI": "Show UI"
+  }
 }
