@@ -32,6 +32,7 @@
     "voice_volume": "Voice Volume",
     "se_volume": "SE Volume",
     "show_warning": "Show warning",
-    "heading": "Settings"
+    "heading": "Settings",
+    "showUI": "Show UI"
   }
 }
