@@ -1,30 +1,38 @@
 {
+  "progress": {
+    "load_model_to_canvas": "Melukiskan ke kanvas...",
+    "load_model_data": "Memuatkan data model...",
+    "load_media": "Memuatkan media suara...",
+    "load_model_assets": "Memuatkan aset...",
+    "load_model_motion": "Memuatkan data gerakan...",
+    "get_resource_url": "Menghitungkan sumber...",
+    "get_scenario_data": "Memuatkan data senario...",
+    "translation": ""
+  },
+  "story_ended": "Cerita telah tamat",
   "load_button": {
     "ready": "Klik untuk muatkan",
     "loading": "Memuatkan...",
     "loaded": "Dimuatkan"
   },
-  "progress": {
-    "load_model_data": "Memuatkan data model...",
-    "load_media": "Memuatkan media suara...",
-    "load_model_assets": "Memuatkan aset...",
-    "load_model_motion": "Memuatkan data gerakan...",
-    "load_model_to_canvas": "Melukiskan ke kanvas...",
-    "get_resource_url": "Menghitungkan sumber...",
-    "get_scenario_data": "Memuatkan data senario..."
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "Skrin penuh",
   "toggle_page_full_screen": "Sesuaikan ke halaman",
-  "auto_play": "Mainkan secara automatik",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "Sembunyikan tetapan",
   "show_settings": "Tunjukkan tetapan",
+  "auto_play": "Mainkan secara automatik",
   "settings": {
-    "se_volume": "Kekuatan Kesan Bunyi",
-    "voice_volume": "Kekuatan Suara",
-    "bgm_volume": "Kekuatan Muzik Latar",
     "text_animation": "Animasi Tulisan",
+    "bgm_volume": "Kekuatan Muzik Latar",
+    "voice_volume": "Kekuatan Suara",
+    "se_volume": "Kekuatan Kesan Bunyi",
     "show_warning": "Tunjuk amaran",
-    "heading": "Tetapan"
-  },
-  "story_ended": "Cerita telah tamat"
+    "heading": "Tetapan",
+    "showUI": "Show UI"
+  }
 }
