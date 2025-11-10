@@ -1,30 +1,38 @@
 {
+  "progress": {
+    "load_model_to_canvas": "Drawing to canvas...",
+    "load_model_data": "Loading model data...",
+    "load_media": "Ładowanie mediów dźwiękowych...",
+    "load_model_assets": "Ładowanie zasobów...",
+    "load_model_motion": "Ładowanie danych ruchu...",
+    "get_resource_url": "Obliczanie zasobów...",
+    "get_scenario_data": "Ładowanie scenariusza date",
+    "translation": ""
+  },
+  "story_ended": "Story ended",
   "load_button": {
     "ready": "Kliknij, aby załadować",
     "loading": "Ładowanie...",
     "loaded": "Załadowano"
   },
-  "progress": {
-    "load_model_data": "Loading model data...",
-    "load_media": "Ładowanie mediów dźwiękowych...",
-    "load_model_assets": "Ładowanie zasobów...",
-    "load_model_motion": "Ładowanie danych ruchu...",
-    "load_model_to_canvas": "Drawing to canvas...",
-    "get_resource_url": "Obliczanie zasobów...",
-    "get_scenario_data": "Ładowanie scenariusza date"
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
   },
   "toggle_full_screen": "cały ekran",
   "toggle_page_full_screen": "Fit to page",
-  "auto_play": "auto matyczne granie",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
   "hide_settings": "schować ustawienia",
   "show_settings": "Show settings",
+  "auto_play": "auto matyczne granie",
   "settings": {
-    "se_volume": "SE Volume",
-    "voice_volume": "Głośność Głosu",
-    "bgm_volume": "Głośność Muzyki w Tle",
     "text_animation": "Animacja Tekstu",
+    "bgm_volume": "Głośność Muzyki w Tle",
+    "voice_volume": "Głośność Głosu",
+    "se_volume": "SE Volume",
     "show_warning": "Show warning",
-    "heading": "Ustawienia"
-  },
-  "story_ended": "Story ended"
+    "heading": "Ustawienia",
+    "showUI": "Show UI"
+  }
 }
