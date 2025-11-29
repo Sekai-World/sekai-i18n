@@ -23,7 +23,7 @@
   "happy_new_year": "🎊新年快樂！🎉",
   "new_year_countdown": "跨年倒數",
   "happy_anniversary": "{{year}}周年快樂！",
-  "anniversary_countdown": "Countdown to {{year}} Anniversary",
+  "anniversary_countdown": "{{year}}周年倒數",
   "disclaimer": "本網站不擁有遊戲內任何素材的版權，一切版權皆歸於其合法擁有者，包括但不限於Sega、Colorful Palette和Crypton。本網站為粉絲自架的非官方資料庫，僅供研究目的使用，與Sega、Colorful Palette或Crypton無任何商業關係或往來。",
   "detect": {
     "warning": "在相容模式中運行可能會導致卡頓問題，建議您更新瀏覽器或iOS/macOS版本。 <br>更多資訊：<l>Can I Use - WebP image format</l>",
