@@ -1,0 +1,38 @@
+{
+  "progress": {
+    "load_model_to_canvas": "Drawing to canvas...",
+    "load_model_data": "Loading model data...",
+    "load_media": "Loading voice media...",
+    "load_model_assets": "載入資源......",
+    "load_model_motion": "Loading motion data...",
+    "get_resource_url": "Calculating resources...",
+    "get_scenario_data": "Loading scenario data...",
+    "translation": ""
+  },
+  "story_ended": "劇情結束",
+  "load_button": {
+    "ready": "Click to load",
+    "loading": "載入中...",
+    "loaded": "Loaded"
+  },
+  "error": {
+    "noScenarioData": "",
+    "translationNotConfigured": ""
+  },
+  "toggle_full_screen": "全屏",
+  "toggle_page_full_screen": "適應頁面",
+  "regenerating_translation": "",
+  "regenerate_translation": "",
+  "hide_settings": "隱藏設置",
+  "show_settings": "顯示設置",
+  "auto_play": "自動播放",
+  "settings": {
+    "text_animation": "文字動畫",
+    "bgm_volume": "BGM音量",
+    "voice_volume": "語音音量",
+    "se_volume": "SE Volume",
+    "show_warning": "Show warning",
+    "heading": "設定",
+    "showUI": "Show UI"
+  }
+}
