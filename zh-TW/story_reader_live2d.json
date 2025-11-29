@@ -11,7 +11,7 @@
   },
   "story_ended": "劇情結束",
   "load_button": {
-    "ready": "Click to load",
+    "ready": "點擊加載",
     "loading": "載入中...",
     "loaded": "Loaded"
   },
