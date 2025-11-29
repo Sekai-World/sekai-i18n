@@ -4,8 +4,8 @@
     "model_texture": "正在載入模型材質...",
     "model_moc3": "正在載入模型骨架...",
     "model_physics": "正在載入模型物理運算...",
-    "motion_metadata": "正在載入模型動作...",
-    "display_model": "正在準備顯示模型..."
+    "display_model": "正在準備顯示模型...",
+    "motion_metadata": "正在載入模型動作..."
   },
   "pack_progress": {
     "generate_metadata": "生成元數據",
@@ -19,15 +19,15 @@
     "model": "模型",
     "motions": "動作",
     "expressions": "表情",
-    "idle_animation": "Idle animation",
-    "parameters": "Parameters"
+    "parameters": "Parameters",
+    "idle_animation": "閑置動畫"
   },
   "tooltip": {
     "download": "下載",
     "fullscreen": "切換全螢幕",
     "shot": "儲存圖片",
+    "reset": "Reload model",
     "stop_record": "停止錄影",
-    "start_record": "開始錄影",
-    "reset": "Reload model"
+    "start_record": "開始錄影"
   }
 }
