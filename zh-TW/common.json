@@ -70,7 +70,7 @@
       "apiEndpointDescription": "",
       "targetLanguage": "目標語言",
       "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
+      "displayOptions": "顯示選項",
       "displayOptionsDescription": "Show original text"
     },
     "interfaceLanguage": "介面語言",
