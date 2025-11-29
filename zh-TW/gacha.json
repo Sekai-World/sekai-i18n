@@ -22,7 +22,7 @@
   "behavior": {
     "free": "免費",
     "normal": "普通",
-    "over_rarity_3_once": "Guaranteed (3⭑)",
+    "over_rarity_3_once": "保底（3*）",
     "once_a_day": "每天一次",
     "over_rarity_4_once": "Guaranteed (4⭑)",
     "colorful_pass": "Colorful Pass"
