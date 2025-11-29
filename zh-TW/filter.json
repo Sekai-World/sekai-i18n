@@ -32,7 +32,7 @@
   "excl": "不包括",
   "button": {
     "apply": "使用",
-    "resetChanges": "Reset Changes",
+    "resetChanges": "重置更改",
     "clear": "Clear"
   },
   "honorType": {
