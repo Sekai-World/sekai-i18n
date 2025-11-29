@@ -26,7 +26,7 @@
     "download": "下載",
     "fullscreen": "切換全螢幕",
     "shot": "儲存圖片",
-    "reset": "Reload model",
+    "reset": "重新加載模型",
     "stop_record": "停止錄影",
     "start_record": "開始錄影"
   }
