@@ -35,7 +35,7 @@
     "chapter": "章節{{chapterNo}}",
     "ranking": "Chapter Ranking",
     "chapterNotStarted": "本章節尚未開始",
-    "chapterEnded": "Chapter has ended"
+    "chapterEnded": "本章節已結束"
   },
   "keyStory": "Key Event Story",
   "tracker": {
