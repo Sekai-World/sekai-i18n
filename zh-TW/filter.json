@@ -33,7 +33,7 @@
   "button": {
     "apply": "使用",
     "resetChanges": "重置更改",
-    "clear": "Clear"
+    "clear": "清除"
   },
   "honorType": {
     "group_only_once": "每組只顯示一個",
@@ -76,5 +76,5 @@
     "unit_event_limited": "Unit Event Limited",
     "collaboration_limited": "Collaboration Limited"
   },
-  "clear": "Clear"
+  "clear": "清除"
 }
