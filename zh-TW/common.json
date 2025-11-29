@@ -71,7 +71,7 @@
       "targetLanguage": "目標語言",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "顯示選項",
-      "displayOptionsDescription": "Show original text"
+      "displayOptionsDescription": "顯示原始文本"
     },
     "interfaceLanguage": "介面語言",
     "gameContent": "遊戲內容",
