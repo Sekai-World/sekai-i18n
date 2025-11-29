@@ -3,10 +3,10 @@
   "actualPlaybackTime": "實際播放時長",
   "downloadFlacNoTrim": "下載的FLAC檔案會包含開頭的靜音段。",
   "vocal": "演唱者",
-  "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "vocalTab": {
     "title[0]": "預覽版本",
     "title[1]": "完整版本",
+    "original_video": "原曲MV",
     "title[2]": "2DMV"
   },
   "fileFormat": {
@@ -35,7 +35,7 @@
     "rankS": "Rank S"
   },
   "difficulty_plural": "難度",
-  "chartCredit": "譜面圖片調整自pjsekai.moe。",
+  "chartCredit": "Chart Image is modified from pjsekai.moe version.",
   "noteCount": "音符數量",
   "comboRewards": "Combo獎勵",
   "chartImage": "譜面",
@@ -46,6 +46,7 @@
   "hi_score": "最高分數",
   "mvp_count": "MVP次數",
   "super_star_count": "Super Star次數",
+  "alert[0]": "每首歌曲的<b>前九秒</b>是沒有聲音的。這不是Bug！",
   "dancerCount": "舞蹈人員數量",
   "combo": "Combo",
   "preview": "預覽",
