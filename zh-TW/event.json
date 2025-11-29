@@ -34,7 +34,7 @@
   "worldBloom": {
     "chapter": "章節{{chapterNo}}",
     "ranking": "Chapter Ranking",
-    "chapterNotStarted": "Chapter has not started yet",
+    "chapterNotStarted": "本章節尚未開始",
     "chapterEnded": "Chapter has ended"
   },
   "keyStory": "Key Event Story",
