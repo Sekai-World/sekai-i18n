@@ -29,7 +29,7 @@
   },
   "both": "全部",
   "incl": "包括",
-  "excl": "Exclude",
+  "excl": "不包括",
   "button": {
     "apply": "使用",
     "resetChanges": "Reset Changes",
