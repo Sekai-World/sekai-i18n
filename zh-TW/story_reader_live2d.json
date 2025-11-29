@@ -30,7 +30,7 @@
     "text_animation": "文字動畫",
     "bgm_volume": "BGM音量",
     "voice_volume": "語音音量",
-    "se_volume": "SE Volume",
+    "se_volume": "音效音量",
     "show_warning": "Show warning",
     "heading": "設定",
     "showUI": "Show UI"
