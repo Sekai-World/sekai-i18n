@@ -28,7 +28,7 @@
   "detect": {
     "warning": "Uyumluluk modunda çalışırken performans sorunu yaşayabilirsiniz. Tarayıcınızı veya iOS/macOS sürümünüzü yükseltmeyi düşünün.  <br>Daha fazla bilgi: <l>Can I Use - WebP image format</l>",
     "failed": "Maalesef çoğu görüntüyü yükleyemiyorsunuz. Tarayıcınızı veya iOS/macOS sürümünüzü güncelleyin. Uyumluluk çözümü yakında kullanıma sunulacaktır.<br> Daha fazla bilgi: <l>Can I Use - WebP image format</l>",
-    "success": "Congratulations! Your browser seems modern, you are able to load images faster and save bandwidth."
+    "success": "Tebrikler! Tarayıcınız modern görünüyor, resimleri daha hızlı yükleyebilir ve veriden tasarruf eedebilirsiniz."
   },
   "directLink": {
     "caption": "Shortcuts",
