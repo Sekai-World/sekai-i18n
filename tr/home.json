@@ -24,7 +24,7 @@
   "new_year_countdown": "Yeni yıla geri sayım",
   "happy_anniversary": "Mutlu {{year}} Yıldönümü!",
   "anniversary_countdown": "{{year}} Yıldönümüne Geri Sayım",
-  "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
+  "disclaimer": "Bu web sitesi materyallerin sahibi değildir, tüm hakları Sega, Colorful Palette ve Crypton dahil ancak bunlarla sınırlı olmamak üzere hak sahiplerine aittir. Bu web sitesi, yalnızca araştırma amaçlı bir hayran yapımı veritabanıdır ve Sega veya Colorful Palette ile resmi bir ilişkisi yoktur.",
   "detect": {
     "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
     "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
