@@ -1,0 +1,47 @@
+{
+  "game-news": {
+    "action": "Aksiyon",
+    "show-from": "Başlangıç",
+    "title-column": "Başlık",
+    "show-until": "Bitiş",
+    "title": "Oyun haberleri"
+  },
+  "update": "Alakalı Linkler",
+  "alert_contributor": {
+    "title": "Geliştirmeye katkıda bulunanlara teşekkürler!"
+  },
+  "alert_translate": {
+    "title": "Çevirmenlere teşekkürler!"
+  },
+  "versionInfo": {
+    "caption": "Sürüm Bilgisi",
+    "gameClientVer": "Oyun İstemcisi Sürümü",
+    "dataVer": "Veri Sürümü",
+    "assetVer": "Varlık Sürümü",
+    "multiPlayerVer": "Çok-oyunculu Sürümü"
+  },
+  "happy_new_year": "🎊Yeni yılınız kutlu olsun!🎉",
+  "new_year_countdown": "Yeni yıla geri sayım",
+  "happy_anniversary": "Happy {{year}} Anniversary!",
+  "anniversary_countdown": "Countdown to {{year}} Anniversary",
+  "disclaimer": "This website does not own the materials, all credits go to its rightful owner, including but not limited to Sega, Colorful Palette and Crypton. This website is a fanmade database only for research purpose, has no official relation to Sega or Colorful Palette.",
+  "detect": {
+    "warning": "Running in compatibility mode, you may have performance issue. Consider upgrading your browser or your iOS/macOS version. <br> More info: <l>Can I Use - WebP image format</l>",
+    "failed": "Unfortunately you are not able to load most images. Upgrade your browser or your iOS/macOS version. Compatibility solution will be live soon.<br> More info: <l>Can I Use - WebP image format</l>",
+    "success": "Congratulations! Your browser seems modern, you are able to load images faster and save bandwidth."
+  },
+  "directLink": {
+    "caption": "Shortcuts",
+    "contribList": "Contributors"
+  },
+  "alert1": {
+    "translation": "Translations",
+    "development": "Development",
+    "title": "Yardım lazım!",
+    "see_contrib_list": "See the contributors list",
+    "contact": "Contact Me",
+    "join-discord": "Join Discord Server"
+  },
+  "changelog": "Changelog",
+  "alert_settings": "Use <s /> on the right top corner to change language, switch brightness mode and more."
+}
