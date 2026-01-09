@@ -59,7 +59,7 @@
     "title": "ตั้งค่า",
     "llm": {
       "title": "ตั้งค่า LLM",
-      "enable": "Enable LLM",
+      "enable": "เปิดใช้งาน LLM",
       "enableDescription": "เปิดใช้งาน LLM เพื่อแปลเนื้อเรื่อง (เฉพาะเนื้อเรื่องแบบ Live2d เท่านั้น)",
       "provider": "ผู้ให้บริการ LLM",
       "model": "โมเดล LLM",
