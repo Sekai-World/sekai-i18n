@@ -69,7 +69,7 @@
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "ภาษาเป้าหมาย",
-      "targetLanguageDescription": "Language to translate the story into.",
+      "targetLanguageDescription": "ภาษาที่ใช้แปลเนื้อเรื่อง",
       "displayOptions": "Display Options",
       "displayOptionsDescription": "แสดงภาษาต้นฉบับ"
     },
