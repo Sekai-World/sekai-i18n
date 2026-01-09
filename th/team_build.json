@@ -21,7 +21,7 @@
   "saveNewEntry": "บันทึกทีมใหม่",
   "loadTeamDialog": {
     "title": "โหลดทีม",
-    "desc": "Load team from saved team entries."
+    "desc": "โหลดทีมที่บันทึกไว้"
   },
   "use_sekai_card_state": "Use Saved Sekai Cards State"
 }
