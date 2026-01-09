@@ -29,7 +29,7 @@
   },
   "both": "ทั้งหมด",
   "incl": "มี",
-  "excl": "Exclude",
+  "excl": "ไม่มี",
   "button": {
     "apply": "ตกลง",
     "resetChanges": "คืนค่าการเปลี่ยนแปลง",
