@@ -54,7 +54,7 @@
     "role": "บทบาท",
     "email": "อีเมล",
     "button": {
-      "show_email": "การแสดง",
+      "show_email": "แสดง",
       "update_sekai_profile": "Update Sekai Profile",
       "bind_sekai_id": "Bind",
       "verify_sekai_id": "ยืนยัน"
