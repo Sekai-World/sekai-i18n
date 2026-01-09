@@ -16,7 +16,7 @@
     "local": "Local",
     "cloud": "Cloud"
   },
-  "storage_space": "Storage Space",
+  "storage_space": "พื้นที่ว่าง",
   "noTeams": "No saved team entries.",
   "saveNewEntry": "Save new team entry",
   "loadTeamDialog": {
