@@ -1,4 +1,5 @@
 {
+  "availableWords": "Available Words",
   "tab": {
     "title[0]": "ตัวละคร",
     "title[1]": "ชื่อ (แนวนอน)",
@@ -13,6 +14,7 @@
     "secret": "ความลับ"
   },
   "scenario": "เนื้อเรื่อง",
+  "gameData": "ข้อมูลเกม",
   "introduction": "แนะนำตัวละคร",
   "colorCode": "สีประจำตัวละคร",
   "skinColorCode": "สีผิว",
@@ -26,6 +28,6 @@
   "hobby": "งานอดิเรก",
   "specialSkill": "ความสามารถพิเศษ",
   "favoriteFood": "อาหารที่ชอบ",
-  "hatedFood": "อาหารที่เกลียด",
+  "hatedFood": "อาหารที่ไม่ชอบ",
   "weak": "จุดอ่อน"
 }
