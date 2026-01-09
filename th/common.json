@@ -70,7 +70,7 @@
       "apiEndpointDescription": "",
       "targetLanguage": "ภาษาเป้าหมาย",
       "targetLanguageDescription": "ภาษาที่ใช้แปลเนื้อเรื่อง",
-      "displayOptions": "Display Options",
+      "displayOptions": "ตัวเลือกการแสดงผล",
       "displayOptionsDescription": "แสดงภาษาต้นฉบับ"
     },
     "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
