@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "การบันทึกทีมล้มเหลว อาจจะเกิดบัคขึ้นหากเกิดขึ้นบ่อยครั้ง"
+  },
+  "save_team_succeed": "ข้อมูลของทีมได้ถูกบันทึกเรียบร้อยแล้ว",
+  "button": {
+    "calc_total_power": "พลังทีม"
+  },
+  "auto_calc_bonus": "ใช้โปร์ไฟล์ sekai ของคุณ",
+  "saveTeamDialog": {
+    "title": "บันทึกทีม",
+    "desc": "บันทึกทีมใหม่ หรือแทนที่ทีมที่มีอยู่"
+  },
+  "storage_location": {
+    "label": "ที่จัดเก็บของ",
+    "local": "Local",
+    "cloud": "Cloud"
+  },
+  "storage_space": "Storage Space",
+  "noTeams": "No saved team entries.",
+  "saveNewEntry": "Save new team entry",
+  "loadTeamDialog": {
+    "title": "โหลดทีม",
+    "desc": "Load team from saved team entries."
+  },
+  "use_sekai_card_state": "Use Saved Sekai Cards State"
+}
