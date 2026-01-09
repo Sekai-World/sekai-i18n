@@ -61,7 +61,7 @@
       "title": "ตั้งค่า LLM",
       "enable": "Enable LLM",
       "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
-      "provider": "LLM Provider",
+      "provider": "ผู้ให้บริการ LLM",
       "model": "LLM Model",
       "modelDescription": "Model to use for translation.",
       "apiKey": "API Key",
