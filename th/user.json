@@ -56,7 +56,7 @@
     "button": {
       "show_email": "แสดง",
       "update_sekai_profile": "Update Sekai Profile",
-      "bind_sekai_id": "Bind",
+      "bind_sekai_id": "เชื่อม",
       "verify_sekai_id": "ยืนยัน"
     },
     "email_confirmed": "ยืนยันอีเมลแล้ว",
