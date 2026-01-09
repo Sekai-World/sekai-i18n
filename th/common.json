@@ -63,7 +63,7 @@
       "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
       "provider": "ผู้ให้บริการ LLM",
       "model": "LLM Model",
-      "modelDescription": "Model to use for translation.",
+      "modelDescription": "โมเดลที่ใช้สำหรับการแปลภาษา",
       "apiKey": "คีย์ API",
       "apiKeyDescription": "คีย์ API สำหรับผู้ให้บริการ LLM",
       "apiEndpoint": "",
