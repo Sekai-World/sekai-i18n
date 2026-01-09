@@ -64,7 +64,7 @@
       "provider": "ผู้ให้บริการ LLM",
       "model": "LLM Model",
       "modelDescription": "Model to use for translation.",
-      "apiKey": "API Key",
+      "apiKey": "คีย์ API",
       "apiKeyDescription": "คีย์ API สำหรับผู้ให้บริการ LLM",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
