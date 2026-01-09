@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Sekai Current Team",
+      "card_list": "Sekai Cards",
+      "import_card": "Import Sekai Cards",
+      "manage_teams": "Manage Teams",
+      "sekai_profile": "Sekai Profile",
+      "sekai_cards_teams": "Sekai Cards & Teams",
+      "user_event": "Sekai Event Data",
+      "user_statistics": "Sekai Statistics"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Master Rank",
+          "cropped_image": "แหล่งที่มา",
+          "best_match": "Matched",
+          "card_states": "Card States",
+          "other_possible_result": "Other matches",
+          "card_power": "ค่าพลังรวม",
+          "card_training_status": "อัปเกรดแล้ว"
+        }
+      },
+      "submit_success": "การ์ดถูกบันทึก/อัปเดตแล้ว",
+      "submit_error": "บันทึกการ์ดล้มเหลว",
+      "import_button": "นำเข้า",
+      "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Level (レベル).\nIt uses Tesseract to recognize card level and master rank. This process will take some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
+      "enable_ocr": "Recognize card data",
+      "wrong_result": "Unexpected card?",
+      "help": {
+        "step1": {
+          "title": "ขั้นตอนที่ 1: บันทึกภาพหน้าจอ",
+          "subtitle": "Take a screenshot of your box, make sure \"Lv.XX\" is shown instead of power (only numbers)."
+        },
+        "step2": {
+          "title": "ขั้นตอนที่ 2: อัปโหลดภาพหน้าจอของคุณ",
+          "subtitle": "1: Click and choose your screenshot.\n2: Experimentally recognize card level and master rank with OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "ขั้นตอนที่ 3: ยืนยัน",
+          "subtitle": "1: Card thumbnail cropped from your screenshot.\n2: Best matched card thumbnail with similarity in percentage.\n3: Side story are assumed as all unlocked, remeber to switch it off if not unlocked.\n4: Submit and save recognized cards.\n5: If the card is wrongly recognized, click it to replace."
+        },
+        "step4": {
+          "title": "Appendix: Modify the Result",
+          "subtitle": "This dialog is shown if you clicked the matched card thumbnail (red square with number 5 in step 3).\n1: Showing other possible matches for this card.\n2: If you don't want this card, you can remove it from the list."
+        }
+      }
+    },
+    "upload_avatar_error": "Failed to upload avatar!",
+    "upload_avatar": "อัปโหลดรูปโปรไฟล์",
+    "username": "ชื่อผู้ใช้",
+    "nickname": "ชื่อเล่น",
+    "role": "บทบาท",
+    "email": "อีเมล",
+    "button": {
+      "show_email": "การแสดง",
+      "update_sekai_profile": "Update Sekai Profile",
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "ยืนยัน"
+    },
+    "email_confirmed": "ยืนยันอีเมลแล้ว",
+    "syncing_card_team": "Syncing Sekai Cards and Teams...",
+    "label": {
+      "update_left": "Update count used: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "ดูโปรไฟล์",
+      "sekai_id_verify_step_1_subtitle": "Tap \"Menu\" (1) button in the upper right corner, then tap \"称号 & プロフィール\" (2) button",
+      "sekai_id_verify_step_2_title": "Write token and save",
+      "sekai_id_verify_step_2_subtitle": "Write your verification token {{verify_token}} to textbox (1), then tap the \"Back\" (2) button to save. After that click/tap the \"VERIFY\" button.",
+      "sekai_id_verify": "ยืนยัน",
+      "sekai_id_not_verified": "ยังไม่ยืนยัน",
+      "sekai_user_id": "ไอดีรหัสเซไก",
+      "unlink_sekai_id": "Unlink Sekai ID",
+      "sekai_id_verify_token": "โทเคน",
+      "sekai_user_name": "ชื่อ",
+      "sekai_user_rank": "แรงค์",
+      "sekai_user_word": "แนะนำตัวละคร",
+      "sekai_user_music_not_found": "User music record not found."
+    },
+    "event": {
+      "current_record_info": "Last record:",
+      "current_record_point": "แต้มอีเวนต์:",
+      "current_record_rank": "อันดับในอีเวนต์:",
+      "current_record_time": "Record time:",
+      "current_name": "อีเวนต์ล่าสุด:"
+    },
+    "sekai_id_delete_confirm": {
+      "title": "Unlink Sekai ID confirmation",
+      "content1": "Are you sure to unlink this Sekai ID? All data e.g. event record history will be lost!"
+    },
+    "sekai_id_transfer": {
+      "title": "โอนย้ายรหัสเซไก",
+      "content1": "As the given Sekai ID is already bound to another user, if you do it on purpose and remembers the username of previous user account, you may enter it in textbox below. If you forget the previous username, you can DM @SekaiViewer on twitter for a manual transfer."
+    },
+    "error": {
+      "sekai_id_verify_failed": "Failed to verify ownership, did you leave the profile panel to save?",
+      "sekai_id_malformed": "ไอดีของรหัสเซไกคือตัวเลข 16 หลักหรือมากกว่า ไม่ใช่ชื่อผู้ใช้งานของคุณ",
+      "sekai_id_already_bind": "Sekai ID is already bound to another user."
+    },
+    "card_list": {
+      "submit_success": "Card states are updated.",
+      "submit_error": "Failed to update card states.",
+      "button": {
+        "add_card": "เพิ่มการ์ด"
+      }
+    },
+    "statistics": {
+      "clear_count": "จำนวน Clear",
+      "full_combo_count": "จำนวน Full Combo",
+      "all_perfect_count": "จำนวน All Perfect"
+    },
+    "sekai_id": "ไอดีรหัสเซไก",
+    "email_confirmed_status": {
+      "true": "ยืนยัน",
+      "false": "ยกเลิก"
+    }
+  }
+}
