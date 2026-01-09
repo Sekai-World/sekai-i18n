@@ -71,7 +71,7 @@
       "targetLanguage": "ภาษาเป้าหมาย",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
+      "displayOptionsDescription": "แสดงภาษาต้นฉบับ"
     },
     "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
     "gameContent": "เนื้อหาในเกม",
