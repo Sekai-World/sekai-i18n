@@ -18,7 +18,7 @@
   },
   "storage_space": "พื้นที่ว่าง",
   "noTeams": "ไม่มีทีมที่บันทึกไว้",
-  "saveNewEntry": "Save new team entry",
+  "saveNewEntry": "บันทึกทีมใหม่",
   "loadTeamDialog": {
     "title": "โหลดทีม",
     "desc": "Load team from saved team entries."
