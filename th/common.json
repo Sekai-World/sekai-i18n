@@ -60,7 +60,7 @@
     "llm": {
       "title": "ตั้งค่า LLM",
       "enable": "Enable LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "enableDescription": "เปิดใช้งาน LLM เพื่อแปลเนื้อเรื่อง (เฉพาะเนื้อเรื่องแบบ Live2d เท่านั้น)",
       "provider": "ผู้ให้บริการ LLM",
       "model": "โมเดล LLM",
       "modelDescription": "โมเดลที่ใช้สำหรับการแปลภาษา",
