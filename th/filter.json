@@ -32,7 +32,7 @@
   "excl": "Exclude",
   "button": {
     "apply": "ตกลง",
-    "resetChanges": "Reset Changes",
+    "resetChanges": "คืนค่าการเปลี่ยนแปลง",
     "clear": "ล้าง"
   },
   "honorType": {
