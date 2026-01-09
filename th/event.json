@@ -35,7 +35,7 @@
     "chapter": "Chapter {{chapterNo}}",
     "ranking": "Chapter Ranking",
     "chapterNotStarted": "Chapter has not started yet",
-    "chapterEnded": "Chapter has ended"
+    "chapterEnded": "บทนี้ได้จบลงแล้ว"
   },
   "keyStory": "เนื้อเรื่องสำคัญ",
   "tracker": {
