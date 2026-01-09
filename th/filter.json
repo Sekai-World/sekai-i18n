@@ -2,14 +2,42 @@
   "character": {
     "caption": "ตัวละคร"
   },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
   "sort": {
     "caption": "แบ่งชนิด",
     "ascending": "น้อยไปมาก",
     "descending": "มากไปน้อย"
   },
+  "time": {
+    "irrelevant": "ไม่เกี่ยวข้อง",
+    "before": "ก่อน",
+    "after": "หลัง",
+    "between": "ระหว่าง",
+    "exactly": "Exactly"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Event Unit Type",
+      "event": "Event Unit",
+      "eventStory": "Event Story Unit",
+      "eventStoryMain": "Event Story Main Unit Only"
+    }
+  },
+  "both": "ทั้งหมด",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "ตกลง",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
   "honorType": {
-    "caption": "Title Type",
-    "group_only_once": "Only show one in each group"
+    "group_only_once": "Only show one in each group",
+    "caption": "Title Type"
   },
   "not_set": "Not set",
   "missionType": {
@@ -21,9 +49,8 @@
   "music_mv": {
     "caption": "ประเภท MV"
   },
-  "not-selected": "Not selected",
   "stampType": {
-    "caption": "Stamp Type",
+    "caption": "ประเภทสติกเกอร์",
     "text": "Text only",
     "illustration": "With Illustration"
   },
@@ -32,6 +59,7 @@
     "source": "ภาษาเดิม",
     "target": "ภาษาเป้าหมาย"
   },
+  "not-selected": "Not selected",
   "skill": {
     "score_up": "เพิ่มคะแนน",
     "judgment_up": "พิจารณา & เพิ่มคะแนน",
@@ -39,16 +67,14 @@
     "perfect_score_up": "เพิ่มคะแนนเมื่อได้ PERFECT",
     "life_score_up": "Score Boost with life condition"
   },
-  "button": {
-    "resetChanges": "Reset Changes",
-    "apply": "ตกลง",
-    "clear": "Clear"
+  "card_supply":{
+    "normal": "ทั่วไป",
+    "birthday": "วันเกิด",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
   },
-  "time": {
-    "before": "Before",
-    "after": "After",
-    "between": "Between",
-    "exactly": "Exactly",
-    "irrelevant": "Irrelevant"
-  }
+  "clear": "Clear"
 }
