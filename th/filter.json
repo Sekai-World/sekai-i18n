@@ -39,7 +39,7 @@
     "group_only_once": "Only show one in each group",
     "caption": "Title Type"
   },
-  "not_set": "Not set",
+  "not_set": "ไม่ได้ตั้งค่า",
   "missionType": {
     "caption": "ประเภทภารกิจ"
   },
