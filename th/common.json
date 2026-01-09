@@ -58,7 +58,7 @@
   "settings": {
     "title": "ตั้งค่า",
     "llm": {
-      "title": "LLM Settings",
+      "title": "ตั้งค่า LLM",
       "enable": "Enable LLM",
       "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
       "provider": "LLM Provider",
