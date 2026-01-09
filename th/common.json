@@ -65,7 +65,7 @@
       "model": "LLM Model",
       "modelDescription": "Model to use for translation.",
       "apiKey": "API Key",
-      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiKeyDescription": "คีย์ API สำหรับผู้ให้บริการ LLM",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "ภาษาเป้าหมาย",
