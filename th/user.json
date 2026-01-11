@@ -26,7 +26,7 @@
       "submit_error": "บันทึกการ์ดล้มเหลว",
       "import_button": "นำเข้า",
       "enable_ocr_tooltip": "If enabled, please upload screenshot sorting by Level (レベル).\nIt uses Tesseract to recognize card level and master rank. This process will take some time.\nTraining states are retrieved from thumbnail, make sure you use the right one.",
-      "enable_ocr": "Recognize card data",
+      "enable_ocr": "ตรวจพบข้อมูลการ์ด",
       "wrong_result": "Unexpected card?",
       "help": {
         "step1": {
