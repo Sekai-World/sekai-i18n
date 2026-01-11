@@ -47,7 +47,7 @@
         }
       }
     },
-    "upload_avatar_error": "Failed to upload avatar!",
+    "upload_avatar_error": "อัปโหลดรูปโปรไฟล์ไม่สำเร็จ",
     "upload_avatar": "อัปโหลดรูปโปรไฟล์",
     "username": "ชื่อผู้ใช้",
     "nickname": "ชื่อเล่น",
