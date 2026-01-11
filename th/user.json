@@ -60,7 +60,7 @@
       "verify_sekai_id": "ยืนยัน"
     },
     "email_confirmed": "ยืนยันอีเมลแล้ว",
-    "syncing_card_team": "Syncing Sekai Cards and Teams...",
+    "syncing_card_team": "กำลังซิงค์การ์ดเซไกและทีม...",
     "label": {
       "update_left": "Update count used: {{ used }} / {{ allowed }}",
       "sekai_id_verify_step_1_title": "ดูโปรไฟล์",
