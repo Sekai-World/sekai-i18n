@@ -466,6 +466,7 @@
   "HAPPY BIRTHDAY 彰人 2025.11.12": "HAPPY BIRTHDAY 彰人 2025.11.12",
   "HAPPY BIRTHDAY 奏 2026.2.10": "HAPPY BIRTHDAY 奏 2026.2.10",
   "HAPPY BIRTHDAY まふゆ 2026.1.27": "HAPPY BIRTHDAY まふゆ 2026.1.27",
+  "HAPPY BIRTHDAY 絵名 2026.4.30": "HAPPY BIRTHDAY 絵名 2026.4.30",
   "HAPPY ANNIVERSARY リン 2025.12.27": "HAPPY ANNIVERSARY リン 2025.12.27",
   "HAPPY ANNIVERSARY レン 2025.12.27": "HAPPY ANNIVERSARY レン 2025.12.27",
   "HAPPY ANNIVERSARY ルカ 2026.1.30": "HAPPY ANNIVERSARY ルカ 2026.1.30",
@@ -484,6 +485,7 @@
   "ベストクリエイター 彰人 BDパーティー '25": "ベストクリエイター 彰人 BDパーティー '25",
   "ベストクリエイター 奏 BDパーティー '26": "ベストクリエイター 奏 BDパーティー '26",
   "ベストクリエイター まふゆ BDパーティー '26": "ベストクリエイター まふゆ BDパーティー '26",
+  "ベストクリエイター 絵名 BDパーティー '26": "ベストクリエイター 絵名 BDパーティー '26",
   "ベストクリエイター リン ANパーティー '25": "ベストクリエイター リン ANパーティー '25",
   "ベストクリエイター レン ANパーティー '25": "ベストクリエイター レン ANパーティー '25",
   "ベストクリエイター ルカ ANパーティー '26": "ベストクリエイター ルカ ANパーティー '26",
@@ -501,5 +503,10 @@
   "ベストクリエイター KAWAII♡マイセカイ": "ベストクリエイター KAWAII♡マイセカイ",
   "ベストクリエイター ミクとの思い出": "ベストクリエイター ミクとの思い出",
   "ベストクリエイター フラワーフェスティバル": "ベストクリエイター フラワーフェスティバル",
-  "アメジスト": "アメジスト"
+  "アメジスト": "アメジスト",
+  "TOP100 BraveHeart": "TOP100 BraveHeart",
+  "TOP100 ArtistSoul": "TOP100 ArtistSoul",
+  "TOP100 ByYourSide": "TOP100 ByYourSide",
+  "TOP100 AfterGrief": "TOP100 AfterGrief",
+  "TOP100 EchoesSong": "TOP100 EchoesSong"
 }
