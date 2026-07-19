@@ -464,6 +464,7 @@
   "HAPPY BIRTHDAY 愛莉 2026.3.19": "HAPPY BIRTHDAY 愛莉 2026.3.19",
   "HAPPY BIRTHDAY 雫 2025.12.6": "HAPPY BIRTHDAY 雫 2025.12.6",
   "HAPPY BIRTHDAY こはね 2026.3.2": "HAPPY BIRTHDAY こはね 2026.3.2",
+  "HAPPY BIRTHDAY 杏 2026.7.26": "HAPPY BIRTHDAY 杏 2026.7.26",
   "HAPPY BIRTHDAY 彰人 2025.11.12": "HAPPY BIRTHDAY 彰人 2025.11.12",
   "HAPPY BIRTHDAY 冬弥 2026.5.25": "HAPPY BIRTHDAY 冬弥 2026.5.25",
   "HAPPY BIRTHDAY 司 2026.5.17": "HAPPY BIRTHDAY 司 2026.5.17",
@@ -488,6 +489,7 @@
   "ベストクリエイター 愛莉 BDパーティー '26": "ベストクリエイター 愛莉 BDパーティー '26",
   "ベストクリエイター 雫 BDパーティー '25": "ベストクリエイター 雫 BDパーティー '25",
   "ベストクリエイター こはね BDパーティー '26": "ベストクリエイター こはね BDパーティー '26",
+  "ベストクリエイター 杏 BDパーティー '26": "ベストクリエイター 杏 BDパーティー '26",
   "ベストクリエイター 彰人 BDパーティー '25": "ベストクリエイター 彰人 BDパーティー '25",
   "ベストクリエイター 冬弥 BDパーティー '26": "ベストクリエイター 冬弥 BDパーティー '26",
   "ベストクリエイター 司 BDパーティー '26": "ベストクリエイター 司 BDパーティー '26",
@@ -535,5 +537,10 @@
   "TOP100 NeverAlone": "TOP100 NeverAlone",
   "TOP100 VividSong": "TOP100 VividSong",
   "TOP100 Unveil": "TOP100 Unveil",
-  "ベストクリエイター サマーバケーション": "ベストクリエイター サマーバケーション"
+  "ベストクリエイター サマーバケーション": "ベストクリエイター サマーバケーション",
+  "TOP100 Sentiment": "TOP100 Sentiment",
+  "TOP100 Receiver": "TOP100 Receiver",
+  "TOP100 NoPretend": "TOP100 NoPretend",
+  "TOP100 Leaning": "TOP100 Leaning",
+  "TOP100 Encourage": "TOP100 Encourage"
 }
