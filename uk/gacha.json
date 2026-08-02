@@ -13,7 +13,7 @@
   "summary": "Висновок",
   "description": "Опис",
   "gacha_rate": "Gacha Rates",
-  "normalRate": "Normal Roll Rate",
+  "normalRate": "Стандартний шанс випадіння",
   "guaranteedRate": "Guaranteed Roll Rate",
   "gacha_cards": "Gacha Cards",
   "pickupMember": "Pick-up Member",
