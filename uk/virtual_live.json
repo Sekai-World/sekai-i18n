@@ -1,0 +1,25 @@
+{
+  "live_characters": "Персонажі",
+  "rewards": "Нагороди ",
+  "title": {
+    "schedules": "Розклад ",
+    "setlist": "Сценарій "
+  },
+  "schedule": {
+    "start": "Початок",
+    "end": "Кінець"
+  },
+  "mc": {
+    "character_unspawn": "Персонаж зникає"
+  },
+  "type": {
+    "normal": "Звичайний",
+    "beginner": "Beginner",
+    "cheerful_carnival": "Веселий Карнавал",
+    "streaming": "Streaming"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}
