@@ -14,7 +14,7 @@
   "description": "Опис",
   "gacha_rate": "Gacha Rates",
   "normalRate": "Стандартний шанс випадіння",
-  "guaranteedRate": "Guaranteed Roll Rate",
+  "guaranteedRate": "Гарантований шанс випадіння",
   "gacha_cards": "Gacha Cards",
   "pickupMember": "Pick-up Member",
   "pickupMember_plural": "Pick-up Members",
