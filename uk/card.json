@@ -1,0 +1,29 @@
+{
+  "cardLevel": "Рівень картки",
+  "skillLevel": "Рівень уміння",
+  "trained": "Trained",
+  "sideStory1Unlocked": "Розблокована Побічна Історія 1",
+  "sideStory2Unlocked": "Розблокована Побічна Історія 2",
+  "skillName": "Назва уміння",
+  "tab": {
+    "title[0]": "Normal image",
+    "title[1]": "Normal trim image",
+    "title[2]": "After training image",
+    "title[3]": "After training trim image"
+  },
+  "gachaPhrase": "Gacha Phrase",
+  "specialCutIn": "Special 3DMV Cut-In",
+  "unitCount": "Unit Count",
+  "normal": "Звичайний",
+  "skillEffect": "Ефект Навичок",
+  "masterRank": "Master Rank",
+  "masterRankLevel": "Master Rank Level",
+  "stats": "Stats",
+  "sideStory": "Побічна Історія",
+  "sideStory_plural": "Побічні Історії",
+  "rarity": "Рідкість",
+  "power": "Сила",
+  "apply_event_filter": "Apply Event Bonuses",
+  "skill": "Уміння",
+  "supplyType": "Тип"
+}
