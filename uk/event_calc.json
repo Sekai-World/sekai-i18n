@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "На годину",
+    "eventPointPerPlay": "Event Point Per Play",
+    "playClount": "Total Play Count",
+    "playTime": "Total Play Time",
+    "useBoost": "Total Consumed Boost",
+    "totalPoint": "Total Event Point"
+  },
+  "eventData": {
+    "label": "Event Data"
+  },
+  "eventMode": {
+    "existed": "Існуючий",
+    "custom": "Налаштувати"
+  },
+  "gameData": {
+    "energyDrink": "Витрати енергії",
+    "eventBonusRate": "Бонус події (%)",
+    "teamAvgPower": "Average Total Power",
+    "currentPoint": "Current Point",
+    "targetPoint": "Target Point",
+    "label": "Game Data",
+    "desc": "Введіть дані з гри для розрахунку",
+    "remainingTime": "Event Remaining Hours"
+  },
+  "songSelect": {
+    "label": "Вибір пісні",
+    "select": {
+      "difficulty": "Складність",
+      "song": "Пісня"
+    },
+    "desc": "Оберіть пісню для аналізу."
+  },
+  "songMode": {
+    "label": "Вибір пісні",
+    "all_songs": "Порівняти пісні",
+    "only_one": "Вибір однієї пісні"
+  },
+  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus."
+}
