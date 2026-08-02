@@ -17,7 +17,7 @@
   "guaranteedRate": "Гарантований шанс випадіння",
   "gacha_cards": "Карти ґачі",
   "pickupMember": "Персонаж із підвищеним шансом",
-  "pickupMember_plural": "Pick-up Members",
+  "pickupMember_plural": "Персонажі із підвищеним шансом",
   "gacha_behaviors": "Gacha Draw Options",
   "behavior": {
     "free": "Безкоштовно",
