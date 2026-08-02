@@ -7,7 +7,7 @@
   "skillName": "Назва уміння",
   "tab": {
     "title[0]": "Нормальне зображення",
-    "title[1]": "Зображення до пробудження",
+    "title[1]": "Normal trim image",
     "title[2]": "Зображення після пробудження",
     "title[3]": "After training trim image"
   },
