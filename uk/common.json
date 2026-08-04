@@ -65,10 +65,10 @@
       "model": "LLM модель",
       "modelDescription": "Модель, що використовуватиметься для перекладу.",
       "apiKey": "API ключ",
-      "apiKeyDescription": "API Key for the LLM provider.",
+      "apiKeyDescription": "API ключ для LLM провайдера",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
-      "targetLanguage": "Target Language",
+      "targetLanguage": "Мова перекладу",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
       "displayOptionsDescription": "Show original text"
