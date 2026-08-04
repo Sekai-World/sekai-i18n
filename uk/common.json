@@ -54,7 +54,7 @@
   "eventCalc": "Планувальник подій",
   "text": "Тільки текст",
   "eventTracker": "Відстеження подій",
-  "eventAnalyzer": "Event Analyzer",
+  "eventAnalyzer": "Аналіз подій",
   "settings": {
     "title": "Налаштування",
     "llm": {
