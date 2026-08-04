@@ -75,7 +75,7 @@
     },
     "interfaceLanguage": "Мова інтерфейсу",
     "gameContent": "Ігровий контент",
-    "gameContentRegion": "Game Content Region",
+    "gameContentRegion": "Регіон ігрового контенту",
     "gameContentTranslationSource": {
       "title": "Game Content Translation Source",
       "official": "Official",
