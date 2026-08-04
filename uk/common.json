@@ -60,7 +60,7 @@
     "llm": {
       "title": "Налаштування LLM",
       "enable": "Увімкнути LLM",
-      "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
+      "enableDescription": "Увімкнути LLM для перекладу сюжетів (лише в Перегляді історій Live2D)",
       "provider": "LLM Provider",
       "model": "LLM Model",
       "modelDescription": "Model to use for translation.",
