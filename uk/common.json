@@ -64,7 +64,7 @@
       "provider": "LLM Провайдер",
       "model": "LLM модель",
       "modelDescription": "Модель, що використовуватиметься для перекладу.",
-      "apiKey": "API Key",
+      "apiKey": "API ключ",
       "apiKeyDescription": "API Key for the LLM provider.",
       "apiEndpoint": "",
       "apiEndpointDescription": "",
