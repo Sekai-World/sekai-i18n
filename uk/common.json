@@ -162,7 +162,7 @@
   "signup": "Зареєструватися",
   "detectionFailedPrompt": "Не вдалось встановити ваш регіон, будь ласка, перевірте стан інтернет-з'єднання",
   "currentRegion": "Поточний виявлений регіон",
-  "regionTooltip": "This will determine your CDN server region",
+  "regionTooltip": "Це визначить регіон CDN-сервера",
   "detect": {
     "button": "Виявити",
     "checking": "Перевірка...",
