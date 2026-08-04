@@ -58,7 +58,7 @@
   "settings": {
     "title": "Налаштування",
     "llm": {
-      "title": "LLM Settings",
+      "title": "Налаштування LLM",
       "enable": "Enable LLM",
       "enableDescription": "Enable LLM to translate stories (only in Story Reader Live2d).",
       "provider": "LLM Provider",
