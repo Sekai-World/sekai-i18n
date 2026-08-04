@@ -164,7 +164,7 @@
   "currentRegion": "Поточний виявлений регіон",
   "regionTooltip": "This will determine your CDN server region",
   "detect": {
-    "button": "Detect",
+    "button": "Виявити",
     "checking": "Перевірка...",
     "unsupported": "Unsupported",
     "supported": "Supported"
