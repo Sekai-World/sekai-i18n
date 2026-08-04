@@ -131,7 +131,7 @@
   "notFound": "Не знайдено",
   "yes": "Так",
   "no": "Ні",
-  "serverRegionSelect": "Server Region",
+  "serverRegionSelect": "Регіон серверу",
   "serverRegion": {
     "jp": "Japanese",
     "tw": "Traditional Chinese",
