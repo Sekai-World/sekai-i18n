@@ -69,8 +69,8 @@
       "apiEndpoint": "",
       "apiEndpointDescription": "",
       "targetLanguage": "Мова перекладу",
-      "targetLanguageDescription": "Language to translate the story into.",
-      "displayOptions": "Display Options",
+      "targetLanguageDescription": "Мова, якою перекладати історію",
+      "displayOptions": "Параметри відображення",
       "displayOptionsDescription": "Show original text"
     },
     "interfaceLanguage": "Мова інтерфейсу",
