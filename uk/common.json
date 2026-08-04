@@ -159,7 +159,7 @@
   "help": "Help",
   "close": "Закрити",
   "area_item": "Area Item",
-  "signup": "Sign Up",
+  "signup": "Зареєструватися",
   "detectionFailedPrompt": "Не вдалось встановити ваш регіон, будь ласка, перевірте стан інтернет-з'єднання",
   "currentRegion": "Current Detected Region",
   "regionTooltip": "This will determine your CDN server region",
