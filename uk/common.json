@@ -63,7 +63,7 @@
       "enableDescription": "Увімкнути LLM для перекладу сюжетів (лише в Перегляді історій Live2D)",
       "provider": "LLM Провайдер",
       "model": "LLM модель",
-      "modelDescription": "Model to use for translation.",
+      "modelDescription": "Модель, що використовуватиметься для перекладу",
       "apiKey": "API Key",
       "apiKeyDescription": "API Key for the LLM provider.",
       "apiEndpoint": "",
