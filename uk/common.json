@@ -166,7 +166,7 @@
   "detect": {
     "button": "Виявити",
     "checking": "Перевірка...",
-    "unsupported": "Unsupported",
+    "unsupported": "Не підтримується",
     "supported": "Supported"
   },
   "hide": "Сховати",
