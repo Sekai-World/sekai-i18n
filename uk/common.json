@@ -161,7 +161,7 @@
   "area_item": "Area Item",
   "signup": "Зареєструватися",
   "detectionFailedPrompt": "Не вдалось встановити ваш регіон, будь ласка, перевірте стан інтернет-з'єднання",
-  "currentRegion": "Current Detected Region",
+  "currentRegion": "Поточний виявлений регіон",
   "regionTooltip": "This will determine your CDN server region",
   "detect": {
     "button": "Detect",
