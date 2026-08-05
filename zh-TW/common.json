@@ -72,8 +72,8 @@
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "顯示選項",
       "displayOptionsDescription": "顯示原始文本",
-      "additionalSystemPrompt": "額外系統提示詞",
-      "additionalSystemPromptDescription": "附加到翻譯提示詞中的指示。"
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "介面語言",
     "gameContent": "遊戲內容",
