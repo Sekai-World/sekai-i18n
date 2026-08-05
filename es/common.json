@@ -71,7 +71,9 @@
       "targetLanguage": "Idioma final",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
+      "displayOptionsDescription": "Show original text",
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "Idioma de interfaz ",
     "gameContent": "Contenido del Juego",

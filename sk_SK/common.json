@@ -71,7 +71,9 @@
       "targetLanguage": "Cieľový jazyk",
       "targetLanguageDescription": "Jazyk, do ktorého sa má príbeh preložiť.",
       "displayOptions": "Nastavenie zobrazenia",
-      "displayOptionsDescription": "Zobraziť pôvodný text"
+      "displayOptionsDescription": "Zobraziť pôvodný text",
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "Jazyk rozhrania",
     "gameContent": "Obsah hry",

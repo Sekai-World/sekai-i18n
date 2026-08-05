@@ -71,7 +71,9 @@
       "targetLanguage": "Мова перекладу",
       "targetLanguageDescription": "Мова, якою перекладати історію",
       "displayOptions": "Параметри відображення",
-      "displayOptionsDescription": "Показати оригінальний текст"
+      "displayOptionsDescription": "Показати оригінальний текст",
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "Мова інтерфейсу",
     "gameContent": "Ігровий контент",
