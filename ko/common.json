@@ -72,8 +72,8 @@
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
       "displayOptionsDescription": "Show original text",
-      "additionalSystemPrompt": "추가 시스템 프롬프트",
-      "additionalSystemPromptDescription": "번역 프롬프트에 추가할 지시사항입니다."
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "인터페이스 언어",
     "gameContent": "게임 콘텐츠",
