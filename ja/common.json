@@ -71,7 +71,9 @@
       "targetLanguage": "目的の言語",
       "targetLanguageDescription": "Language to translate the story into.",
       "displayOptions": "Display Options",
-      "displayOptionsDescription": "Show original text"
+      "displayOptionsDescription": "Show original text",
+      "additionalSystemPrompt": "追加システムプロンプト",
+      "additionalSystemPromptDescription": "翻訳プロンプトに追加する指示。"
     },
     "interfaceLanguage": "インターフェース言語",
     "gameContent": "ゲームコンテンツ",

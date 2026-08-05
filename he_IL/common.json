@@ -62,7 +62,11 @@
     },
     "gameContentTranslationLanguage": "Game Content Translation Community Language",
     "gameContentTranslationLanguageFollowInterface": "Follow Interface Language",
-    "gameContentTranslationRegion": "Game Content Translation Official Region"
+    "gameContentTranslationRegion": "Game Content Translation Official Region",
+    "llm": {
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
+    }
   },
   "support": "עזרה",
   "toolbar": {

@@ -71,7 +71,9 @@
       "targetLanguage": "ภาษาเป้าหมาย",
       "targetLanguageDescription": "ภาษาที่ใช้แปลเนื้อเรื่อง",
       "displayOptions": "ตัวเลือกการแสดงผล",
-      "displayOptionsDescription": "แสดงภาษาต้นฉบับ"
+      "displayOptionsDescription": "แสดงภาษาต้นฉบับ",
+      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "ภาษาของอินเทอร์เฟซ",
     "gameContent": "เนื้อหาในเกม",

@@ -71,7 +71,9 @@
       "targetLanguage": "目标语言",
       "targetLanguageDescription": "故事翻译的目标语言",
       "displayOptions": "显示选项",
-      "displayOptionsDescription": "显示原始文本"
+      "displayOptionsDescription": "显示原始文本",
+      "additionalSystemPrompt": "额外系统提示词",
+      "additionalSystemPromptDescription": "附加到翻译提示词中的指示。"
     },
     "interfaceLanguage": "界面语言",
     "gameContent": "游戏内容",
