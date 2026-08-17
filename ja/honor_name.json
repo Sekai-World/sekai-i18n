@@ -474,6 +474,8 @@
   "HAPPY BIRTHDAY 奏 2026.2.10": "HAPPY BIRTHDAY 奏 2026.2.10",
   "HAPPY BIRTHDAY まふゆ 2026.1.27": "HAPPY BIRTHDAY まふゆ 2026.1.27",
   "HAPPY BIRTHDAY 絵名 2026.4.30": "HAPPY BIRTHDAY 絵名 2026.4.30",
+  "HAPPY BIRTHDAY 瑞希 2026.8.27": "HAPPY BIRTHDAY 瑞希 2026.8.27",
+  "HAPPY ANNIVERSARY ミク 2026.8.31": "HAPPY ANNIVERSARY ミク 2026.8.31",
   "HAPPY ANNIVERSARY リン 2025.12.27": "HAPPY ANNIVERSARY リン 2025.12.27",
   "HAPPY ANNIVERSARY レン 2025.12.27": "HAPPY ANNIVERSARY レン 2025.12.27",
   "HAPPY ANNIVERSARY ルカ 2026.1.30": "HAPPY ANNIVERSARY ルカ 2026.1.30",
@@ -500,6 +502,8 @@
   "ベストクリエイター 奏 BDパーティー '26": "ベストクリエイター 奏 BDパーティー '26",
   "ベストクリエイター まふゆ BDパーティー '26": "ベストクリエイター まふゆ BDパーティー '26",
   "ベストクリエイター 絵名 BDパーティー '26": "ベストクリエイター 絵名 BDパーティー '26",
+  "ベストクリエイター 瑞希 BDパーティー '26": "ベストクリエイター 瑞希 BDパーティー '26",
+  "ベストクリエイター ミク ANパーティー '26": "ベストクリエイター ミク ANパーティー '26",
   "ベストクリエイター リン ANパーティー '25": "ベストクリエイター リン ANパーティー '25",
   "ベストクリエイター レン ANパーティー '25": "ベストクリエイター レン ANパーティー '25",
   "ベストクリエイター ルカ ANパーティー '26": "ベストクリエイター ルカ ANパーティー '26",
@@ -544,5 +548,10 @@
   "TOP100 Receiver": "TOP100 Receiver",
   "TOP100 NoPretend": "TOP100 NoPretend",
   "TOP100 Leaning": "TOP100 Leaning",
-  "TOP100 Encourage": "TOP100 Encourage"
+  "TOP100 Encourage": "TOP100 Encourage",
+  "TOP100 HeatCore": "TOP100 HeatCore",
+  "TOP100 CarveOut": "TOP100 CarveOut",
+  "TOP100 Unwavering": "TOP100 Unwavering",
+  "TOP100 Reflection": "TOP100 Reflection",
+  "TOP100 Affection": "TOP100 Affection"
 }
