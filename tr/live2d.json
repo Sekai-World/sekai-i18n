@@ -12,7 +12,7 @@
     "download_texture": "Texture'u indir",
     "download_moc3": "İskeleti indir",
     "download_physics": "Fiziği indir",
-    "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
+    "download_motions": "Animasyonları ve duyguları indir {{dlcount}}/{{total}}",
     "generate_zip": "Generate zip file"
   },
   "select": {
