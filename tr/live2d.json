@@ -13,7 +13,7 @@
     "download_moc3": "İskeleti indir",
     "download_physics": "Fiziği indir",
     "download_motions": "Animasyonları ve duyguları indir {{dlcount}}/{{total}}",
-    "generate_zip": "Generate zip file"
+    "generate_zip": "ZIP dosyası üret"
   },
   "select": {
     "model": "Modeli",
