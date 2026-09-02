@@ -17,7 +17,7 @@
   },
   "select": {
     "model": "Modeli",
-    "motions": "Motions",
+    "motions": "Animasyonlar",
     "expressions": "Expressions",
     "parameters": "Parameters",
     "idle_animation": "Idle animation"
