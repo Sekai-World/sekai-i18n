@@ -18,7 +18,7 @@
   "select": {
     "model": "Modeli",
     "motions": "Animasyonlar",
-    "expressions": "Expressions",
+    "expressions": "Duygular",
     "parameters": "Parameters",
     "idle_animation": "Idle animation"
   },
