@@ -1,0 +1,33 @@
+{
+  "load_progress": {
+    "model_metadata": "Model özverisi yükleniyor...",
+    "model_texture": "Model texture'leri yükleniyor...",
+    "model_moc3": "Model iskeleti yükleniyor...",
+    "model_physics": "Model fiziği yükleniyor...",
+    "display_model": "Model yüklenmeye hazırlanılıyor...",
+    "motion_metadata": "Model animasyonları yükleniyor..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Özveri üret",
+    "download_texture": "Texture'u indir",
+    "download_moc3": "İskeleti indir",
+    "download_physics": "Fiziği indir",
+    "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
+    "generate_zip": "Generate zip file"
+  },
+  "select": {
+    "model": "Modeli",
+    "motions": "Motions",
+    "expressions": "Expressions",
+    "parameters": "Parameters",
+    "idle_animation": "Idle animation"
+  },
+  "tooltip": {
+    "download": "Indir",
+    "fullscreen": "Toggle fullscreen",
+    "shot": "Save image",
+    "reset": "Reload model",
+    "stop_record": "Stop recording",
+    "start_record": "Kayıt etmeye başla"
+  }
+}
