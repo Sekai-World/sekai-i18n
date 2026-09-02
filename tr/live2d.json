@@ -20,13 +20,13 @@
     "motions": "Animasyonlar",
     "expressions": "Duygular",
     "parameters": "Parametreler",
-    "idle_animation": "Idle animation"
+    "idle_animation": "Pasifken ki animasyon"
   },
   "tooltip": {
-    "download": "Indir",
-    "fullscreen": "Toggle fullscreen",
-    "shot": "Save image",
-    "reset": "Reload model",
+    "download": "İndir",
+    "fullscreen": "Tam ekranı aç/kapat",
+    "shot": "Resmi kaydet",
+    "reset": "Modeli yeniden yükle",
     "stop_record": "Stop recording",
     "start_record": "Kayıt etmeye başla"
   }
