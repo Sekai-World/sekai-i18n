@@ -45,8 +45,8 @@
     },
     "button": {
       "curr_event": "Поточна Подія",
-      "graph": "Fetch Graph",
-      "random-palette": "Randomize Palette"
+      "graph": "Завантажити графік",
+      "random-palette": "Випадкова палітра"
     },
     "pred_at": "Prediction calculated at",
     "show_all_rank": "Show all rankings",
