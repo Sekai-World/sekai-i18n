@@ -64,7 +64,7 @@
   },
   "ranking": "Рейтинг",
   "realtime": " Дані в реальному часі станом на",
-  "nextfetch": "Next fetch",
+  "nextfetch": "Наступне оновлення",
   "rankingTable": {
     "head": {
       "userProfile": "Користувач",
