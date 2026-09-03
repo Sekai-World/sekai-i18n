@@ -55,7 +55,7 @@
       "get_prediction": "Прогноз доступний лише через 24 години після початку події."
     },
     "checkbox": {
-      "get_prediction": "Fetch Prediction"
+      "get_prediction": "Завантажити прогноз"
     },
     "title": {
       "data_graph": "Event Point Graph",
