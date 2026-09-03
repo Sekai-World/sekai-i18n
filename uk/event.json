@@ -41,7 +41,7 @@
   "tracker": {
     "select": {
       "event_name": "Назва події",
-      "rankings": "Rankings"
+      "rankings": "Рейтинги"
     },
     "button": {
       "curr_event": "Поточна Подія",
