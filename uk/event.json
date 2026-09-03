@@ -63,7 +63,7 @@
     }
   },
   "ranking": "Рейтинг",
-  "realtime": "Real time data at",
+  "realtime": " Дані в реальному часі станом на",
   "nextfetch": "Next fetch",
   "rankingTable": {
     "head": {
