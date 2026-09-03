@@ -77,7 +77,7 @@
   "speedTable": {
     "head": {
       "all_time": "За весь час (за годину)",
-      "last_24h": "Last 24 hours (per hour)",
+      "last_24h": "За останні 24 години (за годину)",
       "last_1h": "Last 1 hour (per hour)"
     }
   },
