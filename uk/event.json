@@ -35,7 +35,7 @@
     "chapter": "Розділ {{chapterNo}}",
     "ranking": "Рейтинг розділу",
     "chapterNotStarted": "Розділ ще не розпочався",
-    "chapterEnded": "Chapter has ended"
+    "chapterEnded": "Розділ завершився"
   },
   "keyStory": "Ключова Історія Події",
   "tracker": {
