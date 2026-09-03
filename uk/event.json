@@ -33,7 +33,7 @@
   },
   "worldBloom": {
     "chapter": "Розділ {{chapterNo}}",
-    "ranking": "Chapter Ranking",
+    "ranking": "Рейтинг розділу",
     "chapterNotStarted": "Chapter has not started yet",
     "chapterEnded": "Chapter has ended"
   },
