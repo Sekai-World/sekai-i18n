@@ -69,7 +69,7 @@
     "head": {
       "userProfile": "Користувач",
       "score": "Очки (Очок)",
-      "speed_per_hour": "Avg. Speed (/h)",
+      "speed_per_hour": "Сер. швидкість (/год)",
       "prediction": "Prediction"
     }
   },
