@@ -73,7 +73,7 @@
       "displayOptions": "Параметри відображення",
       "displayOptionsDescription": "Показати оригінальний текст",
       "additionalSystemPrompt": "Додатковий системний промпт",
-      "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
+      "additionalSystemPromptDescription": "Додаткові інструкції, що додаються до промпту перекладу."
     },
     "interfaceLanguage": "Мова інтерфейсу",
     "gameContent": "Ігровий контент",
