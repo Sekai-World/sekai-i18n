@@ -59,10 +59,10 @@
     },
     "title": {
       "data_graph": "Графік очок події",
-      "average_speed": "Average Speed"
+      "average_speed": "Середня швидкість"
     }
   },
-  "ranking": "Ranking",
+  "ranking": "Рейтинг",
   "realtime": "Real time data at",
   "nextfetch": "Next fetch",
   "rankingTable": {
