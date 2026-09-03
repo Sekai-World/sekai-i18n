@@ -49,10 +49,10 @@
       "random-palette": "Випадкова палітра"
     },
     "pred_at": "Прогноз, розрахований на",
-    "show_all_rank": "Show all rankings",
+    "show_all_rank": "Показати всі рейтинги",
     "time_travel_enabled": "Time travel",
     "tooltip": {
-      "get_prediction": "Prediction is only available after 24 hours from event start."
+      "get_prediction": "Прогноз доступний лише через 24 години після початку події."
     },
     "checkbox": {
       "get_prediction": "Fetch Prediction"
