@@ -72,7 +72,7 @@
       "targetLanguageDescription": "Мова, якою перекладати історію",
       "displayOptions": "Параметри відображення",
       "displayOptionsDescription": "Показати оригінальний текст",
-      "additionalSystemPrompt": "Additional System Prompt",
+      "additionalSystemPrompt": "Додатковий системний промпт",
       "additionalSystemPromptDescription": "Extra instructions appended to the translation prompt."
     },
     "interfaceLanguage": "Мова інтерфейсу",
