@@ -1,0 +1,94 @@
+{
+  "alreadyEnded": "Подія закінчилася",
+  "notStarted": "Не почалась",
+  "tab": {
+    "title[0]": "Банер та логотип",
+    "title[1]": "Фон",
+    "title[2]": "Персонаж"
+  },
+  "remainingTime": "Час, що залишився",
+  "progress": "Прогрес",
+  "newlyWrittenSong": "Новонаписана пісня",
+  "title": {
+    "boost": "Підсилення",
+    "cheerful_carnival": "Веселий Карнавал",
+    "timepoint": "Time Points",
+    "rankingRewards": "Нагороди за ранг",
+    "worldLinkChapters": "Розділи World Link"
+  },
+  "boostAttribute": "Бонусний атрибут",
+  "boostCharacters": "Учасники Підтримки",
+  "boostCards": "Карти Підтримки",
+  "eventCards": "Карти Події",
+  "cheerful_carnival_midterm_1": "Перший підсумок",
+  "cheerful_carnival_midterm_2": "Другий підсумок",
+  "startAt": "Подія починається о",
+  "closeAt": "Подія закінчується о",
+  "endAt": "Участь у події доступна до",
+  "rankingAnnounceAt": "Оголошення результатів о",
+  "distributionStartAt": "Reward Distribution From",
+  "rankingReward": {
+    "start": "З",
+    "end": "До"
+  },
+  "worldBloom": {
+    "chapter": "Chapter {{chapterNo}}",
+    "ranking": "Chapter Ranking",
+    "chapterNotStarted": "Chapter has not started yet",
+    "chapterEnded": "Chapter has ended"
+  },
+  "keyStory": "Ключова Історія Події",
+  "tracker": {
+    "select": {
+      "event_name": "Назва події",
+      "rankings": "Rankings"
+    },
+    "button": {
+      "curr_event": "Поточна Подія",
+      "graph": "Fetch Graph",
+      "random-palette": "Randomize Palette"
+    },
+    "pred_at": "Prediction calculated at",
+    "show_all_rank": "Show all rankings",
+    "time_travel_enabled": "Time travel",
+    "tooltip": {
+      "get_prediction": "Prediction is only available after 24 hours from event start."
+    },
+    "checkbox": {
+      "get_prediction": "Fetch Prediction"
+    },
+    "title": {
+      "data_graph": "Event Point Graph",
+      "average_speed": "Average Speed"
+    }
+  },
+  "ranking": "Ranking",
+  "realtime": "Real time data at",
+  "nextfetch": "Next fetch",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Користувач",
+      "score": "Point(s)",
+      "speed_per_hour": "Avg. Speed (/h)",
+      "prediction": "Prediction"
+    }
+  },
+  "no_enough_data": "Недостатньо даних",
+  "speedTable": {
+    "head": {
+      "all_time": "All time (per hour)",
+      "last_24h": "Last 24 hours (per hour)",
+      "last_1h": "Last 1 hour (per hour)"
+    }
+  },
+  "type": {
+    "marathon": "Марафон",
+    "cheerful_carnival": "Веселий Карнавал",
+    "world_bloom": "World Link"
+  },
+  "maxBoost": "Max Boost (Both Matched)",
+  "boostSpecificCards": "Boost Special Cards",
+  "distributionEndAt": "Reward Distribution Until",
+  "aggregateAt": "Aggregate Timepoint",
+  "alreadyPast": "Already Past"
+}
