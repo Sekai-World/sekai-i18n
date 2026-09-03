@@ -34,7 +34,7 @@
   "worldBloom": {
     "chapter": "Розділ {{chapterNo}}",
     "ranking": "Рейтинг розділу",
-    "chapterNotStarted": "Chapter has not started yet",
+    "chapterNotStarted": "Розділ ще не розпочався",
     "chapterEnded": "Chapter has ended"
   },
   "keyStory": "Ключова Історія Події",
