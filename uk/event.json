@@ -12,7 +12,7 @@
   "title": {
     "boost": "Підсилення",
     "cheerful_carnival": "Веселий Карнавал",
-    "timepoint": "Time Points",
+    "timepoint": "Часові позначки",
     "rankingRewards": "Нагороди за ранг",
     "worldLinkChapters": "Розділи World Link"
   },
@@ -48,7 +48,7 @@
       "graph": "Завантажити графік",
       "random-palette": "Випадкова палітра"
     },
-    "pred_at": "Prediction calculated at",
+    "pred_at": "Прогноз, розрахований на",
     "show_all_rank": "Show all rankings",
     "time_travel_enabled": "Time travel",
     "tooltip": {
