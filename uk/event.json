@@ -68,7 +68,7 @@
   "rankingTable": {
     "head": {
       "userProfile": "Користувач",
-      "score": "Point(s)",
+      "score": "Очки",
       "speed_per_hour": "Avg. Speed (/h)",
       "prediction": "Prediction"
     }
