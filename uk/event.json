@@ -87,7 +87,7 @@
     "world_bloom": "World Link"
   },
   "maxBoost": "Максимальний буст (Обидва збігаються)",
-  "boostSpecificCards": "Boost Special Cards",
+  "boostSpecificCards": "Карти з бонусом",
   "distributionEndAt": "Reward Distribution Until",
   "aggregateAt": "Aggregate Timepoint",
   "alreadyPast": "Already Past"
