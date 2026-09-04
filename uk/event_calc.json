@@ -19,7 +19,7 @@
     "eventBonusRate": "Бонус події (%)",
     "teamAvgPower": "Середня загальна сила",
     "currentPoint": " Поточні очки",
-    "targetPoint": "Target Point",
+    "targetPoint": "Цільові очки",
     "label": "Game Data",
     "desc": "Введіть дані з гри для розрахунку",
     "remainingTime": "Event Remaining Hours"
