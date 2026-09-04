@@ -1,0 +1,80 @@
+{
+  "character": {
+    "caption": "Персонаж"
+  },
+  "select_all": "",
+  "select_clear": "",
+  "supportingUnit": {
+    "caption": ""
+  },
+  "sort": {
+    "caption": "Сортувати",
+    "ascending": "За зростанням",
+    "descending": "За спаданням"
+  },
+  "time": {
+    "irrelevant": "Не застосовно",
+    "before": "До",
+    "after": "Після",
+    "between": "Між",
+    "exactly": "Точний збіг"
+  },
+  "event": {
+    "unitType": {
+      "caption": "Тип гурту поді",
+      "event": "Гурт події",
+      "eventStory": "Гурт історії події",
+      "eventStoryMain": "Лише основний гурт історії"
+    }
+  },
+  "both": "Все",
+  "incl": "Include",
+  "excl": "Exclude",
+  "button": {
+    "apply": "Застосувати",
+    "resetChanges": "Reset Changes",
+    "clear": "Clear"
+  },
+  "honorType": {
+    "group_only_once": "Only show one in each group",
+    "caption": "Title Type"
+  },
+  "not_set": "Not set",
+  "missionType": {
+    "caption": "Mission Type"
+  },
+  "music_tag": {
+    "caption": "Song tag"
+  },
+  "music_mv": {
+    "caption": "Тип музичного відео"
+  },
+  "stampType": {
+    "caption": "Stamp Type",
+    "text": "Тільки текст",
+    "illustration": "Зі зображенням"
+  },
+  "language": {
+    "caption": "Мова",
+    "source": "Source Language",
+    "target": "Мова перекладу"
+  },
+  "not-selected": "Не обрано",
+  "skill": {
+    "score_up": "Score Boost",
+    "judgment_up": "Judgment & Score Boost",
+    "life_recovery": "Life Recovery & Score Boost",
+    "perfect_score_up": "Score Boost when PERFECT",
+    "life_score_up": "Score Boost with life condition"
+  },
+  "card_supply":{
+    "normal": "Звичайний",
+    "birthday": "День народження",
+    "term_limited": "Term Limited",
+    "colorful_festival_limited": "Colorful Festival Limited",
+    "bloom_festival_limited": "Bloom Festival Limited",
+    "unit_event_limited": "Unit Event Limited",
+    "collaboration_limited": "Collaboration Limited"
+  },
+  "clear": "Clear"
+}
