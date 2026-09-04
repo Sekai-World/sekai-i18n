@@ -32,7 +32,7 @@
   "excl": "Виключити",
   "button": {
     "apply": "Застосувати",
-    "resetChanges": "Reset Changes",
+    "resetChanges": "Скинути зміни",
     "clear": "Clear"
   },
   "honorType": {
