@@ -2,7 +2,7 @@
   "result": {
     "perHour": "На годину",
     "eventPointPerPlay": "Очки події за гру",
-    "playClount": "Total Play Count",
+    "playClount": "Загальна кількість ігор",
     "playTime": "Загальний час гри",
     "useBoost": "Total Consumed Boost",
     "totalPoint": "Total Event Point"
