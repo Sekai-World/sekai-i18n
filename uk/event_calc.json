@@ -22,7 +22,7 @@
     "targetPoint": "Цільові очки",
     "label": "Game Data",
     "desc": "Введіть дані з гри для розрахунку",
-    "remainingTime": "Event Remaining Hours"
+    "remainingTime": "Годин до кінця події"
   },
   "songSelect": {
     "label": "Вибір пісні",
