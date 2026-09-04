@@ -89,6 +89,6 @@
   "maxBoost": "Максимальний буст (Обидва збігаються)",
   "boostSpecificCards": "Особливі карти з бонусом",
   "distributionEndAt": "Видача нагород триває до",
-  "aggregateAt": "Aggregate Timepoint",
-  "alreadyPast": "Already Past"
+  "aggregateAt": "Точка підбиття підсумків",
+  "alreadyPast": "Завершено"
 }
