@@ -29,7 +29,7 @@
   },
   "both": "Все",
   "incl": "Включити",
-  "excl": "Exclude",
+  "excl": "Виключити",
   "button": {
     "apply": "Застосувати",
     "resetChanges": "Reset Changes",
