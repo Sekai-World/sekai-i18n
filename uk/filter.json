@@ -36,10 +36,10 @@
     "clear": "Очистити"
   },
   "honorType": {
-    "group_only_once": "Only show one in each group",
-    "caption": "Title Type"
+    "group_only_once": "Показувати лише один у кожній групі",
+    "caption": "Тип титулу"
   },
-  "not_set": "Not set",
+  "not_set": "Не вказано",
   "missionType": {
     "caption": "Mission Type"
   },
