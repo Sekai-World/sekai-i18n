@@ -5,7 +5,7 @@
     "playClount": "Загальна кількість ігор",
     "playTime": "Загальний час гри",
     "useBoost": "Total Consumed Boost",
-    "totalPoint": "Total Event Point"
+    "totalPoint": " Загальна кількість очок події"
   },
   "eventData": {
     "label": "Дані події"
@@ -17,8 +17,8 @@
   "gameData": {
     "energyDrink": "Витрати енергії",
     "eventBonusRate": "Бонус події (%)",
-    "teamAvgPower": "Average Total Power",
-    "currentPoint": "Current Point",
+    "teamAvgPower": "Середня загальна сила",
+    "currentPoint": " Поточні очки",
     "targetPoint": "Target Point",
     "label": "Game Data",
     "desc": "Введіть дані з гри для розрахунку",
