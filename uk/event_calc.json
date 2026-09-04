@@ -37,5 +37,5 @@
     "all_songs": "Порівняти пісні",
     "only_one": "Вибір однієї пісні"
   },
-  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus."
+  "assumption": "Умови: всі Perfect, однакові команди в мультиплеєрі, без бонусу рівня."
 }
