@@ -41,29 +41,29 @@
   },
   "not_set": "Не вказано",
   "missionType": {
-    "caption": "Mission Type"
+    "caption": "Тип місії"
   },
   "music_tag": {
-    "caption": "Song tag"
+    "caption": "Тег пісні"
   },
   "music_mv": {
     "caption": "Тип музичного відео"
   },
   "stampType": {
-    "caption": "Stamp Type",
+    "caption": "Тип штампу",
     "text": "Тільки текст",
     "illustration": "Зі зображенням"
   },
   "language": {
     "caption": "Мова",
-    "source": "Source Language",
+    "source": "Мова оригіналу",
     "target": "Мова перекладу"
   },
   "not-selected": "Не обрано",
   "skill": {
-    "score_up": "Score Boost",
-    "judgment_up": "Judgment & Score Boost",
-    "life_recovery": "Life Recovery & Score Boost",
+    "score_up": "Підсилення рахунку",
+    "judgment_up": "Покращення точності та підсилення рахунку",
+    "life_recovery": "Відновлення здоров'я та підсилення рахунку",
     "perfect_score_up": "Score Boost when PERFECT",
     "life_score_up": "Score Boost with life condition"
   },
