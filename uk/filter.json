@@ -65,12 +65,12 @@
     "judgment_up": "Покращення точності та підсилення рахунку",
     "life_recovery": "Відновлення здоров'я та підсилення рахунку",
     "perfect_score_up": "Підвищення рахунку за PERFECT",
-    "life_score_up": "Score Boost with life condition"
+    "life_score_up": "Підвищення рахунку залежно від HP"
   },
   "card_supply":{
     "normal": "Звичайний",
     "birthday": "День народження",
-    "term_limited": "Term Limited",
+    "term_limited": "Обмежена за часом",
     "colorful_festival_limited": "Colorful Festival Limited",
     "bloom_festival_limited": "Bloom Festival Limited",
     "unit_event_limited": "Unit Event Limited",
