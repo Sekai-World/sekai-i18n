@@ -70,10 +70,10 @@
   "card_supply":{
     "normal": "普通",
     "birthday": "生日",
-    "term_limited": "Term Limited",
-    "colorful_festival_limited": "Colorful Festival Limited",
+    "term_limited": "期间限定",
+    "colorful_festival_limited": "多彩庆典限定",
     "bloom_festival_limited": "绚烂庆典限定",
-    "unit_event_limited": "Unit Event Limited",
+    "unit_event_limited": "组合活动限定",
     "collaboration_limited": "联动限定"
   },
   "clear": "清除"
