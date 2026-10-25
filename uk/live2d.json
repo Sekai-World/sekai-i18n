@@ -11,7 +11,7 @@
     "generate_metadata": "Генерація метаданих",
     "download_texture": "Завантажити текстури",
     "download_moc3": "Завантажити скелет",
-    "download_physics": "Download physics",
+    "download_physics": "Завантаження фізики",
     "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
     "generate_zip": "Generate zip file"
   },
