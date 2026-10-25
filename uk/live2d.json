@@ -1,0 +1,33 @@
+{
+  "load_progress": {
+    "model_metadata": "Завантаження метаданих моделі...",
+    "model_texture": "Завантаження текстур моделі...",
+    "model_moc3": "Завантаження скелета моделі...",
+    "model_physics": "Завантаження фізики моделі...",
+    "display_model": "Preparing model display...",
+    "motion_metadata": "Loading model motions..."
+  },
+  "pack_progress": {
+    "generate_metadata": "Generate metadata",
+    "download_texture": "Завантажити текстури",
+    "download_moc3": "Завантажити скелет",
+    "download_physics": "Download physics",
+    "download_motions": "Download motions and expressions {{dlcount}}/{{total}}",
+    "generate_zip": "Generate zip file"
+  },
+  "select": {
+    "model": "Модель",
+    "motions": "Motions",
+    "expressions": "Expressions",
+    "parameters": "Parameters",
+    "idle_animation": "Idle animation"
+  },
+  "tooltip": {
+    "download": "Завантажити",
+    "fullscreen": "Toggle fullscreen",
+    "shot": "Зберегти зображення",
+    "reset": "Перезавантажити модель",
+    "stop_record": "Зупинити запис",
+    "start_record": "Почати запис"
+  }
+}
