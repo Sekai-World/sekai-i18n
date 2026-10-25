@@ -22,7 +22,7 @@
   },
   "selectLabel": {
     "storyType": "Тип історії",
-    "unitName": "Unit Name",
+    "unitName": "Назва гурту",
     "unitStoryChapter": "Розділ",
     "unitStoryEpisode": "Епізод",
     "eventName": "Назва події",
