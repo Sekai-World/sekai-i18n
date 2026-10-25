@@ -18,7 +18,7 @@
   "select": {
     "model": "Модель",
     "motions": "Рухи",
-    "expressions": "Expressions",
+    "expressions": "Емоції",
     "parameters": "Parameters",
     "idle_animation": "Idle animation"
   },
