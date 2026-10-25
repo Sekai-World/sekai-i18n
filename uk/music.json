@@ -41,7 +41,7 @@
   "chartImage": "Чарт",
   "baseScore": "Базовий множник очок",
   "feverScore": "Множник очок Fever",
-  "eventRate": "Event Point Rate",
+  "eventRate": "Множник очок події",
   "clear_status": "Clear Status",
   "hi_score": "High Score",
   "mvp_count": "MVP Count",
