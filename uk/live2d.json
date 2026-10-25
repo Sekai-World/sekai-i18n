@@ -24,7 +24,7 @@
   },
   "tooltip": {
     "download": "Завантажити",
-    "fullscreen": "Toggle fullscreen",
+    "fullscreen": "Повний екран",
     "shot": "Зберегти зображення",
     "reset": "Перезавантажити модель",
     "stop_record": "Зупинити запис",
