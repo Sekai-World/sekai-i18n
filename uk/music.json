@@ -3,12 +3,11 @@
   "actualPlaybackTime": "Реальний час відтворення",
   "downloadFlacNoTrim": "Завантажений FLAC-файл матиме початкову частину без звуків.",
   "vocal": "Вокал",
-  "alert[0]": "Перші <b>дев’ять секунд</b> кожної пісні не мають звуків. Це НЕ помилка",
   "vocalTab": {
     "title[0]": "Коротка версія",
     "title[1]": "Довга версія",
-    "title[2]": "Музичне відео",
-    "original_video": "Оригінальне музичне відео"
+    "original_video": "Оригінальне музичне відео",
+    "title[2]": "Музичне відео"
   },
   "fileFormat": {
     "caption": "Формат файлу",
@@ -23,7 +22,7 @@
   "arranger": "Аранжування",
   "composer": "Композитор",
   "lyricist": "Автор тексту",
-  "danceMember": "Dance Member",
+  "danceMember": "Учасник танцю",
   "danceMember_plural": "Dance Members",
   "vocal_plural": "Вокали",
   "vocalType": "Vocal Type",
@@ -47,6 +46,7 @@
   "hi_score": "High Score",
   "mvp_count": "MVP Count",
   "super_star_count": "Super Star Count",
+  "alert[0]": "Перші <b>дев’ять секунд</b> кожної пісні не мають звуків. Це НЕ помилка",
   "dancerCount": "Dancer Count",
   "combo": "Комбо",
   "preview": "Попередній перегляд",
