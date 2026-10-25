@@ -42,7 +42,7 @@
   "baseScore": "Базовий множник очок",
   "feverScore": "Множник очок Fever",
   "eventRate": "Множник очок події",
-  "clear_status": "Clear Status",
+  "clear_status": "Статус проходження",
   "hi_score": "High Score",
   "mvp_count": "MVP Count",
   "super_star_count": "Super Star Count",
