@@ -4,7 +4,7 @@
     "model_texture": "Завантаження текстур моделі...",
     "model_moc3": "Завантаження скелета моделі...",
     "model_physics": "Завантаження фізики моделі...",
-    "display_model": "Preparing model display...",
+    "display_model": "Підготовка відображення моделі...",
     "motion_metadata": "Loading model motions..."
   },
   "pack_progress": {
